@@ -1,0 +1,740 @@
+[
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "GÖKÇİMEN",
+    "id": 6402
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6403
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "ALTINOLUK",
+    "id": 6404
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "AŞAĞIKARASU",
+    "id": 6405
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 6406
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6407
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "YEŞİL OVA",
+    "id": 6408
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "YENİ KENT",
+    "id": 6409
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "TAŞLI PINAR",
+    "id": 6410
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "HİZAN",
+    "MAHALLE": "YEMİŞLİ",
+    "id": 6411
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "OVAKIŞLA, SARAY",
+    "id": 6412
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "KALE",
+    "id": 6413
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "TAHTI SÜLEYMAN",
+    "id": 6414
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "TUNUS",
+    "id": 6415
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "ERKİZAN",
+    "id": 6416
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "KIRKLAR",
+    "id": 6417
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "İKİ KUBBE",
+    "id": 6418
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "OVAKIŞLA, YILDIZLAR",
+    "id": 6419
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "KACER",
+    "id": 6420
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "SELÇUKLU",
+    "id": 6421
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "KULAKSIZ",
+    "id": 6422
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "OVAKIŞLA, KÜLTÜR",
+    "id": 6423
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "OVAKIŞLA, KURTULUŞ",
+    "id": 6424
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "OVAKIŞLA, ORTA",
+    "id": 6425
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "AHLAT",
+    "MAHALLE": "HARABA ŞEHİR",
+    "id": 6426
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "FUAR",
+    "id": 6427
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 6428
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 6429
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "KARATAŞ",
+    "id": 6430
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "TUĞ",
+    "id": 6431
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "KALE",
+    "id": 6432
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "SARAY",
+    "id": 6433
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6434
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6435
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 6436
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "FATİH",
+    "id": 6437
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6438
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "SAHİL",
+    "id": 6439
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "HİDAYET",
+    "id": 6440
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "İŞLETME",
+    "id": 6441
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 6442
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "AYDINLAR",
+    "id": 6443
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "SOSYAL",
+    "id": 6444
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 6445
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6446
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "YEŞİLMEZRA",
+    "id": 6447
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "TATVAN",
+    "MAHALLE": "YENİ",
+    "id": 6448
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "ALACAATLI",
+    "id": 6449
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, İSMET PAŞA",
+    "id": 6450
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, BUDAKLI",
+    "id": 6451
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, MENDERES",
+    "id": 6452
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, ESENTEPE",
+    "id": 6453
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, KIŞKILI",
+    "id": 6454
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, GÜLTEPE",
+    "id": 6455
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "HIDIRŞAH",
+    "id": 6456
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "ORTA",
+    "id": 6457
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "ÇAYIR",
+    "id": 6458
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "AYDINLAR, ATATÜRK",
+    "id": 6459
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "CEVİZLİ",
+    "id": 6460
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "KALEBOYNU",
+    "id": 6461
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 6462
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "ADİLCEVAZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 6463
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, ORTA",
+    "id": 6464
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, CAMİ",
+    "id": 6465
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "TAŞLI PINAR",
+    "id": 6466
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "YENİ",
+    "id": 6467
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, YENİ",
+    "id": 6468
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, YÜKSEKOVA",
+    "id": 6469
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6470
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "YENİBAĞ",
+    "id": 6471
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, ARPALISEKİ",
+    "id": 6472
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, ÇİMEN",
+    "id": 6473
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MUTKİ",
+    "MAHALLE": "KAVAKBAŞI, GÖLBAŞI",
+    "id": 6474
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, KÖŞK",
+    "id": 6475
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, ŞENKAYA",
+    "id": 6476
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, ŞENYAYLA",
+    "id": 6477
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 6478
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, PINARBAŞI",
+    "id": 6479
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "NURTEPE",
+    "id": 6480
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GİRNE",
+    "id": 6481
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "ŞENEVLER",
+    "id": 6482
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "BARIŞ",
+    "id": 6483
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, HÜRRİYET",
+    "id": 6484
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, CAMİ",
+    "id": 6485
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "ERENTEPE",
+    "id": 6486
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "ŞİRİNTEPE",
+    "id": 6487
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "BAĞLAR",
+    "id": 6488
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "BARAJYOLU",
+    "id": 6489
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "HAYDAR",
+    "id": 6490
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, REFAHİYE",
+    "id": 6491
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, ŞENYURT",
+    "id": 6492
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, YEŞİLYURT",
+    "id": 6493
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÜNKIRI, CUMHURİYET",
+    "id": 6494
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "BÖLMEDERE",
+    "id": 6495
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "KÜMBET",
+    "id": 6496
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "UĞURLU",
+    "id": 6497
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, YENİ",
+    "id": 6498
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "ŞENOVA",
+    "id": 6499
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "ŞENTEPE",
+    "id": 6500
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, GÜLTEPE",
+    "id": 6501
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "GÜROYMAK",
+    "MAHALLE": "GÖLBAŞI, YEŞİLTEPE",
+    "id": 6502
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEŞMİNARE",
+    "id": 6503
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, ÇINARBAŞI",
+    "id": 6504
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, PINARBAŞI",
+    "id": 6505
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUŞTAKBABA",
+    "id": 6506
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 6507
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 6508
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZEYDAN",
+    "id": 6509
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİ BEY",
+    "id": 6510
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, DÜZ",
+    "id": 6511
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, ÜÇ KARDEŞ",
+    "id": 6512
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YÜKSELİŞ",
+    "id": 6513
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAY",
+    "id": 6514
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜSREV PAŞA",
+    "id": 6515
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, YENİ",
+    "id": 6516
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEKİZ AĞUSTOS",
+    "id": 6517
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞ",
+    "id": 6518
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, BOZTEPE",
+    "id": 6519
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEMSİ BİTLİS",
+    "id": 6520
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, KONAÇ",
+    "id": 6521
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, YOLALAN",
+    "id": 6522
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YOLALAN, KALE",
+    "id": 6523
+  },
+  {
+    "İL": "BİTLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HERSAN",
+    "id": 6524
+  }
+]

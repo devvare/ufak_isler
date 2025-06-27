@@ -1,0 +1,60 @@
+/* Floating Bizimle Çalışın Butonu İyileştirmeleri */
+.floating-btn {
+    position: fixed;
+    bottom: 100px; /* WhatsApp butonunun üstünde */
+    right: 20px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    color: white;
+    padding: 16px 24px; /* Daha büyük padding */
+    border-radius: 12px; /* Daha yuvarlak köşeler */
+    box-shadow: 0 4px 20px rgba(234, 88, 12, 0.5); /* Turuncu gölge */
+    z-index: 9999;
+    font-weight: 700; /* Daha kalın yazı */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    border: none;
+    text-decoration: none;
+    font-size: 1.1rem; /* Daha büyük yazı */
+    /* Parlama efekti */
+    animation: glow 2s ease-in-out infinite alternate;
+    /* Kare görünüm için */
+    min-width: 180px;
+    min-height: 60px;
+    /* Kenar parlaması */
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.floating-btn:hover {
+    transform: translateY(-5px) scale(1.05); /* Biraz büyüt */
+    box-shadow: 0 8px 25px rgba(234, 88, 12, 0.7); /* Daha parlak gölge */
+    background: linear-gradient(135deg, var(--secondary-color) 0%, var(--primary-color) 100%); /* Ters gradient */
+}
+
+.floating-btn i {
+    margin-right: 10px;
+    font-size: 1.2rem; /* Daha büyük ikon */
+}
+
+/* Parlama animasyonu */
+@keyframes glow {
+    from {
+        box-shadow: 0 0 10px rgba(234, 88, 12, 0.5), 0 0 20px rgba(234, 88, 12, 0.3);
+    }
+    to {
+        box-shadow: 0 0 15px rgba(234, 88, 12, 0.7), 0 0 30px rgba(234, 88, 12, 0.5);
+    }
+}
+
+/* Mobil için düzenleme */
+@media (max-width: 768px) {
+    .floating-btn {
+        padding: 14px 20px;
+        min-width: 160px;
+        min-height: 50px;
+        font-size: 1rem;
+        right: 15px;
+        bottom: 90px;
+    }
+}

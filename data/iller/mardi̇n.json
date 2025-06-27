@@ -1,0 +1,4244 @@
+[
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BATUR",
+    "id": 22202
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KARABAYIR",
+    "id": 22203
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KILAVUZ",
+    "id": 22204
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KISMETLİ",
+    "id": 22205
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ÇATALÇAM",
+    "id": 22206
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "TEMELLİ",
+    "id": 22207
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "YILMAZ",
+    "id": 22208
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ÇELİKKÖY",
+    "id": 22209
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "SARAY",
+    "id": 22210
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 22211
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ÇUKURDERE",
+    "id": 22212
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KUŞLUCA",
+    "id": 22213
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BEĞENDİ",
+    "id": 22214
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "GÜRGEN",
+    "id": 22215
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KORUCU",
+    "id": 22216
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BAĞÖZÜ",
+    "id": 22217
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "YANILMAZ",
+    "id": 22218
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "SÜMER",
+    "id": 22219
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 22220
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "AKYOL",
+    "id": 22221
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "GÜRIŞIK",
+    "id": 22222
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KUMDERE",
+    "id": 22223
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "SUÇATI",
+    "id": 22224
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 22225
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "DEĞERLİ",
+    "id": 22226
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "KARTALKAYA",
+    "id": 22227
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ULAŞ",
+    "id": 22228
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ÇATALAN",
+    "id": 22229
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ILISU",
+    "id": 22230
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "SAFA",
+    "id": 22231
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ALAYUNT",
+    "id": 22232
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ALTINOLUK",
+    "id": 22233
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ORMANİÇİ",
+    "id": 22234
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BELEN",
+    "id": 22235
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BOSTANLI",
+    "id": 22236
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "TANYERİ",
+    "id": 22237
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "ALTIYOL",
+    "id": 22238
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BAHÇEBAŞI",
+    "id": 22239
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "BAYSUN",
+    "id": 22240
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "TAVŞANLI",
+    "id": 22241
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DARGEÇİT",
+    "MAHALLE": "YONCALI",
+    "id": 22242
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 22243
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ORTAKLI",
+    "id": 22244
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "SAKIZLI",
+    "id": 22245
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KEMERLİ",
+    "id": 22246
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KOCAKENT",
+    "id": 22247
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KONUR",
+    "id": 22248
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ÜRÜNLÜ",
+    "id": 22249
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YALINAĞAÇ",
+    "id": 22250
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YUKARIKONAK",
+    "id": 22251
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "BALPINAR",
+    "id": 22252
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ÇAYÖNÜ",
+    "id": 22253
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "EKİNCİLER",
+    "id": 22254
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "İKİSU",
+    "id": 22255
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KIŞLAK",
+    "id": 22256
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "DİKYAMAÇ",
+    "id": 22257
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "GÜRGÖZE",
+    "id": 22258
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "TANRIYOLU",
+    "id": 22259
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ATALAR",
+    "id": 22260
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ULUTAŞ",
+    "id": 22261
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 22262
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "BİLGE",
+    "id": 22263
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ŞANLI",
+    "id": 22264
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ŞENYUVA",
+    "id": 22265
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "AYKUT",
+    "id": 22266
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "TARLACIK",
+    "id": 22267
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YUKARIOCAK",
+    "id": 22268
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "GÜMÜŞPINAR",
+    "id": 22269
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KEBAPÇI",
+    "id": 22270
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ÖMÜRLÜ",
+    "id": 22271
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YAĞMUR",
+    "id": 22272
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ENGİN",
+    "id": 22273
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ERDALI",
+    "id": 22274
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "IŞIKYAKA",
+    "id": 22275
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KARAALANİ",
+    "id": 22276
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YÜCEBAĞ",
+    "id": 22277
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "AKSU",
+    "id": 22278
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "AŞAĞIOCAK",
+    "id": 22279
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ATLICA",
+    "id": 22280
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "BAHÇECİK",
+    "id": 22281
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "SAĞMAL",
+    "id": 22282
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ARIKÖY",
+    "id": 22283
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "EVCİLER",
+    "id": 22284
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "GÜMÜŞYUVA",
+    "id": 22285
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 22286
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "YETKİNLER",
+    "id": 22287
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KAYALAR",
+    "id": 22288
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "DERECİK",
+    "id": 22289
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "KARATAŞ",
+    "id": 22290
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ARISU",
+    "id": 22291
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "ÇANKAYA",
+    "id": 22292
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "DURAKLI",
+    "id": 22293
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "MEŞELİ",
+    "id": 22294
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MAZIDAĞI",
+    "MAHALLE": "POYRAZ",
+    "id": 22295
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22296
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DOLUNAY",
+    "id": 22297
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YENİCE",
+    "id": 22298
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ELBEĞENDİ",
+    "id": 22299
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GÜLGÖZE",
+    "id": 22300
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "TEPELİ",
+    "id": 22301
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GÜVEN",
+    "id": 22302
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "HARMANLI",
+    "id": 22303
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "TAŞLIBURÇ",
+    "id": 22304
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YEMİŞLİ",
+    "id": 22305
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇALPINAR",
+    "id": 22306
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DOĞANÇAY",
+    "id": 22307
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GÖLCÜK",
+    "id": 22308
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "İZBIRAK",
+    "id": 22309
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "MERCİMEKLİ",
+    "id": 22310
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ORTACA",
+    "id": 22311
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ZİYARET",
+    "id": 22312
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇALDERE",
+    "id": 22313
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇANDARLI",
+    "id": 22314
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 22315
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YOLBAŞI",
+    "id": 22316
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BARDAKÇI",
+    "id": 22317
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BARIŞTEPE",
+    "id": 22318
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DÜZGEÇİT",
+    "id": 22319
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "KAYALIPINAR",
+    "id": 22320
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "PELİTLİ",
+    "id": 22321
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 22322
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ŞENKÖY",
+    "id": 22323
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "KAYALAR",
+    "id": 22324
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ORTAÇARŞI",
+    "id": 22325
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SİVRİCE",
+    "id": 22326
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "TOPTEPE",
+    "id": 22327
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÜÇAĞIL",
+    "id": 22328
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 22329
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DOĞANYAZI",
+    "id": 22330
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GELİNKAYA",
+    "id": 22331
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 22332
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "TULGALI",
+    "id": 22333
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YAYVANTEPE",
+    "id": 22334
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 22335
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YUVALI",
+    "id": 22336
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BAŞYURT",
+    "id": 22337
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BUDAKLI",
+    "id": 22338
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇAYIRLI",
+    "id": 22339
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "KAYABAŞI",
+    "id": 22340
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "NARLI",
+    "id": 22341
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SARIKAYA",
+    "id": 22342
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "AKÇAKAYA",
+    "id": 22343
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 22344
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ANITLI",
+    "id": 22345
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ERİŞTİ",
+    "id": 22346
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "İKİZDERE",
+    "id": 22347
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "OYUKLU",
+    "id": 22348
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BAĞLAR",
+    "id": 22349
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DÜZOBA",
+    "id": 22350
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ULUCAMİ",
+    "id": 22351
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ACIRLI",
+    "id": 22352
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "HANLAR",
+    "id": 22353
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ADAKLI",
+    "id": 22354
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "ÇAMYURT",
+    "id": 22355
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "IŞIKLAR",
+    "id": 22356
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SARIKÖY",
+    "id": 22357
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "KUTLUBEY",
+    "id": 22358
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 22359
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 22360
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "BETHKUSTAN",
+    "id": 22361
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "DANIŞMAN",
+    "id": 22362
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SANAYİ",
+    "id": 22363
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "SEYİTLER",
+    "id": 22364
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "YENİ",
+    "id": 22365
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "EĞLENCE",
+    "id": 22366
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "MİDYAT",
+    "MAHALLE": "GÜLVEREN",
+    "id": 22367
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KAYADERE",
+    "id": 22368
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÇİMENLİK",
+    "id": 22369
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "DÖNERDERE",
+    "id": 22370
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "GÖLLÜ",
+    "id": 22371
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "GÜZELAĞAÇ",
+    "id": 22372
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KÖMÜRLÜ",
+    "id": 22373
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "AKYOKUŞ",
+    "id": 22374
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KAYNAKKAYA",
+    "id": 22375
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KOVANLI",
+    "id": 22376
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "SALİHKÖY",
+    "id": 22377
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "YAYLATEPE",
+    "id": 22378
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "MUTLUCA",
+    "id": 22379
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TAŞGEDİK",
+    "id": 22380
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÜNSALLI",
+    "id": 22381
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÇAYIRALANI",
+    "id": 22382
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ALIÇLI",
+    "id": 22383
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ANITTEPE",
+    "id": 22384
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "BEŞİKKAYA",
+    "id": 22385
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KAYAGÖZE",
+    "id": 22386
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "SİVRİTEPE",
+    "id": 22387
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KAYABALI",
+    "id": 22388
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "PINARCIK",
+    "id": 22389
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "OVABAŞI",
+    "id": 22390
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "FISTIKLI",
+    "id": 22391
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KOCASIRT",
+    "id": 22392
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÇINARALTI",
+    "id": 22393
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "HARMANKAYA",
+    "id": 22394
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "SULAKDERE",
+    "id": 22395
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22396
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KAYAÜSTÜ",
+    "id": 22397
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÇALIŞAN",
+    "id": 22398
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "HAVUZBAŞI",
+    "id": 22399
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "KOCAKUYU",
+    "id": 22400
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ŞAFAK",
+    "id": 22401
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TAŞLICA",
+    "id": 22402
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TEKKUYU",
+    "id": 22403
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "YENİ",
+    "id": 22404
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "IŞIKDERE",
+    "id": 22405
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "İKİTEPE",
+    "id": 22406
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "DUYGULU",
+    "id": 22407
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "İKİPINAR",
+    "id": 22408
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TAVUKLU",
+    "id": 22409
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TOKDERE",
+    "id": 22410
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "TOPAĞAÇ",
+    "id": 22411
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÇATALYURT",
+    "id": 22412
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ÖMERLİ",
+    "MAHALLE": "ÖZTAŞ",
+    "id": 22413
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ADAK",
+    "id": 22414
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AKÇAY",
+    "id": 22415
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ADAKENT",
+    "id": 22416
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AHMETLİ",
+    "id": 22417
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AKINCILAR",
+    "id": 22418
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AMBARLI",
+    "id": 22419
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÇADIRLI",
+    "id": 22420
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AŞAĞIMEZRA",
+    "id": 22421
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DERİNSU",
+    "id": 22422
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ISSIZ",
+    "id": 22423
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KOCATEPE",
+    "id": 22424
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KONAK",
+    "id": 22425
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "İNCESU",
+    "id": 22426
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KONUK",
+    "id": 22427
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "YUKARIMEZRA",
+    "id": 22428
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "AYDINLAR",
+    "id": 22429
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BOZBAYIR",
+    "id": 22430
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 22431
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KARATAŞ",
+    "id": 22432
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ALAGÖZ",
+    "id": 22433
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÇAĞIL",
+    "id": 22434
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "SOĞUKKUYU",
+    "id": 22435
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BURÇKÖY",
+    "id": 22436
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ATLI",
+    "id": 22437
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KOVALI",
+    "id": 22438
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "PINARCIK",
+    "id": 22439
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "TEPEBAĞ",
+    "id": 22440
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "YAZICIK",
+    "id": 22441
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "HAYIRLI",
+    "id": 22442
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ORTACA",
+    "id": 22443
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DOĞANCI",
+    "id": 22444
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ALANLI",
+    "id": 22445
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BAŞARAN",
+    "id": 22446
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÇUKURSU",
+    "id": 22447
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DEMİRLİ",
+    "id": 22448
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DİKMEN",
+    "id": 22449
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DUMLUCA",
+    "id": 22450
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ILICA",
+    "id": 22451
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KALE",
+    "id": 22452
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KARABURUN",
+    "id": 22453
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KUŞÇU",
+    "id": 22454
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KUYULU",
+    "id": 22455
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "TAŞIT",
+    "id": 22456
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BAĞARASI",
+    "id": 22457
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BALOVA",
+    "id": 22458
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BEŞBUDAK",
+    "id": 22459
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 22460
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KANATLI",
+    "id": 22461
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KURUÇAY",
+    "id": 22462
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "SÖĞÜTÖZÜ",
+    "id": 22463
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DUMANLI",
+    "id": 22464
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DÜZTAŞ",
+    "id": 22465
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "HİSARALTI",
+    "id": 22466
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ŞAHVERDİ",
+    "id": 22467
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ZEYTİNPINAR",
+    "id": 22468
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "SUBAŞI",
+    "id": 22469
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÜÇKUYU",
+    "id": 22470
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 22471
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ALİBEY",
+    "id": 22472
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 22473
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KAYACIK",
+    "id": 22474
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KÜÇÜKPINAR",
+    "id": 22475
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BÖĞREK",
+    "id": 22476
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KOÇYİĞİT",
+    "id": 22477
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KÖSEVELİ",
+    "id": 22478
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BALLI",
+    "id": 22479
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BOZOK",
+    "id": 22480
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "CEVİZPINAR",
+    "id": 22481
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DAĞ",
+    "id": 22482
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "ŞEREFLİ",
+    "id": 22483
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BOYAKLI",
+    "id": 22484
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "GÖKTAŞ",
+    "id": 22485
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "MEŞELİ",
+    "id": 22486
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "PİRİNÇLİ",
+    "id": 22487
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 22488
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "BAYRAKLI",
+    "id": 22489
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "DENKTAŞ",
+    "id": 22490
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 22491
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KOVANLI",
+    "id": 22492
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "DERİK",
+    "MAHALLE": "KUTLUCA",
+    "id": 22493
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "CEVİZLİK",
+    "id": 22494
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "DARA",
+    "id": 22495
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "EROĞLU",
+    "id": 22496
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "HÜYÜKLÜ",
+    "id": 22497
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "NECMETTİN",
+    "id": 22498
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YALIM",
+    "id": 22499
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YUKARIYENİKÖY",
+    "id": 22500
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YÜCE",
+    "id": 22501
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇAĞLAR",
+    "id": 22502
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇIPLAKTEPE",
+    "id": 22503
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KOTEK",
+    "id": 22504
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KUMLU",
+    "id": 22505
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KÜÇÜKKÖY",
+    "id": 22506
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YUKARIAYDINLI",
+    "id": 22507
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "DİYARBAKIR KAPI",
+    "id": 22508
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ELMABAHÇE",
+    "id": 22509
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ESENTEPE",
+    "id": 22510
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "GÖLLÜ",
+    "id": 22511
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "GÜNEYLİ",
+    "id": 22512
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KUYULU",
+    "id": 22513
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "SARAÇOĞLU",
+    "id": 22514
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "TANDIR",
+    "id": 22515
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "TEKER",
+    "id": 22516
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "TOZAN",
+    "id": 22517
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "GÖKÇE",
+    "id": 22518
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "İSTASYON",
+    "id": 22519
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KABALA",
+    "id": 22520
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "LATİFİYE",
+    "id": 22521
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "OFİSOSB",
+    "id": 22522
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 22523
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "SAVURKAPI",
+    "id": 22524
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "SULAK",
+    "id": 22525
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇAYIRPINAR",
+    "id": 22526
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ŞEHİDİYE",
+    "id": 22527
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ACAR",
+    "id": 22528
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ARAN",
+    "id": 22529
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "BOZTEPE",
+    "id": 22530
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇATAK",
+    "id": 22531
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "OFİS",
+    "id": 22532
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ERYERİ",
+    "id": 22533
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "HAYDAR",
+    "id": 22534
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KONAKLI",
+    "id": 22535
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "MEDRESE",
+    "id": 22536
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "SAKALAR",
+    "id": 22537
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YENİKÖY",
+    "id": 22538
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AKINCI",
+    "id": 22539
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AVCILAR",
+    "id": 22540
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "BUĞDAY",
+    "id": 22541
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "GÜL",
+    "id": 22542
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "TİLKİTEPE",
+    "id": 22543
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YAYLABAŞI",
+    "id": 22544
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YUKARIHATUNLU",
+    "id": 22545
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AHMETLİ",
+    "id": 22546
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AKBAĞ",
+    "id": 22547
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇALIŞLI",
+    "id": 22548
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 22549
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ORTAKÖY",
+    "id": 22550
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "SULTANKÖY",
+    "id": 22551
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ŞAR",
+    "id": 22552
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇUKURYURT",
+    "id": 22553
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ESKİKALE",
+    "id": 22554
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YARDERE",
+    "id": 22555
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "13 MART",
+    "id": 22556
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ARPATEPE",
+    "id": 22557
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ÇABUK",
+    "id": 22558
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "DÜZLÜK",
+    "id": 22559
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ALAKUŞ",
+    "id": 22560
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AYTEPE",
+    "id": 22561
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22562
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "GÜRAĞAÇ",
+    "id": 22563
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ULUCAMİ",
+    "id": 22564
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YAYLA",
+    "id": 22565
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YENİKAPI",
+    "id": 22566
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KAYACAN",
+    "id": 22567
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AMBAR",
+    "id": 22568
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "EMİNETTİN",
+    "id": 22569
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ENSAR",
+    "id": 22570
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "NUR (AKINCI)",
+    "id": 22571
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YENİCE",
+    "id": 22572
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 22573
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "ALIMLI",
+    "id": 22574
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "AŞAĞIYENİKÖY",
+    "id": 22575
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "CEVİZPINARI",
+    "id": 22576
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "DİBEKTAŞ",
+    "id": 22577
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "NUR",
+    "id": 22578
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YAYLACIK",
+    "id": 22579
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YAYLI",
+    "id": 22580
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "BAĞLICA",
+    "id": 22581
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "KARADEMİR",
+    "id": 22582
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "HAMZABEY",
+    "id": 22583
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "HATUNLU",
+    "id": 22584
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "ARTUKLU",
+    "MAHALLE": "YOLBAŞI",
+    "id": 22585
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "KÜTÜKLÜ",
+    "id": 22586
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "ALIÇLI",
+    "id": 22587
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "BÜLBÜL",
+    "id": 22588
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "OVAKÖY",
+    "id": 22589
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "UZUNKÖY",
+    "id": 22590
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 22591
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 22592
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 22593
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "BAHÇEBAŞI",
+    "id": 22594
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "DEREYANI",
+    "id": 22595
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "GÜL",
+    "id": 22596
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 22597
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "KOYUNLU",
+    "id": 22598
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "YEŞİLLİ",
+    "MAHALLE": "SANCAR",
+    "id": 22599
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "AÇIKYOL",
+    "id": 22600
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BAHÇEBAŞI",
+    "id": 22601
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DALLIAĞAÇ",
+    "id": 22602
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 22603
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KAYADİBİ",
+    "id": 22604
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KÜÇÜKKARDEŞ",
+    "id": 22605
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "SELAHADDİN EYYUBİ",
+    "id": 22606
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YENİTURAN",
+    "id": 22607
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YERKÖY",
+    "id": 22608
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DOĞUŞ",
+    "id": 22609
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DURAKBAŞI",
+    "id": 22610
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "HASANTEPE",
+    "id": 22611
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TAŞKÖY",
+    "id": 22612
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÜÇYOL",
+    "id": 22613
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BALABAN",
+    "id": 22614
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BÜYÜKKARDEŞ",
+    "id": 22615
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "İPEKYOLU",
+    "id": 22616
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "MOR-YAKUP",
+    "id": 22617
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TEPEÜSTÜ",
+    "id": 22618
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "8 MART",
+    "id": 22619
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇÖLOVA",
+    "id": 22620
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DÜZCE",
+    "id": 22621
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ESKİMAĞARA",
+    "id": 22622
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "FIRAT",
+    "id": 22623
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÜNEBAKAN",
+    "id": 22624
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KALECİK",
+    "id": 22625
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 22626
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TEKAĞAÇ",
+    "id": 22627
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TEPEALTI",
+    "id": 22628
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇİĞDEM",
+    "id": 22629
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DEVRİM",
+    "id": 22630
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÜRÜN",
+    "id": 22631
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KALELİ",
+    "id": 22632
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KANTAR",
+    "id": 22633
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DAĞİÇİ",
+    "id": 22634
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DURUCA",
+    "id": 22635
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "İKİZTEPE",
+    "id": 22636
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "PAZAR",
+    "id": 22637
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TEPEÖREN",
+    "id": 22638
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÜÇKÖY",
+    "id": 22639
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YOLBİLEN",
+    "id": 22640
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DOĞANLI",
+    "id": 22641
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YAVRUKÖY",
+    "id": 22642
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 22643
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 22644
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "AKAĞIL",
+    "id": 22645
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÜNELİ",
+    "id": 22646
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KOCADAĞ",
+    "id": 22647
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ZEYNELABİDİN",
+    "id": 22648
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇALI",
+    "id": 22649
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇATALÖZÜ",
+    "id": 22650
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "İLKADIM",
+    "id": 22651
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KUYULAR",
+    "id": 22652
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YAZYURDU",
+    "id": 22653
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇAĞLAR",
+    "id": 22654
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DİBEK",
+    "id": 22655
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DİRİM",
+    "id": 22656
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "AÇIKKÖY",
+    "id": 22657
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "AKARSU",
+    "id": 22658
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GİRMELİ",
+    "id": 22659
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "HEYBELİ",
+    "id": 22660
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KURUKÖY",
+    "id": 22661
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "SINIRTEPE",
+    "id": 22662
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ABDULKADİRPAŞA",
+    "id": 22663
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DİCLE",
+    "id": 22664
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÜNYURDU",
+    "id": 22665
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KIŞLA",
+    "id": 22666
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ODABAŞI",
+    "id": 22667
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YANDERE",
+    "id": 22668
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "AKÇATARLA",
+    "id": 22669
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BARIŞ",
+    "id": 22670
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ÇİLESİZ",
+    "id": 22671
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DEĞİRMENCİK",
+    "id": 22672
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "DEMİRTEPE",
+    "id": 22673
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "ESKİYOL",
+    "id": 22674
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÖRENTEPE",
+    "id": 22675
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "TURGUTKÖY",
+    "id": 22676
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "YOLİNDİ",
+    "id": 22677
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BAKACIK",
+    "id": 22678
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "BEYLİK",
+    "id": 22679
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GIRNAVAS",
+    "id": 22680
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "GÜVENLİ",
+    "id": 22681
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "KARACA",
+    "id": 22682
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "NUSAYBİN",
+    "MAHALLE": "NERGİZLİ",
+    "id": 22683
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "İÇÖREN",
+    "id": 22684
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ÜÇKAVAK",
+    "id": 22685
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ERKURAN",
+    "id": 22686
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "HARMANTEPE",
+    "id": 22687
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "BENGİSU",
+    "id": 22688
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ŞENOCAK",
+    "id": 22689
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ÜÇERLİ",
+    "id": 22690
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "HİSARKAYA",
+    "id": 22691
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KOCAHÜYÜK",
+    "id": 22692
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "YAYLAYANI",
+    "id": 22693
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ARMUTALAN",
+    "id": 22694
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "BAĞYAKA",
+    "id": 22695
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "TAŞLIK",
+    "id": 22696
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "YENİLMEZ",
+    "id": 22697
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SOYLU",
+    "id": 22698
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "PINARDERE",
+    "id": 22699
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SÜRGÜCÜ",
+    "id": 22700
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "BAŞAĞAÇ",
+    "id": 22701
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ORMANCIK",
+    "id": 22702
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SANCAKLI",
+    "id": 22703
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KAYACIKLAR",
+    "id": 22704
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "BAŞKAVAK",
+    "id": 22705
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 22706
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KIRBALI",
+    "id": 22707
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SERENLİ",
+    "id": 22708
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "İŞGÖREN",
+    "id": 22709
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KARAKÖY",
+    "id": 22710
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KÖPRÜLÜ",
+    "id": 22711
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "AKYÜREK",
+    "id": 22712
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "DEREİÇİ",
+    "id": 22713
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "DURUSU",
+    "id": 22714
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KIRKDİREK",
+    "id": 22715
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "YAZIR",
+    "id": 22716
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "TOKLUCA",
+    "id": 22717
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KAPLAN",
+    "id": 22718
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KOŞUYOLU",
+    "id": 22719
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SEYDİN",
+    "id": 22720
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "YEŞİLALAN",
+    "id": 22721
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "ÇINARÖNÜ",
+    "id": 22722
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "KAYATEPE",
+    "id": 22723
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "SAVUR",
+    "MAHALLE": "SAFA",
+    "id": 22724
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 22725
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇAKIR",
+    "id": 22726
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "İNANDI",
+    "id": 22727
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KÜÇÜKBOĞAZİYE",
+    "id": 22728
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 22729
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKTULGA",
+    "id": 22730
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKYÜZ",
+    "id": 22731
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ATATÜRK",
+    "id": 22732
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AYAZ",
+    "id": 22733
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BEŞEVLER",
+    "id": 22734
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇATALCA",
+    "id": 22735
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DEMİRCİ",
+    "id": 22736
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ERDEM",
+    "id": 22737
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HACIYUSUF",
+    "id": 22738
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KALAYCIK",
+    "id": 22739
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KOÇLU",
+    "id": 22740
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "MEZOPOTAMYA",
+    "id": 22741
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SÜREKLİ",
+    "id": 22742
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 22743
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YAŞARKÖY",
+    "id": 22744
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YENİKENT",
+    "id": 22745
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKÇA",
+    "id": 22746
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKDOĞAN",
+    "id": 22747
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ARIKLI",
+    "id": 22748
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BEŞİK",
+    "id": 22749
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÖLLÜ",
+    "id": 22750
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜNEŞTEPE",
+    "id": 22751
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HAKVERDİ",
+    "id": 22752
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HALKALI",
+    "id": 22753
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SARICA",
+    "id": 22754
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ŞAHKULUBEY",
+    "id": 22755
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YEDİKARDEŞ",
+    "id": 22756
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YONCALI",
+    "id": 22757
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKZİYARET",
+    "id": 22758
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BOZHÖYÜK",
+    "id": 22759
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ERİKLİ",
+    "id": 22760
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜÇLÜ",
+    "id": 22761
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜNLÜCE",
+    "id": 22762
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KARAKUYU",
+    "id": 22763
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KILDUMAN",
+    "id": 22764
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KÖRSU",
+    "id": 22765
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SANCARLI",
+    "id": 22766
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SARUHAN",
+    "id": 22767
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SELAHATTİN EYYUBİ",
+    "id": 22768
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YAMANLAR",
+    "id": 22769
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YEŞİLLER",
+    "id": 22770
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YUMRUTAŞ",
+    "id": 22771
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ALTINTOPRAK",
+    "id": 22772
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BÜYÜKTEPE",
+    "id": 22773
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇETİNLER",
+    "id": 22774
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DAMLALI",
+    "id": 22775
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 22776
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DOYURAN",
+    "id": 22777
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ELMALI",
+    "id": 22778
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "FINDIKTEPE",
+    "id": 22779
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HACIHASAN",
+    "id": 22780
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KOÇHİSAR",
+    "id": 22781
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TAŞLICA",
+    "id": 22782
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TIRAŞLI",
+    "id": 22783
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YAMAÇ",
+    "id": 22784
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ALAKUŞ",
+    "id": 22785
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ATMACA",
+    "id": 22786
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 22787
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BEKTAŞ",
+    "id": 22788
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DEMİRLER",
+    "id": 22789
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DÖRTYOL",
+    "id": 22790
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ESKİN",
+    "id": 22791
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 22792
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ILICAK",
+    "id": 22793
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "İKİZLER",
+    "id": 22794
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KOCALAR",
+    "id": 22795
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KÜPLÜCE",
+    "id": 22796
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "OFİS",
+    "id": 22797
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SANDIKLI",
+    "id": 22798
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ULUKÖY",
+    "id": 22799
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YÜCELİ",
+    "id": 22800
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ALİPAŞA",
+    "id": 22801
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "EKİNLİK",
+    "id": 22802
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KAŞIKLI",
+    "id": 22803
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KAYNARCA",
+    "id": 22804
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ODAKÖY",
+    "id": 22805
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKKOÇ",
+    "id": 22806
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ARAKAPI",
+    "id": 22807
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇAMLIDERE",
+    "id": 22808
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DEMET",
+    "id": 22809
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "İKİKUYU",
+    "id": 22810
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KAHRAMAN",
+    "id": 22811
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KONUKLU",
+    "id": 22812
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "RIHANİ",
+    "id": 22813
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SOĞANLI",
+    "id": 22814
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TANRIVERDİ",
+    "id": 22815
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TATLICA",
+    "id": 22816
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YUMURCAK",
+    "id": 22817
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YÜKSEKTEPE",
+    "id": 22818
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ZERGAN",
+    "id": 22819
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YAYLIM",
+    "id": 22820
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 22821
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YOLDERE",
+    "id": 22822
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ZİYARET",
+    "id": 22823
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKTEPE",
+    "id": 22824
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ASLANLI",
+    "id": 22825
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BARIŞ",
+    "id": 22826
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇAĞIL",
+    "id": 22827
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇETİNKAYA",
+    "id": 22828
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "EROĞLU",
+    "id": 22829
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "FIRAT",
+    "id": 22830
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "İPEK",
+    "id": 22831
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KATARLI",
+    "id": 22832
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "MEVLANA",
+    "id": 22833
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TARLABAŞI",
+    "id": 22834
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YALINKILIÇ",
+    "id": 22835
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YURTDERİ",
+    "id": 22836
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKALIN",
+    "id": 22837
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ALEMDAR",
+    "id": 22838
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "EYMİRLİ",
+    "id": 22839
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KAYAPINAR",
+    "id": 22840
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KENGERLİ",
+    "id": 22841
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 22842
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 22843
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÜÇEVLER",
+    "id": 22844
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YARIMCA",
+    "id": 22845
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YAYIKLI",
+    "id": 22846
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YENİ",
+    "id": 22847
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AKYAZI",
+    "id": 22848
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BELLİ",
+    "id": 22849
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BÜYÜKBOĞAZİYE",
+    "id": 22850
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇIPLAK",
+    "id": 22851
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 22852
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DİKMEN",
+    "id": 22853
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DOĞANLI",
+    "id": 22854
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HAZNEDAR",
+    "id": 22855
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KIRKKUYU",
+    "id": 22856
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KİLİMLİ",
+    "id": 22857
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SANAYİ",
+    "id": 22858
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "SEVİMLİ",
+    "id": 22859
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TOSUNLU",
+    "id": 22860
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YUKARIAZIKLI OSB",
+    "id": 22861
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ATAKÖY",
+    "id": 22862
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BAĞRIBÜTÜN",
+    "id": 22863
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BAŞAK",
+    "id": 22864
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ERSOYLU",
+    "id": 22865
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜMÜŞDERE",
+    "id": 22866
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÜRMEŞE",
+    "id": 22867
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HOCAKÖY",
+    "id": 22868
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ARITEPE",
+    "id": 22869
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22870
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 22871
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ESENLİ",
+    "id": 22872
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "IŞIKÖREN",
+    "id": 22873
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KARABENT",
+    "id": 22874
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 22875
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TİMURÇİFTLİĞİ",
+    "id": 22876
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ARAKÖY",
+    "id": 22877
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "AŞAĞIAZIKLI",
+    "id": 22878
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇANAKLI",
+    "id": 22879
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇİTLİBAĞ",
+    "id": 22880
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DÜĞÜRK",
+    "id": 22881
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KARAKULAK",
+    "id": 22882
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KARAMAN",
+    "id": 22883
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "KÜÇÜKAYRIK",
+    "id": 22884
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "OTLUK",
+    "id": 22885
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TUZLUCA",
+    "id": 22886
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÜLKER",
+    "id": 22887
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YOLALDI",
+    "id": 22888
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YUKARIAZIKLI",
+    "id": 22889
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BEŞDEĞİRMEN",
+    "id": 22890
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "BÜYÜKAYRIK",
+    "id": 22891
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "CANTAŞI",
+    "id": 22892
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DORA",
+    "id": 22893
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ELBEYLİ",
+    "id": 22894
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "EŞME",
+    "id": 22895
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "IŞIKLAR",
+    "id": 22896
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "TUZLA",
+    "id": 22897
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ULAŞLI",
+    "id": 22898
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "UZUNKAYA",
+    "id": 22899
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YOLÜSTÜ",
+    "id": 22900
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 22901
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÇINARCIK",
+    "id": 22902
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "DUNAYSIR",
+    "id": 22903
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "GÖZLÜCE",
+    "id": 22904
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "HARMANDÜZÜ",
+    "id": 22905
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ÖRENCİK",
+    "id": 22906
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "ŞENYURT",
+    "id": 22907
+  },
+  {
+    "İL": "MARDİN",
+    "İLÇE": "KIZILTEPE",
+    "MAHALLE": "YURTÖZÜ",
+    "id": 22908
+  }
+]

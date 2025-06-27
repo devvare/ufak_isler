@@ -1,0 +1,734 @@
+[
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "ALTINOVA, YENİ",
+    "id": 24288
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24289
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "KÜLTÜR",
+    "id": 24290
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 24291
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "ALTINOVA, MERKEZ",
+    "id": 24292
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "ALTINOVA, BAHÇELİEVLER",
+    "id": 24293
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "KORKUT",
+    "MAHALLE": "ALTINOVA, AYDINLAR",
+    "id": 24294
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ELMAKAYA, KARŞIYAKA",
+    "id": 24295
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "GÜLLÜOVA",
+    "id": 24296
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24297
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ERENTEPE, GAZİ",
+    "id": 24298
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ERENTEPE, FATİH",
+    "id": 24299
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24300
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ERENTEPE, KALE",
+    "id": 24301
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ELMAKAYA, CUMHURİYET",
+    "id": 24302
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "SARIPINAR, ÇİMEN",
+    "id": 24303
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "RÜSTEMGEDİK, İNÖNÜ",
+    "id": 24304
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "UZGÖRÜR, ABDALBEYAZIT",
+    "id": 24305
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "UZGÖRÜR, ALAGEZ",
+    "id": 24306
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "YENİ",
+    "id": 24307
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "RÜSTEMGEDİK, HANEDAN",
+    "id": 24308
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ŞEHİTLİK",
+    "id": 24309
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "UZGÖRÜR, ARI",
+    "id": 24310
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "SARIPINAR, PINAR",
+    "id": 24311
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "İNÖNÜ",
+    "id": 24312
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "UZGÖRÜR, GAZİ",
+    "id": 24313
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "RÜSTEMGEDİK, ZAFER",
+    "id": 24314
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "YONCALI, CUMHURİYET",
+    "id": 24315
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "YONCALI, YENİ",
+    "id": 24316
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "RÜSTEMGEDİK, BAĞLAR",
+    "id": 24317
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "SARIPINAR, SİNAN",
+    "id": 24318
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "YONCALI, HÜRRİYET",
+    "id": 24319
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "ZAFER",
+    "id": 24320
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "MESCİTLİ",
+    "id": 24321
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "KÜLTÜR",
+    "id": 24322
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "BULANIK",
+    "MAHALLE": "UZGÖRÜR, FATİH",
+    "id": 24323
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "İNÖNÜ",
+    "id": 24324
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "ALAGÖZ",
+    "id": 24325
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "KÜLTÜR",
+    "id": 24326
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24327
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24328
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "GÜMGÜM",
+    "id": 24329
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "VARTO",
+    "MAHALLE": "YENİ",
+    "id": 24330
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "KONAKKURAN, YENİ",
+    "id": 24331
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "AKSUNGUR",
+    "id": 24332
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "ALİŞAN",
+    "id": 24333
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "DANIŞMENTGAZİ",
+    "id": 24334
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "SAFTEKİNGAZİ",
+    "id": 24335
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "SALTUKGAZİ",
+    "id": 24336
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "KONAKKURAN, MURAT",
+    "id": 24337
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "MURAT",
+    "id": 24338
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "ALTUNTAŞ",
+    "id": 24339
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "AFŞİN",
+    "id": 24340
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "ADALAR",
+    "id": 24341
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "KONAKKURAN, ATATÜRK",
+    "id": 24342
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "MENGÜÇGAZİ",
+    "id": 24343
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "ŞEKERBULAK",
+    "id": 24344
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "KONAKKURAN, ZİYARET",
+    "id": 24345
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MALAZGİRT",
+    "MAHALLE": "SELÇUKLU",
+    "id": 24346
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "15 TEMMUZ MİLLİ İRADE",
+    "id": 24347
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAAĞAÇLI, KÜLTÜR",
+    "id": 24348
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONUKBEKLER, YEROLUK",
+    "id": 24349
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜZELTEPE",
+    "id": 24350
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAAĞAÇLI, BAĞLAR",
+    "id": 24351
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 24352
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALE",
+    "id": 24353
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONUKBEKLER, OSB",
+    "id": 24354
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 24355
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 24356
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MURATPAŞA",
+    "id": 24357
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKÖY, DÜZ",
+    "id": 24358
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONUKBEKLER, ŞİRİNEVLER",
+    "id": 24359
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNGU, ŞEHİT NAİM ÇİFTÇİ",
+    "id": 24360
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 24361
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZAFER",
+    "id": 24362
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAAĞAÇLI, ÇUBUKLU",
+    "id": 24363
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERİNOVA, KARŞIYAKA",
+    "id": 24364
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, KARDEŞLER",
+    "id": 24365
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLAR",
+    "id": 24366
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24367
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKÖY, BAHÇELİEVLER",
+    "id": 24368
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILAĞAÇ, KÜLTÜR",
+    "id": 24369
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONUKBEKLER, KÖRPEAĞAÇ",
+    "id": 24370
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAY",
+    "id": 24371
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERİNOVA, BAKIRCILAR",
+    "id": 24372
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 24373
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERİNOVA, HÜRRİYET",
+    "id": 24374
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNGU, KÜLTÜR",
+    "id": 24375
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNGU, HÜRRİYET",
+    "id": 24376
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNGU, ŞEHİT YÜCEL KURTOĞLU",
+    "id": 24377
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, BAHÇELİEVLER",
+    "id": 24378
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, DAGARASI",
+    "id": 24379
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DERE",
+    "id": 24380
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNGU, BAHÇELİEVLER",
+    "id": 24381
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, BAHÇELİEVLER",
+    "id": 24382
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKÖY, KÜLTÜR",
+    "id": 24383
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILAĞAÇ, YEŞİLYURT",
+    "id": 24384
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONUKBEKLER, MİNARE",
+    "id": 24385
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, YENİ",
+    "id": 24386
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİNARE",
+    "id": 24387
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKÖY, YENİ",
+    "id": 24388
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILAĞAÇ, FETULLAHAGA",
+    "id": 24389
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, MERKEZ",
+    "id": 24390
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, YENİ",
+    "id": 24391
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERİNOVA, AYDINGÜN",
+    "id": 24392
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUNAY",
+    "id": 24393
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLCE",
+    "id": 24394
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, KÜLTÜR",
+    "id": 24395
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERİNOVA, ÇAĞDAŞ",
+    "id": 24396
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYGIN, KARŞIYAKA",
+    "id": 24397
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "SAYANLAR",
+    "id": 24398
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24399
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "DÜZKIŞLA, KÜLTÜR",
+    "id": 24400
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "VATAN",
+    "id": 24401
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "KÜLTÜR",
+    "id": 24402
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 24403
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "DÜZKIŞLA, BAHÇELİEVLER",
+    "id": 24404
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "İSTİKLAL",
+    "id": 24405
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "DÜZKIŞLA, YENİ",
+    "id": 24406
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24407
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "ZAFER",
+    "id": 24408
+  },
+  {
+    "İL": "MUŞ",
+    "İLÇE": "HASKÖY",
+    "MAHALLE": "SUNAY",
+    "id": 24409
+  }
+]

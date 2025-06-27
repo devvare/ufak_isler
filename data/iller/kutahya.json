@@ -1,0 +1,1358 @@
+[
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DUMLUPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20163
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DUMLUPINAR",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 20164
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DUMLUPINAR",
+    "MAHALLE": "CAFERGAZİ",
+    "id": 20165
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DUMLUPINAR",
+    "MAHALLE": "ZAFER",
+    "id": 20166
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ERGENEKON",
+    "id": 20167
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "KIZILTEPE",
+    "id": 20168
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, KURTULIŞ",
+    "id": 20169
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "GÖKLER, GÜNEY",
+    "id": 20170
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ÖZYURT",
+    "id": 20171
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, SABIRGAZİ",
+    "id": 20172
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "YENİKENT, GÖLCÜK",
+    "id": 20173
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "YENİKENT, İBRAHİMKAHYA",
+    "id": 20174
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ULUOYMAK",
+    "id": 20175
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "UMURBEY",
+    "id": 20176
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "SALUR",
+    "id": 20177
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, CAMİKEBİR",
+    "id": 20178
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "GÖKLER, KUZEY",
+    "id": 20179
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "SAYGILAR",
+    "id": 20180
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "YENİKENT, HAMZABEY",
+    "id": 20181
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "DAYINLAR",
+    "id": 20182
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "KUMTAŞ",
+    "id": 20183
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "YENİKENT, YENİ",
+    "id": 20184
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "GEDİZOSB",
+    "id": 20185
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "MUHİPLER",
+    "id": 20186
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, AKÇAALAN",
+    "id": 20187
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, HİSAR",
+    "id": 20188
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, İSMETPAŞA",
+    "id": 20189
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "ESKİGEDİZ, PARK",
+    "id": 20190
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "GAZİKEMAL",
+    "id": 20191
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "GEDİZ",
+    "MAHALLE": "HACIBABA",
+    "id": 20192
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "100. YIL",
+    "id": 20193
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKKENT",
+    "id": 20194
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ANDIZ",
+    "id": 20195
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AĞAÇKÖY",
+    "id": 20196
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "75. YIL",
+    "id": 20197
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALİPAŞA",
+    "id": 20198
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AYDOĞDU",
+    "id": 20199
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CİVLİ",
+    "id": 20200
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEYİTÖMER, GÜLTEPE",
+    "id": 20201
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SİNER",
+    "id": 20202
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SULTANBAĞI",
+    "id": 20203
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GEVEN",
+    "id": 20204
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIAZİZLER",
+    "id": 20205
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÖREKÇİLER",
+    "id": 20206
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "30 AĞUSTOS",
+    "id": 20207
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALAYUNT",
+    "id": 20208
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 20209
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 20210
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SOFU",
+    "id": 20211
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜVEÇÇİ",
+    "id": 20212
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "LALA HÜSEYİN PAŞA",
+    "id": 20213
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MECİDİYE",
+    "id": 20214
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PARMAKÖREN",
+    "id": 20215
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZAFERTEPE",
+    "id": 20216
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEMALETTİN",
+    "id": 20217
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İKİZÜYÜK",
+    "id": 20218
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MALTEPE",
+    "id": 20219
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 20220
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MÜDERRİS",
+    "id": 20221
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 20222
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PERLİ",
+    "id": 20223
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YONCALI",
+    "id": 20224
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 20225
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OK MEYDANI",
+    "id": 20226
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİĞRA",
+    "id": 20227
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAY",
+    "id": 20228
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEDİT",
+    "id": 20229
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20230
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ENNE",
+    "id": 20231
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "G. KEMAL",
+    "id": 20232
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÖLÜCEK",
+    "id": 20233
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇALCA",
+    "id": 20234
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FUATPAŞA",
+    "id": 20235
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNKÖY",
+    "id": 20236
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRGILLI",
+    "id": 20237
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇALCA OSB",
+    "id": 20238
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 20239
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OKÇU",
+    "id": 20240
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 20241
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20242
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALIKLI",
+    "id": 20243
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 20244
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSHAK SEYDİ",
+    "id": 20245
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEYİTÖMER, SEYİTLER",
+    "id": 20246
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EVLİYA ÇELEBİ",
+    "id": 20247
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KUMARI",
+    "id": 20248
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MARUF",
+    "id": 20249
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PİRLER",
+    "id": 20250
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAYBİEFENDİ",
+    "id": 20251
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 20252
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİRAZPINAR",
+    "id": 20253
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PAŞAM SULTAN",
+    "id": 20254
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEFA",
+    "id": 20255
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ BOSNA",
+    "id": 20256
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 20257
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 20258
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEYDAN",
+    "id": 20259
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEYİTÖMER, BOZCAHÖYÜK",
+    "id": 20260
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAİR ŞEYHİ DUMLUPINAR",
+    "id": 20261
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SERVİ",
+    "id": 20262
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİRAAT",
+    "id": 20263
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ASLANAPA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 20264
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ASLANAPA",
+    "MAHALLE": "YALNIZSARAY",
+    "id": 20265
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ASLANAPA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20266
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ASLANAPA",
+    "MAHALLE": "PINARBAŞI",
+    "id": 20267
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "YAKUPLAR ATATÜRK",
+    "id": 20268
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "ADNANMENDERES",
+    "id": 20269
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "ATATÜRK",
+    "id": 20270
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 20271
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "AYVALI",
+    "id": 20272
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "FATİH",
+    "id": 20273
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "HOCAAHMETYESEVİ",
+    "id": 20274
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "PAZARLAR",
+    "MAHALLE": "YAKUPLAR FATİH",
+    "id": 20275
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, BALIKÖY-KARAŞEHİR",
+    "id": 20276
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, BALIKÖY-KIŞLA",
+    "id": 20277
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ÇUKURKÖY",
+    "id": 20278
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "KAVAKLI",
+    "id": 20279
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ADA",
+    "id": 20280
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "HANIMÇEŞME",
+    "id": 20281
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, BALIKÖY-KADI",
+    "id": 20282
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "İSTASYON",
+    "id": 20283
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, BALIKÖY-MERKEZ",
+    "id": 20284
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 20285
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "DURAK",
+    "id": 20286
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "KARAKOVA",
+    "id": 20287
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "DEDELER",
+    "id": 20288
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ÇIRÇIRÇEŞME",
+    "id": 20289
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "DAĞÇEŞME",
+    "id": 20290
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BEYKÖY",
+    "id": 20291
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BAĞLIK",
+    "id": 20292
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, SOLUGANLAR",
+    "id": 20293
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "BALIKÖY, BALIKÖY-ÇIVGALAR",
+    "id": 20294
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "MOYMUL",
+    "id": 20295
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TEPECİK, TEPECİK-YUKARI",
+    "id": 20296
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "SUBAŞI",
+    "id": 20297
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, TUNÇBİLEK-IŞIK",
+    "id": 20298
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "KURUÇAY, KURUÇAY-GÜZELYURT",
+    "id": 20299
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "KURUÇAY, KURUÇAY-ÖREN",
+    "id": 20300
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, YUNÇBİLEK MERKEZ",
+    "id": 20301
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, TUNÇBİLEK-DEMİRBİLEK",
+    "id": 20302
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, TUNÇBİLEK-KÖPRÜBAŞI",
+    "id": 20303
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ULUCAMİ",
+    "id": 20304
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TEPECİK, TEPECİK-ORTA",
+    "id": 20305
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, GÜRAĞAÇ ÇINAR",
+    "id": 20306
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 20307
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, GÜRAĞAÇ CEVİZLİ",
+    "id": 20308
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "YENİ",
+    "id": 20309
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, TUNÇBİLEK-ÇAMALTI",
+    "id": 20310
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TEPECİK, TEPECİK-AŞAĞI",
+    "id": 20311
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "KURUÇAY, KURUÇAY-KOCAPINAR",
+    "id": 20312
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "ÖMERBEY",
+    "id": 20313
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "TAVŞANLI",
+    "MAHALLE": "TUNÇBİLEK, TUNÇBİLEK-HAMİTABAT",
+    "id": 20314
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "82.YIL",
+    "id": 20315
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 20316
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 20317
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 20318
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20319
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "HİSARCIK",
+    "MAHALLE": "YEŞİLHİSAR",
+    "id": 20320
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ÇAVDARHİSAR",
+    "MAHALLE": "CERELLER",
+    "id": 20321
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ÇAVDARHİSAR",
+    "MAHALLE": "MEYDAN",
+    "id": 20322
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ÇAVDARHİSAR",
+    "MAHALLE": "YUKARI",
+    "id": 20323
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ÇAVDARHİSAR",
+    "MAHALLE": "KEMALLER",
+    "id": 20324
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "TÜREGÜN",
+    "id": 20325
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "KARACADERBENT",
+    "id": 20326
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "HACI HASANLAR",
+    "id": 20327
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "PAZAR",
+    "id": 20328
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "KARAAĞIL",
+    "id": 20329
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "SUBAŞI",
+    "id": 20330
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ŞAPHANE",
+    "MAHALLE": "KALABAK",
+    "id": 20331
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20332
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 20333
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "ÇUKURCA, OSMANLI",
+    "id": 20334
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "HASANTEPE",
+    "id": 20335
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "ÇUKURCA, KÜÇÜKLER",
+    "id": 20336
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "ÇUKURCA, CUMHURİYET",
+    "id": 20337
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "HİSAR",
+    "id": 20338
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "DOMANİÇ",
+    "MAHALLE": "ÇUKURCA, ILICAKSU",
+    "id": 20339
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "DEMİRCİ, KARACALAR",
+    "id": 20340
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "101 EVLER",
+    "id": 20341
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "AKDAĞ, SAVCILAR",
+    "id": 20342
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "GÜNEY, CUMA",
+    "id": 20343
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "4 EYLÜL",
+    "id": 20344
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "FATİH",
+    "id": 20345
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "CUMA",
+    "id": 20346
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "ÇAVDIR",
+    "id": 20347
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "DEMİRCİ, ÇAYSİMAV",
+    "id": 20348
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "DEMİRCİ, DEMİRCİ",
+    "id": 20349
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "DEMİRCİ, ÖREYLER",
+    "id": 20350
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "HİSARARDI",
+    "id": 20351
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KUŞU, KADILAR",
+    "id": 20352
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KUŞU, DERE",
+    "id": 20353
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "MURADINLAR",
+    "id": 20354
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "YENİ",
+    "id": 20355
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "ÇİTGÖL, CAMİİ KEBİR",
+    "id": 20356
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "HACIAHMETOĞLU",
+    "id": 20357
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "AKDAĞ, KINIK",
+    "id": 20358
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "ÇİTGÖL, CUMHURİYET",
+    "id": 20359
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "AKDAĞ, CEVİZLİK",
+    "id": 20360
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "TABAKHANE",
+    "id": 20361
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KEKLİKTEPE",
+    "id": 20362
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "ESENEVLER",
+    "id": 20363
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "TEPECİK",
+    "id": 20364
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "DEĞİRMENCİLER",
+    "id": 20365
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KUŞU, YENİ",
+    "id": 20366
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "NAŞA, FATİH",
+    "id": 20367
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KARAKÜR",
+    "id": 20368
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "SIRAPAYAM",
+    "id": 20369
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 20370
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "NAŞA, CUMHURİYET",
+    "id": 20371
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "NAŞA, HAMZABEY",
+    "id": 20372
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "GÜNEY, FATİH",
+    "id": 20373
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "KUŞU, KAYA",
+    "id": 20374
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "SİMAV",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 20375
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ALTINTAŞ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20376
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ALTINTAŞ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 20377
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ALTINTAŞ",
+    "MAHALLE": "BOZBAY",
+    "id": 20378
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ALTINTAŞ",
+    "MAHALLE": "YENİ",
+    "id": 20379
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "ALTINTAŞ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 20380
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "ESENTEPE",
+    "id": 20381
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "AKPINAR",
+    "id": 20382
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "HAMAM",
+    "id": 20383
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "KAPAKLICA",
+    "id": 20384
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "KAYNARCA",
+    "id": 20385
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "ÇALCAĞIL",
+    "id": 20386
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20387
+  },
+  {
+    "İL": "KÜTAHYA",
+    "İLÇE": "EMET",
+    "MAHALLE": "DERE",
+    "id": 20388
+  }
+]

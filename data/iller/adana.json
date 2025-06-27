@@ -1,0 +1,4994 @@
+[
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BÜYÜKBURHANİYE",
+    "id": 1
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 2
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "GÜMÜRDÜLÜ",
+    "id": 3
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "İNCEYER",
+    "id": 4
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "İNÖNÜ",
+    "id": 5
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KILIÇKAYA",
+    "id": 6
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KIZILDERE",
+    "id": 7
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MODERNEVLER",
+    "id": 8
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AZİZLİ",
+    "id": 9
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇİFTLİKLER",
+    "id": 10
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "HAMİTBEYBUCAĞI",
+    "id": 11
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SARIMAZI",
+    "id": 12
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 13
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÜÇDUTYEŞİLOVA",
+    "id": 14
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ADAPINAR",
+    "id": 15
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AĞAÇLI",
+    "id": 16
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "CAMUZAĞILI",
+    "id": 17
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇAKALDERE",
+    "id": 18
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇATAKLI",
+    "id": 19
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇEVRETEPE",
+    "id": 20
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 21
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "IRMAKLI",
+    "id": 22
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BURHANİYE",
+    "id": 23
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BURHANLI",
+    "id": 24
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 25
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DOKUZTEKNE",
+    "id": 26
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "GÜNLÜCE",
+    "id": 27
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "İSTİKLAL",
+    "id": 28
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MERCİN",
+    "id": 29
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "TATARLI",
+    "id": 30
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ULUS",
+    "id": 31
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇATALHÜYÜK",
+    "id": 32
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 33
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 34
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DORUK",
+    "id": 35
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 36
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÖRKUYU",
+    "id": 37
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MUSTAFABEYLİ",
+    "id": 38
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BÜYÜKKIRIM",
+    "id": 39
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 40
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ISIRGANLI",
+    "id": 41
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KARAKAYALI",
+    "id": 42
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KORUKLU",
+    "id": 43
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÜÇÜKKIRIM",
+    "id": 44
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MURADİYE",
+    "id": 45
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SİRKELİ",
+    "id": 46
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ŞAHİN ÖZBİLEN",
+    "id": 47
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ŞEHİT HACI İBRAHİM",
+    "id": 48
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "TUMLU",
+    "id": 49
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DAĞISTAN",
+    "id": 50
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "GAZİ OSMAN PAŞA",
+    "id": 51
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SAĞKAYA",
+    "id": 52
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SARIMAZI SB",
+    "id": 53
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "VEYSİYE",
+    "id": 54
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YEŞİLDAM",
+    "id": 55
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AYDINLAR",
+    "id": 56
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BAŞÖREN",
+    "id": 57
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BİRKENT",
+    "id": 58
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "İSALI",
+    "id": 59
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KURTKULAĞI",
+    "id": 60
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "TATLIKUYU",
+    "id": 61
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YARSUAT",
+    "id": 62
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YILANKALE",
+    "id": 63
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AĞAÇPINAR",
+    "id": 64
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ERENLER",
+    "id": 65
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 66
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÖSRELİ",
+    "id": 67
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 68
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "EMEK",
+    "id": 69
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "HAMİDİYE",
+    "id": 70
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "İMRAN",
+    "id": 71
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 72
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SARIBAHÇE",
+    "id": 73
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SARISAKAL",
+    "id": 74
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AYDEMİROĞLU",
+    "id": 75
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DUTLUPINAR",
+    "id": 76
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ELMAGÖLÜ",
+    "id": 77
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SELİMİYE",
+    "id": 78
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ADATEPE",
+    "id": 79
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ATATÜRK",
+    "id": 80
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MERCİMEK",
+    "id": 81
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YALAK",
+    "id": 82
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YELLİBEL",
+    "id": 83
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BÜYÜKMANGIT",
+    "id": 84
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ÇOKÇAPINAR",
+    "id": 85
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "DURHASANDEDE",
+    "id": 86
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "EKİNYAZI",
+    "id": 87
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KELEMETİ",
+    "id": 88
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KURTPINAR",
+    "id": 89
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÜÇÜKBURHANİYE",
+    "id": 90
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ALTIKARA",
+    "id": 91
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ALTIOCAK",
+    "id": 92
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BELEDİYE EVLERİ",
+    "id": 93
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "CİVANTAYAK",
+    "id": 94
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "HAMDİLLİ",
+    "id": 95
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KONAKOĞLU",
+    "id": 96
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÜÇÜKMANGIT",
+    "id": 97
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "NARLIK",
+    "id": 98
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "TOKTAMIŞ",
+    "id": 99
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ALTIGÖZBEKİRLİ",
+    "id": 100
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "HAMİTBEY",
+    "id": 101
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KIVRIKLI",
+    "id": 102
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "MİTHAT PAŞA",
+    "id": 103
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SAĞIRLAR",
+    "id": 104
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "SOYSALLI",
+    "id": 105
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "YEŞİLBAHÇE",
+    "id": 106
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "AKDAM",
+    "id": 107
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "BOTA",
+    "id": 108
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "CEYHANBEKİRLİ",
+    "id": 109
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KÖPRÜLÜ",
+    "id": 110
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "KUZUCAK",
+    "id": 111
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "NAZIMBEY YENİKÖY",
+    "id": 112
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "CEYHAN",
+    "MAHALLE": "ZÜBEYDE HANIM",
+    "id": 113
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "KARAKIŞLAKÇI",
+    "id": 114
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "BELEMEDİK",
+    "id": 115
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "ZAFER",
+    "id": 116
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "AKÇATEKİR",
+    "id": 117
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "YAĞLITAŞ",
+    "id": 118
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "AŞÇIBEKİRLİ",
+    "id": 119
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 120
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "GÖKBEZ",
+    "id": 121
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "HAMİDİYE",
+    "id": 122
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "YENİKONACIK",
+    "id": 123
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "YUKARIBELEMEDİK",
+    "id": 124
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "ÖMERLİ",
+    "id": 125
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "İSTİKLAL",
+    "id": 126
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "ALPU",
+    "id": 127
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "DAĞDİBİ",
+    "id": 128
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "ESKİKONACIK",
+    "id": 129
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "YAZICAK",
+    "id": 130
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "FINDIKLI",
+    "id": 131
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 132
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "KAMIŞLI",
+    "id": 133
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "POZANTI",
+    "MAHALLE": "KURTULUŞ",
+    "id": 134
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "HUZUREVLERİ",
+    "id": 135
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KOCATEPE",
+    "id": 136
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "ÖRCÜN",
+    "id": 137
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KARSLILAR",
+    "id": 138
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "YURT",
+    "id": 139
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "SALBAŞESENTEPE",
+    "id": 140
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KARAHAN",
+    "id": 141
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KÜÇÜKÇINAR",
+    "id": 142
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "YENİ",
+    "id": 143
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "BEYAZEVLER",
+    "id": 144
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KAŞOBA",
+    "id": 145
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 146
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "MAHFESIĞMAZ",
+    "id": 147
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KABASAKAL",
+    "id": 148
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "PİRİLİ",
+    "id": 149
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "YÜZÜNCÜYIL",
+    "id": 150
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "BELEDİYE EVLERİ",
+    "id": 151
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "BOZCALAR",
+    "id": 152
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "ESENTEPE",
+    "id": 153
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "DÖRTLER",
+    "id": 154
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "TOROS",
+    "id": 155
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "GÖKKUYU",
+    "id": 156
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "GÜZELYALI",
+    "id": 157
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "FADIL",
+    "id": 158
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "KURTTEPE",
+    "id": 159
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "ŞAMBAYADI",
+    "id": 160
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ÇUKUROVA",
+    "MAHALLE": "MEMİŞLİ",
+    "id": 161
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "BEYPINARI",
+    "id": 162
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "ÇORAK",
+    "id": 163
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "CIVIKLI",
+    "id": 164
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "AVCIPINARI",
+    "id": 165
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "HİMMETLİ",
+    "id": 166
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "FATİH",
+    "id": 167
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 168
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "TÜLÜ",
+    "id": 169
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "KAPAKLIKUYU",
+    "id": 170
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "YEŞİLBAĞLAR",
+    "id": 171
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "GÖKMENLER",
+    "id": 172
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "TOPALLAR",
+    "id": 173
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "ÇERALAN",
+    "id": 174
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "KARAKUYU",
+    "id": 175
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "ÇATAK",
+    "id": 176
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "İSLAM",
+    "id": 177
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "CUMHURLU",
+    "id": 178
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "KANDİLLİ",
+    "id": 179
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "MAHMUTLU",
+    "id": 180
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "GÜRLEŞEN",
+    "id": 181
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "HALİLBEYLİ",
+    "id": 182
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "AYVACIK",
+    "id": 183
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "YARDİBİ",
+    "id": 184
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "AKSAAĞAÇ",
+    "id": 185
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "DEĞİRMENCİUŞAĞI",
+    "id": 186
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "EYÜPLÜ",
+    "id": 187
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 188
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SAİMBEYLİ",
+    "MAHALLE": "NALTAŞ",
+    "id": 189
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BUCAK",
+    "id": 190
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇECELİ",
+    "id": 191
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KAPIKAYA",
+    "id": 192
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KARAHASANLI",
+    "id": 193
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KARAKILIÇ",
+    "id": 194
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "GÖKHASANLI",
+    "id": 195
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "HACILI",
+    "id": 196
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "HACIMUSALI",
+    "id": 197
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KOCAVELİLER",
+    "id": 198
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "NUHLU",
+    "id": 199
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "SARIMEHMETLİ",
+    "id": 200
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KIRALAN",
+    "id": 201
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "AKÇALI",
+    "id": 202
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "AŞAĞIYÖRÜKLER",
+    "id": 203
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇUKUR",
+    "id": 204
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "DÖŞEKEVİ",
+    "id": 205
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KUYUCU",
+    "id": 206
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BARAKDAĞI",
+    "id": 207
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BOLACALI",
+    "id": 208
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇAKALLI",
+    "id": 209
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KARAPINAR",
+    "id": 210
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KUŞCUSOFULU",
+    "id": 211
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "TATIK",
+    "id": 212
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BEYDEMİR",
+    "id": 213
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "MURTÇUKURU",
+    "id": 214
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇATALAN",
+    "id": 215
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "MARAŞLI",
+    "id": 216
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "SAYPINAR",
+    "id": 217
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "GÜVENÇ",
+    "id": 218
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "SADIKALİ",
+    "id": 219
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BAŞKIF",
+    "id": 220
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "DURAK",
+    "id": 221
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "EĞLENCE",
+    "id": 222
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ETEKLİ",
+    "id": 223
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "GİLDİRLİ",
+    "id": 224
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KÖRÜKLÜ",
+    "id": 225
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "MERKEZBOZTAHTA",
+    "id": 226
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KUZGUN",
+    "id": 227
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "TOPKARALI",
+    "id": 228
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "TORUNSOLAKLI",
+    "id": 229
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ALTINOVA",
+    "id": 230
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "DEMİRÇİT",
+    "id": 231
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "GÜLÜŞLÜ",
+    "id": 232
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KALEDAĞI",
+    "id": 233
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KIRIKLI",
+    "id": 234
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "AŞAĞIBELEMEDİK",
+    "id": 235
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "AYAKKIF",
+    "id": 236
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇOCUKLAR",
+    "id": 237
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "TÜMENLİ",
+    "id": 238
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇEVLİK",
+    "id": 239
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "AKTAŞ",
+    "id": 240
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "BEKİRLİ",
+    "id": 241
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÇORLU",
+    "id": 242
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "EMELCİK",
+    "id": 243
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "FİLİKLİ",
+    "id": 244
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "KARAKUYU",
+    "id": 245
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "NERGİZLİK",
+    "id": 246
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "TOPAKTAŞ",
+    "id": 247
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "FETTAHLI",
+    "id": 248
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "ÖMERLİ",
+    "id": 249
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "SELAMPINAR",
+    "id": 250
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARAİSALI",
+    "MAHALLE": "YAZIBAŞI",
+    "id": 251
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "DOĞANLI",
+    "id": 252
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "AKÇAL",
+    "id": 253
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "GÜZELİM",
+    "id": 254
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 255
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "KİRAZLIYURT",
+    "id": 256
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "TAŞPINAR",
+    "id": 257
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "YENİCAMİ",
+    "id": 258
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 259
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "KAYAPINAR",
+    "id": 260
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "AKPINAR",
+    "id": 261
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "DEMİROLUK",
+    "id": 262
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "DAMLALI",
+    "id": 263
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "DOĞANBEYLİ",
+    "id": 264
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "AYVAT",
+    "id": 265
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "TOZLU",
+    "id": 266
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 267
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "KARSAVRAN",
+    "id": 268
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "YAMANLI",
+    "id": 269
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 270
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "KOCCAĞIZ",
+    "id": 271
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "ŞAR",
+    "id": 272
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "İĞDEBEL",
+    "id": 273
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "BOLATPINARI",
+    "id": 274
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "BOZGÜNEY",
+    "id": 275
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "ÇATALÇAM",
+    "id": 276
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "ÇUKURKIŞLA",
+    "id": 277
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "EVCİ",
+    "id": 278
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "HANYERİ",
+    "id": 279
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "KAYARCIK",
+    "id": 280
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "ELEMANLI",
+    "id": 281
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "FATMAKUYU",
+    "id": 282
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "PEKMEZLİ",
+    "id": 283
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "TUFANBEYLİ",
+    "MAHALLE": "PINARLAR",
+    "id": 284
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÇAĞIRKANLI",
+    "id": 285
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DOĞANKENT KIŞLA",
+    "id": 286
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GEÇİTLİ CUMHURİYET",
+    "id": 287
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "HAYDAROĞLU",
+    "id": 288
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AYDINCIK",
+    "id": 289
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DANIŞMENT",
+    "id": 290
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 291
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DENİZKUYUSU",
+    "id": 292
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ABDİOĞLU CUMHURİYET",
+    "id": 293
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ATATÜRK",
+    "id": 294
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "BEYKÖY",
+    "id": 295
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "CIRIK",
+    "id": 296
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "CİNE",
+    "id": 297
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AKDAM",
+    "id": 298
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AKINCILAR",
+    "id": 299
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ALİHOCALI",
+    "id": 300
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GÜMÜŞYAZI",
+    "id": 301
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AKDENİZ",
+    "id": 302
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AKPINAR",
+    "id": 303
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DOĞANKENT CUMHURİYET",
+    "id": 304
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "İNCİRLİK CUMHURİYET",
+    "id": 305
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "P.T.T",
+    "id": 306
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SEYHAN",
+    "id": 307
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ŞAHİNAĞA",
+    "id": 308
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "TAHSİLLİ",
+    "id": 309
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 310
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ZAĞARLI",
+    "id": 311
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YAMAÇLI",
+    "id": 312
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "HEREKLİ",
+    "id": 313
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KÖPRÜGÖZÜ",
+    "id": 314
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SİNANPAŞA",
+    "id": 315
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YERDELEN",
+    "id": 316
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KADIKÖY",
+    "id": 317
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SELAHATTİN EYYUBİ",
+    "id": 318
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YAHŞİLER",
+    "id": 319
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YENİKÖY",
+    "id": 320
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KOZA",
+    "id": 321
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SERİNEVLER",
+    "id": 322
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YAVUZLAR",
+    "id": 323
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YUNUSOĞLU CUMHURİYET",
+    "id": 324
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "HAVUTLU",
+    "id": 325
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KARAAHMETLİ",
+    "id": 326
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KİREMİTHANE",
+    "id": 327
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KÖPRÜLÜ",
+    "id": 328
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "PEKMEZLİ",
+    "id": 329
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KAMIŞLI",
+    "id": 330
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KAYARLI",
+    "id": 331
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KIŞLA",
+    "id": 332
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YAKAPINAR",
+    "id": 333
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YUKARIÇİÇEKLİ",
+    "id": 334
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "CAMİLİ",
+    "id": 335
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DADALOĞLU",
+    "id": 336
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AĞZIBÜYÜK",
+    "id": 337
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 338
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÇOTLU",
+    "id": 339
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "BAŞAK",
+    "id": 340
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "BELÖREN",
+    "id": 341
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DEDEPINARI",
+    "id": 342
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DÜZCE",
+    "id": 343
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "EĞRİAĞAÇ",
+    "id": 344
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DEDE KORKUT",
+    "id": 345
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DOĞANKENT BAHÇELİEVLER",
+    "id": 346
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "AKARCALI",
+    "id": 347
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ANADOLU",
+    "id": 348
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ATAKENT",
+    "id": 349
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÇELEMLİ",
+    "id": 350
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "DERVİŞLER",
+    "id": 351
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 352
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 353
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "19 MAYIS",
+    "id": 354
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "BÜYÜKKAPILI",
+    "id": 355
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÇATALPINAR",
+    "id": 356
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ESENLER",
+    "id": 357
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 358
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 359
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "LEVENT",
+    "id": 360
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SAKIZLI",
+    "id": 361
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "TAŞÇI",
+    "id": 362
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ESKİ MİSİS",
+    "id": 363
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GÜZELEVLER",
+    "id": 364
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "HACIALİ",
+    "id": 365
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KÜTÜKLÜ",
+    "id": 366
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "MUTLU",
+    "id": 367
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÖZLER",
+    "id": 368
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SAĞDIÇLI",
+    "id": 369
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "HAVRANİYE",
+    "id": 370
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "IRMAKBAŞI",
+    "id": 371
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ÖZGÜR",
+    "id": 372
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 373
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ŞEYHMURAT",
+    "id": 374
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 375
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KAŞLICA",
+    "id": 376
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "GÜVELOĞLU",
+    "id": 377
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 378
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "KÖKLÜCE",
+    "id": 379
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ULUBATLI HASAN",
+    "id": 380
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SAZAK",
+    "id": 381
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SARIÇAM",
+    "id": 382
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 383
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "ŞEHİT ERKUT AKBAY",
+    "id": 384
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YALNIZCA",
+    "id": 385
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YUNUSOĞLU HÜRRİYET",
+    "id": 386
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SOLAKLI CUMHURİYET",
+    "id": 387
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "SOLAKLI HÜRRİYET",
+    "id": 388
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "VAYVAYLI",
+    "id": 389
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YENİCE",
+    "id": 390
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YÜREĞİR",
+    "MAHALLE": "YEŞİL BAĞLAR",
+    "id": 391
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ÇÜRÜKLER",
+    "id": 392
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GÜRÜMZE",
+    "id": 393
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KAŞALTI",
+    "id": 394
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 395
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 396
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "TORTULU",
+    "id": 397
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "BAHÇECİK",
+    "id": 398
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "HIDIRUŞAĞI",
+    "id": 399
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ORUÇLU",
+    "id": 400
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "AKKAYA",
+    "id": 401
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 402
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "MUSALAR",
+    "id": 403
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "OLUCAK",
+    "id": 404
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ORMANCIK",
+    "id": 405
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "TENKERLİ",
+    "id": 406
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "TOKMANAKLI",
+    "id": 407
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "BAĞDATLI",
+    "id": 408
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KAZANCI",
+    "id": 409
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KIZILYER",
+    "id": 410
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "SÜPHANDERE",
+    "id": 411
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "UĞURLUBAĞ",
+    "id": 412
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "BELENKÖY",
+    "id": 413
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KISACIKLI",
+    "id": 414
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KOÇYAZI",
+    "id": 415
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "YAYLAPINAR",
+    "id": 416
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "YEŞİL DÜŞMÜŞ",
+    "id": 417
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "YEREBAKAN",
+    "id": 418
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ÇANDIRLAR",
+    "id": 419
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KAYADİBİ",
+    "id": 420
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KEKLİKÇİ",
+    "id": 421
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "İNCİRCİ",
+    "id": 422
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "İSLAM",
+    "id": 423
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "AKOLUK",
+    "id": 424
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GAFFARUŞAĞI",
+    "id": 425
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KARACAUŞAĞI",
+    "id": 426
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GÖBELLİ",
+    "id": 427
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KOVUKÇINAR",
+    "id": 428
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "SÜLEMİŞLİ",
+    "id": 429
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "DEĞİRMENCİUŞAĞI",
+    "id": 430
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GÜZPINARI",
+    "id": 431
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KALEYÜZÜ",
+    "id": 432
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "PAŞALI",
+    "id": 433
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ŞAHMURATLI",
+    "id": 434
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "ÇONDU",
+    "id": 435
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "GEDİKLİ",
+    "id": 436
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KIRIKUŞAĞI",
+    "id": 437
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "KONAKKURAN",
+    "id": 438
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "FEKE",
+    "MAHALLE": "MANSURLU",
+    "id": 439
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "SUGÖZÜ",
+    "id": 440
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "HAMZALI",
+    "id": 441
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "ÖREN",
+    "id": 442
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "DEVECİUŞAĞI",
+    "id": 443
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KESMEBURUN",
+    "id": 444
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "AYVALIK",
+    "id": 445
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KIRMIZIDAM",
+    "id": 446
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "HAYLAZLI",
+    "id": 447
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "YUMURTALIK",
+    "id": 448
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "GÖLOVASI",
+    "id": 449
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "AKYUVA",
+    "id": 450
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 451
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "AKDENİZ",
+    "id": 452
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "AYAS",
+    "id": 453
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "ZEYTİNBELİ",
+    "id": 454
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KUZUPINARI",
+    "id": 455
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KALEMLİ",
+    "id": 456
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "ASMALI",
+    "id": 457
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "DEVRİŞİYE",
+    "id": 458
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KALDIRIM",
+    "id": 459
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "YENİKÖY",
+    "id": 460
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 461
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 462
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "YUMURTALIK",
+    "MAHALLE": "NARLIÖREN",
+    "id": 463
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "AYVALI",
+    "id": 464
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ÇÖRTEN",
+    "id": 465
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "MALIHIDIRLI",
+    "id": 466
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "YAZITEPE",
+    "id": 467
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ULUÇINAR",
+    "id": 468
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "YENİEVLER",
+    "id": 469
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "OTLUK",
+    "id": 470
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "SAYCA",
+    "id": 471
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ALİLER",
+    "id": 472
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "CAMİLİ",
+    "id": 473
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ADALET",
+    "id": 474
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ALAYBEYİ",
+    "id": 475
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "FATİH",
+    "id": 476
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "TUNA",
+    "id": 477
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 478
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "UFACIKÖREN",
+    "id": 479
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "DANACILI",
+    "id": 480
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "MENTEŞ",
+    "id": 481
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "PEKMEZCİ",
+    "id": 482
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "SAYGEÇİT",
+    "id": 483
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "HÜRRİYET",
+    "id": 484
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "SEVİNÇLİ",
+    "id": 485
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "AĞZIKARACA",
+    "id": 486
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 487
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "SOKUTAŞ",
+    "id": 488
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "HACIHASANLI",
+    "id": 489
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "İMAMOĞLU",
+    "MAHALLE": "KOYUNEVİ",
+    "id": 490
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KIZILDAM",
+    "id": 491
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "AKÖREN",
+    "id": 492
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KÜP",
+    "id": 493
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "AKPINAR",
+    "id": 494
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "MAZILIK",
+    "id": 495
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "YÜKSEKÖREN",
+    "id": 496
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "BAŞPINAR",
+    "id": 497
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "BOZTAHTA",
+    "id": 498
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "CERİTLER",
+    "id": 499
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "DAİLER",
+    "id": 500
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "EBRİŞİM",
+    "id": 501
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KÖKEZ",
+    "id": 502
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "POSYAĞBASAN",
+    "id": 503
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "DÖLEKLİ",
+    "id": 504
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KABASAKAL",
+    "id": 505
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KICAK",
+    "id": 506
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "SİNANPAŞA",
+    "id": 507
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "DARILIK",
+    "id": 508
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KÖPRÜCÜK",
+    "id": 509
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "UZUNKUYU",
+    "id": 510
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KIŞLAK",
+    "id": 511
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "MANSURLU",
+    "id": 512
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "TOPALLI",
+    "id": 513
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "GÖKÇEKÖY",
+    "id": 514
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "KARAHAN",
+    "id": 515
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "YETİMLİ",
+    "id": 516
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "GERDİBİ",
+    "id": 517
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "MADENLİ",
+    "id": 518
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "BÜYÜKSOFULU",
+    "id": 519
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "GİREĞİYENİKÖY",
+    "id": 520
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "ALADAĞ",
+    "MAHALLE": "EĞNER",
+    "id": 521
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BUCAK",
+    "id": 522
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇUKURÖREN",
+    "id": 523
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GÖKGÖZ",
+    "id": 524
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KAHVELİ",
+    "id": 525
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TUFANPAŞA",
+    "id": 526
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BULDUKLU",
+    "id": 527
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 528
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KUYTUCAK",
+    "id": 529
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÖRENDERE",
+    "id": 530
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 531
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "FERHATLI",
+    "id": 532
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "HAMAM",
+    "id": 533
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "İDEMKÖY",
+    "id": 534
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÖZBAŞI",
+    "id": 535
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "POSTKABASAKAL",
+    "id": 536
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇAMDERE",
+    "id": 537
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DURALUŞAĞI",
+    "id": 538
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "FAYDALI",
+    "id": 539
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "MAHYALAR",
+    "id": 540
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ŞERİFLİ",
+    "id": 541
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TURUNÇLU",
+    "id": 542
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YANALERİK",
+    "id": 543
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AKDAM",
+    "id": 544
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BAĞÖZÜ",
+    "id": 545
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DİLEKKAYA",
+    "id": 546
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GÖKÇEYOL",
+    "id": 547
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GÜNERİ",
+    "id": 548
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ILICA",
+    "id": 549
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KALKUMAÇ",
+    "id": 550
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TUFANLI",
+    "id": 551
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AYDIN",
+    "id": 552
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KARAHAMZALI",
+    "id": 553
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KIZLARSEKİSİ",
+    "id": 554
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "MARANKEÇİLİ",
+    "id": 555
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "PEKMEZCİ",
+    "id": 556
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "VARSAKLAR",
+    "id": 557
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YARIMOĞLU",
+    "id": 558
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AKÇALIUŞAĞI",
+    "id": 559
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AKKAYA",
+    "id": 560
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ARSLANLI",
+    "id": 561
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BOZTAHTA",
+    "id": 562
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DURMUŞLU",
+    "id": 563
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "IŞIKKAYA",
+    "id": 564
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "IŞIKLI",
+    "id": 565
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TAVŞANTEPE",
+    "id": 566
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YÜKSEKÖREN",
+    "id": 567
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ERGENUŞAĞI",
+    "id": 568
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KIZILLAR",
+    "id": 569
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KÖSELİ",
+    "id": 570
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "MİNNETLİ",
+    "id": 571
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AKARCA",
+    "id": 572
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BAĞTEPE",
+    "id": 573
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇAMLARCA",
+    "id": 574
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ENİZÇAKIRI",
+    "id": 575
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ESKİKABASAKAL",
+    "id": 576
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "HACIMİRZALI",
+    "id": 577
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ORUÇLU",
+    "id": 578
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ŞEVKİYE",
+    "id": 579
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TEPECİKÖREN",
+    "id": 580
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ACARMANTAŞ",
+    "id": 581
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇANAKLI",
+    "id": 582
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇELENUŞAĞI",
+    "id": 583
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ESKİMANTAŞ",
+    "id": 584
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KABAKTEPE",
+    "id": 585
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KARABUCAK",
+    "id": 586
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KEMERKÖY",
+    "id": 587
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "SALMANLI",
+    "id": 588
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YUKARIKEÇİLİ",
+    "id": 589
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ZERDALİ",
+    "id": 590
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AĞLIBOĞAZ",
+    "id": 591
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ARSLANPAŞA",
+    "id": 592
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇOKAK",
+    "id": 593
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇÜRÜKLÜ",
+    "id": 594
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DÜZAĞAÇ",
+    "id": 595
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GAZİ",
+    "id": 596
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TURGUTLU",
+    "id": 597
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "YASSIÇALI",
+    "id": 598
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "BAĞLAR",
+    "id": 599
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇOBANPINARI",
+    "id": 600
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "HACIUŞAĞI",
+    "id": 601
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ORÇAN",
+    "id": 602
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇULLUUŞAĞI",
+    "id": 603
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DAMYERİ",
+    "id": 604
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GEDİKLİ",
+    "id": 605
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "HACIBEYLİ",
+    "id": 606
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KUYULUK",
+    "id": 607
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DOĞANALANI",
+    "id": 608
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "GÖRBEYAZ",
+    "id": 609
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 610
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ALAPINAR",
+    "id": 611
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ANDIL",
+    "id": 612
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "AYŞEHOCA",
+    "id": 613
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "ÇANDIK",
+    "id": 614
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KAPIKAYA",
+    "id": 615
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KARANEBİLİ",
+    "id": 616
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TAŞ",
+    "id": 617
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "VELİCANLI",
+    "id": 618
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 619
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KARACAÖREN",
+    "id": 620
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KIBRISLAR",
+    "id": 621
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "KUYUBELİ",
+    "id": 622
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "MAHMUTLU",
+    "id": 623
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KOZAN",
+    "MAHALLE": "TÜRKELİ",
+    "id": 624
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "GÖLKAYA",
+    "id": 625
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "İSAHACILI",
+    "id": 626
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "SARIMSAK",
+    "id": 627
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TABAKLAR",
+    "id": 628
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "YENİ",
+    "id": 629
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ADALI",
+    "id": 630
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "BAHÇE",
+    "id": 631
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KIZILTAHTA",
+    "id": 632
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "MELETMEZ",
+    "id": 633
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ÇAĞŞIRLI",
+    "id": 634
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TOPRAKLI",
+    "id": 635
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "DOLAPLI",
+    "id": 636
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "HASIRAĞACI",
+    "id": 637
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TABUR",
+    "id": 638
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TERLİKSİZ",
+    "id": 639
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ÇAKIRÖREN",
+    "id": 640
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "HELVACI",
+    "id": 641
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "SİRKENLİ",
+    "id": 642
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "YEMİŞLİ",
+    "id": 643
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "HACIHASAN",
+    "id": 644
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ORTA",
+    "id": 645
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "YÜZBAŞI",
+    "id": 646
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "BEBELİ",
+    "id": 647
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "YASSIVEREN",
+    "id": 648
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "YENİMURAT",
+    "id": 649
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KİREMİTLİ",
+    "id": 650
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ATAKÖY",
+    "id": 651
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ÇİMELİ",
+    "id": 652
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ÇUKURKAMIŞ",
+    "id": 653
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KARAGÖÇER",
+    "id": 654
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KARATAŞ",
+    "id": 655
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KESİK",
+    "id": 656
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 657
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 658
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KIRHASAN",
+    "id": 659
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TUZKUYUSU",
+    "id": 660
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KEMALİYE",
+    "id": 661
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "İNNEPLİHÜYÜĞÜ",
+    "id": 662
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "KAPI",
+    "id": 663
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "TUZLA",
+    "id": 664
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "DAMLAPINAR",
+    "id": 665
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "DEVELİÖREN",
+    "id": 666
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "KARATAŞ",
+    "MAHALLE": "OYMAKLI",
+    "id": 667
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BÜYÜKDİKİLİ",
+    "id": 668
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "FATİH",
+    "id": 669
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GÖKÇELER",
+    "id": 670
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KOZA",
+    "id": 671
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SERİNEVLER",
+    "id": 672
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 673
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SUCUZADE",
+    "id": 674
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ŞAKİRPAŞA",
+    "id": 675
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "UÇAK",
+    "id": 676
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KAYALIBAĞ",
+    "id": 677
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KÜÇÜKDİKİLİ",
+    "id": 678
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "2000 EVLER",
+    "id": 679
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ÇINARLI",
+    "id": 680
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 681
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "NARLICA",
+    "id": 682
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YENİBEY",
+    "id": 683
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 684
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BEY",
+    "id": 685
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "HAVUZLUBAHÇE",
+    "id": 686
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KARAYUSUFLU",
+    "id": 687
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KOCAVEZİR",
+    "id": 688
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 689
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YEŞİLYUVA",
+    "id": 690
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ÇAPUTÇU",
+    "id": 691
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DERVİŞLER",
+    "id": 692
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "EMEK",
+    "id": 693
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GÜLBAHÇESİ",
+    "id": 694
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GÜRSELPAŞA",
+    "id": 695
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "HANEDAN",
+    "id": 696
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MÜRSELOĞLU",
+    "id": 697
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "REŞATBEY",
+    "id": 698
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SALMANBEYLİ",
+    "id": 699
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "AHMET REMZİ YÜREĞİR",
+    "id": 700
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 701
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MEYDAN",
+    "id": 702
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "TELLİDERE",
+    "id": 703
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SÜMER",
+    "id": 704
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YEŞİLOBA",
+    "id": 705
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "TEPEBAĞ",
+    "id": 706
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ALİDEDE",
+    "id": 707
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "AKKAPI",
+    "id": 708
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BARIŞ",
+    "id": 709
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "CEMALPAŞA",
+    "id": 710
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 711
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SAKARYA",
+    "id": 712
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SARIHAMZALI",
+    "id": 713
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "TÜRKOCAĞI",
+    "id": 714
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ULUCAMİİ",
+    "id": 715
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YALMANLI",
+    "id": 716
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YOLGEÇEN",
+    "id": 717
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KAYIŞLI",
+    "id": 718
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KOYUNCU",
+    "id": 719
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KURTULUŞ",
+    "id": 720
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KÜÇÜKÇILDIRIM",
+    "id": 721
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MİRZAÇELEBİ",
+    "id": 722
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 723
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 724
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 725
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 726
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GÜLPINAR",
+    "id": 727
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KARAKUYU",
+    "id": 728
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KURUKÖPRÜ",
+    "id": 729
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KUYUMCULAR",
+    "id": 730
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "PINAR",
+    "id": 731
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ŞEHİTDURAN",
+    "id": 732
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YENİBARAJ",
+    "id": 733
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 734
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YENİ",
+    "id": 735
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BÜYÜKÇILDIRIM",
+    "id": 736
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BAHÇEŞEHİR",
+    "id": 737
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BARBAROS",
+    "id": 738
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "CAMUZCU",
+    "id": 739
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KARASOKU",
+    "id": 740
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MEKAN",
+    "id": 741
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MESTANZADE",
+    "id": 742
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "MIDIK",
+    "id": 743
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SARIYAKUP",
+    "id": 744
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ZİYAPAŞA",
+    "id": 745
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "AYDINLAR",
+    "id": 746
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "BEŞOCAK",
+    "id": 747
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DÖŞEME",
+    "id": 748
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "HURMALI",
+    "id": 749
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KÖYLÜOĞLU",
+    "id": 750
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "OVA",
+    "id": 751
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "SARIHUĞLAR",
+    "id": 752
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YENİDAM",
+    "id": 753
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DAĞLIOĞLU",
+    "id": 754
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DENİZLİ",
+    "id": 755
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DÖRTAĞAÇ",
+    "id": 756
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "İSTİKLAL",
+    "id": 757
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "KAVAKLI",
+    "id": 758
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "DEMETEVLER",
+    "id": 759
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 760
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "HADIRLI",
+    "id": 761
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "ONUR",
+    "id": 762
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SEYHAN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 763
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BURUK CUMHURİYET",
+    "id": 764
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BAYRAM HACILI",
+    "id": 765
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BEYCELİ",
+    "id": 766
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇAMLICA",
+    "id": 767
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "HÜRRİYET",
+    "id": 768
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KAŞOBASI",
+    "id": 769
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KÜÇÜKBAKLALI",
+    "id": 770
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 771
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 772
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "EĞECİUŞAĞI",
+    "id": 773
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KARAYUSUFLU",
+    "id": 774
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 775
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "DUTLUCA",
+    "id": 776
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "HAKKIBEYLİ",
+    "id": 777
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "İSTİKLAL",
+    "id": 778
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 779
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "HOCALLI",
+    "id": 780
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KIZILKAŞ",
+    "id": 781
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 782
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YÜREKLİ",
+    "id": 783
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ACIDEREOSB",
+    "id": 784
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "AFLAK",
+    "id": 785
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "AKKUYU",
+    "id": 786
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "DAĞCI",
+    "id": 787
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "MENEKŞE",
+    "id": 788
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "MUSTAFALAR",
+    "id": 789
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ŞAHİNTEPE",
+    "id": 790
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 791
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "AVCILAR",
+    "id": 792
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BALCALI",
+    "id": 793
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BOZTEPE",
+    "id": 794
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "GÖKBUKET",
+    "id": 795
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KILIÇLI",
+    "id": 796
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 797
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "AYDINYURDU",
+    "id": 798
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 799
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "TURUNÇLU",
+    "id": 800
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ACIDERE",
+    "id": 801
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "CERENLİ",
+    "id": 802
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇİRİŞGEDİĞİ",
+    "id": 803
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KILBAŞ",
+    "id": 804
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "CİHADİYE",
+    "id": 805
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "GÜLTEPE",
+    "id": 806
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "MALTEPE",
+    "id": 807
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "SULUCA",
+    "id": 808
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BÜYÜK BAKLALI",
+    "id": 809
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YARIMCA",
+    "id": 810
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "AYVALI",
+    "id": 811
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "BOYNUYOĞUN",
+    "id": 812
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ESENTEPE",
+    "id": 813
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "GÖZTEPE",
+    "id": 814
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "HASANBEYLİ",
+    "id": 815
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KARAÖMERLİ",
+    "id": 816
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "MÜMİNLİ",
+    "id": 817
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KARLIK",
+    "id": 818
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KEPEZTEPE",
+    "id": 819
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "SARIÇAM",
+    "id": 820
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KÖSEFAKILI",
+    "id": 821
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 822
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "REMZİ OĞUZ ARIK",
+    "id": 823
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YENİ",
+    "id": 824
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇARKIPARE",
+    "id": 825
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇINARLI",
+    "id": 826
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "KARGAKEKEÇ",
+    "id": 827
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÜNLÜCE",
+    "id": 828
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YENİYAYLA",
+    "id": 829
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "ÇAYLI",
+    "id": 830
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "SOFUDEDE",
+    "id": 831
+  },
+  {
+    "İL": "ADANA",
+    "İLÇE": "SARIÇAM",
+    "MAHALLE": "YAĞIZLAR",
+    "id": 832
+  }
+]

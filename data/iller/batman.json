@@ -1,0 +1,818 @@
+[
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "KAYAPINAR, PINARBAŞI",
+    "id": 6104
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 6105
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "ÇUKURÇEŞME",
+    "id": 6106
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6107
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "KAYAPINAR, YEŞİLYURT",
+    "id": 6108
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "GERCÜŞ",
+    "MAHALLE": "YOLAĞZI",
+    "id": 6109
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "ERDEMLİ",
+    "id": 6110
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "TEKİNLER",
+    "id": 6111
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "AYKUT OZAN",
+    "id": 6112
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "KAYABAŞI",
+    "id": 6113
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, KOÇKAYA",
+    "id": 6114
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "DEMETEVLER",
+    "id": 6115
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "ORTA",
+    "id": 6116
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YAYLATEPE",
+    "id": 6117
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 6118
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 6119
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, TEPE",
+    "id": 6120
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, YILDIZ",
+    "id": 6121
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "AŞAĞI",
+    "id": 6122
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 6123
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6124
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "SEVEK",
+    "id": 6125
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 6126
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, AYDINLIK",
+    "id": 6127
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "EMEK",
+    "id": 6128
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 6129
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YENİ",
+    "id": 6130
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YUKARI",
+    "id": 6131
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, KARŞIYAKA",
+    "id": 6132
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, BİNEKLİ",
+    "id": 6133
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 6134
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YEŞİLLER",
+    "id": 6135
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 6136
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "KURTULUŞ",
+    "id": 6137
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "TEKEVLER",
+    "id": 6138
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, BARIŞ",
+    "id": 6139
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "BEŞEVLER",
+    "id": 6140
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "GÜRPINAR",
+    "id": 6141
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YÜCEBAĞ, GÜNLÜCE",
+    "id": 6142
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "YILDIZ",
+    "id": 6143
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "HAYDAR",
+    "id": 6144
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "SASON",
+    "MAHALLE": "ZAFER",
+    "id": 6145
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEŞEVLER",
+    "id": 6146
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEKİRHAN, ORTAÇAY",
+    "id": 6147
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEKİRHAN, YAPRAKLI",
+    "id": 6148
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 6149
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BAHÇELİ",
+    "id": 6150
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEKİRHAN, ADNAN MENDERES",
+    "id": 6151
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "AĞAÇLIK",
+    "id": 6152
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEKİRHAN,GÜLPINAR",
+    "id": 6153
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "BEKİRHAN, TURGUT ÖZAL",
+    "id": 6154
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "AŞAĞIGÜNEŞLİ",
+    "id": 6155
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 6156
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "İSLAMBEY",
+    "id": 6157
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KOMANDO",
+    "id": 6158
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 6159
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "SELAHADDİNİ EYYUBİ",
+    "id": 6160
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YOLÜSTÜ",
+    "id": 6161
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KALE",
+    "id": 6162
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6163
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YAMAÇLI",
+    "id": 6164
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YUKARI GÜNEŞLİ",
+    "id": 6165
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "ŞEMDİNAĞA",
+    "id": 6166
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 6167
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 6168
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KAVAKLI",
+    "id": 6169
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "TEPEÜSTÜ",
+    "id": 6170
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YENİ",
+    "id": 6171
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "TEPECİK",
+    "id": 6172
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "KARPUZLU",
+    "id": 6173
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "YOLALTI",
+    "id": 6174
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "KOZLUK",
+    "MAHALLE": "HAMAM",
+    "id": 6175
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6176
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "KALE",
+    "id": 6177
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "RAMAN",
+    "id": 6178
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "EYYUBİ",
+    "id": 6179
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6180
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "HASANKEYF",
+    "MAHALLE": "DİCLE",
+    "id": 6181
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAY",
+    "id": 6182
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 6183
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKYÜREK",
+    "id": 6184
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALPINAR, YENİKÖY",
+    "id": 6185
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUDİ",
+    "id": 6186
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HİLAL",
+    "id": 6187
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLAR",
+    "id": 6188
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6189
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HUZUR",
+    "id": 6190
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KORİK",
+    "id": 6191
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAP",
+    "id": 6192
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 6193
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 6194
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 6195
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GİRBEREŞİK",
+    "id": 6196
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALPINAR, SEYRANTEPE",
+    "id": 6197
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇARŞI",
+    "id": 6198
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 6199
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜNEYKENT",
+    "id": 6200
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 6201
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KISMET",
+    "id": 6202
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEYİTLER",
+    "id": 6203
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 6204
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TİLMERC",
+    "id": 6205
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "19 MAYIS",
+    "id": 6206
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6207
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 6208
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İRMİ",
+    "id": 6209
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALPINAR, YENİMAHALLE",
+    "id": 6210
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARDELEN",
+    "id": 6211
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PETROL",
+    "id": 6212
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 6213
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEYDAN",
+    "id": 6214
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 6215
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6216
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAFAK",
+    "id": 6217
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PAZARYERİ",
+    "id": 6218
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİYAGÖKALP",
+    "id": 6219
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALPINAR, SEGİRKAN",
+    "id": 6220
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İLUH",
+    "id": 6221
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYINDIR",
+    "id": 6222
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BELDE",
+    "id": 6223
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 6224
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RAMAN",
+    "id": 6225
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SİTE",
+    "id": 6226
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 6227
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAĞLIK",
+    "id": 6228
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEŞEVLER",
+    "id": 6229
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PETROLKENT",
+    "id": 6230
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "BAĞDU",
+    "id": 6231
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "BEHREM YOĞUN",
+    "id": 6232
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "KOBİN",
+    "id": 6233
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "MİLLİ EGEMENLİK",
+    "id": 6234
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "İKİKÖPRÜ, KARADUMAN",
+    "id": 6235
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "İKİKÖPRÜ, KIYANÇ",
+    "id": 6236
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "İKİKÖPRÜ, TURGUT ÖZAL",
+    "id": 6237
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "MEHMET YATKIN",
+    "id": 6238
+  },
+  {
+    "İL": "BATMAN",
+    "İLÇE": "BEŞİRİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6239
+  }
+]

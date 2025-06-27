@@ -1,0 +1,530 @@
+[
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "ÇELEBİ",
+    "MAHALLE": "BARBAROS",
+    "id": 18161
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "ÇELEBİ",
+    "MAHALLE": "FATİH",
+    "id": 18162
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "ÇELEBİ",
+    "MAHALLE": "GÜLVEREN",
+    "id": 18163
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "ÇELEBİ",
+    "MAHALLE": "YENİ",
+    "id": 18164
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 18165
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 18166
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 18167
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "ZAFER",
+    "id": 18168
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 18169
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "HOCA AHMET YESEVİ",
+    "id": 18170
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "MAREŞAL FEVZİ ÇAKMAK",
+    "id": 18171
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KARAKEÇİLİ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 18172
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 18173
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YENİ",
+    "id": 18174
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YÜKSELEN",
+    "id": 18175
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YAYLA",
+    "id": 18176
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YENİHAYAT",
+    "id": 18177
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YILDIZ",
+    "id": 18178
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "SULAKYURT",
+    "MAHALLE": "YENİ ÖZ",
+    "id": 18179
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "KADIOĞLU",
+    "id": 18180
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "HACIBEY",
+    "id": 18181
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "DOĞANLIK",
+    "id": 18182
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "EMİRLER",
+    "id": 18183
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "ALAADDİN",
+    "id": 18184
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 18185
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "YEŞİL VADİ",
+    "id": 18186
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 18187
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "BAYRAKTEPE",
+    "id": 18188
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "YAHŞİHAN",
+    "MAHALLE": "ERENLER",
+    "id": 18189
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "YENİCE",
+    "id": 18190
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 18191
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "BOZKURT",
+    "id": 18192
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "ALTUNTAŞ",
+    "id": 18193
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "YENİ",
+    "id": 18194
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "KESKİN",
+    "MAHALLE": "MADEN",
+    "id": 18195
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BALIŞEYH",
+    "MAHALLE": "BALLI",
+    "id": 18196
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BALIŞEYH",
+    "MAHALLE": "OBA",
+    "id": 18197
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BALIŞEYH",
+    "MAHALLE": "YENİ",
+    "id": 18198
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BALIŞEYH",
+    "MAHALLE": "TOKİ",
+    "id": 18199
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 18200
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 18201
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİMESKİ",
+    "id": 18202
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 18203
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 18204
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ETİLER",
+    "id": 18205
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜRLER",
+    "id": 18206
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 18207
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 18208
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACILAR, ALTINOVA",
+    "id": 18209
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACILAR, SAĞLIK",
+    "id": 18210
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OVACIK",
+    "id": 18211
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANAYİ",
+    "id": 18212
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUVA",
+    "id": 18213
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜSEYİN KAHYA",
+    "id": 18214
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜZELTEPE",
+    "id": 18215
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRIKKÖYÜ",
+    "id": 18216
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILIRMAK",
+    "id": 18217
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SELİM ÖZER",
+    "id": 18218
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞAĞIMAHMUTLAR",
+    "id": 18219
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇULLU",
+    "id": 18220
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 18221
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAYLACIK",
+    "id": 18222
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇALILIÖZ",
+    "id": 18223
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FABRİKALAR",
+    "id": 18224
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 18225
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACILAR, HACIBEY",
+    "id": 18226
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALETEPE",
+    "id": 18227
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 18228
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 18229
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 18230
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "AKTEPE",
+    "id": 18231
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "ÇERİKLİ, YENİ",
+    "id": 18232
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "ÇERİKLİ, MERKEZ",
+    "id": 18233
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 18234
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "GÜNDÜZ",
+    "id": 18235
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "KARABEKİR",
+    "id": 18236
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "ÇERİKLİ, SAKARYA",
+    "id": 18237
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 18238
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18239
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "ÇERİKLİ, GÖKÇEBEL",
+    "id": 18240
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "ÇERİKLİ, YERLİKENT",
+    "id": 18241
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "FATİH",
+    "id": 18242
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "DELİCE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 18243
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BAHŞILI",
+    "MAHALLE": "ATADÖNMEZ",
+    "id": 18244
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BAHŞILI",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 18245
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BAHŞILI",
+    "MAHALLE": "DOĞANAY",
+    "id": 18246
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BAHŞILI",
+    "MAHALLE": "HÜSEYİN ONBAŞI",
+    "id": 18247
+  },
+  {
+    "İL": "KIRIKKALE",
+    "İLÇE": "BAHŞILI",
+    "MAHALLE": "BAHÇELİ",
+    "id": 18248
+  }
+]

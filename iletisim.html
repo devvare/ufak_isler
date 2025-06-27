@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marmaris'te İletişim - Ufak İşler</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile-fixes.css">
+    <link rel="stylesheet" href="css/header-fix.css">
+    <link rel="stylesheet" href="css/dropdown-fix.css">
+    <link rel="stylesheet" href="css/mobile-menu-fix.css">
+    <link rel="stylesheet" href="css/floating-button-fix.css">
+    <link rel="stylesheet" href="css/additional_styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,15 +22,23 @@
     <header>
         <div class="container">
             <div class="logo">
-                <h1>Ufak İşler</h1>
+                <a href="index.html">
+                    <img src="img/logo_light.png" alt="Ufak İşler Logo">
+                    <span class="logo-text">Ufak İşler</span>
+                </a>
             </div>
             <nav>
                 <ul>
                     <li><a href="index.html">Ana Sayfa</a></li>
-                    <li><a href="hizmetler.html">Hizmetlerimiz</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
                     <li><a href="nasil-calisir.html">Nasıl Çalışır?</a></li>
                     <li><a href="diy.html">Kendin Yap</a></li>
-                    <li><a href="hizmet-bolgeleri.html">Hizmet Bölgelerimiz</a></li>
                     <li><a href="hakkimizda.html">Hakkımızda</a></li>
                     <li><a href="iletisim.html">İletişim</a></li>
                 </ul>
@@ -75,128 +89,20 @@
                     <p>Pazartesi - Cumartesi: 08:00 - 20:00</p>
                     <p>Pazar: 10:00 - 18:00</p>
                 </div>
-                <div class="contact-card">
-                    <div class="contact-icon">
-                        <i class="fas fa-map-marker-alt"></i>
-                    </div>
-                    <h3>Hizmet Bölgesi</h3>
-                    <p><strong>Marmaris</strong> ve çevresi</p>
-                    <p>Şu an sadece Marmaris'te hizmet vermekteyiz</p>
-                </div>
             </div>
         </div>
     </section>
 
-    <!-- WhatsApp İletişim Kartları -->
-    <section class="whatsapp-contact-section">
-        <div class="container">
-            <div class="section-header">
-                <h2>Hızlı İletişim</h2>
-                <p>Tek tıkla WhatsApp üzerinden bize ulaşın</p>
-            </div>
-            <div class="whatsapp-contact-cards">
-                <div class="whatsapp-contact-card">
-                    <div class="card-icon">
-                        <i class="fas fa-tools"></i>
-                    </div>
-                    <h3>Tadilat Talebi</h3>
-                    <p>Evinizde yapılması gereken tadilat işleri için hemen iletişime geçin</p>
-                    <a href="https://wa.me/+905XXXXXXXXX?text=Merhaba,%20tadilat%20talebim%20var" class="btn btn-primary whatsapp-btn">
-                        <i class="fab fa-whatsapp"></i> Tadilat Talebi Gönder
-                    </a>
-                </div>
-                <div class="whatsapp-contact-card">
-                    <div class="card-icon">
-                        <i class="fas fa-question-circle"></i>
-                    </div>
-                    <h3>Fiyat Bilgisi</h3>
-                    <p>Hizmetlerimizin fiyatları hakkında bilgi almak için iletişime geçin</p>
-                    <a href="https://wa.me/+905XXXXXXXXX?text=Merhaba,%20fiyat%20bilgisi%20almak%20istiyorum" class="btn btn-primary whatsapp-btn">
-                        <i class="fab fa-whatsapp"></i> Fiyat Bilgisi İste
-                    </a>
-                </div>
-                <div class="whatsapp-contact-card">
-                    <div class="card-icon">
-                        <i class="fas fa-calendar-alt"></i>
-                    </div>
-                    <h3>Randevu Al</h3>
-                    <p>Size uygun bir zaman dilimi için randevu oluşturmak için iletişime geçin</p>
-                    <a href="https://wa.me/+905XXXXXXXXX?text=Merhaba,%20randevu%20almak%20istiyorum" class="btn btn-primary whatsapp-btn">
-                        <i class="fab fa-whatsapp"></i> Randevu Al
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- WhatsApp Bilgi -->
-    <section class="whatsapp-info">
-        <div class="container">
-            <div class="whatsapp-box">
-                <div class="whatsapp-icon">
-                    <i class="fab fa-whatsapp"></i>
-                </div>
-                <div class="whatsapp-content">
-                    <h2>WhatsApp ile Hızlı İletişim</h2>
-                    <p>En hızlı yanıt ve hizmet için WhatsApp üzerinden bize ulaşabilirsiniz. Sorununuzun fotoğrafını veya videosunu göndererek daha hızlı çözüm alabilirsiniz.</p>
-                    <div class="whatsapp-steps">
-                        <div class="whatsapp-step">
-                            <div class="step-number">1</div>
-                            <p>WhatsApp'ı açın</p>
-                        </div>
-                        <div class="whatsapp-step">
-                            <div class="step-number">2</div>
-                            <p>+90545 864 6613 numarasına mesaj gönderin</p>
-                        </div>
-                        <div class="whatsapp-step">
-                            <div class="step-number">3</div>
-                            <p>Sorununuzu anlatın ve fotoğraf/video ekleyin</p>
-                        </div>
-                    </div>
-                    <a href="https://wa.me/+905XXXXXXXXX" class="btn btn-primary whatsapp-btn">
-                        <i class="fab fa-whatsapp"></i> WhatsApp'tan Yazın
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- SSS -->
-    <section class="contact-faq">
-        <div class="container">
-            <div class="section-header">
-                <h2>Sıkça Sorulan Sorular</h2>
-                <p>İletişim hakkında merak edilenler</p>
-            </div>
-            <div class="faq-container">
-                <div class="faq-item">
-                    <div class="faq-question">
-                        <h3>Ne kadar hızlı yanıt alırım?</h3>
-                        <i class="fas fa-chevron-down"></i>
-                    </div>
-                    <div class="faq-answer">
-                        <p>WhatsApp mesajlarına genellikle 30 dakika içinde yanıt veriyoruz. Çalışma saatleri dışında gönderilen mesajlara ise bir sonraki iş günü içinde dönüş yapıyoruz.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-question">
-                        <h3>Fiyat teklifi almak için ne yapmalıyım?</h3>
-                        <i class="fas fa-chevron-down"></i>
-                    </div>
-                    <div class="faq-answer">
-                        <p>Fiyat teklifi almak için WhatsApp üzerinden sorununuzun detaylı bir açıklamasını ve mümkünse fotoğrafını/videosunu göndermeniz yeterlidir. Size en kısa sürede dönüş yapacağız.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-question">
-                        <h3>Hangi ödeme yöntemlerini kabul ediyorsunuz?</h3>
-                        <i class="fas fa-chevron-down"></i>
-                    </div>
-                    <div class="faq-answer">
-                        <p>Nakit ve banka havalesi/EFT ile ödeme kabul ediyoruz. İş tamamlandıktan sonra ödeme alınmaktadır. Büyük işlerde kısmi ön ödeme talep edilebilir.</p>
-                    </div>
-                </div>
-            </div>
+    
+
+    <!-- Bizimle Çalışın CTA -->
+    <section class="container">
+        <div class="join-us-cta">
+            <h3>Ekibimize Katılmak İster misiniz?</h3>
+            <p>Ufak İşler ekibinin bir parçası olarak kendi bölgenizde hizmet verebilirsiniz. Esnek çalışma saatleri, adil ücretlendirme ve profesyonel gelişim fırsatları sunuyoruz.</p>
+            <a href="bizimle-calisin.html" class="btn btn-primary">Bizimle Çalışın</a>
         </div>
     </section>
 
@@ -216,7 +122,13 @@
                     <h3>Hızlı Bağlantılar</h3>
                     <ul>
                         <li><a href="index.html">Ana Sayfa</a></li>
-                        <li><a href="hizmetler.html">Hizmetlerimiz</a></li>
+                        <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
                         <li><a href="nasil-calisir.html">Nasıl Çalışır?</a></li>
                         <li><a href="diy.html">Kendin Yap</a></li>
                         <li><a href="hizmet-bolgeleri.html">Hizmet Bölgelerimiz</a></li>
@@ -249,5 +161,5 @@
     </div>
 
     <script src="js/main.js"></script>
-</body>
+    <!-- Floating Bizimle Çalışın Butonu -->    <a href="bizimle-calisin.html" class="floating-btn">       <i class="fas fa-handshake"></i> Bizimle Çalışın    </a></body>
 </html>

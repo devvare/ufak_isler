@@ -1,0 +1,3248 @@
+[
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "FATİH",
+    "id": 11506
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "BEYKÖY",
+    "id": 11507
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "BEYYAYLA",
+    "id": 11508
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "BİLAL HABEŞİ",
+    "id": 11509
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "İĞDİR",
+    "id": 11510
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 11511
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "GÜNEY",
+    "id": 11512
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "KAPIKAYA",
+    "id": 11513
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "DAĞKÜPLÜ",
+    "id": 11514
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "MAYISLAR",
+    "id": 11515
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "SARIKAYA",
+    "id": 11516
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "YENİ",
+    "id": 11517
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "LAÇİN",
+    "id": 11518
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SARICAKAYA",
+    "MAHALLE": "DÜZKÖY",
+    "id": 11519
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "SAKARIILICA",
+    "id": 11520
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "ALPAGUT",
+    "id": 11521
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "DOKUZ MAYIS",
+    "id": 11522
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "KARAOĞLAN",
+    "id": 11523
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 11524
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "BOZANİÇ",
+    "id": 11525
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 11526
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 11527
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALGAZİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 11528
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "BEYYAYLA",
+    "id": 11529
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "DOĞRAY",
+    "id": 11530
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "MERCAN",
+    "id": 11531
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "ÖZLER",
+    "id": 11532
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "KAVACIK",
+    "id": 11533
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "TUTLU",
+    "id": 11534
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "YEŞİLYAKA",
+    "id": 11535
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "KUZÖREN",
+    "id": 11536
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "GÜMÜŞKONAK",
+    "id": 11537
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "SÜMER",
+    "id": 11538
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "BEDİL",
+    "id": 11539
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "ÇARDAKÖZÜ",
+    "id": 11540
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "AYVALI",
+    "id": 11541
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "FATİH",
+    "id": 11542
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "YENİKENT",
+    "id": 11543
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "GECEK",
+    "id": 11544
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "YAZIR",
+    "id": 11545
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "YAĞRI",
+    "id": 11546
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "ATLAS",
+    "id": 11547
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "ÇAKMAK",
+    "id": 11548
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "KAVUNCU",
+    "id": 11549
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "GÜNYÜZÜ",
+    "MAHALLE": "KAYAKENT",
+    "id": 11550
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKCAMİ",
+    "id": 11551
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKKAYA",
+    "id": 11552
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ARİFİYE",
+    "id": 11553
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAALAN",
+    "id": 11554
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SEVİNÇ",
+    "id": 11555
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YÜRÜKKARACAÖREN",
+    "id": 11556
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKÇAĞLAN",
+    "id": 11557
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKPINAR",
+    "id": 11558
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÜMELE",
+    "id": 11559
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KIRAVDAN",
+    "id": 11560
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "VİŞNELİK",
+    "id": 11561
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YASSIHÖYÜK",
+    "id": 11562
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YENİKENT",
+    "id": 11563
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YUKARIILICA",
+    "id": 11564
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YUKARIKALABAK",
+    "id": 11565
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "71 EVLER",
+    "id": 11566
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "EMEK",
+    "id": 11567
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ERENKÖY",
+    "id": 11568
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAPAZAR",
+    "id": 11569
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KURTULUŞ",
+    "id": 11570
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "MUSALAR",
+    "id": 11571
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SÜMER",
+    "id": 11572
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KALKANLI",
+    "id": 11573
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARACAHÖYÜK",
+    "id": 11574
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 11575
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KAYACIK",
+    "id": 11576
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "TÜRKMENTOKAT",
+    "id": 11577
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "DEDE",
+    "id": 11578
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÜLPINAR",
+    "id": 11579
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YÜRÜKKIRKA",
+    "id": 11580
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 11581
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "DOĞANKAYA",
+    "id": 11582
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KIRMIZITOPRAK",
+    "id": 11583
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 11584
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SULTANDERE",
+    "id": 11585
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AĞAPINAR",
+    "id": 11586
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKARBAŞI",
+    "id": 11587
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ALANÖNÜ",
+    "id": 11588
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "IHLAMURKENT",
+    "id": 11589
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "İMİŞEHİR",
+    "id": 11590
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAÇAY",
+    "id": 11591
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "DEMİRLİ",
+    "id": 11592
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÖZTEPE",
+    "id": 11593
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 11594
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ŞARKİYE",
+    "id": 11595
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "75.YIL (SULTANDERE)",
+    "id": 11596
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "EŞENKARA",
+    "id": 11597
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÖKMEYDAN",
+    "id": 11598
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "HARMANDALI",
+    "id": 11599
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ORTA",
+    "id": 11600
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AVDAN",
+    "id": 11601
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARGIN",
+    "id": 11602
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "PAŞA",
+    "id": 11603
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YENİSOFÇA",
+    "id": 11604
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AKÇAKAYA",
+    "id": 11605
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AŞAĞIILICA",
+    "id": 11606
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ÇAMLICA",
+    "id": 11607
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ÇANKAYA",
+    "id": 11608
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "75. YIL OSB",
+    "id": 11609
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AŞAĞI ÇAĞLAN",
+    "id": 11610
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "AYVACIK",
+    "id": 11611
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAMUSTAFA",
+    "id": 11612
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ULUÇAYIR",
+    "id": 11613
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YAHNİKAPAN",
+    "id": 11614
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "CUNUDİYE",
+    "id": 11615
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ÇAVLUM",
+    "id": 11616
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARAPINAR",
+    "id": 11617
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SEKLİCE",
+    "id": 11618
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "VADİŞEHİR",
+    "id": 11619
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 11620
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YILDIZTEPE",
+    "id": 11621
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "YUKARIÇAĞLAN",
+    "id": 11622
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "GÜLTEPE",
+    "id": 11623
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KANLIPINAR",
+    "id": 11624
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARATEPE",
+    "id": 11625
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KİREÇ",
+    "id": 11626
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 11627
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SARISUNGUR",
+    "id": 11628
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "DELİKLİTAŞ",
+    "id": 11629
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "HUZUR",
+    "id": 11630
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KARACAŞEHİR",
+    "id": 11631
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KUYUCAK",
+    "id": 11632
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "LÜTFİYE",
+    "id": 11633
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "İSTİKLAL",
+    "id": 11634
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "KAYAPINAR",
+    "id": 11635
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ODUNPAZARI",
+    "MAHALLE": "SÜPÜREN",
+    "id": 11636
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "AŞAĞI SÖĞÜTÖNÜ",
+    "id": 11637
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ALINCA",
+    "id": 11638
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BATIKENT",
+    "id": 11639
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 11640
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HAYRİYE",
+    "id": 11641
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KARAÇOBANPINARI",
+    "id": 11642
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KIZILİNLER",
+    "id": 11643
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YUSUFLAR",
+    "id": 11644
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BOYACIOĞLU",
+    "id": 11645
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "CUMHURİYE",
+    "id": 11646
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "GÖKDERE",
+    "id": 11647
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "NEMLİ",
+    "id": 11648
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 11649
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TUNALI",
+    "id": 11650
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HACI SEYİT",
+    "id": 11651
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "DANİŞMENT",
+    "id": 11652
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "EĞRİÖZ",
+    "id": 11653
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BEYAZALTIN",
+    "id": 11654
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "FEVZİÇAKMAK",
+    "id": 11655
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MERKEZ YENİ",
+    "id": 11656
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MUTTALİP EMİRLER",
+    "id": 11657
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YAKAKAYI",
+    "id": 11658
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BOZDAĞ",
+    "id": 11659
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MUTTALİP ORTA",
+    "id": 11660
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 11661
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YENİAKÇAYIR",
+    "id": 11662
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "IŞIKLAR",
+    "id": 11663
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YENİİNCESU",
+    "id": 11664
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "EMİRCEOĞLU",
+    "id": 11665
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TEKECİLER",
+    "id": 11666
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 11667
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "İHSANİYE",
+    "id": 11668
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ULUDERE",
+    "id": 11669
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YARIMCA",
+    "id": 11670
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YENİBAĞLAR",
+    "id": 11671
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KIZILCAÖREN",
+    "id": 11672
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KOZKAYI",
+    "id": 11673
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "SULUKARAAĞAÇ",
+    "id": 11674
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ŞARHÖYÜK",
+    "id": 11675
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TAYCILAR",
+    "id": 11676
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 11677
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ESKİBAĞLAR",
+    "id": 11678
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HASANBEY",
+    "id": 11679
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KOZLUBEL",
+    "id": 11680
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MOLLAOĞLU",
+    "id": 11681
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MUSTAFA KEMAL PAŞA",
+    "id": 11682
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MUTTALİP KOYUNLAR",
+    "id": 11683
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "SATILMIŞOĞLU",
+    "id": 11684
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TANDIR",
+    "id": 11685
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ZAFER",
+    "id": 11686
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ATALAN",
+    "id": 11687
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "FATİH",
+    "id": 11688
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ULUÖNDER",
+    "id": 11689
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "AHILAR",
+    "id": 11690
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ÇUKURHİSAR YENİ",
+    "id": 11691
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ESENTEPE",
+    "id": 11692
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HEKİMDAĞ",
+    "id": 11693
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KARADERE",
+    "id": 11694
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ŞİRİNTEPE",
+    "id": 11695
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TURGUTLAR",
+    "id": 11696
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ATALANTEKKE",
+    "id": 11697
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ÇALKARA",
+    "id": 11698
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ÇAMLICA",
+    "id": 11699
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "GÜNDÜZLER",
+    "id": 11700
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HACI ALİ BEY",
+    "id": 11701
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KESKİN",
+    "id": 11702
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KUMLUBEL",
+    "id": 11703
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MAMURE",
+    "id": 11704
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "SAKİNTEPE",
+    "id": 11705
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YUKARI SÖĞÜTÖNÜ",
+    "id": 11706
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YÜRÜKAKÇAYIR",
+    "id": 11707
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BULDUKPINAR",
+    "id": 11708
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 11709
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KARAGÖZLER",
+    "id": 11710
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "KAVACIK",
+    "id": 11711
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ÖMERAĞA",
+    "id": 11712
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "YUKARIKARTAL",
+    "id": 11713
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "AVLAMIŞ",
+    "id": 11714
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BEHÇETİYE",
+    "id": 11715
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "BEKTAŞPINARI",
+    "id": 11716
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ÇANAKKIRAN",
+    "id": 11717
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "GÖKÇEKISIK",
+    "id": 11718
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HİSAR",
+    "id": 11719
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "HOŞNUDİYE",
+    "id": 11720
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "SAZOVA",
+    "id": 11721
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "TAKMAK",
+    "id": 11722
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "AŞAĞIKARTAL",
+    "id": 11723
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "GÜLLÜK",
+    "id": 11724
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "MUSAÖZÜ",
+    "id": 11725
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ŞEKER",
+    "id": 11726
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "TEPEBAŞI",
+    "MAHALLE": "ZİNCİRLİKUYU",
+    "id": 11727
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "GÖKÇEKUYU",
+    "id": 11728
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "AKHİSAR",
+    "id": 11729
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "BAŞARA",
+    "id": 11730
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "HACILAR",
+    "id": 11731
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "AĞLARCA",
+    "id": 11732
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "HANKARAAĞAÇ",
+    "id": 11733
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "YAZILI",
+    "id": 11734
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "HÜSREVPAŞA",
+    "id": 11735
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "PEÇENE",
+    "id": 11736
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "AKDERE",
+    "id": 11737
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "ERTEN",
+    "id": 11738
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "KAYI",
+    "id": 11739
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "TEPEKÖY",
+    "id": 11740
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "GÖKÇEYAYLA",
+    "id": 11741
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "HAN",
+    "MAHALLE": "İSKANKUYU",
+    "id": 11742
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "GÜCE",
+    "id": 11743
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "HAMİDİYE",
+    "id": 11744
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "İĞDECİK",
+    "id": 11745
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KARAGEYİKLİ",
+    "id": 11746
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "OTLUK",
+    "id": 11747
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÖMER",
+    "id": 11748
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "AYDINLAR",
+    "id": 11749
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KIZILBÖRÜKLÜ",
+    "id": 11750
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "LÜTFİYE",
+    "id": 11751
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SÜLELER",
+    "id": 11752
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KAYI",
+    "id": 11753
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KOYUNAĞILI",
+    "id": 11754
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "TATARCIK",
+    "id": 11755
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÇARDAK",
+    "id": 11756
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KORUCU",
+    "id": 11757
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "MAHMUTHİSAR",
+    "id": 11758
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SEKİÖREN",
+    "id": 11759
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "DAĞCI",
+    "id": 11760
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SORKUN",
+    "id": 11761
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KARAÇAM",
+    "id": 11762
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SAZAK",
+    "id": 11763
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "BEY",
+    "id": 11764
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KAVAK",
+    "id": 11765
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "AKÇAÖREN",
+    "id": 11766
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÇALÇI",
+    "id": 11767
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "GÜRLEYİK",
+    "id": 11768
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ADAHİSAR",
+    "id": 11769
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "GÜREŞ",
+    "id": 11770
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "AHUR",
+    "id": 11771
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "DİNEK",
+    "id": 11772
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 11773
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÇALKAYA",
+    "id": 11774
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÇUKURÖREN",
+    "id": 11775
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "DÜMREK",
+    "id": 11776
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "GÖZELER",
+    "id": 11777
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "OBRUK",
+    "id": 11778
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SARAY",
+    "id": 11779
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "BAHTİYAR",
+    "id": 11780
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "BELEN",
+    "id": 11781
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "DİKÖZÜ",
+    "id": 11782
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "NARLI",
+    "id": 11783
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "SEKİ",
+    "id": 11784
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "AHURÖZÜ",
+    "id": 11785
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ILICALAR",
+    "id": 11786
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "İKİZAFER",
+    "id": 11787
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "KOZLU",
+    "id": 11788
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "MEDRESE",
+    "id": 11789
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "UŞAKBÜKÜ",
+    "id": 11790
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "ÜÇBAŞLI",
+    "id": 11791
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "YALIMKAYA",
+    "id": 11792
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 11793
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "YAYLA",
+    "id": 11794
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MİHALIÇÇIK",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 11795
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "AYDINLI",
+    "id": 11796
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ELCİK",
+    "id": 11797
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "HIZIRBEY",
+    "id": 11798
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KOÇAŞ",
+    "id": 11799
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "TEKÖREN",
+    "id": 11800
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BENLİYAVER",
+    "id": 11801
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "İLYASPAŞA",
+    "id": 11802
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARAKAYA",
+    "id": 11803
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "NASRETTİN HOCA",
+    "id": 11804
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "OĞLAKÇI",
+    "id": 11805
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YENİCE",
+    "id": 11806
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BABADAT",
+    "id": 11807
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 11808
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARABAŞLI",
+    "id": 11809
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "SARIKAVAK",
+    "id": 11810
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ÇAYKOZ",
+    "id": 11811
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARACAÖREN",
+    "id": 11812
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 11813
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BUHARA",
+    "id": 11814
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "DİNEK",
+    "id": 11815
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "DÜMREK",
+    "id": 11816
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "SIĞIRCIK",
+    "id": 11817
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 11818
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BEYYAZI",
+    "id": 11819
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "GERENLİ",
+    "id": 11820
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARABURHAN",
+    "id": 11821
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARACALAR",
+    "id": 11822
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YENİKÖY",
+    "id": 11823
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "AKTAŞ",
+    "id": 11824
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "AŞAĞIKEPEN",
+    "id": 11825
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BALLIHİSAR",
+    "id": 11826
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "GÜVEMLİ",
+    "id": 11827
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "HÜDAVENDİGAR",
+    "id": 11828
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "PAŞAKADIN",
+    "id": 11829
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "SELİMİYE",
+    "id": 11830
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YUKARIKEPEN",
+    "id": 11831
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BENLİKUYU",
+    "id": 11832
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BİÇER",
+    "id": 11833
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "GÖKTEPE",
+    "id": 11834
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARACAÖRENYAYLASI",
+    "id": 11835
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KINIK",
+    "id": 11836
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 11837
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 11838
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "HAMAMKARAHİSAR",
+    "id": 11839
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KURŞUNLU",
+    "id": 11840
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BÖĞÜRTLEN",
+    "id": 11841
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ÇANDIR",
+    "id": 11842
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "DEMİRCİKÖY",
+    "id": 11843
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KALDIRIMKÖY",
+    "id": 11844
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KURTŞEYH",
+    "id": 11845
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ZEYKÖYÜ",
+    "id": 11846
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ERTUĞRULKÖY",
+    "id": 11847
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KADINCIK",
+    "id": 11848
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARKIN",
+    "id": 11849
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "MEMİK",
+    "id": 11850
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "YAVERÖREN",
+    "id": 11851
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BUZLUCA",
+    "id": 11852
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "DUMLUCA",
+    "id": 11853
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "İĞDECİK",
+    "id": 11854
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "DEMİRCİ",
+    "id": 11855
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "İLÖREN",
+    "id": 11856
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARADAT",
+    "id": 11857
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KERTEK",
+    "id": 11858
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ORTAKLAR",
+    "id": 11859
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "AHİLER",
+    "id": 11860
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "BAHÇECİK",
+    "id": 11861
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "MÜLKKÖY",
+    "id": 11862
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "ELMALI",
+    "id": 11863
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "GEDİK",
+    "id": 11864
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "GÜLÇAYIR",
+    "id": 11865
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KARACAKAYA",
+    "id": 11866
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KILIÇ",
+    "id": 11867
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KUBBELİ",
+    "id": 11868
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "SADIKBAĞI",
+    "id": 11869
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "İBİKSEYDİ",
+    "id": 11870
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "İSTİKLALBAĞI",
+    "id": 11871
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KAYMAZ",
+    "id": 11872
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SİVRİHİSAR",
+    "MAHALLE": "KOLTAN",
+    "id": 11873
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 11874
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YENİYURT",
+    "id": 11875
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "ATA",
+    "id": 11876
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "DOĞANOĞLU",
+    "id": 11877
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YENİ",
+    "id": 11878
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "AŞAĞIDUDAŞ",
+    "id": 11879
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "KÖPRÜBAŞI OSB",
+    "id": 11880
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "DOĞRAY",
+    "id": 11881
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 11882
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YUKARIİĞDEAĞACI",
+    "id": 11883
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "AKKÖPRÜ",
+    "id": 11884
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "SULTANİYE",
+    "id": 11885
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "HALİLBAĞI",
+    "id": 11886
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "AŞAĞIİĞDEAĞACI",
+    "id": 11887
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "RAHMİYE",
+    "id": 11888
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "EMİRCİK",
+    "id": 11889
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "UZUNBURUN",
+    "id": 11890
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 11891
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "GÖKÇEAYVA",
+    "id": 11892
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "İMİKLER",
+    "id": 11893
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "PARSIBEY",
+    "id": 11894
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YALINLI",
+    "id": 11895
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "İKİPINAR",
+    "id": 11896
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "KIZILCAÖREN",
+    "id": 11897
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "OKÇU",
+    "id": 11898
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "BEYLİKOVA",
+    "MAHALLE": "YUKARIDUDAŞ",
+    "id": 11899
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "TOPKAYA",
+    "id": 11900
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "IŞIKLAR",
+    "id": 11901
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "YENİ",
+    "id": 11902
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "AKYURT",
+    "id": 11903
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "TOKATHAN",
+    "id": 11904
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "DOĞANCA",
+    "id": 11905
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "KAYMAZYAYLA",
+    "id": 11906
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 11907
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "BALÇIKHİSAR",
+    "id": 11908
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "HAMİDİYE",
+    "id": 11909
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 11910
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "YENİKÖY",
+    "id": 11911
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "ÇAL",
+    "id": 11912
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 11913
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "TÜRKMENMECİDİYE",
+    "id": 11914
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "FAHRİYE",
+    "id": 11915
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 11916
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "MESUDİYE",
+    "id": 11917
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "MAHMUDİYE",
+    "MAHALLE": "ORTA",
+    "id": 11918
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ASLANBEYLİ",
+    "id": 11919
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÇUKURCA",
+    "id": 11920
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GÖCENOLUK",
+    "id": 11921
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "SANDIKÖZÜ",
+    "id": 11922
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "AKİN",
+    "id": 11923
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "AYVALI",
+    "id": 11924
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GÖKÇEGÜNEY",
+    "id": 11925
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "SARICAİLYAS",
+    "id": 11926
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GÜMÜŞBEL",
+    "id": 11927
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "KIRKA",
+    "id": 11928
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "SALİHLER",
+    "id": 11929
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YARBASAN",
+    "id": 11930
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YAZIDERE",
+    "id": 11931
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÇÜRÜTTÜM",
+    "id": 11932
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "İDRİSYAYLA",
+    "id": 11933
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "NUMANOLUK",
+    "id": 11934
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "OYNAŞ",
+    "id": 11935
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "SANCAR",
+    "id": 11936
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ŞÜKRANLI",
+    "id": 11937
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YUNUS",
+    "id": 11938
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 11939
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "BÜYÜKYAYLA",
+    "id": 11940
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 11941
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "AKSAKLI",
+    "id": 11942
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "CEVİZLİ",
+    "id": 11943
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÇATÖREN",
+    "id": 11944
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GÖKNEBİ",
+    "id": 11945
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "İKİZOLUK",
+    "id": 11946
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "KÜMBET",
+    "id": 11947
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÇUKURAĞIL",
+    "id": 11948
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "DEĞİŞÖREN",
+    "id": 11949
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "DEREBENEK",
+    "id": 11950
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "FETHİYE",
+    "id": 11951
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "KARACALIK",
+    "id": 11952
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "KARAÖREN",
+    "id": 11953
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "BEYKIŞLA",
+    "id": 11954
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "DOĞANÇAYIR",
+    "id": 11955
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "BARDAKÇI",
+    "id": 11956
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YENİKENT",
+    "id": 11957
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "KESENLER",
+    "id": 11958
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÖRENCİK",
+    "id": 11959
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "SARAYÖREN",
+    "id": 11960
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "TAŞLIKKÖY",
+    "id": 11961
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YUKARISÖĞÜT",
+    "id": 11962
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "BEŞSARAY",
+    "id": 11963
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "AŞAĞISÖĞÜT",
+    "id": 11964
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GEMİÇ",
+    "id": 11965
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "İKİÇEŞME",
+    "id": 11966
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "ÜÇSARAY",
+    "id": 11967
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "GÖKBAHÇE",
+    "id": 11968
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "SEYİTGAZİ",
+    "MAHALLE": "YAPILDAK",
+    "id": 11969
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "AŞAĞIKUZFINDIK",
+    "id": 11970
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "DUTLUCA",
+    "id": 11971
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "DEREYALAK",
+    "id": 11972
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "KÜMBET",
+    "id": 11973
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "ERENKÖY",
+    "id": 11974
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "KÜMBETYENİKÖY",
+    "id": 11975
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "ESNEMEZ",
+    "id": 11976
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "ORTA",
+    "id": 11977
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "SEYİTALİKÖYÜ",
+    "id": 11978
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "YENİCE",
+    "id": 11979
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "OKLUBALI",
+    "id": 11980
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 11981
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "YÜRÜKYAYLA",
+    "id": 11982
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "ÇARŞI",
+    "id": 11983
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "KÜMBETAKPINAR",
+    "id": 11984
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "İNÖNÜ",
+    "MAHALLE": "YUKARIKUZFINDIK",
+    "id": 11985
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ARIKAYA",
+    "id": 11986
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "BAŞÖREN",
+    "id": 11987
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "MAMURE",
+    "id": 11988
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "FATİH",
+    "id": 11989
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "FEVZİYE",
+    "id": 11990
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ÇERKEZ ÇUKURHİSAR",
+    "id": 11991
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 11992
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "KARAKAMIŞ",
+    "id": 11993
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ÖZDENK",
+    "id": 11994
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ALAPINAR",
+    "id": 11995
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ÇARDAKBAŞI",
+    "id": 11996
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "BÜĞDÜZ",
+    "id": 11997
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "DEREKÖY",
+    "id": 11998
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "GÖKÇEKAYA",
+    "id": 11999
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "GÖKÇEOĞLU",
+    "id": 12000
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "BAHÇECİK",
+    "id": 12001
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "FEVZİ PAŞA",
+    "id": 12002
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "IŞIKÖREN",
+    "id": 12003
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "SAKARIKARACAÖREN",
+    "id": 12004
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "BELKESE",
+    "id": 12005
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "SARIKAVAK",
+    "id": 12006
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "SÖĞÜTÇÜK",
+    "id": 12007
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "GÜROLUK",
+    "id": 12008
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "UYUZHAMAMKÖYÜ",
+    "id": 12009
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "ESENCE",
+    "id": 12010
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "KOŞMAT",
+    "id": 12011
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "AĞAÇHİSAR",
+    "id": 12012
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 12013
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "AKTEPE",
+    "id": 12014
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "KARACAÖREN",
+    "id": 12015
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "OSMANİYE",
+    "id": 12016
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "YEŞİLDON",
+    "id": 12017
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ALPU",
+    "MAHALLE": "BOZAN",
+    "id": 12018
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ADALAR",
+    "id": 12019
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "BELPINAR",
+    "id": 12020
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "EMİNEKİN",
+    "id": 12021
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ILICABAŞI",
+    "id": 12022
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "YILDIZÖREN",
+    "id": 12023
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ABBASHALİMPAŞA",
+    "id": 12024
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ALİKAN",
+    "id": 12025
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "OSMANİYE",
+    "id": 12026
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "BAŞKURT",
+    "id": 12027
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "KADIKUYUSU",
+    "id": 12028
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "DİKMEN",
+    "id": 12029
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "SARIKAVAK",
+    "id": 12030
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "DİKİLİKAYA",
+    "id": 12031
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "SAİTHALİMPAŞA",
+    "id": 12032
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 12033
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ERBAP",
+    "id": 12034
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "DOĞANAY",
+    "id": 12035
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "HAYRİYE",
+    "id": 12036
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ARSLANLI",
+    "id": 12037
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "YENİ",
+    "id": 12038
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ZAFERHAMİT",
+    "id": 12039
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "KÖRHASAN",
+    "id": 12040
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ORHANİYE",
+    "id": 12041
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "SADIROĞLU",
+    "id": 12042
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ÇİFTÇİ",
+    "id": 12043
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "SAKARYA",
+    "id": 12044
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ÇATMAPINAR",
+    "id": 12045
+  },
+  {
+    "İL": "ESKİŞEHİR",
+    "İLÇE": "ÇİFTELER",
+    "MAHALLE": "ORTAKÖY",
+    "id": 12046
+  }
+]

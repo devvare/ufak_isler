@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ufak İşler - Hizmet Bölgesi</title>
+    <script>
+        // URL'den parametreleri çıkar ve hizmet-bolgesi.html'e yönlendir
+        function redirectToServicePage() {
+            const path = window.location.pathname;
+            const urlParams = new URLSearchParams(window.location.search);
+            
+            // URL formatı: /hizmet/il/ilce/mahalle/hizmet-tipi/personel-durumu/
+            const pathParts = path.split('/').filter(part => part);
+            
+            if (pathParts.length >= 2) {
+                // En az il bilgisi var
+                let redirectUrl = '/hizmet-bolgesi.html?';
+                let params = [];
+                
+                // İl
+                if (pathParts.length >= 2) {
+                    params.push(`il=${encodeURIComponent(pathParts[1])}`);
+                }
+                
+                // İlçe
+                if (pathParts.length >= 3) {
+                    params.push(`ilce=${encodeURIComponent(pathParts[2])}`);
+                }
+                
+                // Mahalle
+                if (pathParts.length >= 4) {
+                    params.push(`mahalle=${encodeURIComponent(pathParts[3])}`);
+                }
+                
+                // Hizmet tipi
+                if (pathParts.length >= 5) {
+                    params.push(`tip=${encodeURIComponent(pathParts[4])}`);
+                }
+                
+                // Personel durumu
+                if (pathParts.length >= 6) {
+                    params.push(`durum=${encodeURIComponent(pathParts[5])}`);
+                }
+                
+                // URL'deki diğer parametreleri de ekle
+                for (const [key, value] of urlParams.entries()) {
+                    params.push(`${key}=${encodeURIComponent(value)}`);
+                }
+                
+                // Yönlendir
+                window.location.href = redirectUrl + params.join('&');
+            } else {
+                // Yeterli bilgi yoksa ana sayfaya yönlendir
+                window.location.href = '/index.html';
+            }
+        }
+        
+        // Sayfa yüklendiğinde yönlendirme yap
+        window.onload = redirectToServicePage;
+    </script>
+</head>
+<body>
+    <p>Yönlendiriliyor...</p>
+</body>
+</html>

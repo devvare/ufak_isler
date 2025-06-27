@@ -1,0 +1,7550 @@
+[
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "AHULU",
+    "id": 26456
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 26457
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KUSÇULU",
+    "id": 26458
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "DERECİK",
+    "id": 26459
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "REŞADİYE",
+    "id": 26460
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KÖKÇÜOĞLU",
+    "id": 26461
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇANDIR",
+    "id": 26462
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 26463
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KIRAN",
+    "id": 26464
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "PAZAR",
+    "id": 26465
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "DEREBAHÇE",
+    "id": 26466
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "GÜZELDERE",
+    "id": 26467
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "AVDAN",
+    "id": 26468
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇİVRİL",
+    "id": 26469
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "FATİH",
+    "id": 26470
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KALE",
+    "id": 26471
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KARASAMSUN",
+    "id": 26472
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "TEPECİK",
+    "id": 26473
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KARADENİZ",
+    "id": 26474
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KIŞLA",
+    "id": 26475
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "UZGUR",
+    "id": 26476
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇATALARMUT",
+    "id": 26477
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇAY",
+    "id": 26478
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "İLYASKÖY",
+    "id": 26479
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "İSTASYON",
+    "id": 26480
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "19 MAYIS",
+    "id": 26481
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ADALET",
+    "id": 26482
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "AŞAĞIAVDAN",
+    "id": 26483
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ATAKÖY",
+    "id": 26484
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 26485
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "HASTANE",
+    "id": 26486
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "AKGÖL",
+    "id": 26487
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "SELAHİYE",
+    "id": 26488
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "YAŞARDOĞU",
+    "id": 26489
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 26490
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ANADOLU",
+    "id": 26491
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "HANÇERLİ",
+    "id": 26492
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KILIÇDEDE",
+    "id": 26493
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 26494
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 26495
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KADAMUT",
+    "id": 26496
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KAPAKLI",
+    "id": 26497
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 26498
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "SAİTBEY",
+    "id": 26499
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "UNKAPANI",
+    "id": 26500
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "BİLMECE",
+    "id": 26501
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ÇELİKALAN",
+    "id": 26502
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "HÜRRİYET",
+    "id": 26503
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ULUGAZİ",
+    "id": 26504
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "BARUTHANE",
+    "id": 26505
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KADİFEKALE",
+    "id": 26506
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "RASATHANE",
+    "id": 26507
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ZAFER",
+    "id": 26508
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 26509
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "CEDİT",
+    "id": 26510
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "GÜRGENDAĞ",
+    "id": 26511
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KADIKÖY",
+    "id": 26512
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KALKANCI",
+    "id": 26513
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "KAVACIK",
+    "id": 26514
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "LİMAN",
+    "id": 26515
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "LİMAN SB",
+    "id": 26516
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "İLKADIM",
+    "MAHALLE": "TOYBELEN",
+    "id": 26517
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ENGİZ",
+    "id": 26518
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "İSTİKLAL",
+    "id": 26519
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ÇEPİNLER",
+    "id": 26520
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "BEYLİK",
+    "id": 26521
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ÇAMLICA",
+    "id": 26522
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "HİBE",
+    "id": 26523
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 26524
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ESENTEPE",
+    "id": 26525
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 26526
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YUKARIENGİZ",
+    "id": 26527
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "AYDINPINAR",
+    "id": 26528
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "CEREKLİ",
+    "id": 26529
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KUMCAĞIZ",
+    "id": 26530
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "BALLICA",
+    "id": 26531
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ÇETİRLİPINAR",
+    "id": 26532
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KUŞKAYASI",
+    "id": 26533
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YÜKSELİŞ",
+    "id": 26534
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 26535
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ESENYER",
+    "id": 26536
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KARAGÖL",
+    "id": 26537
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YÖRÜKLER",
+    "id": 26538
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "DEREKÖY",
+    "id": 26539
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YENİ",
+    "id": 26540
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ÇANDIR",
+    "id": 26541
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KARACAOĞLU",
+    "id": 26542
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KERTME",
+    "id": 26543
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ORMANCIK",
+    "id": 26544
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 26545
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "FINDIKLI",
+    "id": 26546
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "TEPEKÖY",
+    "id": 26547
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 26548
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 26549
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "DAĞKÖY",
+    "id": 26550
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "DÜZKÖY",
+    "id": 26551
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 26552
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "PAZAR",
+    "id": 26553
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 26554
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "19 MAYIS",
+    "MAHALLE": "KÖSEDİK",
+    "id": 26555
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ARSLANÇAYIRI",
+    "id": 26556
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "AŞAĞI YAVUCAK",
+    "id": 26557
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇAMYATAĞI",
+    "id": 26558
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MEMDUHİYE",
+    "id": 26559
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "19 MAYIS",
+    "id": 26560
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BOYALICA",
+    "id": 26561
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇAKIRALAN",
+    "id": 26562
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇELTEK",
+    "id": 26563
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARAGEÇMİŞ",
+    "id": 26564
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "CELİL",
+    "id": 26565
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ILICA",
+    "id": 26566
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "İMİRCİK",
+    "id": 26567
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KALEKÖY",
+    "id": 26568
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MÜRSEL",
+    "id": 26569
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "AŞAĞISUSUZ",
+    "id": 26570
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "CEVİZLİK",
+    "id": 26571
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "GELİNCİK",
+    "id": 26572
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "AĞCAMAHMUT",
+    "id": 26573
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BEKDİĞİN",
+    "id": 26574
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "EKİNPINARI",
+    "id": 26575
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 26576
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KIROĞLU",
+    "id": 26577
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KÜFLEK",
+    "id": 26578
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ELMACIK",
+    "id": 26579
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "İMARET",
+    "id": 26580
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "25 MAYIS",
+    "id": 26581
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ERELİ",
+    "id": 26582
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BAŞPELİT",
+    "id": 26583
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BOYALI",
+    "id": 26584
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇELİKALAN",
+    "id": 26585
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "DEMİRYURT",
+    "id": 26586
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "EYMİR",
+    "id": 26587
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "HACIBATTAL",
+    "id": 26588
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇAY",
+    "id": 26589
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "DÜNDARLI",
+    "id": 26590
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ERSANDIK",
+    "id": 26591
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "HİLMİYE",
+    "id": 26592
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KAMLIK",
+    "id": 26593
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARABÜK",
+    "id": 26594
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARGA",
+    "id": 26595
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 26596
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KOCAOĞLU",
+    "id": 26597
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARAHALİL",
+    "id": 26598
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "DEĞİRMENÜSTÜ",
+    "id": 26599
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "DOĞANÇAYIR",
+    "id": 26600
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "GÖÇMENLER",
+    "id": 26601
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "İCADİYE",
+    "id": 26602
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KAYACIK",
+    "id": 26603
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MEDRESE",
+    "id": 26604
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MISMILAĞAÇ",
+    "id": 26605
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "AĞDIRHASAN",
+    "id": 26606
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BELALAN",
+    "id": 26607
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ERİKBELEN",
+    "id": 26608
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "HACIDEDE",
+    "id": 26609
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 26610
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "HECİNLİ",
+    "id": 26611
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KARAMEŞE",
+    "id": 26612
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KAYABAŞI",
+    "id": 26613
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 26614
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BEYKÖY",
+    "id": 26615
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ESENBEY",
+    "id": 26616
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KEMALİYE",
+    "id": 26617
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KOCAPINAR",
+    "id": 26618
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KUŞKONAĞI",
+    "id": 26619
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MERYEMDERE",
+    "id": 26620
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ŞEYHKOYUN",
+    "id": 26621
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ULUÇAL",
+    "id": 26622
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "PAŞAPINARI",
+    "id": 26623
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YAZIKIŞLA",
+    "id": 26624
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "BEYÖREN",
+    "id": 26625
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "GİDİRLİ",
+    "id": 26626
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "İNÖNÜ",
+    "id": 26627
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "MESUDİYE",
+    "id": 26628
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "SOFULAR",
+    "id": 26629
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "PINARÇAY",
+    "id": 26630
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "SİVRİKESE",
+    "id": 26631
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ŞEYHALİ",
+    "id": 26632
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "TAŞKARACAÖREN",
+    "id": 26633
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YAYLAÇATI",
+    "id": 26634
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YUKARIYAVUCAK",
+    "id": 26635
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÇAYIRÖZÜ",
+    "id": 26636
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "DEREKÖY",
+    "id": 26637
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "KİRENLİK",
+    "id": 26638
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 26639
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YENİ",
+    "id": 26640
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ORTAKLAR",
+    "id": 26641
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YUKARISUSUZ",
+    "id": 26642
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ŞEYHLER",
+    "id": 26643
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 26644
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YAĞCIMAHMUT",
+    "id": 26645
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ŞEYHSAFİ",
+    "id": 26646
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ORHANİYE",
+    "id": 26647
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YEŞİLALAN",
+    "id": 26648
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YENİCE",
+    "id": 26649
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "YENİMESCİT",
+    "id": 26650
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "ŞERİFALİ",
+    "id": 26651
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "SONDAJ",
+    "id": 26652
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "HAVZA",
+    "MAHALLE": "TUZLA",
+    "id": 26653
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GECEHAN",
+    "id": 26654
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GÜRGENYATAK",
+    "id": 26655
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "HASKÖY",
+    "id": 26656
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "SOĞUKSU",
+    "id": 26657
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "TEKNEPINAR",
+    "id": 26658
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "YAYLA",
+    "id": 26659
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "FINDICAK",
+    "id": 26660
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GAZİOSMANPAŞA",
+    "id": 26661
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "BAŞKONAK",
+    "id": 26662
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 26663
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ALİBEYLİ",
+    "id": 26664
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "BAŞALAN",
+    "id": 26665
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DERELER",
+    "id": 26666
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "TOPTEPE",
+    "id": 26667
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 26668
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ADATEPE",
+    "id": 26669
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ATATÜRK",
+    "id": 26670
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KALEBOĞAZI",
+    "id": 26671
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KOZLU",
+    "id": 26672
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "TUZAKLI",
+    "id": 26673
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DEMİRCİ",
+    "id": 26674
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DÜVECİK",
+    "id": 26675
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "TEKKİRAZ",
+    "id": 26676
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 26677
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 26678
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "HACINAİPLİ",
+    "id": 26679
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "HİLALTEPE",
+    "id": 26680
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ULUDAĞ",
+    "id": 26681
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ÇAMALAN",
+    "id": 26682
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DÜZÖREN",
+    "id": 26683
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 26684
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KIZILOĞLAK",
+    "id": 26685
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "TOYGAR",
+    "id": 26686
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "AVLUCA",
+    "id": 26687
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GÖDEKLİ",
+    "id": 26688
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "AMBARPINAR",
+    "id": 26689
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KAŞYAYLA",
+    "id": 26690
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "SARIBIYIK",
+    "id": 26691
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 26692
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DEVGERİŞ",
+    "id": 26693
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GÜLTEPE",
+    "id": 26694
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "DÜZARDIÇ",
+    "id": 26695
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KESTANEPINAR",
+    "id": 26696
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "YENİKÖY",
+    "id": 26697
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "İKİYÜZ EVLER",
+    "id": 26698
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "BELEDİYE EVLERİ",
+    "id": 26699
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GÖKÇEPINAR",
+    "id": 26700
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "GÖLALAN",
+    "id": 26701
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "HACI İSMAİL",
+    "id": 26702
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "ULUÇAYIR",
+    "id": 26703
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "İMAMLAR",
+    "id": 26704
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "KUZEY YILDIZI",
+    "id": 26705
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "CANİK",
+    "MAHALLE": "MURATLI",
+    "id": 26706
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ASLANDAMI",
+    "id": 26707
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ALANLI",
+    "id": 26708
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ATATEPE",
+    "id": 26709
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "AKSU",
+    "id": 26710
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "AKALAN",
+    "id": 26711
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "AYVALI",
+    "id": 26712
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "BALAÇ",
+    "id": 26713
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇAMLIYAZI",
+    "id": 26714
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KAMALI",
+    "id": 26715
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇAKIRLAR YALI",
+    "id": 26716
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KARAKAVUK",
+    "id": 26717
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KARAOYUMCA",
+    "id": 26718
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 26719
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KURUGÖKÇE",
+    "id": 26720
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "MEVLANA",
+    "id": 26721
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "SARAYKÖY",
+    "id": 26722
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "SARIIŞIK",
+    "id": 26723
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "GÜZELYURT",
+    "id": 26724
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KESİLİ",
+    "id": 26725
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "SARITAŞ",
+    "id": 26726
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "TAFLAN MERKEZ",
+    "id": 26727
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "BÜYÜKOYUMCA",
+    "id": 26728
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "GÜZELYALI",
+    "id": 26729
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KABADÜZ",
+    "id": 26730
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KASNAKCIMERMER",
+    "id": 26731
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KÖSELİ",
+    "id": 26732
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KÜÇÜKKOLPINAR",
+    "id": 26733
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "MEYVALI",
+    "id": 26734
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "BÜYÜKKOLPINAR",
+    "id": 26735
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇATMAOLUK",
+    "id": 26736
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KÖRFEZ",
+    "id": 26737
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÖZÖREN",
+    "id": 26738
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YALI",
+    "id": 26739
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ELMAÇUKURU",
+    "id": 26740
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ERİKLİ",
+    "id": 26741
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ŞENYURT",
+    "id": 26742
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇAKIRLAR",
+    "id": 26743
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 26744
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇOBANÖZÜ",
+    "id": 26745
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "İNCESU YALI",
+    "id": 26746
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "İSTİKLAL",
+    "id": 26747
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "GÜNEYKÖY",
+    "id": 26748
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "BEYPINAR",
+    "id": 26749
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ÇOBANLI",
+    "id": 26750
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "İNCESU",
+    "id": 26751
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KULACADAĞ",
+    "id": 26752
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 26753
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "CUMHURIYET",
+    "id": 26754
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "DENİZEVLERİ",
+    "id": 26755
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "KAYAGÜNEY",
+    "id": 26756
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "CAMİİ",
+    "id": 26757
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 26758
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YUKARIAKSU",
+    "id": 26759
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "ESENEVLER",
+    "id": 26760
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "SARIYUSUF",
+    "id": 26761
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ATAKUM",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 26762
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "GÜNDÜZLÜ",
+    "id": 26763
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KÜPLÜAĞZI",
+    "id": 26764
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 26765
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "YASSIDAĞ",
+    "id": 26766
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "ÇAMALAN",
+    "id": 26767
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "SARIGÖL",
+    "id": 26768
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "BÜYÜKKIRIK",
+    "id": 26769
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KUZÖREN",
+    "id": 26770
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "LİMAN",
+    "id": 26771
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "MUTAFLI",
+    "id": 26772
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "MERKEZ",
+    "id": 26773
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "ASMAPINAR",
+    "id": 26774
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "ÇEPNİ",
+    "id": 26775
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KOZKÖY",
+    "id": 26776
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KARAABA",
+    "id": 26777
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KAYALI",
+    "id": 26778
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "YAKAKENT",
+    "MAHALLE": "KÜRÜZ",
+    "id": 26779
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BAŞLAMIŞ",
+    "id": 26780
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BUDAKDERE",
+    "id": 26781
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ÇADIRKAYA",
+    "id": 26782
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KARAABDAL",
+    "id": 26783
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "DOĞANKAŞ",
+    "id": 26784
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "HAMİTKÖY",
+    "id": 26785
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KUYUCAK",
+    "id": 26786
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "MAZLUMOĞLU",
+    "id": 26787
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SARAY",
+    "id": 26788
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AKPINAR",
+    "id": 26789
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AYVALI",
+    "id": 26790
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "CÜCE",
+    "id": 26791
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KABACAGÖZ",
+    "id": 26792
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "YUKARIGÖLYAZI",
+    "id": 26793
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "YUMAKLI",
+    "id": 26794
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BOLAT",
+    "id": 26795
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "DELİAHMETOĞLU",
+    "id": 26796
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "EYNEKARACA",
+    "id": 26797
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KIZILSİNİ",
+    "id": 26798
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "NUSRATLI",
+    "id": 26799
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SARIGAZEL",
+    "id": 26800
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "YENİCAMİ",
+    "id": 26801
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ALIÇLI",
+    "id": 26802
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "DERİNÖZ",
+    "id": 26803
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "İSASOFTA",
+    "id": 26804
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "OYMAPINAR",
+    "id": 26805
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ŞIHLI",
+    "id": 26806
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BAHŞİ",
+    "id": 26807
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "GÜVENLİ",
+    "id": 26808
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "HACIALİPINAR",
+    "id": 26809
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "HIZARBAŞI",
+    "id": 26810
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 26811
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "TÜFEKÇİDERE",
+    "id": 26812
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "İBİ",
+    "id": 26813
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SARIKSIZOĞLU",
+    "id": 26814
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ALAYURT",
+    "id": 26815
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AYVALISOKAĞI",
+    "id": 26816
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "HAMAMAYAĞI",
+    "id": 26817
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ŞEHREKÜSTÜ",
+    "id": 26818
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KÜÇÜKKIZOĞLU",
+    "id": 26819
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SOĞANLI",
+    "id": 26820
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AKYAR",
+    "id": 26821
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BÜYÜKALAN",
+    "id": 26822
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "BÜYÜKKIZOĞLU",
+    "id": 26823
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KÜPECİK",
+    "id": 26824
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "YUVACIK",
+    "id": 26825
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AĞCAKAYA",
+    "id": 26826
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "DALDERE",
+    "id": 26827
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SANAYİ",
+    "id": 26828
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "TATLICAK",
+    "id": 26829
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AKTAŞ",
+    "id": 26830
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "İSKANİYE",
+    "id": 26831
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "SALUR",
+    "id": 26832
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "GÜNKORU",
+    "id": 26833
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KİRAZPINAR",
+    "id": 26834
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KOĞA",
+    "id": 26835
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KÖSEOĞLU",
+    "id": 26836
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "MEŞEPINARI",
+    "id": 26837
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ÇAMLIKÖY",
+    "id": 26838
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "GÜRÜN",
+    "id": 26839
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AHMETSARAY",
+    "id": 26840
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ARSLANTAŞ",
+    "id": 26841
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "AŞAĞIGÖLYAZI",
+    "id": 26842
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "ÇAKIRGÜMÜŞ",
+    "id": 26843
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "HASIRCI",
+    "id": 26844
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "KIRANBOĞAZ",
+    "id": 26845
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "LADİK",
+    "MAHALLE": "TEBEROĞLU",
+    "id": 26846
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DİKENCİK",
+    "id": 26847
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "FATİH",
+    "id": 26848
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İSHAKLI",
+    "id": 26849
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KARINCAK",
+    "id": 26850
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KÖSELİ",
+    "id": 26851
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KUŞÇULAR",
+    "id": 26852
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "PAŞAŞEYH",
+    "id": 26853
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YAĞMURCA",
+    "id": 26854
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALTINYAPRAK",
+    "id": 26855
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ASAR",
+    "id": 26856
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BAHÇELER",
+    "id": 26857
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BAKIRPINARI",
+    "id": 26858
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BURUNCA",
+    "id": 26859
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÖKÇEAĞAÇ",
+    "id": 26860
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "OZAN",
+    "id": 26861
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SARPIN",
+    "id": 26862
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TEPECİK",
+    "id": 26863
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YENİKÖY",
+    "id": 26864
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YERALTI",
+    "id": 26865
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 26866
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALPARSLAN",
+    "id": 26867
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALTINAY",
+    "id": 26868
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ASMAÇAM",
+    "id": 26869
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 26870
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GAZİBEYLİ",
+    "id": 26871
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 26872
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GERZELİLER",
+    "id": 26873
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "HARIZ",
+    "id": 26874
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 26875
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KIZILIRMAK",
+    "id": 26876
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TERZİLİ",
+    "id": 26877
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "AĞCAALAN",
+    "id": 26878
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "AĞILLAR",
+    "id": 26879
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÜMÜŞYAPRAK",
+    "id": 26880
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KAHRAMAN",
+    "id": 26881
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KALAYCILI",
+    "id": 26882
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SELEMELİK",
+    "id": 26883
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TAŞKÖPRÜ",
+    "id": 26884
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YİĞİTALAN",
+    "id": 26885
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "AKALAN",
+    "id": 26886
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALTINKAYA",
+    "id": 26887
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇETİNKAYA",
+    "id": 26888
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DARBOĞAZ",
+    "id": 26889
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DERELER",
+    "id": 26890
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "FENER",
+    "id": 26891
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GAZİOSMANPAŞA",
+    "id": 26892
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "LENGERLİ",
+    "id": 26893
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 26894
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "AZAY",
+    "id": 26895
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 26896
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ELALAN",
+    "id": 26897
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ESENÇAY",
+    "id": 26898
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 26899
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TÜTÜNCÜLER",
+    "id": 26900
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALTINOVA",
+    "id": 26901
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BENGÜ",
+    "id": 26902
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DEDELİ",
+    "id": 26903
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 26904
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İNÖZÜKOŞACA",
+    "id": 26905
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÖRENCİK",
+    "id": 26906
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ŞEYHULAŞ",
+    "id": 26907
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BÜYÜKCAMİ",
+    "id": 26908
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DEDEDAĞI",
+    "id": 26909
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "EMİREFENDİ",
+    "id": 26910
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "EYNEGAZİ",
+    "id": 26911
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÖLTEPE",
+    "id": 26912
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KARPUZLU",
+    "id": 26913
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KAYGUSUZ",
+    "id": 26914
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KERESTECİ",
+    "id": 26915
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KUZALAN",
+    "id": 26916
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TÜRBE",
+    "id": 26917
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ALAÇAM",
+    "id": 26918
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BOĞAZKAYA",
+    "id": 26919
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇULHAKOCA",
+    "id": 26920
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "EVRENUŞAĞI",
+    "id": 26921
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İKİZTEPE",
+    "id": 26922
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KARABURÇ",
+    "id": 26923
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KARAKÜTÜK",
+    "id": 26924
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KOZAĞZI",
+    "id": 26925
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "OSMANBEYLİ",
+    "id": 26926
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 26927
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YÖRGÜÇ",
+    "id": 26928
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇİLHANE",
+    "id": 26929
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DOĞANCA",
+    "id": 26930
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KOLAY",
+    "id": 26931
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ORTADURAK",
+    "id": 26932
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ULUAĞAÇ",
+    "id": 26933
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "AKTEKKE",
+    "id": 26934
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇATAK",
+    "id": 26935
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "HÜSEYİNBEYLİ",
+    "id": 26936
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KAMBERLİ",
+    "id": 26937
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SARIKÖY",
+    "id": 26938
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 26939
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YAKA",
+    "id": 26940
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YENİALAN",
+    "id": 26941
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "EMENLİ",
+    "id": 26942
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KORULUK",
+    "id": 26943
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SARIKAYA",
+    "id": 26944
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ŞAHİNKAYA",
+    "id": 26945
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BAŞKAYA",
+    "id": 26946
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DERBENT",
+    "id": 26947
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ELİFLİ",
+    "id": 26948
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÖKALAN",
+    "id": 26949
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÖKÇEKENT",
+    "id": 26950
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "GÖKÇESU",
+    "id": 26951
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KELİKLER",
+    "id": 26952
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KOMŞUPINAR",
+    "id": 26953
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "MÜSTECEP",
+    "id": 26954
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SAHİLKENT",
+    "id": 26955
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ŞEYHÖREN",
+    "id": 26956
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TABAKHANE",
+    "id": 26957
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "TÜRKKÖYÜ",
+    "id": 26958
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ADAKÖY",
+    "id": 26959
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BAŞARAN",
+    "id": 26960
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ELDAVUT",
+    "id": 26961
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "HIDIRELLEZ",
+    "id": 26962
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İĞDİR",
+    "id": 26963
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KAPIKAYA",
+    "id": 26964
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KUŞLUĞAN",
+    "id": 26965
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "MEVLANA",
+    "id": 26966
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SARIÇEVRE",
+    "id": 26967
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BALIKLAR",
+    "id": 26968
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "BARIŞ",
+    "id": 26969
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇALKÖY",
+    "id": 26970
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "ÇAMALTI",
+    "id": 26971
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DOĞANKAYA",
+    "id": 26972
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "DÜZKÖY",
+    "id": 26973
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "HACINABİ",
+    "id": 26974
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "HACIOĞLU",
+    "id": 26975
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İKİZPINAR",
+    "id": 26976
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "İLYASLI",
+    "id": 26977
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KANLIGÜNEY",
+    "id": 26978
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KÜÇÜKKAVAKPINAR",
+    "id": 26979
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "MEŞELİTÜRKMENLER",
+    "id": 26980
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YAKINTAŞ",
+    "id": 26981
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "YEŞİLYAZI",
+    "id": 26982
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KAVAKPINAR",
+    "id": 26983
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "KOŞU",
+    "id": 26984
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "BAFRA",
+    "MAHALLE": "SÜRMELİ",
+    "id": 26985
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "SARIHASAN",
+    "id": 26986
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YUKARIKESTANEPINAR",
+    "id": 26987
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KARADERE",
+    "id": 26988
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 26989
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YEŞİL",
+    "id": 26990
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "FATSALILAR",
+    "id": 26991
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "GÖKÇEBAŞI",
+    "id": 26992
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "FİDANCIK",
+    "id": 26993
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KONAKÖREN",
+    "id": 26994
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YAVAŞBEY",
+    "id": 26995
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "AVUT",
+    "id": 26996
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "DÜZKÖY",
+    "id": 26997
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KARACALAR",
+    "id": 26998
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KARAYONCA",
+    "id": 26999
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ALBAK",
+    "id": 27000
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "BEREKET",
+    "id": 27001
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "MERKEZ KOCALAR",
+    "id": 27002
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "TACALAN",
+    "id": 27003
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ESATÇİFTLİĞİ",
+    "id": 27004
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "GÜZELVATAN",
+    "id": 27005
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KIRGIL",
+    "id": 27006
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KOCALAR",
+    "id": 27007
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KUŞCUĞAZ",
+    "id": 27008
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "FINDIKLI",
+    "id": 27009
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KARAMAN",
+    "id": 27010
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KIZILOT",
+    "id": 27011
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ALAN",
+    "id": 27012
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ALANYAYKIN",
+    "id": 27013
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YAYLA",
+    "id": 27014
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 27015
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "TAHNAL",
+    "id": 27016
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "BİÇME",
+    "id": 27017
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "SULUCA",
+    "id": 27018
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ORTA",
+    "id": 27019
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "YENİ",
+    "id": 27020
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "CEVİZLİ",
+    "id": 27021
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 27022
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "DİKENCİK",
+    "id": 27023
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 27024
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KALFALI",
+    "id": 27025
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "KARACAÖREN",
+    "id": 27026
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "MUMLU",
+    "id": 27027
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "MUSLUBEY",
+    "id": 27028
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "SALIPAZARI",
+    "MAHALLE": "TEPEALTI",
+    "id": 27029
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ANTYERİ",
+    "id": 27030
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KERPİÇLİ",
+    "id": 27031
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 27032
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KARIŞLAR",
+    "id": 27033
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "SITMASUYU",
+    "id": 27034
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇAYLEYİK",
+    "id": 27035
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "SARIYURT",
+    "id": 27036
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KAHYALI",
+    "id": 27037
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KERİMBEYOSB",
+    "id": 27038
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KİBARLAR",
+    "id": 27039
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KURTULUŞ",
+    "id": 27040
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "19 MAYIS",
+    "id": 27041
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "19 MAYISOSB",
+    "id": 27042
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇINARALAN",
+    "id": 27043
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇIRAKMAN",
+    "id": 27044
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YAĞBASAN",
+    "id": 27045
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YAVUZLAR",
+    "id": 27046
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YAZILAR",
+    "id": 27047
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YEŞİLALAN",
+    "id": 27048
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YUKARIÇİNİK",
+    "id": 27049
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "BAŞKÖY",
+    "id": 27050
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KARGILI",
+    "id": 27051
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 27052
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "HÜRRİYET",
+    "id": 27053
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KARAPERÇİN",
+    "id": 27054
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KİRAZLIK",
+    "id": 27055
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KUTLUKENT",
+    "id": 27056
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "PINAR",
+    "id": 27057
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "SELYERİ",
+    "id": 27058
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 27059
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "23 NİSAN",
+    "id": 27060
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇİFTLİKOSB",
+    "id": 27061
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "GÜZELYURT",
+    "id": 27062
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "SANAYİ",
+    "id": 27063
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ŞABANOĞLUOSB",
+    "id": 27064
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YENİKÖY",
+    "id": 27065
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇAY",
+    "id": 27066
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KIŞLA",
+    "id": 27067
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ŞABANOĞLU",
+    "id": 27068
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 27069
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 27070
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "İSTİKLAL",
+    "id": 27071
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "SEYMENLER",
+    "id": 27072
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "AKBAŞLAR",
+    "id": 27073
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ERENKÖY",
+    "id": 27074
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "GÖKÇE",
+    "id": 27075
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "GÖKÇEDERE",
+    "id": 27076
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KABABÜRÜK",
+    "id": 27077
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "OVABAŞI",
+    "id": 27078
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "BALCALI",
+    "id": 27079
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KARAOĞLAN",
+    "id": 27080
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "BAKACAK",
+    "id": 27081
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YENİ BÜYÜKLÜ",
+    "id": 27082
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇAYIRÇÖKEK",
+    "id": 27083
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ALTINKAYA",
+    "id": 27084
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "BÜYÜKLÜ",
+    "id": 27085
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "GÖLCEĞİZ",
+    "id": 27086
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "KERİMBEY",
+    "id": 27087
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ZAFER",
+    "id": 27088
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ASARAĞAÇ",
+    "id": 27089
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "BEYOĞLU",
+    "id": 27090
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 27091
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 27092
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "ÇİNİK",
+    "id": 27093
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "HAMZALI",
+    "id": 27094
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TEKKEKÖY",
+    "MAHALLE": "YAYLAGERİŞ",
+    "id": 27095
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ACISU",
+    "id": 27096
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "AŞURU",
+    "id": 27097
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ÇULHAOĞLU",
+    "id": 27098
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ULUKÖY",
+    "id": 27099
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 27100
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "AYDINKÖY",
+    "id": 27101
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "EMİRMUSA",
+    "id": 27102
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "İMAMLI",
+    "id": 27103
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "KESEALAN",
+    "id": 27104
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "AKYAZI",
+    "id": 27105
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "DAĞCILAR",
+    "id": 27106
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "GÖKGÖL",
+    "id": 27107
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 27108
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ALİŞAR",
+    "id": 27109
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ATATÜRK",
+    "id": 27110
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "KOŞACA",
+    "id": 27111
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "YAYLAKÖY",
+    "id": 27112
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "YENİÖMERLİ",
+    "id": 27113
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ESENTEPE",
+    "id": 27114
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 27115
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "GÜLVEREN",
+    "id": 27116
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "AYAKLIALAN",
+    "id": 27117
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ARICAK",
+    "id": 27118
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "MUSAAĞA",
+    "id": 27119
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "HİSARİYE",
+    "id": 27120
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "SAKIZLIK",
+    "id": 27121
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "YARIMCA",
+    "id": 27122
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ALAN",
+    "id": 27123
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "ARMUTLU",
+    "id": 27124
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "BİÇİNCİK",
+    "id": 27125
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "KILAVUZLU",
+    "id": 27126
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ASARCIK",
+    "MAHALLE": "KUYUMCUOĞLU",
+    "id": 27127
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AKKUZULU",
+    "id": 27128
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI KAVACIK",
+    "id": 27129
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BAFRACALI",
+    "id": 27130
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DENİZLER",
+    "id": 27131
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "EĞRİDERE",
+    "id": 27132
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÜZPINAR",
+    "id": 27133
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARABAHÇE",
+    "id": 27134
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARAMUSTAFALI",
+    "id": 27135
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KOLDERE",
+    "id": 27136
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KONUKLUK",
+    "id": 27137
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ORDUBAŞI",
+    "id": 27138
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "PORSUK",
+    "id": 27139
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SAHİL",
+    "id": 27140
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SUĞLUCA",
+    "id": 27141
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ARIM KÖSELİ",
+    "id": 27142
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI DİKENCİK",
+    "id": 27143
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YALI",
+    "id": 27144
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 27145
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BOYACILI",
+    "id": 27146
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ESENÇAY",
+    "id": 27147
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÖKÇEÇAKMAK",
+    "id": 27148
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARAKULAK",
+    "id": 27149
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KÖKLÜK",
+    "id": 27150
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "TURGUTLU",
+    "id": 27151
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YAMANLI",
+    "id": 27152
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI KARABAHÇE",
+    "id": 27153
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇATAK",
+    "id": 27154
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DALBAHÇE",
+    "id": 27155
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÜLÖREN",
+    "id": 27156
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "HASBAHÇE",
+    "id": 27157
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "IRMAKSIRTI",
+    "id": 27158
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "İSTİKLAL",
+    "id": 27159
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SARAÇLI",
+    "id": 27160
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ŞENYURT",
+    "id": 27161
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 27162
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ALLI",
+    "id": 27163
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI ESENLİ",
+    "id": 27164
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BEYYENİCE",
+    "id": 27165
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇERÇİLER",
+    "id": 27166
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DURAKBAŞI",
+    "id": 27167
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "EĞRİKUM",
+    "id": 27168
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 27169
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KABACEVİZ",
+    "id": 27170
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KIZILOT",
+    "id": 27171
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KURTAHMETLİ",
+    "id": 27172
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YENİ KIŞLA",
+    "id": 27173
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YEŞİLIRMAK",
+    "id": 27174
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI AĞCAGÜNEY",
+    "id": 27175
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AKÇATARLA",
+    "id": 27176
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 27177
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 27178
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "TAŞDEMİR",
+    "id": 27179
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YAYCILAR",
+    "id": 27180
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI KAVACIK",
+    "id": 27181
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 27182
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "CANLI",
+    "id": 27183
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KOCAKAVAK",
+    "id": 27184
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KUMKÖY",
+    "id": 27185
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KURTULUŞ",
+    "id": 27186
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KUŞHANE",
+    "id": 27187
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "NAMAZLI",
+    "id": 27188
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÖMERLİ",
+    "id": 27189
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SARICALI",
+    "id": 27190
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YENİ KÖSELİ",
+    "id": 27191
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI DÜKENCİK",
+    "id": 27192
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI MUSALLA",
+    "id": 27193
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DAMLATAŞ",
+    "id": 27194
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KAYDAN",
+    "id": 27195
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KİRAZLIKÇAY",
+    "id": 27196
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KUMTEPE",
+    "id": 27197
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇALTI",
+    "id": 27198
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DEMİRLİ",
+    "id": 27199
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 27200
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KUŞÇULU",
+    "id": 27201
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "MELİK",
+    "id": 27202
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "OVACIK",
+    "id": 27203
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SIĞIRTMAÇ",
+    "id": 27204
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ULUKÖY",
+    "id": 27205
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ACIKLI",
+    "id": 27206
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ALİBEYLİ",
+    "id": 27207
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI DONURLU",
+    "id": 27208
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞAĞI TURGUTLU",
+    "id": 27209
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BÖLMEÇAYIR",
+    "id": 27210
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇAY",
+    "id": 27211
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ESENTEPE",
+    "id": 27212
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GAZİ",
+    "id": 27213
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "MAHMUTLU",
+    "id": 27214
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "OYMALI",
+    "id": 27215
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "TATARLI",
+    "id": 27216
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "TİLKİLİ",
+    "id": 27217
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ALİ FUAT BAŞGİL",
+    "id": 27218
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AŞIKLI",
+    "id": 27219
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 27220
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇAYVAR",
+    "id": 27221
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÜLDERE",
+    "id": 27222
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÜLYAZI",
+    "id": 27223
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARACALI",
+    "id": 27224
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KARAKAYA",
+    "id": 27225
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "MUSÇALI",
+    "id": 27226
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AHUBABA",
+    "id": 27227
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ATAKÖY",
+    "id": 27228
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DEMİRCİLİ",
+    "id": 27229
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "EĞERCİLİ",
+    "id": 27230
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KUMARLI",
+    "id": 27231
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ORDU",
+    "id": 27232
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ŞEYHGÜVEN",
+    "id": 27233
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÜÇKÖPRÜ",
+    "id": 27234
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "VAKIFKÖPRÜ",
+    "id": 27235
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YENİ KARACALI",
+    "id": 27236
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BEYLERCE",
+    "id": 27237
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BEZİRGAN",
+    "id": 27238
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇINARLIK",
+    "id": 27239
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DEYİNCEK",
+    "id": 27240
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "HELVACALI",
+    "id": 27241
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KİRAZBUCAĞI",
+    "id": 27242
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KÖROĞLU",
+    "id": 27243
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "OTLUK",
+    "id": 27244
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SOĞUCAK",
+    "id": 27245
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AKÇALTI",
+    "id": 27246
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ÇELİKLİ",
+    "id": 27247
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "EPÇELİ",
+    "id": 27248
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "HACILIÇAY",
+    "id": 27249
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KEMER",
+    "id": 27250
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KESTANEPINAR",
+    "id": 27251
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "PAŞAYAZI",
+    "id": 27252
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SELİMİYE",
+    "id": 27253
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "AĞCAGÜNEY",
+    "id": 27254
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DİKBIYIK",
+    "id": 27255
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DURUSU",
+    "id": 27256
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "KÜRTÜN",
+    "id": 27257
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SEFALI",
+    "id": 27258
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "SUNGURLU",
+    "id": 27259
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ŞEYHHABİL",
+    "id": 27260
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ULUPINAR",
+    "id": 27261
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "UMUT",
+    "id": 27262
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "USTACALI",
+    "id": 27263
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "UZUNLU",
+    "id": 27264
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "BAYRAMLI",
+    "id": 27265
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "DEMİRASLAN",
+    "id": 27266
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 27267
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "ORTA",
+    "id": 27268
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI, DONURLU",
+    "id": 27269
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ÇARŞAMBA",
+    "MAHALLE": "YUKARI",
+    "id": 27270
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "GÜLTEPE",
+    "id": 27271
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "TEPEALTI",
+    "id": 27272
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ARDIÇ",
+    "id": 27273
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 27274
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KAPIKAYA",
+    "id": 27275
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 27276
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ORTA",
+    "id": 27277
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "UĞURLU",
+    "id": 27278
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YENİKÖY",
+    "id": 27279
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "GÜRÇAM",
+    "id": 27280
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ÖRENCİK",
+    "id": 27281
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "SÖĞÜTPINAR",
+    "id": 27282
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "EYNEL",
+    "id": 27283
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "EYÜPSULTAN",
+    "id": 27284
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 27285
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ORTAKÖY",
+    "id": 27286
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 27287
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "DÖNGEL",
+    "id": 27288
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "DÖNGELYATAK",
+    "id": 27289
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ESENYURT",
+    "id": 27290
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YEŞİLÇAM",
+    "id": 27291
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ÇAMLIKALE",
+    "id": 27292
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ÇÖKEKLİ",
+    "id": 27293
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 27294
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KAZANCILI",
+    "id": 27295
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "MEŞELİDÜZ",
+    "id": 27296
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 27297
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KARŞIDÖNGEL",
+    "id": 27298
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "SAHİLKÖY",
+    "id": 27299
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ZAFER",
+    "id": 27300
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "OSMANLI",
+    "id": 27301
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ŞENPINAR",
+    "id": 27302
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "GÜZELYURT",
+    "id": 27303
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "TERİCE",
+    "id": 27304
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "YENİCE",
+    "id": 27305
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "BAŞALAN",
+    "id": 27306
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KABAKLIK",
+    "id": 27307
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "TİRYAKİOĞLU",
+    "id": 27308
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ÇAMALAN",
+    "id": 27309
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "ÇARŞIKÖY",
+    "id": 27310
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "GÜLPINAR",
+    "id": 27311
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KESKİNOĞLU",
+    "id": 27312
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "AYVACIK",
+    "MAHALLE": "KOÇYURDU",
+    "id": 27313
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 27314
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MAHMUTBEYLİ",
+    "id": 27315
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YERALAN",
+    "id": 27316
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇAKALLI",
+    "id": 27317
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BEKDEMİR",
+    "id": 27318
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 27319
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇİÇEKYAZI",
+    "id": 27320
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MEHMETPAŞA",
+    "id": 27321
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TATARMUSLU",
+    "id": 27322
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TEPECİK",
+    "id": 27323
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "AĞCAKİSE",
+    "id": 27324
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 27325
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BEYBESLİ",
+    "id": 27326
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BÜKCEĞİZ",
+    "id": 27327
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "İDRİSLİ",
+    "id": 27328
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARAASLAN",
+    "id": 27329
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "19 MAYIS",
+    "id": 27330
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "AZAKLI",
+    "id": 27331
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BAYINDIR",
+    "id": 27332
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇARIKLIBAŞI",
+    "id": 27333
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "SUSUZ",
+    "id": 27334
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DEĞİRMENCİLİ",
+    "id": 27335
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇAYIRLI",
+    "id": 27336
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KURŞUNLU",
+    "id": 27337
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KETHÜDA",
+    "id": 27338
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 27339
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARAYUSUFLU",
+    "id": 27340
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TOPTEPE",
+    "id": 27341
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "GÜNEYCE",
+    "id": 27342
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARACALAR",
+    "id": 27343
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARADAĞ",
+    "id": 27344
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KUZALAN",
+    "id": 27345
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "SEYİTALİ",
+    "id": 27346
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YAŞAR DOĞU",
+    "id": 27347
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YOSUNLU",
+    "id": 27348
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "AHURLU",
+    "id": 27349
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ALAGÖMLEK",
+    "id": 27350
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ATAYURT",
+    "id": 27351
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BEYKÖY",
+    "id": 27352
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DEMİRCİ",
+    "id": 27353
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DORUK",
+    "id": 27354
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "GÖÇEBE",
+    "id": 27355
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MURATBEYLİ",
+    "id": 27356
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARAPINAR",
+    "id": 27357
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MAHMUTLU",
+    "id": 27358
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ORTAKÖY",
+    "id": 27359
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ŞEYHLİ",
+    "id": 27360
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TABAKLI",
+    "id": 27361
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "TALIŞMAN",
+    "id": 27362
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YENİGÜN",
+    "id": 27363
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "AKBELEN",
+    "id": 27364
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "AŞAĞIÇİRİŞLİ",
+    "id": 27365
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "CELALLI",
+    "id": 27366
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KÖSELİ",
+    "id": 27367
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YENİ CAMİ OSB",
+    "id": 27368
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DUMAN",
+    "id": 27369
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ALAÇAM",
+    "id": 27370
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇİVRİL",
+    "id": 27371
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "HACILI",
+    "id": 27372
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ILICAKÖY",
+    "id": 27373
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KOZANSIKI",
+    "id": 27374
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ŞEYHRESUL",
+    "id": 27375
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BAŞALAN",
+    "id": 27376
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BAYRAKLI",
+    "id": 27377
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BELALAN",
+    "id": 27378
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇİĞDEM",
+    "id": 27379
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KAPUHAYAT",
+    "id": 27380
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARLI",
+    "id": 27381
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KAYABAŞI",
+    "id": 27382
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KÜÇÜKÇUKUR",
+    "id": 27383
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÜÇHANLAR",
+    "id": 27384
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DURA",
+    "id": 27385
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "GERMİYAN",
+    "id": 27386
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARANTU",
+    "id": 27387
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KARTEPE",
+    "id": 27388
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KAZANCI",
+    "id": 27389
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MERT",
+    "id": 27390
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "MUHSİNLİ",
+    "id": 27391
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YUKARIÇİRİŞLİ",
+    "id": 27392
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "BÜYÜKÇUKUR",
+    "id": 27393
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇALBAŞI",
+    "id": 27394
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "ÇUKURBÜK",
+    "id": 27395
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DİVANBAŞI",
+    "id": 27396
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "İKİZDERE",
+    "id": 27397
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "KAYAKÖY",
+    "id": 27398
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "SARALAN",
+    "id": 27399
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "SIRALI",
+    "id": 27400
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "SOĞUKSU",
+    "id": 27401
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YENİCAMİ",
+    "id": 27402
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "DEREKÖY",
+    "id": 27403
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "EMİRLİ",
+    "id": 27404
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "KAVAK",
+    "MAHALLE": "YUKARI DEREKÖY",
+    "id": 27405
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ABDULGANİ",
+    "id": 27406
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AYDOĞDU",
+    "id": 27407
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAŞFAKI",
+    "id": 27408
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BÜYÜKKALE",
+    "id": 27409
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ESENYURT",
+    "id": 27410
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AYVALI",
+    "id": 27411
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ADATEPE",
+    "id": 27412
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇALTU",
+    "id": 27413
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇEKMEDEN",
+    "id": 27414
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ALANCIK",
+    "id": 27415
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ALANŞEYHİ",
+    "id": 27416
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAKLA",
+    "id": 27417
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BOĞAZKORU",
+    "id": 27418
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BURHANİYE",
+    "id": 27419
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇAKIRTAŞ",
+    "id": 27420
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 27421
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇEKALAN",
+    "id": 27422
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇELTEK",
+    "id": 27423
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DANABAŞ",
+    "id": 27424
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AYDINLI",
+    "id": 27425
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAYRAM",
+    "id": 27426
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇORAKDERE",
+    "id": 27427
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DURUÇAY",
+    "id": 27428
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ESENTEPE",
+    "id": 27429
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ALAN",
+    "id": 27430
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AVDAN",
+    "id": 27431
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAHÇESARAY",
+    "id": 27432
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAŞALAN",
+    "id": 27433
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "CEBELİ",
+    "id": 27434
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AĞCAALAN",
+    "id": 27435
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BOĞA",
+    "id": 27436
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ALANBAŞI",
+    "id": 27437
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ARICA",
+    "id": 27438
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAHÇEKONAK",
+    "id": 27439
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BEŞPINAR",
+    "id": 27440
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "FAZIL AHMET PAŞA",
+    "id": 27441
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇANAKLI",
+    "id": 27442
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DEVALAN",
+    "id": 27443
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ELBEĞİ",
+    "id": 27444
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AHMETBABA",
+    "id": 27445
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ALTINKAYA",
+    "id": 27446
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AKÖREN",
+    "id": 27447
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DARIÇAYALANI",
+    "id": 27448
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DARIÇAY",
+    "id": 27449
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ELALDI",
+    "id": 27450
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ESEN",
+    "id": 27451
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BORUK",
+    "id": 27452
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 27453
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇALMAN",
+    "id": 27454
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DEĞİRMENBAŞI",
+    "id": 27455
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "DOYRAN",
+    "id": 27456
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BEKTAŞ",
+    "id": 27457
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 27458
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇAMLIKONAK",
+    "id": 27459
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ELMALI",
+    "id": 27460
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "AĞCAYAZI",
+    "id": 27461
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ATATÜRK",
+    "id": 27462
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 27463
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "BELALAN",
+    "id": 27464
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÇAL",
+    "id": 27465
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÖL",
+    "id": 27466
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HAYRANLI",
+    "id": 27467
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KAPAKLI",
+    "id": 27468
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ORTACAMİ",
+    "id": 27469
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TAHTAKÖPRÜ",
+    "id": 27470
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YUKARINARLI",
+    "id": 27471
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÜLDERE",
+    "id": 27472
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KAPAKLIEŞME",
+    "id": 27473
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SARIDİBEK",
+    "id": 27474
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YAĞINÖZÜ",
+    "id": 27475
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YENİDÜZCE",
+    "id": 27476
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "İMİRCİK",
+    "id": 27477
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "MELİKLİ",
+    "id": 27478
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "NARLISARAY",
+    "id": 27479
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ORUÇ",
+    "id": 27480
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "OVACIK",
+    "id": 27481
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖZYÖRÜK",
+    "id": 27482
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TEKKEKIRAN",
+    "id": 27483
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TÜRKMEN",
+    "id": 27484
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÖL YENİ",
+    "id": 27485
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARAKÖY",
+    "id": 27486
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARKUCAK",
+    "id": 27487
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KUMRAL",
+    "id": 27488
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "MAHMATLI",
+    "id": 27489
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "MEHMET PAŞA",
+    "id": 27490
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SARIYAR",
+    "id": 27491
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YARBAŞI",
+    "id": 27492
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YEŞİLADA",
+    "id": 27493
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YOLPINAR",
+    "id": 27494
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YÜRÜKÇAL",
+    "id": 27495
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÖMLEKHİSAR",
+    "id": 27496
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HALİLBABA",
+    "id": 27497
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "İNCESU",
+    "id": 27498
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÜDER",
+    "id": 27499
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KADIÇAYIRI",
+    "id": 27500
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARACAÖREN",
+    "id": 27501
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KUYUMCU",
+    "id": 27502
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖZGÜNEY",
+    "id": 27503
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SARAYCIK",
+    "id": 27504
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KUŞCULAR",
+    "id": 27505
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KÜLETEK",
+    "id": 27506
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖRENCİK",
+    "id": 27507
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HACILI",
+    "id": 27508
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "İNKAYA",
+    "id": 27509
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARAPINAR",
+    "id": 27510
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KOVALI",
+    "id": 27511
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "NALBANTLI",
+    "id": 27512
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SARAYLI",
+    "id": 27513
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ŞENTEPE",
+    "id": 27514
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TABAKHANE",
+    "id": 27515
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KAVAKPINARI",
+    "id": 27516
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ORTA",
+    "id": 27517
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "PAZARCI",
+    "id": 27518
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SAMUKALAN",
+    "id": 27519
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SUSUZ",
+    "id": 27520
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TAŞLIYÜK",
+    "id": 27521
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TEBERÜK",
+    "id": 27522
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TİKENLİ",
+    "id": 27523
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YENİ",
+    "id": 27524
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 27525
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KABALI",
+    "id": 27526
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARLI",
+    "id": 27527
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARABÜK",
+    "id": 27528
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 27529
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TAŞKALE",
+    "id": 27530
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖZKURUÇAY",
+    "id": 27531
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIRANALAN",
+    "id": 27532
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TEPEÖREN",
+    "id": 27533
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YENİÇELİK",
+    "id": 27534
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIZILCAKORU",
+    "id": 27535
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KOCAKAYA",
+    "id": 27536
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KÜÇÜKKALE",
+    "id": 27537
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "OYMAAĞAÇ",
+    "id": 27538
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SAMUR",
+    "id": 27539
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SARIALAN",
+    "id": 27540
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SIRBAŞMAK",
+    "id": 27541
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "GÖLLÜALAN",
+    "id": 27542
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HABİBFAKI",
+    "id": 27543
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HALKAHAVLI",
+    "id": 27544
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIRATBÜKÜ",
+    "id": 27545
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIZILCAÖREN",
+    "id": 27546
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KADIOĞLU",
+    "id": 27547
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIRMA",
+    "id": 27548
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "HIDIRLIK",
+    "id": 27549
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KAPLANCIK",
+    "id": 27550
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARADORUK",
+    "id": 27551
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KIZILKESE",
+    "id": 27552
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "MEŞELİ",
+    "id": 27553
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KARANAR",
+    "id": 27554
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KILIÇGÜNEY",
+    "id": 27555
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KURUÇAY",
+    "id": 27556
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "KUYAŞ",
+    "id": 27557
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖZESENTEPE",
+    "id": 27558
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "MEZRAA",
+    "id": 27559
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SOFULAR",
+    "id": 27560
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "SOĞUCAK",
+    "id": 27561
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YURTDAĞI",
+    "id": 27562
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "ÖĞÜRLÜ",
+    "id": 27563
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "TATARKALE",
+    "id": 27564
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "YAĞCI",
+    "id": 27565
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "VEZİRKÖPRÜ",
+    "MAHALLE": "PAŞA",
+    "id": 27566
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AKÇAY",
+    "id": 27567
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "CUMHURİYET",
+    "id": 27568
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SÜTÖZÜ",
+    "id": 27569
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YALI",
+    "id": 27570
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AKBUCAK",
+    "id": 27571
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "BAZLAMAÇ",
+    "id": 27572
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇAY",
+    "id": 27573
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KARACAKÖY",
+    "id": 27574
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KARACALI",
+    "id": 27575
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "UZUNGAZİ",
+    "id": 27576
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ELMALIK",
+    "id": 27577
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "HÜSEYİNMESCİT",
+    "id": 27578
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "İLİMDAĞ",
+    "id": 27579
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KUŞCULU",
+    "id": 27580
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "MEŞEYAZI",
+    "id": 27581
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SANCAKLI",
+    "id": 27582
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YUKARITAŞPINAR",
+    "id": 27583
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AKÇAYKARACALI",
+    "id": 27584
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 27585
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "FENK",
+    "id": 27586
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "GEÇMİŞ",
+    "id": 27587
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "TAŞLIK",
+    "id": 27588
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 27589
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "CILAR",
+    "id": 27590
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "DUTLUK",
+    "id": 27591
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KÖYBUCAĞI",
+    "id": 27592
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "MESCİTLİ",
+    "id": 27593
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÖRENCİK",
+    "id": 27594
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 27595
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YÜKSEKYAYLA",
+    "id": 27596
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇARDAK",
+    "id": 27597
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ELMAKÖY",
+    "id": 27598
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "EVCİ",
+    "id": 27599
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "GÖLYAZI",
+    "id": 27600
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÖZYURT",
+    "id": 27601
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SAKARLI",
+    "id": 27602
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YUKARISÖĞÜTLÜ",
+    "id": 27603
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "GÖKÇEAĞAÇ",
+    "id": 27604
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KAZIMKARABEKİRPAŞA",
+    "id": 27605
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KUMCIĞAZ",
+    "id": 27606
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KUŞCA",
+    "id": 27607
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "MURATLI",
+    "id": 27608
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YENİ",
+    "id": 27609
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YENİCAMİ",
+    "id": 27610
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ALTUNLU",
+    "id": 27611
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "DEREYOL",
+    "id": 27612
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ERENKÖY",
+    "id": 27613
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KESİKKAYA",
+    "id": 27614
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇAMLICA",
+    "id": 27615
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "EMİRYUSUF",
+    "id": 27616
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "TAŞPINAR",
+    "id": 27617
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ULUDERE",
+    "id": 27618
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "BEŞİKLİ",
+    "id": 27619
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇANGALLAR",
+    "id": 27620
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "İMANALİSİ",
+    "id": 27621
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KARAMAHMUT",
+    "id": 27622
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "OĞUZLU",
+    "id": 27623
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AMBARTEPE",
+    "id": 27624
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KARKUCAK",
+    "id": 27625
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KOCAMAN",
+    "id": 27626
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "YERLİ",
+    "id": 27627
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 27628
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "FATİH",
+    "id": 27629
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KOZLUK",
+    "id": 27630
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ORTASÖĞÜTLÜ",
+    "id": 27631
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 27632
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "BAFRACALI",
+    "id": 27633
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 27634
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SİVASLILAR",
+    "id": 27635
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ŞEYHLİ",
+    "id": 27636
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "DAĞDIRALI",
+    "id": 27637
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ETYEMEZLİ",
+    "id": 27638
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "SARAYKÖY",
+    "id": 27639
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ŞUAYİP",
+    "id": 27640
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AHMETBEY",
+    "id": 27641
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AKÇAGÜN",
+    "id": 27642
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "AYBEDER",
+    "id": 27643
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "BAĞSARAY",
+    "id": 27644
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "ÇANAKLI",
+    "id": 27645
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "DİBEKLİ",
+    "id": 27646
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "EĞERCİLİ",
+    "id": 27647
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "TERME",
+    "MAHALLE": "KOCAMANBAŞI",
+    "id": 27648
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "AKGÜNEY",
+    "id": 27649
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "BEKİROĞLU",
+    "id": 27650
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "SOĞUKÇAM",
+    "id": 27651
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "AŞAĞIISIRGANLI",
+    "id": 27652
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "TERSKIRIK",
+    "id": 27653
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YUKARIKOÇLU",
+    "id": 27654
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "AKBULUT",
+    "id": 27655
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "FATİH",
+    "id": 27656
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÖÇKÜN",
+    "id": 27657
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "PELİTBÜKÜ",
+    "id": 27658
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KADIKÖY",
+    "id": 27659
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 27660
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ORTAKÖY",
+    "id": 27661
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YENİKÖY",
+    "id": 27662
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YUKARIELMA",
+    "id": 27663
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YUKARISOĞUKÇAM",
+    "id": 27664
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ALPARSLAN",
+    "id": 27665
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "HABİLLİ",
+    "id": 27666
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KARLI",
+    "id": 27667
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "SANCAR",
+    "id": 27668
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "UZUNKIRAÇ",
+    "id": 27669
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YUKARIISIRGANLI",
+    "id": 27670
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "AŞAĞIKOÇLU",
+    "id": 27671
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "DOĞANKENT",
+    "id": 27672
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÜLKAYA",
+    "id": 27673
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KARAHÜSEYİNLİ",
+    "id": 27674
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KIŞLAKONAK",
+    "id": 27675
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KIZLAN",
+    "id": 27676
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "TOPLU",
+    "id": 27677
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ALİDEDEBÖLMESİ",
+    "id": 27678
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ESENTEPE",
+    "id": 27679
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "İNCİRLİ",
+    "id": 27680
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "MADENLER",
+    "id": 27681
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YENİCE",
+    "id": 27682
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 27683
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÖKÇEAĞAÇOYMAĞI",
+    "id": 27684
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YOĞUNPELİT",
+    "id": 27685
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ZEYTİN",
+    "id": 27686
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "AŞAĞI AKGÜNEY",
+    "id": 27687
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ETYEMEZ",
+    "id": 27688
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "TEFEKLİ",
+    "id": 27689
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KİLLİK",
+    "id": 27690
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 27691
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "TEPEBÖLMESİ",
+    "id": 27692
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÜLTEPE",
+    "id": 27693
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KALIKDEMİRCİ",
+    "id": 27694
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KAPAKLI",
+    "id": 27695
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "SARILIK",
+    "id": 27696
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "BAHŞİOYMAĞI",
+    "id": 27697
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "DEMİRCİDERESİ",
+    "id": 27698
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ÖRENLİ",
+    "id": 27699
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "PELİTBÜKÜSEKECEK",
+    "id": 27700
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "TAŞKELİK",
+    "id": 27701
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "DOYRAN",
+    "id": 27702
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KARAÇUKUR",
+    "id": 27703
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "VİCİKLER",
+    "id": 27704
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YENİCAMİ",
+    "id": 27705
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "HARMANCIK",
+    "id": 27706
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "ÇEŞME",
+    "id": 27707
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÖKÇEBOĞAZ",
+    "id": 27708
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÜMÜŞOVA",
+    "id": 27709
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "GÜVENLİ",
+    "id": 27710
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "KÖSEKÖY",
+    "id": 27711
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "UMUTLU",
+    "id": 27712
+  },
+  {
+    "İL": "SAMSUN",
+    "İLÇE": "ALAÇAM",
+    "MAHALLE": "YAKACIK",
+    "id": 27713
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "ESETÇE, ATATÜRK",
+    "id": 9911
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "SARAÇ İLYAS",
+    "id": 9912
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "KÖPRÜ",
+    "id": 9913
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "YENİKARPUZLU, GAZİ",
+    "id": 9914
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "BOZKURT",
+    "id": 9915
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "KAPUCU",
+    "id": 9916
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "YENİKARPUZLU, İNÖNÜ",
+    "id": 9917
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "BAYRAMBEY",
+    "id": 9918
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "ESETÇE, CUMHURİYET",
+    "id": 9919
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "FATİH",
+    "id": 9920
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "ESETÇE, KURTULUŞ",
+    "id": 9921
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "İPSALA",
+    "MAHALLE": "YENİKARPUZLU, FEVZİ ÇAKMAK",
+    "id": 9922
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "AŞAĞI ZAFERİYE",
+    "id": 9923
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "BÜYÜK CAMİ",
+    "id": 9924
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "PAŞAYİĞİT",
+    "id": 9925
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİMUHACİR, İNÖNÜ",
+    "id": 9926
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YUKARI ZAFERİYE",
+    "id": 9927
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "İSPAT CAMİ",
+    "id": 9928
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "BEĞENDİK, BEYKENT",
+    "id": 9929
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİMUHACİR, CUMHURİYET",
+    "id": 9930
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİMUHACİR, İSTİKLAL",
+    "id": 9931
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "BEĞENDİK, KEMALPAŞA",
+    "id": 9932
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİ",
+    "id": 9933
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9934
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİMESCİT",
+    "id": 9935
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "YENİMUHACİR, ATATÜRK",
+    "id": 9936
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "BEĞENDİK, AYDOĞAN",
+    "id": 9937
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "İSTASYON",
+    "id": 9938
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "İZZETİYE",
+    "id": 9939
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "MUSTAFA KEMAL PAŞA",
+    "id": 9940
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "KEŞAN",
+    "MAHALLE": "BEĞENDİK, YENİ",
+    "id": 9941
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "ENEZ",
+    "MAHALLE": "YENİ",
+    "id": 9942
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "ENEZ",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 9943
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "ENEZ",
+    "MAHALLE": "GAZİÖMERBEY",
+    "id": 9944
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "K. DOĞANCA",
+    "id": 9945
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "SUBAŞI, İZZET PAŞA",
+    "id": 9946
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "KÜPLÜ, MERKEZ",
+    "id": 9947
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "SUBAŞI, ŞEHİT MEHMET AYDIN",
+    "id": 9948
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "B.DOĞANCA",
+    "id": 9949
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERİÇ",
+    "MAHALLE": "KÜPLÜ, GAZİ",
+    "id": 9950
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NİŞANCIPAŞA",
+    "id": 9951
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEDRESE ALİ BEY",
+    "id": 9952
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARICAPAŞA",
+    "id": 9953
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAVUŞBEY",
+    "id": 9954
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "UMURBEY",
+    "id": 9955
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞÜKRÜPAŞA",
+    "id": 9956
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEYDAN",
+    "id": 9957
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MENZİLAHIR",
+    "id": 9958
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTASYON",
+    "id": 9959
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BABADEMİRTAŞ",
+    "id": 9960
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "1.MURAT",
+    "id": 9961
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 9962
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİTHAT PAŞA",
+    "id": 9963
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YANCIKÇI ŞAHİN",
+    "id": 9964
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABDURRAHMAN",
+    "id": 9965
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SABUNİ",
+    "id": 9966
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BARUTLUK",
+    "id": 9967
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DİLAVERBEY",
+    "id": 9968
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KOCA SİNAN",
+    "id": 9969
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TALATPAŞA",
+    "id": 9970
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 9971
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİİMARET",
+    "id": 9972
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIRIM HACI SARRAF",
+    "id": 9973
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 9974
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "SÜLOĞLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9975
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "SÜLOĞLU",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 9976
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "SÜLOĞLU",
+    "MAHALLE": "MERKEZ",
+    "id": 9977
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "SÜLOĞLU",
+    "MAHALLE": "YENİ",
+    "id": 9978
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "SÜLOĞLU",
+    "MAHALLE": "ŞAFAK",
+    "id": 9979
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "MESCİT",
+    "id": 9980
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "HABİB HOCA",
+    "id": 9981
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9982
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "ÇÖPKÖY",
+    "id": 9983
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "ATATÜRK",
+    "id": 9984
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 9985
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "YENİKÖY",
+    "id": 9986
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "RIZAEFENDİ",
+    "id": 9987
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KIRCASALİH, CUMHURİYET",
+    "id": 9988
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KAVAK",
+    "id": 9989
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "MAREŞAL FEVZİ ÇAKMAK",
+    "id": 9990
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "MURADİYE",
+    "id": 9991
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KIRCASALİH, İSTİKLAL",
+    "id": 9992
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KIRCASALİH, OKULLAR",
+    "id": 9993
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "AŞÇIOĞLU",
+    "id": 9994
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "HALİSE HATUN",
+    "id": 9995
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KIRCASALİH, BALABAN",
+    "id": 9996
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "BÜYÜK ŞEHSUVARBEY",
+    "id": 9997
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "MURADİYE CAMİ",
+    "id": 9998
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "UZUNKÖPRÜ",
+    "MAHALLE": "KÜÇÜK ŞEHSUVARBEY",
+    "id": 9999
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "HACIGAZİ",
+    "id": 10000
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "YENİ",
+    "id": 10001
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 10002
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "HELVACI",
+    "id": 10003
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "HACIİSA",
+    "id": 10004
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "HAVSA",
+    "MAHALLE": "VAROŞ",
+    "id": 10005
+  },
+  {
+    "İL": "EDİRNE",
+    "İLÇE": "LALAPAŞA",
+    "MAHALLE": "MERKEZ",
+    "id": 10006
+  }
+]

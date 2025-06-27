@@ -1,0 +1,3722 @@
+[
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ALANDIZ",
+    "id": 8125
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BOSTANYERİ",
+    "id": 8126
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BÖLMEKAYA",
+    "id": 8127
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ALACAOĞLU",
+    "id": 8128
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BEYLER",
+    "id": 8129
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BOĞAZÇİFTLİK",
+    "id": 8130
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "AKTAŞ",
+    "id": 8131
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 8132
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KURTULUŞ",
+    "id": 8133
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "TURAN",
+    "id": 8134
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "GÜLALAN",
+    "id": 8135
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "GÜROLUK",
+    "id": 8136
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8137
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 8138
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KOVANOLUK",
+    "id": 8139
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YALÇINKAYA",
+    "id": 8140
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KIRANDAMI",
+    "id": 8141
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YENİCEKENT",
+    "id": 8142
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BOZALAN",
+    "id": 8143
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "DIMBAZLAR",
+    "id": 8144
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "DÜZALAN",
+    "id": 8145
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KARAKÖY",
+    "id": 8146
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 8147
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "DERBENT",
+    "id": 8148
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "DOĞAN",
+    "id": 8149
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "GİRNE",
+    "id": 8150
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "TÜRLÜBEY",
+    "id": 8151
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YENİÇAM",
+    "id": 8152
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ÇATAK",
+    "id": 8153
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "HELVACILAR",
+    "id": 8154
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KAŞIKCI",
+    "id": 8155
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "SÜLEYMANLI",
+    "id": 8156
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YEŞİL DERE",
+    "id": 8157
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KADIKÖY",
+    "id": 8158
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "OĞUZ",
+    "id": 8159
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YAYLA",
+    "id": 8160
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "YENİ",
+    "id": 8161
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "KURUDERE",
+    "id": 8162
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "MAHMUTLU",
+    "id": 8163
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "SARIMAHMUTLU",
+    "id": 8164
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "BURSA",
+    "id": 8165
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 8166
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "ÇARŞI",
+    "id": 8167
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "DÖRT EYLÜL",
+    "id": 8168
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BULDAN",
+    "MAHALLE": "HASANBEYLER",
+    "id": 8169
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "DEVELLER",
+    "id": 8170
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "ORTAKÖY",
+    "id": 8171
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "SELCEN",
+    "id": 8172
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "ŞAPCILAR",
+    "id": 8173
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "YUKARISEYİT",
+    "id": 8174
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "BAYIRALAN",
+    "id": 8175
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "KARAPINAR",
+    "id": 8176
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "KAPLANLAR",
+    "id": 8177
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "KARAKAYA",
+    "id": 8178
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "SAZAK",
+    "id": 8179
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "AŞAĞISEYİT",
+    "id": 8180
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "DENİZLER",
+    "id": 8181
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "KABALAR",
+    "id": 8182
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "KOCAKÖY",
+    "id": 8183
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 8184
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "BAKLANÇAKIRLAR",
+    "id": 8185
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "İSABEY",
+    "id": 8186
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "ÇALÇAKIRLAR",
+    "id": 8187
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "MAHMUTGAZİ",
+    "id": 8188
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "AKKENT",
+    "id": 8189
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "DAĞMARMARA",
+    "id": 8190
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "İSMAİLLER",
+    "id": 8191
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "SAKIZCILAR",
+    "id": 8192
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "HANÇALAR",
+    "id": 8193
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "PEYNİRCİLER",
+    "id": 8194
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "ALFAKLAR",
+    "id": 8195
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "BAHADINLAR",
+    "id": 8196
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "BELEVİ",
+    "id": 8197
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "ÇALKUYUCAK",
+    "id": 8198
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "GELİNÖREN",
+    "id": 8199
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "HÜSEYİNLER",
+    "id": 8200
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "YAZIR",
+    "id": 8201
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "DAYILAR",
+    "id": 8202
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAL",
+    "MAHALLE": "SÜLLER",
+    "id": 8203
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "GEMİŞPINARI",
+    "id": 8204
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "SÖĞÜTÖZÜ",
+    "id": 8205
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "GEMİŞLİ",
+    "id": 8206
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "HÜRRİYET",
+    "id": 8207
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "İSTİKLAL",
+    "id": 8208
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "AYVAZ",
+    "id": 8209
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "CUMHURİYET SB",
+    "id": 8210
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "ÇINAR",
+    "id": 8211
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "HAYRİYE",
+    "id": 8212
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "BEYLERLİ",
+    "id": 8213
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8214
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "GÖLCÜK",
+    "id": 8215
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "ÇALTI",
+    "id": 8216
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "SARAY",
+    "id": 8217
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8218
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 8219
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇARDAK",
+    "MAHALLE": "ÇARDAK ÖZDEMİR SABANCI OSB",
+    "id": 8220
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "DEREAĞZI",
+    "id": 8221
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "GÖKÇELER",
+    "id": 8222
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KOZLAR",
+    "id": 8223
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ORTA",
+    "id": 8224
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YAHŞİLER",
+    "id": 8225
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "AKINCILAR",
+    "id": 8226
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 8227
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KAYACA",
+    "id": 8228
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "AKYAR",
+    "id": 8229
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "AVDAN",
+    "id": 8230
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "MEDET",
+    "id": 8231
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "SOLMAZ",
+    "id": 8232
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "AYDOĞDU",
+    "id": 8233
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ÇALIKÖY",
+    "id": 8234
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "SARABAT",
+    "id": 8235
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "SEKİ",
+    "id": 8236
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "PINARLAR",
+    "id": 8237
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YORGA",
+    "id": 8238
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "BAHÇEKÖY",
+    "id": 8239
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "HORASANLI",
+    "id": 8240
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KEÇELİLER",
+    "id": 8241
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "DENİZOLUĞU",
+    "id": 8242
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 8243
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "VAKIF",
+    "id": 8244
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "GÜMÜŞDERE",
+    "id": 8245
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KIZILCABÖLÜK",
+    "id": 8246
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YAKA",
+    "id": 8247
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YUKARIBOĞAZ",
+    "id": 8248
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KARAHİSAR",
+    "id": 8249
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KIZILCA",
+    "id": 8250
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "OVACIK",
+    "id": 8251
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YENİ",
+    "id": 8252
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 8253
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ALPA",
+    "id": 8254
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "GARİPKÖY",
+    "id": 8255
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "SOFULAR",
+    "id": 8256
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "SAMANLIK",
+    "id": 8257
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "DAMLACIK",
+    "id": 8258
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "EBECİK",
+    "id": 8259
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "KAYAPINAR",
+    "id": 8260
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "BALKICA",
+    "id": 8261
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "DERİNKUYU",
+    "id": 8262
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "HIRKA",
+    "id": 8263
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "BAHARLAR",
+    "id": 8264
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ÇAĞIRGAN",
+    "id": 8265
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 8266
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "NİKFER",
+    "id": 8267
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ALTINOVA",
+    "id": 8268
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "PINARLIK",
+    "id": 8269
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "TAVAS",
+    "MAHALLE": "ULUKENT",
+    "id": 8270
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "KARAGÖZLER",
+    "id": 8271
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "KARAAĞAÇLI",
+    "id": 8272
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "CİNDERE",
+    "id": 8273
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ORTAÇEŞME",
+    "id": 8274
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ADIGÜZELLER",
+    "id": 8275
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "PARMAKSIZLAR",
+    "id": 8276
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ÇAMRAK",
+    "id": 8277
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "DOĞANLI",
+    "id": 8278
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "TİLKİLİK",
+    "id": 8279
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ÜÇ EYLÜL",
+    "id": 8280
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "FATİH",
+    "id": 8281
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ORTA",
+    "id": 8282
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "AŞAĞIÇEŞME",
+    "id": 8283
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "AYDOĞDU",
+    "id": 8284
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "EZİLER",
+    "id": 8285
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "KERİMLER",
+    "id": 8286
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "YENİKONAK",
+    "id": 8287
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "KOPARAN",
+    "id": 8288
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "HAYLAMAZ",
+    "id": 8289
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "YAĞCILAR",
+    "id": 8290
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ERTUĞRUL",
+    "id": 8291
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "HAMİDİYE",
+    "id": 8292
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "YENİ",
+    "id": 8293
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "GÜNEY",
+    "MAHALLE": "ÇORBACILAR",
+    "id": 8294
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BELENCE",
+    "id": 8295
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇANDIR",
+    "id": 8296
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇAPAK",
+    "id": 8297
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "GÖKGÖL",
+    "id": 8298
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KOÇAK",
+    "id": 8299
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SARIBEYLİ",
+    "id": 8300
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YASSIHÜYÜK",
+    "id": 8301
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 8302
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "GÜRPINAR",
+    "id": 8303
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KOCAYAKA",
+    "id": 8304
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "REŞADİYE",
+    "id": 8305
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SARAY",
+    "id": 8306
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 8307
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YALINLI",
+    "id": 8308
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YUKARI ÇAPAK",
+    "id": 8309
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BEYDİLLİ",
+    "id": 8310
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SAVRAN",
+    "id": 8311
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "OSMANKÖY",
+    "id": 8312
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BOZDAĞ",
+    "id": 8313
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÖMERLİ",
+    "id": 8314
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YUVAKÖY",
+    "id": 8315
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "CABAR",
+    "id": 8316
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "İMRALLI",
+    "id": 8317
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "İNCEKÖY",
+    "id": 8318
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "İSHAKLI",
+    "id": 8319
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KIZILCAYER",
+    "id": 8320
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "AKTAŞ",
+    "id": 8321
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "CUMALAR",
+    "id": 8322
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇARŞI",
+    "id": 8323
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇATLAR",
+    "id": 8324
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KARAMANLI",
+    "id": 8325
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YAMANLAR",
+    "id": 8326
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "AŞAĞI",
+    "id": 8327
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BALÇIKHİSAR",
+    "id": 8328
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BAYAT",
+    "id": 8329
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "GÜMÜŞSU",
+    "id": 8330
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KIRALAN",
+    "id": 8331
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "MENTEŞ",
+    "id": 8332
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "TOKÇA",
+    "id": 8333
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 8334
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "AKPINAR",
+    "id": 8335
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BEYKÖY",
+    "id": 8336
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇAYIR",
+    "id": 8337
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇETİNLER",
+    "id": 8338
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KAVAKKÖY",
+    "id": 8339
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KIZILCASÖĞÜT",
+    "id": 8340
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SOMAK",
+    "id": 8341
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "STADYUM",
+    "id": 8342
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YAHYALI",
+    "id": 8343
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇAKALLAR",
+    "id": 8344
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "İĞDİR",
+    "id": 8345
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SERASERLİ",
+    "id": 8346
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÇITAK",
+    "id": 8347
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KARALAR",
+    "id": 8348
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "DÜZBEL",
+    "id": 8349
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "HAMAM",
+    "id": 8350
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KARAYAHŞİLER",
+    "id": 8351
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ÖZDEMİRCİ",
+    "id": 8352
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SARILAR",
+    "id": 8353
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YUKARI",
+    "id": 8354
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BULGURLAR",
+    "id": 8355
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "IRGILLI",
+    "id": 8356
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "ŞENKÖY",
+    "id": 8357
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "TEKKE",
+    "id": 8358
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "TUĞLU",
+    "id": 8359
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BEKİRLİ",
+    "id": 8360
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KARABEDİRLER",
+    "id": 8361
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SÖKMEN",
+    "id": 8362
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "EMİRCİK",
+    "id": 8363
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "HAYDAN",
+    "id": 8364
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KARAHACILI",
+    "id": 8365
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "KAVAKALANI",
+    "id": 8366
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "BUCAK",
+    "id": 8367
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "IŞIKLI",
+    "id": 8368
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SUNDURLU",
+    "id": 8369
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "SÜNGÜLLÜ",
+    "id": 8370
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇİVRİL",
+    "MAHALLE": "YAKACIK",
+    "id": 8371
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "EMİRAZİZLİ",
+    "id": 8372
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "GÜRLEYİK",
+    "id": 8373
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "KARAÇAY",
+    "id": 8374
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "MENTEŞE",
+    "id": 8375
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "YOKUŞBAŞI",
+    "id": 8376
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "DENİZLİ ASB",
+    "id": 8377
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "KARATEKE",
+    "id": 8378
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "SAPACA",
+    "id": 8379
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "YENİ",
+    "id": 8380
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "AKBAŞ",
+    "id": 8381
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "AŞAĞIDAĞDERE",
+    "id": 8382
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "DEREÇİFTLİK",
+    "id": 8383
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "AFŞIN BEY",
+    "id": 8384
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "YUKARIDAĞDERE",
+    "id": 8385
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "OVACIK",
+    "id": 8386
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8387
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "HİSAR",
+    "id": 8388
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "KOCABAŞ",
+    "id": 8389
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "AYDINLAR",
+    "id": 8390
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 8391
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "KAKLIK",
+    "id": 8392
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "HAYDAR",
+    "id": 8393
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "HONAZ",
+    "MAHALLE": "KIZILYER",
+    "id": 8394
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 8395
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "DEMİRLİ",
+    "id": 8396
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "GAZİ",
+    "id": 8397
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8398
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "OĞUZLAR",
+    "id": 8399
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "İNCİLİPINAR",
+    "id": 8400
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "BEKİRLER",
+    "id": 8401
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "KELLECİ",
+    "id": 8402
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "MOLLAAHMET",
+    "id": 8403
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "YENİKÖY",
+    "id": 8404
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "KIRANYER",
+    "id": 8405
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BABADAĞ",
+    "MAHALLE": "AHILLI",
+    "id": 8406
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "ÇATALOBA",
+    "id": 8407
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "HADİM",
+    "id": 8408
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "DAĞAL",
+    "id": 8409
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "HÜSAMETTİN DEDE",
+    "id": 8410
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "ŞENYAYLA",
+    "id": 8411
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "KAVAKLAR",
+    "id": 8412
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "KİRAZLI",
+    "id": 8413
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "İCİKLİ",
+    "id": 8414
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "BALCA",
+    "id": 8415
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "GÜRLÜK",
+    "id": 8416
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "BEYELLİ",
+    "id": 8417
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "GÖKPINAR",
+    "id": 8418
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "KONAK",
+    "id": 8419
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BAKLAN",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 8420
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "ALİKURT",
+    "id": 8421
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "TUTLUCA",
+    "id": 8422
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "FATİH",
+    "id": 8423
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "MEHMETÇİK",
+    "id": 8424
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "SAZKÖY",
+    "id": 8425
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "AVDAN",
+    "id": 8426
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "İNCELER",
+    "id": 8427
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "CUMALI",
+    "id": 8428
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "ÇAMBAŞI",
+    "id": 8429
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "HAMDİYE",
+    "id": 8430
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 8431
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "BAŞÇEŞME",
+    "id": 8432
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 8433
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "YENİBAĞLAR",
+    "id": 8434
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "BARBAROS",
+    "id": 8435
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "HAYRETTİNKÖY",
+    "id": 8436
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "İNCELERTEKKESİ",
+    "id": 8437
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "ARMUTALANI",
+    "id": 8438
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "BAKLANKUYUCAK",
+    "id": 8439
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BOZKURT",
+    "MAHALLE": "MECİDİYE",
+    "id": 8440
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BARBAROS",
+    "id": 8441
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BARUTÇULAR",
+    "id": 8442
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "HALLAÇLAR",
+    "id": 8443
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "İLBADE",
+    "id": 8444
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 8445
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ZAFER",
+    "id": 8446
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "AKKONAK",
+    "id": 8447
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BAŞKARCI",
+    "id": 8448
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "YENİŞAFAK",
+    "id": 8449
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "KADILAR",
+    "id": 8450
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 8451
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "AKÇEŞME",
+    "id": 8452
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ALTINDERE",
+    "id": 8453
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BOZBURUN",
+    "id": 8454
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 8455
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "AŞAĞIŞAMLI",
+    "id": 8456
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ADALET",
+    "id": 8457
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "HACIEYÜPLÜ",
+    "id": 8458
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "KARAHASANLI",
+    "id": 8459
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "KARAMAN",
+    "id": 8460
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SARAYLAR",
+    "id": 8461
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "MERKEZ EFENDİ",
+    "id": 8462
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SÜMER",
+    "id": 8463
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8464
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "BEREKETLER",
+    "id": 8465
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "GÜMÜŞÇAY",
+    "id": 8466
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ALPASLAN",
+    "id": 8467
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "HİSAR",
+    "id": 8468
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SERVERGAZİ",
+    "id": 8469
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SEVİNDİK",
+    "id": 8470
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SIRAKAPILAR",
+    "id": 8471
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "KAYALAR",
+    "id": 8472
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SARUHAN",
+    "id": 8473
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ÇAKMAK",
+    "id": 8474
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "GÖVEÇLİK",
+    "id": 8475
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SELÇUK BEY",
+    "id": 8476
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 8477
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "1200 EVLER",
+    "id": 8478
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 8479
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 8480
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ŞEMİKLER",
+    "id": 8481
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ALTINTOP",
+    "id": 8482
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "KUMKISIK",
+    "id": 8483
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "SALİHAĞA",
+    "id": 8484
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "ÜZERLİK",
+    "id": 8485
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 8486
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "DEĞİRMENÖNÜ",
+    "id": 8487
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "GERZELE",
+    "id": 8488
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "MURATDEDE",
+    "id": 8489
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "MERKEZEFENDİ",
+    "MAHALLE": "YENİ",
+    "id": 8490
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8491
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "PINARCIK",
+    "id": 8492
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "YATAĞAN",
+    "id": 8493
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "AŞAĞI",
+    "id": 8494
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "ŞAİR EŞREF",
+    "id": 8495
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "AYAZ",
+    "id": 8496
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "ORTA",
+    "id": 8497
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "YENİCE",
+    "id": 8498
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "YÜREĞİL",
+    "id": 8499
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "KOCAPINAR",
+    "id": 8500
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SERİNHİSAR",
+    "MAHALLE": "KAYA",
+    "id": 8501
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "DEŞDEMİR",
+    "id": 8502
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "YAHYALAR",
+    "id": 8503
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 8504
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "KUTLUBEY",
+    "id": 8505
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "ÇOĞAŞLI",
+    "id": 8506
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "EKİZBABA",
+    "id": 8507
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "KÖSELLİ",
+    "id": 8508
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "YEŞİLOBA",
+    "id": 8509
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "BÜKRÜCE",
+    "id": 8510
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "POYRAZLI",
+    "id": 8511
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "GÖMCE",
+    "id": 8512
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "ÜÇKUYU",
+    "id": 8513
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "SIRIKLI",
+    "id": 8514
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "BAHÇELİ",
+    "id": 8515
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEKİLLİ",
+    "MAHALLE": "YENİ",
+    "id": 8516
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YENİ",
+    "id": 8517
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YEŞİLYUVA",
+    "id": 8518
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "APA",
+    "id": 8519
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "BEDİRBEY",
+    "id": 8520
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ESKİKÖY",
+    "id": 8521
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "OVAYURT",
+    "id": 8522
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "SANDALCIK",
+    "id": 8523
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "SUÇATI",
+    "id": 8524
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "UCARI",
+    "id": 8525
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 8526
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YUKARI",
+    "id": 8527
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ALAATTİN",
+    "id": 8528
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "GÜMÜŞ",
+    "id": 8529
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "HACIKURTLAR",
+    "id": 8530
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KIRCA",
+    "id": 8531
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KUMAFŞARI",
+    "id": 8532
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "PINARYAZI",
+    "id": 8533
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ALCI",
+    "id": 8534
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ÖREN",
+    "id": 8535
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YAZIR",
+    "id": 8536
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "BADEMLİ",
+    "id": 8537
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ÇAKIR",
+    "id": 8538
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "DODURGA",
+    "id": 8539
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "BENLİK",
+    "id": 8540
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "HİSAR",
+    "id": 8541
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KUYUCAK",
+    "id": 8542
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "AKALAN",
+    "id": 8543
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ÇUBUKÇULAR",
+    "id": 8544
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "PINARBAŞI",
+    "id": 8545
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "BOĞAZDERE",
+    "id": 8546
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "DEDEBAĞI",
+    "id": 8547
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "GEDİKLİ",
+    "id": 8548
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YASSIHÜYÜK",
+    "id": 8549
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "GÖLCÜK",
+    "id": 8550
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KURTLAR",
+    "id": 8551
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "SIRÇALIK",
+    "id": 8552
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YOLÇATI",
+    "id": 8553
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YUMRUTAŞ",
+    "id": 8554
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "GÜNEY",
+    "id": 8555
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KELEKÇİ",
+    "id": 8556
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "OĞUZ",
+    "id": 8557
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "AKŞAR",
+    "id": 8558
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ALİVEREN",
+    "id": 8559
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ÇAMLIK",
+    "id": 8560
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 8561
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "MEVLÜTLER",
+    "id": 8562
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "AVŞAR",
+    "id": 8563
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "CORUM",
+    "id": 8564
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KARAİSMAİLLER",
+    "id": 8565
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 8566
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KÖKE",
+    "id": 8567
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "OLUKBAŞI",
+    "id": 8568
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "YENİKÖY",
+    "id": 8569
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "AŞAĞI",
+    "id": 8570
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "DARIVEREN",
+    "id": 8571
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ACIPAYAM",
+    "MAHALLE": "KUZÖREN",
+    "id": 8572
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "GÜRSU",
+    "id": 8573
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "ÇİĞDEMLİ",
+    "id": 8574
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "İMAMLAR",
+    "id": 8575
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KINIKYERİ",
+    "id": 8576
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "ARIKAYA",
+    "id": 8577
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "BIÇAKÇI",
+    "id": 8578
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "YENİ",
+    "id": 8579
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "ERİCEK",
+    "id": 8580
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "CEVİZLİ",
+    "id": 8581
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KARABAYIR",
+    "id": 8582
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KOLAK",
+    "id": 8583
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "YUNUSPINARI",
+    "id": 8584
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "SARIKAVAK",
+    "id": 8585
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "BELEVİ",
+    "id": 8586
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "CUMAALANI",
+    "id": 8587
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 8588
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "GÖKÇEYAKA",
+    "id": 8589
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "ELMALI",
+    "id": 8590
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "AKPINAR",
+    "id": 8591
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KALINKOZ",
+    "id": 8592
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KIZILYAKA",
+    "id": 8593
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "AYVACIK",
+    "id": 8594
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KOCAOVA",
+    "id": 8595
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "SOFULAR",
+    "id": 8596
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "TAŞÇILAR",
+    "id": 8597
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "GÜZELYURT",
+    "id": 8598
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "YUMRUTAŞ",
+    "id": 8599
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "KİRAZLIYAYLA",
+    "id": 8600
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "YAYLAPINAR",
+    "id": 8601
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "EMECİK",
+    "id": 8602
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "ÇAMELİ",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 8603
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KAVAKBAŞI",
+    "id": 8604
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 8605
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "AKHAN",
+    "id": 8606
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ANAFARTALAR",
+    "id": 8607
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "CANKURTARAN",
+    "id": 8608
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GÖKPINAR",
+    "id": 8609
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "İNCİLİPINAR",
+    "id": 8610
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "İSTİKLAL",
+    "id": 8611
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KARATAŞ",
+    "id": 8612
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "MEHMETÇİK",
+    "id": 8613
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ATALAR",
+    "id": 8614
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KURTLUCA",
+    "id": 8615
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "PAMUKKALE",
+    "id": 8616
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "15 MAYIS",
+    "id": 8617
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "AKDERE",
+    "id": 8618
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "DOKUZKAVAKLAR",
+    "id": 8619
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ASMALIEVLER",
+    "id": 8620
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "BAĞBAŞI",
+    "id": 8621
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "BELENARDIÇ",
+    "id": 8622
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "FATİH",
+    "id": 8623
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KALE",
+    "id": 8624
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KUŞPINAR",
+    "id": 8625
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 8626
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 8627
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KARAKOVA",
+    "id": 8628
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KERVANSARAY",
+    "id": 8629
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "FESLEĞEN",
+    "id": 8630
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 8631
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KARAHAYIT",
+    "id": 8632
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KÜÇÜKDERE",
+    "id": 8633
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ELDENİZLİ",
+    "id": 8634
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 8635
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "YENİKÖY",
+    "id": 8636
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ZEYTİNKÖY",
+    "id": 8637
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GÖZLER",
+    "id": 8638
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "IRLIGANLI",
+    "id": 8639
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KINIKLI",
+    "id": 8640
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KORUCUK",
+    "id": 8641
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "PELİTLİBAĞ",
+    "id": 8642
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "TEKKE",
+    "id": 8643
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8644
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GONCALI",
+    "id": 8645
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "HACIKAPLANLAR",
+    "id": 8646
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KAYIHAN",
+    "id": 8647
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "YUKARIŞAMLI",
+    "id": 8648
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "AKKÖY",
+    "id": 8649
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "ÇEŞMEBAŞI",
+    "id": 8650
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 8651
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "DELİKTAŞ",
+    "id": 8652
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "AKTEPE",
+    "id": 8653
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "EYMİR",
+    "id": 8654
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "DEVELİ",
+    "id": 8655
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GÖLEMEZLİ",
+    "id": 8656
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "GÜZELPINAR",
+    "id": 8657
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "TOPRAKLIK",
+    "id": 8658
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "HAYTABEY",
+    "id": 8659
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KARAKURT",
+    "id": 8660
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "KOCADERE",
+    "id": 8661
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "PINARKENT",
+    "id": 8662
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "SİTELER",
+    "id": 8663
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "PAMUKKALE",
+    "MAHALLE": "UZUNPINAR",
+    "id": 8664
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "YENİ",
+    "id": 8665
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "KAPUZ",
+    "id": 8666
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "EŞENLER",
+    "id": 8667
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "KIZILCAAĞAÇ",
+    "id": 8668
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8669
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "SAZAK",
+    "id": 8670
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "ZAFER",
+    "id": 8671
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 8672
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "SUBAŞI",
+    "id": 8673
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "YENİÇEŞME",
+    "id": 8674
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "UZUNOLUK",
+    "id": 8675
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "ÇAMLIK",
+    "id": 8676
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "PINARÖNÜ",
+    "id": 8677
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "GERİÇAM",
+    "id": 8678
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "BEYAĞAÇ",
+    "MAHALLE": "FATİH",
+    "id": 8679
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "HASKÖY",
+    "id": 8680
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "SIĞMA",
+    "id": 8681
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "CABER",
+    "id": 8682
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "SAKARYA",
+    "id": 8683
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TOSUNLAR",
+    "id": 8684
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "ALTINTEPE",
+    "id": 8685
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "ATATÜRK",
+    "id": 8686
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8687
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "GERALİ",
+    "id": 8688
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "KUMLUCA",
+    "id": 8689
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "YAKAYURT",
+    "id": 8690
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 8691
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TEKKE",
+    "id": 8692
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "HİSAR",
+    "id": 8693
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "BEYLERBEYİ",
+    "id": 8694
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "KARATAŞ",
+    "id": 8695
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "ACIDERE",
+    "id": 8696
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "BALA",
+    "id": 8697
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TRAFO",
+    "id": 8698
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "DUACILI",
+    "id": 8699
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "ACISU",
+    "id": 8700
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TEPEKÖY",
+    "id": 8701
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TIRKAZ",
+    "id": 8702
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "KABAAĞAÇ",
+    "id": 8703
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "SARAYKÖY TDİ OSB",
+    "id": 8704
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "UYANIK",
+    "id": 8705
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "ADA",
+    "id": 8706
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "AŞAĞI",
+    "id": 8707
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "KARAKIRAN",
+    "id": 8708
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "TURAN",
+    "id": 8709
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "AHMETLİ",
+    "id": 8710
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "SAZAK",
+    "id": 8711
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "SARAYKÖY",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 8712
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KÜNAR",
+    "id": 8713
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 8714
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "HABİPLER",
+    "id": 8715
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KAYABAŞI",
+    "id": 8716
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "İNCEĞİZ",
+    "id": 8717
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KIRKÖY",
+    "id": 8718
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KOÇARBOĞAZI",
+    "id": 8719
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 8720
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 8721
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "MUSLUGÜME",
+    "id": 8722
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "YENİDERE",
+    "id": 8723
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ÇAMLARCA",
+    "id": 8724
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ORTATEPE",
+    "id": 8725
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ADAMHARMANI",
+    "id": 8726
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ULUÇAM",
+    "id": 8727
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 8728
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "TOKİ",
+    "id": 8729
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "YENİKÖY",
+    "id": 8730
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ESENKAYA",
+    "id": 8731
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 8732
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "GÜLBAĞLIK",
+    "id": 8733
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 8734
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "CEVHERPAŞA",
+    "id": 8735
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8736
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 8737
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KARAKÖY",
+    "id": 8738
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ALANYURT",
+    "id": 8739
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "ÇAKIRBAĞ",
+    "id": 8740
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 8741
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "BELENKÖY",
+    "id": 8742
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "NARLI",
+    "id": 8743
+  },
+  {
+    "İL": "DENİZLİ",
+    "İLÇE": "KALE",
+    "MAHALLE": "KARAYAYLA",
+    "id": 8744
+  }
+]

@@ -1,0 +1,6434 @@
+[
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "BADEMLİK",
+    "id": 6747
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "BURUNCA",
+    "id": 6748
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ÇAKIRYENİCE",
+    "id": 6749
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DERECİK",
+    "id": 6750
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DÜĞÜNCÜLER",
+    "id": 6751
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KUŞLAR",
+    "id": 6752
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "AKTAŞ",
+    "id": 6753
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "MAZLUMLAR",
+    "id": 6754
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DANACILAR",
+    "id": 6755
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "HACIAHMETLER",
+    "id": 6756
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "TEKERLER",
+    "id": 6757
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "HEMŞERİLER",
+    "id": 6758
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KARALAR",
+    "id": 6759
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KINIK",
+    "id": 6760
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KAYAPA",
+    "id": 6761
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "PERÇİN",
+    "id": 6762
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "GEDİKLER",
+    "id": 6763
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "HOCAHASAN",
+    "id": 6764
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KARAAĞIZ",
+    "id": 6765
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "PINARKÖY",
+    "id": 6766
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ORHAN",
+    "id": 6767
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ARMUTÇUK",
+    "id": 6768
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DURHASAN",
+    "id": 6769
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "AKÇASAZ",
+    "id": 6770
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "GEYNİK",
+    "id": 6771
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "OSMANLAR",
+    "id": 6772
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "PİREBEYLER",
+    "id": 6773
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "BALABAN",
+    "id": 6774
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "BAYINDIR",
+    "id": 6775
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ÇERİBAŞI",
+    "id": 6776
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "HACILAR",
+    "id": 6777
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6778
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ELEKÇALI",
+    "id": 6779
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "KARAÇUKUR",
+    "id": 6780
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DANAÇALI",
+    "id": 6781
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "DEMİRLER",
+    "id": 6782
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 6783
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "YENİCE",
+    "id": 6784
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ÖRENCİK",
+    "id": 6785
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ERİCEK",
+    "id": 6786
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "İSMETİYE",
+    "id": 6787
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "SARNIÇ",
+    "id": 6788
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "BÜYÜKORHAN",
+    "MAHALLE": "ZAFERİYE",
+    "id": 6789
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BALATOSB",
+    "id": 6790
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KAYAPA",
+    "id": 6791
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KIZILCIKLI",
+    "id": 6792
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KONAK",
+    "id": 6793
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ODUNLUK",
+    "id": 6794
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BALKAN",
+    "id": 6795
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BÜYÜKBALIKLI",
+    "id": 6796
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "FETHİYE",
+    "id": 6797
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "FETHİYEOSB",
+    "id": 6798
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KURUÇEŞME",
+    "id": 6799
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "TAHTALI",
+    "id": 6800
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BEŞEVLER",
+    "id": 6801
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KARAMAN",
+    "id": 6802
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KORUBAŞI",
+    "id": 6803
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÇAMLICA",
+    "id": 6804
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ESENTEPE",
+    "id": 6805
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "MİNARELİÇAVUŞBURSA OSB",
+    "id": 6806
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "MİNARELİÇAVUŞOSB",
+    "id": 6807
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ALTINŞEHİR",
+    "id": 6808
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6809
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "DEMİRCİ",
+    "id": 6810
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "HASANAĞA OSB",
+    "id": 6811
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "YOLÇATI",
+    "id": 6812
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BALAT",
+    "id": 6813
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BAŞKÖY",
+    "id": 6814
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KARACAOBA",
+    "id": 6815
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "MAKŞEMPINARI",
+    "id": 6816
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "YAYLACIK",
+    "id": 6817
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "YÜZÜNCÜYIL",
+    "id": 6818
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "19 MAYIS",
+    "id": 6819
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "AKÇALAR",
+    "id": 6820
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "FADILLI",
+    "id": 6821
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "GÖLYAZI",
+    "id": 6822
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "İHSANİYE",
+    "id": 6823
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÜRÜNLÜ",
+    "id": 6824
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ALAADDİNBEY",
+    "id": 6825
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BARIŞ",
+    "id": 6826
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "HASANAĞA",
+    "id": 6827
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "IŞIKTEPEOSB",
+    "id": 6828
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "23 NİSAN",
+    "id": 6829
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "29 EKİM",
+    "id": 6830
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÇATALAĞIL",
+    "id": 6831
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6832
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 6833
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÜÇEVLER",
+    "id": 6834
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 6835
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ERTUĞRUL",
+    "id": 6836
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "GÖRÜKLE",
+    "id": 6837
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "IŞIKTEPE",
+    "id": 6838
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 6839
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ATLAS",
+    "id": 6840
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÇALI",
+    "id": 6841
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ÇAYLI",
+    "id": 6842
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 6843
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "30 AĞUSTOS ZAFER",
+    "id": 6844
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "GÖKÇE",
+    "id": 6845
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KADRİYE",
+    "id": 6846
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KONAKLI",
+    "id": 6847
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 6848
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "AYVAKÖY",
+    "id": 6849
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "İNEGAZİ",
+    "id": 6850
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "UNÇUKURU",
+    "id": 6851
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "DAĞYENİCE",
+    "id": 6852
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "KURTULUŞ",
+    "id": 6853
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "ATAEVLER",
+    "id": 6854
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "BADIRGA",
+    "id": 6855
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 6856
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "GÜMÜŞTEPE",
+    "id": 6857
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "İRFANİYE",
+    "id": 6858
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "NİLÜFER",
+    "MAHALLE": "MİNARELİÇAVUŞ",
+    "id": 6859
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "BASAK",
+    "id": 6860
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DAĞ DEMİRCİLER",
+    "id": 6861
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DENİZLER",
+    "id": 6862
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "EPÇELER",
+    "id": 6863
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "SOFULAR",
+    "id": 6864
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "ÇUKUR",
+    "id": 6865
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KARAARDIÇ",
+    "id": 6866
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KEMALİYE",
+    "id": 6867
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 6868
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KIRAN IŞIKLAR",
+    "id": 6869
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "SORGUN",
+    "id": 6870
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KÜÇÜK KOVACIK",
+    "id": 6871
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "YUNUSLAR",
+    "id": 6872
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DEDELER",
+    "id": 6873
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KOZBUDAKLAR",
+    "id": 6874
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "UZUNÖZ",
+    "id": 6875
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DAĞDİBİ",
+    "id": 6876
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "MENTEŞE",
+    "id": 6877
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "BIYIKLIALANI",
+    "id": 6878
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "GELEMİÇ",
+    "id": 6879
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "GÖKÖZ",
+    "id": 6880
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "HAYDAR",
+    "id": 6881
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "HEREKE",
+    "id": 6882
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KOCA KOVACIK",
+    "id": 6883
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "YAZIBAŞI",
+    "id": 6884
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "BARAKLI",
+    "id": 6885
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "CUMA",
+    "id": 6886
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "HARMANCIK DEMİRCİ",
+    "id": 6887
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "KİRAZLI",
+    "id": 6888
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "AVDAN",
+    "id": 6889
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DAVUTLAR",
+    "id": 6890
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DELİCE",
+    "id": 6891
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "ISSIZÖREN",
+    "id": 6892
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "YENİCE",
+    "id": 6893
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DÜVENLİ",
+    "id": 6894
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "HARMANALANI",
+    "id": 6895
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "BELENÖREN",
+    "id": 6896
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 6897
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "PINARCIK",
+    "id": 6898
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "ALPAĞUT",
+    "id": 6899
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "DURAK",
+    "id": 6900
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KELES",
+    "MAHALLE": "YAĞCILAR",
+    "id": 6901
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "CİHATLI",
+    "id": 6902
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KURŞUNLU",
+    "id": 6903
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "UMURBEY",
+    "id": 6904
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "YENİKÖY",
+    "id": 6905
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "BÜYÜKKUMLA",
+    "id": 6906
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6907
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "YENİ",
+    "id": 6908
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ATA SB",
+    "id": 6909
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KÜÇÜKKUMLA",
+    "id": 6910
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KARACAALİ",
+    "id": 6911
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "BALIKPAZARI",
+    "id": 6912
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ENGÜRÜCÜK",
+    "id": 6913
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "HAMİDİYE",
+    "id": 6914
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KATIRLI",
+    "id": 6915
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KURTUL",
+    "id": 6916
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ORHANİYE",
+    "id": 6917
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "FEYZİYE",
+    "id": 6918
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ATA",
+    "id": 6919
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "HAMİDİYEKÖY",
+    "id": 6920
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "FINDICAK",
+    "id": 6921
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "HAYDARİYE",
+    "id": 6922
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "GÜVENLİ",
+    "id": 6923
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "HİSAR",
+    "id": 6924
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "DEMİRSUBAŞI",
+    "id": 6925
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "GENÇALİ",
+    "id": 6926
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "NARLI",
+    "id": 6927
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "EŞREF DİNÇER",
+    "id": 6928
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "HALİTPAŞA",
+    "id": 6929
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KUMLA",
+    "id": 6930
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ŞAHİNYURDU",
+    "id": 6931
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ADLİYE",
+    "id": 6932
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "MURATOBA",
+    "id": 6933
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "OSMANİYE",
+    "id": 6934
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "DR.ZİYA KAYA",
+    "id": 6935
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "KAYHAN",
+    "id": 6936
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GEMLİK",
+    "MAHALLE": "ŞÜKRİYE",
+    "id": 6937
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ADAKÖY",
+    "id": 6938
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BARIŞ",
+    "id": 6939
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HACIALİ",
+    "id": 6940
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KABULBABA",
+    "id": 6941
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KOŞUBOĞAZI",
+    "id": 6942
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BOĞAZ",
+    "id": 6943
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BÜK",
+    "id": 6944
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DURUMTAY",
+    "id": 6945
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "IŞIKLAR",
+    "id": 6946
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KUMKADI",
+    "id": 6947
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 6948
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "AŞAĞIBALI",
+    "id": 6949
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "AYAZ",
+    "id": 6950
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KÖMÜRCÜKADI",
+    "id": 6951
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6952
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 6953
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DEREKADI",
+    "id": 6954
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DORAK",
+    "id": 6955
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "İNCEALİPINAR",
+    "id": 6956
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "OVAAZATLI",
+    "id": 6957
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SOĞUCAK",
+    "id": 6958
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YAMANLI",
+    "id": 6959
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YAVELLİ",
+    "id": 6960
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "OCAKLI",
+    "id": 6961
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SÖĞÜTALAN",
+    "id": 6962
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "MURADİYESARNIÇ",
+    "id": 6963
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÖMERALTI",
+    "id": 6964
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "UĞURLUPINAR",
+    "id": 6965
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YENİCE",
+    "id": 6966
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ZÜFERBEY",
+    "id": 6967
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ORTA",
+    "id": 6968
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SİNCANSARNIÇ",
+    "id": 6969
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 6970
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YENİKIZILELMA",
+    "id": 6971
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ALACAAT",
+    "id": 6972
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BAHARİYE",
+    "id": 6973
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DEMİRELİ",
+    "id": 6974
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KARACALAR",
+    "id": 6975
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "PAŞALAR",
+    "id": 6976
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SELİMİYE",
+    "id": 6977
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇÖRDÜK",
+    "id": 6978
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DEVECİKONAĞI",
+    "id": 6979
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DOĞANALAN",
+    "id": 6980
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 6981
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HİSARALTI",
+    "id": 6982
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KİLLİK",
+    "id": 6983
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KÖREKEM",
+    "id": 6984
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SÜNLÜK",
+    "id": 6985
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "TAŞKÖPRÜ",
+    "id": 6986
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YAYLAÇAYIR",
+    "id": 6987
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇALTILIBÜK",
+    "id": 6988
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇAMLICA",
+    "id": 6989
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "FEVZİDEDE",
+    "id": 6990
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KARAORMAN",
+    "id": 6991
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KOCAKORU",
+    "id": 6992
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KOSOVA",
+    "id": 6993
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "MELİK",
+    "id": 6994
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "OSMANİYE",
+    "id": 6995
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YONCAAĞAÇ",
+    "id": 6996
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ADALET",
+    "id": 6997
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DERE",
+    "id": 6998
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DERECİK",
+    "id": 6999
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DÖLLÜK",
+    "id": 7000
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 7001
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KAYABAŞI",
+    "id": 7002
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "LALAŞAHİN",
+    "id": 7003
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ONAÇ",
+    "id": 7004
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÜÇBEYLİ",
+    "id": 7005
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇIRPAN",
+    "id": 7006
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 7007
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HAMİDİYE",
+    "id": 7008
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KAPAKLIOLUK",
+    "id": 7009
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KARAOĞLAN",
+    "id": 7010
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ŞAPÇI",
+    "id": 7011
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "TATKAVAKLI",
+    "id": 7012
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GÜVEM",
+    "id": 7013
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KURŞUNLU",
+    "id": 7014
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ŞEYHMÜFTÜ",
+    "id": 7015
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "CAMANDAR",
+    "id": 7016
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ESKİKIZILELMA",
+    "id": 7017
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "İLYASÇILAR",
+    "id": 7018
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KARAPINAR",
+    "id": 7019
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SARIMUSTAFALAR",
+    "id": 7020
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YALINTAŞ",
+    "id": 7021
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YÜZBAŞI SABRİBEY",
+    "id": 7022
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ARALIK",
+    "id": 7023
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BEHRAM",
+    "id": 7024
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "FINDICAK",
+    "id": 7025
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HAMZABEY",
+    "id": 7026
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KAZANPINAR",
+    "id": 7027
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KÖSEHOROZ",
+    "id": 7028
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YENİDERE",
+    "id": 7029
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "BOSTANDERE",
+    "id": 7030
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DEMİRDERE",
+    "id": 7031
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "AKARCA",
+    "id": 7032
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ALİSEYDİ",
+    "id": 7033
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ATARİYE",
+    "id": 7034
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DALLICA",
+    "id": 7035
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "DOĞANCI",
+    "id": 7036
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GARİPÇETEKKE",
+    "id": 7037
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HACIAHMET",
+    "id": 7038
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KARAKÖY",
+    "id": 7039
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ORHANİYE",
+    "id": 7040
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ŞEHRİMAN",
+    "id": 7041
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 7042
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "TEPECİK",
+    "id": 7043
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "TIRNOVA",
+    "id": 7044
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ALPAĞUT",
+    "id": 7045
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇAKALLAR",
+    "id": 7046
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 7047
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇİVİLİÇAM",
+    "id": 7048
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ESKİBALÇIK",
+    "id": 7049
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KADİRÇEŞME",
+    "id": 7050
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ORMANKADI",
+    "id": 7051
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 7052
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "AĞAÇLI",
+    "id": 7053
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ATATÜRK",
+    "id": 7054
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "ÇARDAKBELEN",
+    "id": 7055
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "LÜTFİYE",
+    "id": 7056
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GÜLLER",
+    "id": 7057
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "GÜVEÇDERE",
+    "id": 7058
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "HAMİDİYEKÖYÜ",
+    "id": 7059
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KELTAŞ",
+    "id": 7060
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "KESTELEK",
+    "id": 7061
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 7062
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "TAŞPINAR",
+    "id": 7063
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YUMURCAKLI",
+    "id": 7064
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "VIRACA",
+    "id": 7065
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YUKARIBALI",
+    "id": 7066
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YENİBALÇIK",
+    "id": 7067
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUSTAFAKEMALPAŞA",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 7068
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "DIŞKAYAKÖYÜ",
+    "id": 7069
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "ERİCEKKÖYÜ",
+    "id": 7070
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "KAZIKLIKÖYÜ",
+    "id": 7071
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "KURTULUŞOSB",
+    "id": 7072
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "AĞAKÖY",
+    "id": 7073
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "KURTULUŞ",
+    "id": 7074
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "KARAHIDIRKÖYÜ",
+    "id": 7075
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "YENİDOĞANOSB",
+    "id": 7076
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "ZAFER",
+    "id": 7077
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "KUMLUKALAN",
+    "id": 7078
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "ADAKÖY",
+    "id": 7079
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "HASANKÖY",
+    "id": 7080
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "İĞDİRKÖYÜ",
+    "id": 7081
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "İPEKYOLU",
+    "id": 7082
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 7083
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "İSTİKLAL",
+    "id": 7084
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "GÜRSU",
+    "MAHALLE": "CAMBAZLARKÖYÜ",
+    "id": 7085
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 7086
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇEKRİCE",
+    "id": 7087
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "İPEKYAYLA",
+    "id": 7088
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÖMERBEY",
+    "id": 7089
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "AKKÖY",
+    "id": 7090
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇAMLIK",
+    "id": 7091
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YALIÇİFTLİK",
+    "id": 7092
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇINARLI",
+    "id": 7093
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇAĞRIŞAN",
+    "id": 7094
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "GÜZELYALI EĞİTİM",
+    "id": 7095
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "HASANBEY",
+    "id": 7096
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "MİRZAOBA",
+    "id": 7097
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "MÜTAREKE",
+    "id": 7098
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YENİ",
+    "id": 7099
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "DEREKÖY",
+    "id": 7100
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "GÖYNÜKLÜ",
+    "id": 7101
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "KAYMAKOBA",
+    "id": 7102
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÜLKÜ",
+    "id": 7103
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "EĞERCE",
+    "id": 7104
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "BALABANCIK",
+    "id": 7105
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇAYÖNÜ",
+    "id": 7106
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "EMİRLERYENİCESİ",
+    "id": 7107
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "GÜZELYALI SİTELER",
+    "id": 7108
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "MESUDİYE",
+    "id": 7109
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YÖRÜKYENİCESİ",
+    "id": 7110
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "AYDINPINAR",
+    "id": 7111
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "DEDEKÖY",
+    "id": 7112
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "EVCİLER",
+    "id": 7113
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "KÜÇÜKYENİCE",
+    "id": 7114
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ESENCE",
+    "id": 7115
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "SÖĞÜTPINAR",
+    "id": 7116
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "BADEMLİ",
+    "id": 7117
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "HANÇERLİ",
+    "id": 7118
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "KUMYAKA",
+    "id": 7119
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YAMAN",
+    "id": 7120
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ÇEPNİ",
+    "id": 7121
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "GÜZELYALI BURGAZ",
+    "id": 7122
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "HASKÖY",
+    "id": 7123
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ORHANİYE",
+    "id": 7124
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "TİRİLYE",
+    "id": 7125
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YAYLACIK",
+    "id": 7126
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "YÖRÜKALİ",
+    "id": 7127
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "GÜZELYALI YALI",
+    "id": 7128
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "ŞÜKRÜÇAVUŞ",
+    "id": 7129
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "HALİTPAŞA",
+    "id": 7130
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "IŞIKLI",
+    "id": 7131
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "MUDANYA",
+    "MAHALLE": "MÜRSEL",
+    "id": 7132
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "BELENOLUK",
+    "id": 7133
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ERENLER",
+    "id": 7134
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GİRENCİK",
+    "id": 7135
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SADAĞI",
+    "id": 7136
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "DAĞGÜNEY",
+    "id": 7137
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "DEMİRCİ",
+    "id": 7138
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KOÇU",
+    "id": 7139
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "LETAFET",
+    "id": 7140
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "YÖRÜCEKLER",
+    "id": 7141
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 7142
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 7143
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ŞÜKRİYE",
+    "id": 7144
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ÇİVİLİ",
+    "id": 7145
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "EMİR",
+    "id": 7146
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GAZİOLUK",
+    "id": 7147
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KABAKLAR",
+    "id": 7148
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KÜÇÜKORHAN",
+    "id": 7149
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SEMERCİ",
+    "id": 7150
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "AKALAN",
+    "id": 7151
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ARGIN",
+    "id": 7152
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "BALIOĞLU",
+    "id": 7153
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "FADIL",
+    "id": 7154
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GÖKTEPE",
+    "id": 7155
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KARABEKİRPAŞA",
+    "id": 7156
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KARINCALI",
+    "id": 7157
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "MAHALLER",
+    "id": 7158
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SIRIL",
+    "id": 7159
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "TOPUK",
+    "id": 7160
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "YAKUPLAR",
+    "id": 7161
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "YEŞİLLER",
+    "id": 7162
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "BAŞKÖY",
+    "id": 7163
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "DERE",
+    "id": 7164
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ÇEKİ",
+    "id": 7165
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ÇÖRELER",
+    "id": 7166
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ORTA",
+    "id": 7167
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "YENİDANİŞMENT",
+    "id": 7168
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "CELEPLER",
+    "id": 7169
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KARAOĞLANLAR",
+    "id": 7170
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "OSMANİYEÇATAK",
+    "id": 7171
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SÖĞÜT",
+    "id": 7172
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ESENTEPE",
+    "id": 7173
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GÜMÜŞPINAR",
+    "id": 7174
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "GÖYNÜKBELEN",
+    "id": 7175
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "İKİZOLUK",
+    "id": 7176
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "DELİBALLILAR",
+    "id": 7177
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 7178
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KUSUMLAR",
+    "id": 7179
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "AKÇABÜK",
+    "id": 7180
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 7181
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "TEPECİK",
+    "id": 7182
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "300 EVLER",
+    "id": 7183
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ÇINARCIK",
+    "id": 7184
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "DÜNDAR",
+    "id": 7185
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KADI",
+    "id": 7186
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "ESKİDANİŞMENT",
+    "id": 7187
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "NALINLAR",
+    "id": 7188
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SÜLEYMANBEY",
+    "id": 7189
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "AĞAÇHİSAR",
+    "id": 7190
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "FİROZ",
+    "id": 7191
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "KARASİ",
+    "id": 7192
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANELİ",
+    "MAHALLE": "SERÇELER",
+    "id": 7193
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "BOĞAZKÖY",
+    "id": 7194
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ÇAMLICA",
+    "id": 7195
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KEDİKAYA",
+    "id": 7196
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "OVA HAMİDİYE",
+    "id": 7197
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "DAĞKADI",
+    "id": 7198
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "DRAMA",
+    "id": 7199
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "EKİNLİ",
+    "id": 7200
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ŞAHMELEK",
+    "id": 7201
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "TAŞLIK",
+    "id": 7202
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SELİMİYE",
+    "id": 7203
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SIRABADEMLER",
+    "id": 7204
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YENİKARAAĞAÇ",
+    "id": 7205
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "AKÇAKOYUN",
+    "id": 7206
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "DANİŞMENT",
+    "id": 7207
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 7208
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HOTANLI",
+    "id": 7209
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HÜRRİYET",
+    "id": 7210
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KÜÇÜKKARAAĞAÇ",
+    "id": 7211
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ORHANİYE",
+    "id": 7212
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SAADET",
+    "id": 7213
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "EMİRSULTAN",
+    "id": 7214
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ESKİKARAAĞAÇ",
+    "id": 7215
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HAYIRLAR",
+    "id": 7216
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "İKİZCE",
+    "id": 7217
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KARASU",
+    "id": 7218
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KULAKPINAR",
+    "id": 7219
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "MAMURİYET",
+    "id": 7220
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "TAVŞANLI",
+    "id": 7221
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "AKHİSAR",
+    "id": 7222
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ARIZ",
+    "id": 7223
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "CANBALI",
+    "id": 7224
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "AKÇASUSURLUK",
+    "id": 7225
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 7226
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "DOĞLA",
+    "id": 7227
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "NASRETTİN",
+    "id": 7228
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "CANBAZ",
+    "id": 7229
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "DAĞESEMEN",
+    "id": 7230
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KARAKOCA",
+    "id": 7231
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ABDULLAHPAŞA",
+    "id": 7232
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ESKİSARIBEY",
+    "id": 7233
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HÜDAVENDİGAR",
+    "id": 7234
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ULUABAT",
+    "id": 7235
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "TOPHİSAR",
+    "id": 7236
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "BAYRAMDERE",
+    "id": 7237
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GARİPÇE",
+    "id": 7238
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GÖNÜ",
+    "id": 7239
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HAMİDİYE",
+    "id": 7240
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YENİCE",
+    "id": 7241
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YENİSARIBEY",
+    "id": 7242
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ÇARIKKÖY",
+    "id": 7243
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KURŞUNLU",
+    "id": 7244
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "OVAESEMEN",
+    "id": 7245
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "EKMEKÇİ",
+    "id": 7246
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GAZİ",
+    "id": 7247
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GÖLKIYI",
+    "id": 7248
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KARACAAHMET",
+    "id": 7249
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "OKÇULAR",
+    "id": 7250
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ORTASARIBEY",
+    "id": 7251
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YARIŞ",
+    "id": 7252
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YENİ",
+    "id": 7253
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "BAKIRKÖY",
+    "id": 7254
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GÖLECİK",
+    "id": 7255
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "GÜNGÖRMEZ",
+    "id": 7256
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KIRANLAR",
+    "id": 7257
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "RUNGUŞPAŞA",
+    "id": 7258
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SULTANİYE",
+    "id": 7259
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "TABAKLAR",
+    "id": 7260
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YOLAĞZI",
+    "id": 7261
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SEYRAN",
+    "id": 7262
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ÖRENCİK",
+    "id": 7263
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ÇEŞNİGİR",
+    "id": 7264
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "HARMANLI",
+    "id": 7265
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "KEŞLİK",
+    "id": 7266
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SAZLICA",
+    "id": 7267
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ŞAHİNKÖY",
+    "id": 7268
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "BEYLİK",
+    "id": 7269
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 7270
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "SUBAŞI",
+    "id": 7271
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "İNKAYA",
+    "id": 7272
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "MURATLI",
+    "id": 7273
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "TAŞPINAR",
+    "id": 7274
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 7275
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "BALLIKAYA",
+    "id": 7276
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "ESENTEPE",
+    "id": 7277
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KARACABEY",
+    "MAHALLE": "MECİDİYE",
+    "id": 7278
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "KOZLUÖREN",
+    "id": 7279
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "SERME",
+    "id": 7280
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "SOĞUKSU",
+    "id": 7281
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "VANİMEHMET",
+    "id": 7282
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "BABASULTAN",
+    "id": 7283
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ERDOĞAN",
+    "id": 7284
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "NARLIDERE",
+    "id": 7285
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "TURANKÖY",
+    "id": 7286
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 7287
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ORHANİYE",
+    "id": 7288
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "OSMANİYE",
+    "id": 7289
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "AKSU",
+    "id": 7290
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "BARAKFAKİH",
+    "id": 7291
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "SEYMEN",
+    "id": 7292
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 7293
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "KAZANCI",
+    "id": 7294
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "YENİ",
+    "id": 7295
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "AHMET VEFİK PAŞA OSB",
+    "id": 7296
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "KALE",
+    "id": 7297
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "SAYFİYE",
+    "id": 7298
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "BURHANİYE",
+    "id": 7299
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "DEREKIZIK",
+    "id": 7300
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "DUDAKLI",
+    "id": 7301
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "GÖLCÜK",
+    "id": 7302
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ALAÇAM",
+    "id": 7303
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 7304
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "GÖZEDE",
+    "id": 7305
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "LÜTFİYE",
+    "id": 7306
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "YENİOSB",
+    "id": 7307
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "AHMETVEFİKPAŞA",
+    "id": 7308
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ESENTEPE",
+    "id": 7309
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "NÜZHETİYE",
+    "id": 7310
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "AĞLAŞAN",
+    "id": 7311
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "KAYACIK",
+    "id": 7312
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "SAİTABAT",
+    "id": 7313
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "ÜMİTALAN",
+    "id": 7314
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "KESTEL",
+    "MAHALLE": "YAĞMURLU",
+    "id": 7315
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 7316
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ELMAÇAYIR",
+    "id": 7317
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 7318
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KESTANEALANI",
+    "id": 7319
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "OLUKMAN",
+    "id": 7320
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 7321
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ESENKÖY",
+    "id": 7322
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GEDİKPINAR",
+    "id": 7323
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GÜNDÜZLÜ",
+    "id": 7324
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HİLMİYE",
+    "id": 7325
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 7326
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TAHTAKÖPRÜ",
+    "id": 7327
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TUZLA",
+    "id": 7328
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YUKARIBALLIK",
+    "id": 7329
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "CERRAH",
+    "id": 7330
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ESKİ BAHÇEKAYA",
+    "id": 7331
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAMAMLI",
+    "id": 7332
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAMİTABAT",
+    "id": 7333
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KARAKADI",
+    "id": 7334
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KAYAPINAR",
+    "id": 7335
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KURŞUNLU",
+    "id": 7336
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SİNANBEY",
+    "id": 7337
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BAHARİYE",
+    "id": 7338
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇAYYAKA",
+    "id": 7339
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GAZELLİ",
+    "id": 7340
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "İSAÖREN",
+    "id": 7341
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "OSMANİYEKÖY",
+    "id": 7342
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SÜPÜRTÜ",
+    "id": 7343
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YENİ",
+    "id": 7344
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YİĞİT",
+    "id": 7345
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "AKHİSAR",
+    "id": 7346
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BURHANİYE",
+    "id": 7347
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "DÖMEZ",
+    "id": 7348
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "FINDIKLI",
+    "id": 7349
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HALHALCA",
+    "id": 7350
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KARALAR",
+    "id": 7351
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 7352
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 7353
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TURGUTALPKÖY",
+    "id": 7354
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "CUMA",
+    "id": 7355
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "FEVZİYE",
+    "id": 7356
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAMZABEY OSB",
+    "id": 7357
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KIRAN",
+    "id": 7358
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KOCAKONAK",
+    "id": 7359
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KÜÇÜKYENİCE",
+    "id": 7360
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SULHİYE",
+    "id": 7361
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TÜFEKÇİKONAK",
+    "id": 7362
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "CEMİYET",
+    "id": 7363
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SARIPINAR",
+    "id": 7364
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ŞİPALİ",
+    "id": 7365
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YENİKÖY",
+    "id": 7366
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "AŞAĞIBALLIK",
+    "id": 7367
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "DOĞANYURDU",
+    "id": 7368
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GÜLBAHÇE",
+    "id": 7369
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HASANPAŞA",
+    "id": 7370
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KARAHASANLAR",
+    "id": 7371
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "MESUDİYE",
+    "id": 7372
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SUNGURPAŞA",
+    "id": 7373
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 7374
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SÜLEYMANİYEOSB",
+    "id": 7375
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YENİCEKÖY",
+    "id": 7376
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ALİBEY",
+    "id": 7377
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BAYKOCA",
+    "id": 7378
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BAYRAMŞAH",
+    "id": 7379
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇİTLİ",
+    "id": 7380
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ESENTEPE",
+    "id": 7381
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAMİDİYE",
+    "id": 7382
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "İHSANİYE",
+    "id": 7383
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KINIK",
+    "id": 7384
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ORTAKÖY",
+    "id": 7385
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "RÜŞTİYE",
+    "id": 7386
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "FATİH",
+    "id": 7387
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAMZABEY",
+    "id": 7388
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "MADENKÖY",
+    "id": 7389
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "MEZİT",
+    "id": 7390
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "PAŞAÖREN",
+    "id": 7391
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SAADET",
+    "id": 7392
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YENİYÖRÜK",
+    "id": 7393
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 7394
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "AKINCILAR",
+    "id": 7395
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BAHÇEKAYA",
+    "id": 7396
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇAYLICA",
+    "id": 7397
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 7398
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "EYMİR",
+    "id": 7399
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HACIKARA",
+    "id": 7400
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KARAGÖLET",
+    "id": 7401
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "MURATBEY",
+    "id": 7402
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TOKUŞ",
+    "id": 7403
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "TURGUTALP",
+    "id": 7404
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "DİPSİZGÖL",
+    "id": 7405
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ESKİKARACAKAYA",
+    "id": 7406
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ESKİKÖY",
+    "id": 7407
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KONURLAR",
+    "id": 7408
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KULACA",
+    "id": 7409
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SULTANİYE",
+    "id": 7410
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "YENİCE",
+    "id": 7411
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 7412
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇAVUŞKÖY",
+    "id": 7413
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "LÜTFİYE",
+    "id": 7414
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "OSMANİYE",
+    "id": 7415
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "AKBAŞLAR",
+    "id": 7416
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BOĞAZKÖY",
+    "id": 7417
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GÜZELYURT",
+    "id": 7418
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HAYRİYE",
+    "id": 7419
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HOCAKÖY",
+    "id": 7420
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "KOZLUCA",
+    "id": 7421
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BABAOĞLU",
+    "id": 7422
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "BİLALKÖY",
+    "id": 7423
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "DEYDİNLER",
+    "id": 7424
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SÜLÜKLÜGÖL",
+    "id": 7425
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 7426
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "EDEBEY",
+    "id": 7427
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "GÜNEYKESTANE",
+    "id": 7428
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "HUZUR",
+    "id": 7429
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "İCLALİYE",
+    "id": 7430
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SOĞUKDERE",
+    "id": 7431
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "SÜLE",
+    "id": 7432
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İNEGÖL",
+    "MAHALLE": "ORHANİYE",
+    "id": 7433
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALACAHIRKA",
+    "id": 7434
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "BÜYÜKDELİLLER",
+    "id": 7435
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HOCAHASAN",
+    "id": 7436
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 7437
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "TUZPAZARI",
+    "id": 7438
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AHMETPAŞA",
+    "id": 7439
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AKTARHÜSSAM",
+    "id": 7440
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALİPAŞA",
+    "id": 7441
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GEÇİT",
+    "id": 7442
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 7443
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÜLBAHÇE",
+    "id": 7444
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KÜÇÜKDELİLLER",
+    "id": 7445
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "TAYAKADIN",
+    "id": 7446
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ADALET",
+    "id": 7447
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "BAĞLI",
+    "id": 7448
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DOĞANBEY",
+    "id": 7449
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "EMEK ZEKAİ GÜMÜŞDİŞ",
+    "id": 7450
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 7451
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İNTİZAM",
+    "id": 7452
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İSMETİYE",
+    "id": 7453
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KARAİSLAH",
+    "id": 7454
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MAKSEM",
+    "id": 7455
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 7456
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "REYHAN",
+    "id": 7457
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YUNUSELİ",
+    "id": 7458
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALTINOVA",
+    "id": 7459
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 7460
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HÜSEYİNALAN",
+    "id": 7461
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "TUNA",
+    "id": 7462
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ULU",
+    "id": 7463
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ZAFER",
+    "id": 7464
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞBARBAROS",
+    "id": 7465
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KIRCAALİ",
+    "id": 7466
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KÜPLÜPINAR",
+    "id": 7467
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SANTRAL GARAJ",
+    "id": 7468
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ULUÇAM",
+    "id": 7469
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "BAŞARAN",
+    "id": 7470
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇEKİRGE",
+    "id": 7471
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞSAKARYA",
+    "id": 7472
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DÜRDANE",
+    "id": 7473
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 7474
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MÜRSELLER",
+    "id": 7475
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "NİLÜFERKÖY",
+    "id": 7476
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "OVAAKÇA EĞİTİM",
+    "id": 7477
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "OVAAKÇA MERKEZ",
+    "id": 7478
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SAKARYA",
+    "id": 7479
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SOĞUKKUYU",
+    "id": 7480
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 7481
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALACAMESCİT",
+    "id": 7482
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ARMUTKÖY",
+    "id": 7483
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇİFTEHAVUZLAR",
+    "id": 7484
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DAĞAKÇA",
+    "id": 7485
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DOBURCA",
+    "id": 7486
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DOĞANCI",
+    "id": 7487
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "EBU İSHAK",
+    "id": 7488
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HAMZABEY",
+    "id": 7489
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KOĞUKÇINAR",
+    "id": 7490
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SELİMİYE",
+    "id": 7491
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ŞEHABETTİNPAŞA",
+    "id": 7492
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "TUZAKLI",
+    "id": 7493
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YENİBAĞLAR",
+    "id": 7494
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AKPINAR",
+    "id": 7495
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇİRİŞHANE",
+    "id": 7496
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÜNEYBAYIR",
+    "id": 7497
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HÜDAVENDİGAR",
+    "id": 7498
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KAYIHAN",
+    "id": 7499
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MOLLAFENARİ",
+    "id": 7500
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 7501
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "TAHTAKALE",
+    "id": 7502
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YAHŞİBEY",
+    "id": 7503
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SELÇUKGAZİ",
+    "id": 7504
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SOĞANLI",
+    "id": 7505
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALAADDİN",
+    "id": 7506
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "EMEK ADNAN MENDERES",
+    "id": 7507
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "EMEK FATİH SULTAN MEHMET",
+    "id": 7508
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KOCANAİP",
+    "id": 7509
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SEFERIŞIKLAR",
+    "id": 7510
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 7511
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 7512
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇELTİKKÖY",
+    "id": 7513
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEREÇAVUŞKÖY",
+    "id": 7514
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DOĞANEVLER",
+    "id": 7515
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "FATİH",
+    "id": 7516
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KEMERÇEŞME",
+    "id": 7517
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KİREMİTÇİ",
+    "id": 7518
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "OVAAKÇA SANTRAL",
+    "id": 7519
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YENİCEABAT",
+    "id": 7520
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALAŞARKÖY",
+    "id": 7521
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALEMDAR",
+    "id": 7522
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇUKURCAKÖY",
+    "id": 7523
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GAZİAKDEMİR",
+    "id": 7524
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HACI İLYAS",
+    "id": 7525
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İBRAHİMPAŞA",
+    "id": 7526
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AKSUNGUR",
+    "id": 7527
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ELMASBAHÇELER",
+    "id": 7528
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HOCAALİZADE",
+    "id": 7529
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 7530
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AVDANCIK",
+    "id": 7531
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞDUMLUPINAR",
+    "id": 7532
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HAMİTLER",
+    "id": 7533
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MURADİYE",
+    "id": 7534
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "PANAYIR",
+    "id": 7535
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SEÇ",
+    "id": 7536
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "VEYSEL KARANİ",
+    "id": 7537
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YİĞİTALİ",
+    "id": 7538
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "BAHAR",
+    "id": 7539
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 7540
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞCUMHURİYET",
+    "id": 7541
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞPAŞA",
+    "id": 7542
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DİKKALDIRIM",
+    "id": 7543
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÜNEYBUDAKLAR",
+    "id": 7544
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 7545
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İVAZPAŞA",
+    "id": 7546
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KİRAZLI",
+    "id": 7547
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 7548
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YENİKARAMAN",
+    "id": 7549
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KÜÇÜKBALIKLI",
+    "id": 7550
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "MOLLAGÜRANİ",
+    "id": 7551
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "NALBANTOĞLU",
+    "id": 7552
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "OVAAKÇA ÇEŞMEBAŞI",
+    "id": 7553
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SELAMET",
+    "id": 7554
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "SIRAMEŞELER",
+    "id": 7555
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ŞEHREKÜSTÜ",
+    "id": 7556
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "AHMETBEY",
+    "id": 7557
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ALTIPARMAK",
+    "id": 7558
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ATICILAR",
+    "id": 7559
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 7560
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ÇIRPAN",
+    "id": 7561
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "DEMİRTAŞDUMLUPUNAR OSB",
+    "id": 7562
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "GÜNEŞTEPE",
+    "id": 7563
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "İNKAYA",
+    "id": 7564
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KARABALÇIK",
+    "id": 7565
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KAVAKLI",
+    "id": 7566
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KURUÇEŞME",
+    "id": 7567
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "KÜKÜRTLÜ",
+    "id": 7568
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "ORHANBEY",
+    "id": 7569
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "OSMANGAZİ",
+    "MAHALLE": "YENİKENT",
+    "id": 7570
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "152EVLER",
+    "id": 7571
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "BAĞLARALTI",
+    "id": 7572
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "CUMALIKIZIK",
+    "id": 7573
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "HACİVAT",
+    "id": 7574
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MALTEPE",
+    "id": 7575
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MİLLET",
+    "id": 7576
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MUSABABA",
+    "id": 7577
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "75.YIL",
+    "id": 7578
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DEĞİRMENLİKIZIK",
+    "id": 7579
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DUAÇINARI",
+    "id": 7580
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KAPLIKAYA",
+    "id": 7581
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "NAMAZGAH",
+    "id": 7582
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SIRACEVİZLER",
+    "id": 7583
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KURTOĞLU",
+    "id": 7584
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SAMANLI",
+    "id": 7585
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "TEFERRÜÇ",
+    "id": 7586
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ÇINARÖNÜ",
+    "id": 7587
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "HACISEYFETTİN",
+    "id": 7588
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ORTABAĞLAR",
+    "id": 7589
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YILDIRIM",
+    "id": 7590
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 7591
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DEMETEVLER",
+    "id": 7592
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 7593
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MEYDANCIK",
+    "id": 7594
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 7595
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "İSABEY",
+    "id": 7596
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 7597
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KARAPINAR",
+    "id": 7598
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MEHMETAKİFERSOY",
+    "id": 7599
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "VATAN",
+    "id": 7600
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YAVUZSELIM",
+    "id": 7601
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YEDİSELVİLER",
+    "id": 7602
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 7603
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ZÜMRÜTEVLER",
+    "id": 7604
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DAVUTKADI",
+    "id": 7605
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DEĞİRMENÖNÜ",
+    "id": 7606
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "HOCATAŞKIN",
+    "id": 7607
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SELÇUKBEY",
+    "id": 7608
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "AKÇAĞLAYAN",
+    "id": 7609
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ARABAYATAĞI",
+    "id": 7610
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "EĞİTİM",
+    "id": 7611
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "EMİRSULTAN",
+    "id": 7612
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 7613
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "HAMAMLIKIZIK",
+    "id": 7614
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ZEYNİLER",
+    "id": 7615
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "BARUTHANE",
+    "id": 7616
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "DAVUTDEDE",
+    "id": 7617
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ESENEVLER",
+    "id": 7618
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ULUS",
+    "id": 7619
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SİNANDEDE",
+    "id": 7620
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YENIMAHALLE",
+    "id": 7621
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "BEYAZIT",
+    "id": 7622
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "KARAMAZAK",
+    "id": 7623
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "GÜLLÜK",
+    "id": 7624
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MEVLANA",
+    "id": 7625
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "MOLLAARAP",
+    "id": 7626
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "PİREMİR",
+    "id": 7627
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YEŞİL",
+    "id": 7628
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ERİKLİ",
+    "id": 7629
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "FİDYEKIZIK",
+    "id": 7630
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SİTELER",
+    "id": 7631
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 7632
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ŞÜKRANİYE",
+    "id": 7633
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "UMURBEY",
+    "id": 7634
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "VAKIF",
+    "id": 7635
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "ANADOLU",
+    "id": 7636
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "YİĞİTLER",
+    "id": 7637
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "BALABAN",
+    "id": 7638
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YILDIRIM",
+    "MAHALLE": "SELİMZADE",
+    "id": 7639
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "BALATDANİŞMENT",
+    "id": 7640
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "AKPINAR",
+    "id": 7641
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "GÖKÇELER",
+    "id": 7642
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KOZLUCA",
+    "id": 7643
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "BALLISARAY",
+    "id": 7644
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "HOPANDANİŞMENT",
+    "id": 7645
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "GEDİKÖREN",
+    "id": 7646
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 7647
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "İSHAKLAR",
+    "id": 7648
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "MERKEZ",
+    "id": 7649
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ÇAKMAK",
+    "id": 7650
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ÇATALSÖĞÜT",
+    "id": 7651
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KOCAPINAR",
+    "id": 7652
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "OKÇULAR",
+    "id": 7653
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "GÜLÖZÜ",
+    "id": 7654
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "YAYABAŞI",
+    "id": 7655
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "DEDEBALİ",
+    "id": 7656
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "DELİCEGÜNEY",
+    "id": 7657
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "DUTLUCA",
+    "id": 7658
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KEPEKDERE",
+    "id": 7659
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KARACA",
+    "id": 7660
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "HARMANCIK AKALAN",
+    "id": 7661
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ILICAKSU",
+    "id": 7662
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "NALBANT",
+    "id": 7663
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KIŞMANLAR",
+    "id": 7664
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "SAÇAKLI",
+    "id": 7665
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "BEKDEMİRLER",
+    "id": 7666
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "KILAVUZLAR",
+    "id": 7667
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ÇAMOĞLU",
+    "id": 7668
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ALUTCA",
+    "id": 7669
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "HARMANCIK",
+    "MAHALLE": "ECE",
+    "id": 7670
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "AKHAREM",
+    "id": 7671
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "GEMİÇ",
+    "id": 7672
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "FINDIKLI",
+    "id": 7673
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "GÖLYAKA",
+    "id": 7674
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ARAPZADE",
+    "id": 7675
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ÇAKIRLI",
+    "id": 7676
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "FATİH",
+    "id": 7677
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "GEDELEK",
+    "id": 7678
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 7679
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "DUTLUCA",
+    "id": 7680
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "GÜRLE",
+    "id": 7681
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "HAMZALI",
+    "id": 7682
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 7683
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "CİHANKÖY",
+    "id": 7684
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 7685
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "HECELER",
+    "id": 7686
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 7687
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 7688
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ÜREĞİL",
+    "id": 7689
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "PAŞAPINAR",
+    "id": 7690
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "KARSAK",
+    "id": 7691
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "MURADİYE",
+    "id": 7692
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 7693
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "SÖLÖZ",
+    "id": 7694
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "TEKKE",
+    "id": 7695
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "NARLICA",
+    "id": 7696
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "KERAMET",
+    "id": 7697
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 7698
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "ÖRNEKKÖY",
+    "id": 7699
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "YENİSÖLÖZ",
+    "id": 7700
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "ORHANGAZİ",
+    "MAHALLE": "YENİGÜRLE",
+    "id": 7701
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 7702
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "KAYNARCA",
+    "id": 7703
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MECİDİYE",
+    "id": 7704
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 7705
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÇAMPINAR",
+    "id": 7706
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "DEREKÖY",
+    "id": 7707
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ELMALI",
+    "id": 7708
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "EŞREFZADE",
+    "id": 7709
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "KIRINTI",
+    "id": 7710
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÇAMOLUK",
+    "id": 7711
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "OSMANİYE",
+    "id": 7712
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "BEYLER",
+    "id": 7713
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "KUTLUCA",
+    "id": 7714
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÇAKIRCA",
+    "id": 7715
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "DERBENT",
+    "id": 7716
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "DIRAZALİ",
+    "id": 7717
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "YEŞİL CAMİİ",
+    "id": 7718
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "BOYALICA",
+    "id": 7719
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÇAMDİBİ",
+    "id": 7720
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "GÜRMÜZLÜ",
+    "id": 7721
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ORHANİYE",
+    "id": 7722
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ÖMERLİ",
+    "id": 7723
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "AYDINLAR",
+    "id": 7724
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "CANDARLI",
+    "id": 7725
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "HOCAKÖY",
+    "id": 7726
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ELBEYLİ",
+    "id": 7727
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "İHSANİYE",
+    "id": 7728
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "BAYINDIR",
+    "id": 7729
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "HİSARDERE",
+    "id": 7730
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MAHMUT ÇELEBİ",
+    "id": 7731
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "KARATEKİN",
+    "id": 7732
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "İNİKLİ",
+    "id": 7733
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MUSTAFALI",
+    "id": 7734
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "GÖLLÜCE",
+    "id": 7735
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "HACIOSMAN",
+    "id": 7736
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MUSTAFA KEMAL PAŞA",
+    "id": 7737
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "MÜŞKÜLE",
+    "id": 7738
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "YÜRÜKLER",
+    "id": 7739
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "SANSARAK",
+    "id": 7740
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "SARIAĞIL",
+    "id": 7741
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 7742
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 7743
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "YENİ",
+    "id": 7744
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "YENİŞEREFİYE",
+    "id": 7745
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "TACİR",
+    "id": 7746
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "İZNİK",
+    "MAHALLE": "SELÇUK",
+    "id": 7747
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AFŞAR",
+    "id": 7748
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARACAAHMET",
+    "id": 7749
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KIBLEPINAR",
+    "id": 7750
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TABAKHANE",
+    "id": 7751
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YAZILI",
+    "id": 7752
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "EĞERCE",
+    "id": 7753
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SÖYLEMİŞ",
+    "id": 7754
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 7755
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ULUCAMİ",
+    "id": 7756
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AYDOĞDU",
+    "id": 7757
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BEYPINAR",
+    "id": 7758
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YILDIRIM",
+    "id": 7759
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DEREKÖY",
+    "id": 7760
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 7761
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARABAHADIR",
+    "id": 7762
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YENİGÜN",
+    "id": 7763
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BURCUN",
+    "id": 7764
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇARDAK",
+    "id": 7765
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARACAALİ",
+    "id": 7766
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KOZDERE",
+    "id": 7767
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KÖPRÜHİSAR",
+    "id": 7768
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KURTULUŞ",
+    "id": 7769
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 7770
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "MENTEŞE",
+    "id": 7771
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KIZILHİSAR",
+    "id": 7772
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "REŞADİYE",
+    "id": 7773
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "OSMANİYE",
+    "id": 7774
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "PAŞAYAYLA",
+    "id": 7775
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YILMAZ",
+    "id": 7776
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AYAZ",
+    "id": 7777
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇAMÖNÜ",
+    "id": 7778
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇAYIR",
+    "id": 7779
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BARCIN",
+    "id": 7780
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARAAMCA",
+    "id": 7781
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARASIL",
+    "id": 7782
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KIZILKÖY",
+    "id": 7783
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YENİ",
+    "id": 7784
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TOPRAKDERE",
+    "id": 7785
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 7786
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "FETHİYE",
+    "id": 7787
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "MECİDİYE",
+    "id": 7788
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SELİMİYE",
+    "id": 7789
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ALAYLI",
+    "id": 7790
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TERZİLER",
+    "id": 7791
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AKBIYIK",
+    "id": 7792
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AKDERE",
+    "id": 7793
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DEMİRBOĞA",
+    "id": 7794
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜNECE",
+    "id": 7795
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KOYUNHİSAR",
+    "id": 7796
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇİÇEKÖZÜ",
+    "id": 7797
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "İNCİRLİ",
+    "id": 7798
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KİRAZLIYAYLA",
+    "id": 7799
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TOPRAKOCAK",
+    "id": 7800
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÖKÇESU",
+    "id": 7801
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ORHANİYE",
+    "id": 7802
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 7803
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "CİHADİYE",
+    "id": 7804
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "HIDIRBALİ",
+    "id": 7805
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "MARMARACIK",
+    "id": 7806
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YARHİSAR",
+    "id": 7807
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YOLÖREN",
+    "id": 7808
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇELEBİ",
+    "id": 7809
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "EBEKÖY",
+    "id": 7810
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "HAYRİYE",
+    "id": 7811
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARAKÖY",
+    "id": 7812
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KAVAKLI",
+    "id": 7813
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇAYIRLI",
+    "id": 7814
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "PAPATYA",
+    "id": 7815
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SUBAŞI",
+    "id": 7816
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YENİKÖY",
+    "id": 7817
+  },
+  {
+    "İL": "BURSA",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YÜZÜNCÜYIL",
+    "id": 7818
+  }
+]

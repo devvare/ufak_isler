@@ -1,0 +1,1406 @@
+[
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "BAŞTÜRK",
+    "id": 31878
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİ",
+    "id": 31879
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "DANLIDAĞ",
+    "id": 31880
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "BAYDİĞİN, MERKEZ",
+    "id": 31881
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİCE",
+    "id": 31882
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "ATATÜRK",
+    "id": 31883
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 31884
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31885
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "YENİMEYDAN",
+    "id": 31886
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "KILIÇLAR",
+    "id": 31887
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "ABDULLAH EFENDİ",
+    "id": 31888
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "ŞAH SULTAN",
+    "id": 31889
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "BARBOROS",
+    "id": 31890
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "NABİOĞLU",
+    "id": 31891
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇANDIR",
+    "MAHALLE": "EŞREFPAŞA",
+    "id": 31892
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YENİFAKILI",
+    "MAHALLE": "ALTINDAĞ",
+    "id": 31893
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YENİFAKILI",
+    "MAHALLE": "YENİ",
+    "id": 31894
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YENİFAKILI",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 31895
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YENİFAKILI",
+    "MAHALLE": "CANKURTARAN",
+    "id": 31896
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YENİFAKILI",
+    "MAHALLE": "YAZLAK",
+    "id": 31897
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "DİVANLI",
+    "id": 31898
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 31899
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "SARAY",
+    "id": 31900
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "GÜLDİBİ",
+    "id": 31901
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "OZAN, CUMHURİYET",
+    "id": 31902
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "OZAN, MERKEZ",
+    "id": 31903
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "YENİ",
+    "id": 31904
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 31905
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "BÜYÜK CAMİİ",
+    "id": 31906
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "M.FEVZİ ÇAKMAK",
+    "id": 31907
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "DEDEFAKILI, BALKAYA",
+    "id": 31908
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARAYKENT",
+    "MAHALLE": "DEDEFAKILI, DEDEFAKILI",
+    "id": 31909
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "HALIKÖY, BAHÇELİ EVLER",
+    "id": 31910
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "ÇAYPINAR",
+    "id": 31911
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "HALIKÖY, FATİH",
+    "id": 31912
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "YAKACIK",
+    "id": 31913
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "HALIKÖY, AKÇAKALE",
+    "id": 31914
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "YENİ",
+    "id": 31915
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "YANGI",
+    "id": 31916
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "LÜTFULLAH KAYALAR",
+    "id": 31917
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "KADIOĞLU",
+    "id": 31918
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "VASFIBEY",
+    "id": 31919
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "GÜMÜŞDİĞİN",
+    "id": 31920
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "HALIKÖY, YONCALIK",
+    "id": 31921
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "HALIKÖY, YUKARIKIZILÖZ",
+    "id": 31922
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "KADIŞEHRİ",
+    "MAHALLE": "ÜÇAĞAÇ",
+    "id": 31923
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "MEVLANA",
+    "id": 31924
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 31925
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 31926
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "ÖZÜKAVAK, GÜLTEPE",
+    "id": 31927
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "ÖZÜKAVAK, BAĞLARBAŞI",
+    "id": 31928
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "YENİYOL",
+    "id": 31929
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 31930
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇEKEREK",
+    "MAHALLE": "SEYİT AHMET",
+    "id": 31931
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "FATİH",
+    "id": 31932
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "KONUKLAR, YILDIRIM BEYAZIT",
+    "id": 31933
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31934
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 31935
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "İSHAKLI",
+    "id": 31936
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "YENİ",
+    "id": 31937
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "KONUKLAR, FATİH",
+    "id": 31938
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "AVCILAR",
+    "id": 31939
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "ÇOKRADAN",
+    "id": 31940
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ÇAYIRALAN",
+    "MAHALLE": "KONUKLAR, YAVUZ SULTAN SELİM",
+    "id": 31941
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTANBULLUOĞLU",
+    "id": 31942
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEDRESE",
+    "id": 31943
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET HULUSİ EFENDİ",
+    "id": 31944
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUKARINOHUTLU",
+    "id": 31945
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇEŞEHİR",
+    "id": 31946
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BİLAL ŞAHİN",
+    "id": 31947
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARIHACILI",
+    "id": 31948
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESKİPAZAR",
+    "id": 31949
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞAĞINOHUTLU",
+    "id": 31950
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEVELİK",
+    "id": 31951
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ERDOĞAN AKDAĞ",
+    "id": 31952
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞAĞI ÇATAK",
+    "id": 31953
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AZİZLİBAĞLARI",
+    "id": 31954
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYH AHMET EFENDİ",
+    "id": 31955
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARATEPE",
+    "id": 31956
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞKÖPRÜ",
+    "id": 31957
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TEKKE",
+    "id": 31958
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAPANOĞLU",
+    "id": 31959
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÖSEOĞLU",
+    "id": 31960
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUKARIÇATAK",
+    "id": 31961
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 31962
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUTAFOĞLU",
+    "id": 31963
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AGAHEFENDİ",
+    "id": 31964
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DİVANLI",
+    "id": 31965
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYHOSMAN",
+    "id": 31966
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TUZKAYA",
+    "id": 31967
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİCAMİ",
+    "id": 31968
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ARAPLI, GÜZEL YURT",
+    "id": 31969
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "GÜZELYURT",
+    "id": 31970
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, GÜMÜŞKAVAK",
+    "id": 31971
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 31972
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, KARŞIYAKA",
+    "id": 31973
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "DOĞANKENT, YENİ",
+    "id": 31974
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 31975
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, SALUR",
+    "id": 31976
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, MUSU BABA",
+    "id": 31977
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "AHMETEFENDİ",
+    "id": 31978
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇAY",
+    "id": 31979
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, BURUNÖREN",
+    "id": 31980
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "DOĞANKENT, ÇAVUŞLU",
+    "id": 31981
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 31982
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BEDİRBABA",
+    "id": 31983
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, DARALİDAYILI",
+    "id": 31984
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YENİYER, AHMETFAKILI",
+    "id": 31985
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, GÜLVEREN",
+    "id": 31986
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "GÜLŞEHRİ, HOŞUMLU",
+    "id": 31987
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YAZLAK",
+    "id": 31988
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "GÜLŞEHRİ, ÇÖTELLİ",
+    "id": 31989
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 31990
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, İSMAİLHACILI",
+    "id": 31991
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, SORGUN",
+    "id": 31992
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "DOĞANKENT, KAYABAŞI",
+    "id": 31993
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, MÜLAZIM",
+    "id": 31994
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "DOĞANKENT, MAHMATLI",
+    "id": 31995
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, AYDINLAR",
+    "id": 31996
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, CAMİİKEBİR",
+    "id": 31997
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ÇİĞDEMLİ, KALE",
+    "id": 31998
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "DOĞANKENT, AKSARAY",
+    "id": 31999
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "OSMANÇAVUŞ",
+    "id": 32000
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "AGAHEFENDİ",
+    "id": 32001
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ARAPLI, YAYCILAR",
+    "id": 32002
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, AKOCAK",
+    "id": 32003
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "GÜLŞEHRİ, FARAŞLI",
+    "id": 32004
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "HANBAŞI",
+    "id": 32005
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YENİYER, KARAKIZ",
+    "id": 32006
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, HÜRRİYET",
+    "id": 32007
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "BAHADIN, SUNGUR",
+    "id": 32008
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, ÇARŞIBAŞI",
+    "id": 32009
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, KAYAKIŞLA",
+    "id": 32010
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "ARAPLI, MERKEZ",
+    "id": 32011
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "GÜLŞEHRİ, KESER",
+    "id": 32012
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "MÜKREMİN",
+    "id": 32013
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 32014
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, ÇAY",
+    "id": 32015
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "EYMİR, KARŞIYAKA",
+    "id": 32016
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SORGUN",
+    "MAHALLE": "YENİ",
+    "id": 32017
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, EĞLENCE",
+    "id": 32018
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YUKARI KARAKOÇ",
+    "id": 32019
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "OVAKENT, CAMİİ KEBİR",
+    "id": 32020
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, SELANİK",
+    "id": 32021
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "SIRÇALI, FATİH",
+    "id": 32022
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, KARŞIYAKA",
+    "id": 32023
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "ÇARŞI",
+    "id": 32024
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "MEVLANA",
+    "id": 32025
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, YARAŞ",
+    "id": 32026
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "UZUNLU, ESENTEPE",
+    "id": 32027
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "UZUNLU, YENİDOĞAN",
+    "id": 32028
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "BAHÇELER",
+    "id": 32029
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, AŞAĞUSARIKAYA",
+    "id": 32030
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "AŞAĞI KARAKOÇ",
+    "id": 32031
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİPAZAR, ÖMERLİ",
+    "id": 32032
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YUKARI",
+    "id": 32033
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "OVAKENT, NAMIK KEMAL",
+    "id": 32034
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "OVAKENT, SŞAĞIHASİNLİ",
+    "id": 32035
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 32036
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "AŞAĞI",
+    "id": 32037
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YAMAÇLI, ZAFER",
+    "id": 32038
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "KAYMAKAM KEMAL BEY",
+    "id": 32039
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "KEMALİYE",
+    "id": 32040
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "OVAKENT, MEVLANA",
+    "id": 32041
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 32042
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "UZUNLU, KEMALİYE",
+    "id": 32043
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "UZUNLU, KOÇ",
+    "id": 32044
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "SIRÇALI, MEVLANA",
+    "id": 32045
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "UZUNLU, BAHÇELİEVLER",
+    "id": 32046
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YAMAÇLI, YENİ",
+    "id": 32047
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "BOĞAZLIYAN",
+    "MAHALLE": "YAMAÇLI, YEŞİL",
+    "id": 32048
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 32049
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KARAYAKUP, ÇIKRIKÇI",
+    "id": 32050
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KARAYAKUP, KARAYAKUP",
+    "id": 32051
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KAYAPINAR",
+    "id": 32052
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "OSMAN GAZİ",
+    "id": 32053
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "İSTİKLAL",
+    "id": 32054
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KÖPRÜCEK",
+    "id": 32055
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KAPLICA",
+    "id": 32056
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 32057
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 32058
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 32059
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 32060
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "KARAYAKUP, TERZİLİ",
+    "id": 32061
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 32062
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "BEYAZIT",
+    "id": 32063
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "ŞEKERPINAR",
+    "id": 32064
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 32065
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "FATİH",
+    "id": 32066
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "SARIKAYA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 32067
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 32068
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "UMUTLU, KARAHİSARTATLISI",
+    "id": 32069
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "UMUTLU, UMUT",
+    "id": 32070
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "BELEKÇAHAN, MERKEZ",
+    "id": 32071
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "OLUKÖZÜ, MERKEZ",
+    "id": 32072
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 32073
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "İSTANBULLUOĞLU",
+    "id": 32074
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "UMUTLU, KARAÇOKRAK",
+    "id": 32075
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "ÇAMLIK",
+    "id": 32076
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "İBRAHİM AĞA",
+    "id": 32077
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "GÜNEYLİ",
+    "id": 32078
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "UMUTLU, KALE",
+    "id": 32079
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 32080
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "OLUKÖZÜ, KONACI",
+    "id": 32081
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "EMEK",
+    "id": 32082
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "YENİ",
+    "id": 32083
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 32084
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "UMUTLU, OLUCAK",
+    "id": 32085
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "AKDAĞMADENİ",
+    "MAHALLE": "AHİSHAVİ",
+    "id": 32086
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "YAYLAPINAR",
+    "id": 32087
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "KARALAR",
+    "id": 32088
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "KONAKLI",
+    "id": 32089
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 32090
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 32091
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "KALE",
+    "id": 32092
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "YENİ",
+    "id": 32093
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 32094
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "H.BAYRAM KARABULUT",
+    "id": 32095
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "FATİH",
+    "id": 32096
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "ŞEFAATLİ",
+    "MAHALLE": "İNCEŞEHİR",
+    "id": 32097
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "100.YIL",
+    "id": 32098
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "ALİ GALİP GENÇOĞLU",
+    "id": 32099
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "ERZURUM",
+    "id": 32100
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "GÜLTEPE",
+    "id": 32101
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "HAŞİM KILIÇ",
+    "id": 32102
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "ALTMIŞEVLER",
+    "id": 32103
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "KARACAŞAR",
+    "id": 32104
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "VEFİ PANDIR",
+    "id": 32105
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "HÜYÜK",
+    "id": 32106
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "ŞENTEPE",
+    "id": 32107
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "AYANOĞLU",
+    "id": 32108
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 32109
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "KALE",
+    "id": 32110
+  },
+  {
+    "İL": "YOZGAT",
+    "İLÇE": "YERKÖY",
+    "MAHALLE": "SELÇUK",
+    "id": 32111
+  }
+]

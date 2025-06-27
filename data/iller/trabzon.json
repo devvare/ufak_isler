@@ -1,0 +1,4256 @@
+[
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "MEYDANLI",
+    "id": 30307
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "YIRCA",
+    "id": 30308
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ŞEHİTLİ",
+    "id": 30309
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "YILDIRIMLAR",
+    "id": 30310
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "KURTULUŞ",
+    "id": 30311
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "GÜLDEREN FATİH",
+    "id": 30312
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "TOPAKLI",
+    "id": 30313
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "DAĞÖNÜ",
+    "id": 30314
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "KÖYCEĞİZ",
+    "id": 30315
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "FATİH",
+    "id": 30316
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ONUR",
+    "id": 30317
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "SARMAŞIK",
+    "id": 30318
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "GÖRGÜLÜ",
+    "id": 30319
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "KILAVUZ",
+    "id": 30320
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "MERKEZ",
+    "id": 30321
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "PAZARÖNÜ",
+    "id": 30322
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "BALABAN MERKEZ",
+    "id": 30323
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "GÖKSEL",
+    "id": 30324
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "PINARCA",
+    "id": 30325
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ŞİŞLİ",
+    "id": 30326
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "HÜRRİYET",
+    "id": 30327
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "TAFLANCIK",
+    "id": 30328
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "AĞAÇLI DÜZ",
+    "id": 30329
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "BALABAN",
+    "id": 30330
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 30331
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ÇAYCILAR",
+    "id": 30332
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "YARLI",
+    "id": 30333
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "YENİKÖY",
+    "id": 30334
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "GÜLDEREN MERKEZ",
+    "id": 30335
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 30336
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "DEREYURT",
+    "id": 30337
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "GEÇİTLİ",
+    "id": 30338
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30339
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "HAYRAT",
+    "MAHALLE": "YENİ",
+    "id": 30340
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "ÇALIŞANLAR",
+    "id": 30341
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "GÜNEY",
+    "id": 30342
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "TAŞÇILAR",
+    "id": 30343
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "YENİCE",
+    "id": 30344
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "TÜFEKÇİ",
+    "id": 30345
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "GÜNEBAKAN",
+    "id": 30346
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "YENİCAMİ",
+    "id": 30347
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "KONDU",
+    "id": 30348
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "ZİNCİRLİTAŞ",
+    "id": 30349
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "AKKÖSE",
+    "id": 30350
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "ORMANCIK",
+    "id": 30351
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "MERKEZ",
+    "id": 30352
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 30353
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DERNEKPAZARI",
+    "MAHALLE": "GÜLEN",
+    "id": 30354
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "FINDICAK",
+    "id": 30355
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "OYLUM",
+    "id": 30356
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YUKARIOVALI",
+    "id": 30357
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 30358
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ORMANSEVEN",
+    "id": 30359
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "SOĞUKSU",
+    "id": 30360
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YUKARIÇAVUŞLU",
+    "id": 30361
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "BİRLİK",
+    "id": 30362
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇARŞI",
+    "id": 30363
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "KARACAKAYA",
+    "id": 30364
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "KÜÇÜKDERE",
+    "id": 30365
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YOKUŞBAŞI",
+    "id": 30366
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 30367
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "GÜNEYKÖY",
+    "id": 30368
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "BALIKLI",
+    "id": 30369
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 30370
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "KAHRAMAN",
+    "id": 30371
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 30372
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YEMİŞLİ",
+    "id": 30373
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YENİAY",
+    "id": 30374
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇİFTESU",
+    "id": 30375
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "KOYUNCULAR",
+    "id": 30376
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "AŞAĞIOVALI",
+    "id": 30377
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 30378
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 30379
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "PETEKLİ",
+    "id": 30380
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ARMUTLU",
+    "id": 30381
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "DİRLİK",
+    "id": 30382
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "MURATLI",
+    "id": 30383
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "GÜLTEPE",
+    "id": 30384
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÇAMBURNU",
+    "id": 30385
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "AKSU",
+    "id": 30386
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "KONAK",
+    "id": 30387
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ÜSTÜNDAL",
+    "id": 30388
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "ORTA",
+    "id": 30389
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YAZIOBA",
+    "id": 30390
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "SÜRMENE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 30391
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AYDINKÖY",
+    "id": 30392
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "MEŞELİ",
+    "id": 30393
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇİLEKLİ",
+    "id": 30394
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "SERTKAYA",
+    "id": 30395
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YENİKÖY",
+    "id": 30396
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ADACIK",
+    "id": 30397
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 30398
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AKDAMAR",
+    "id": 30399
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇOLAKLI",
+    "id": 30400
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇUKURCA",
+    "id": 30401
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ESKİKÖY",
+    "id": 30402
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KİRAZLIK",
+    "id": 30403
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ŞİNİK OSB",
+    "id": 30404
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "TATLISU",
+    "id": 30405
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇAMLICA",
+    "id": 30406
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇAMLIDERE",
+    "id": 30407
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇİÇEKLİDÜZ",
+    "id": 30408
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "MEYDANKAYA",
+    "id": 30409
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "NEFSİPULATHANE",
+    "id": 30410
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÖZDEMİRCİ",
+    "id": 30411
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 30412
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AKÖREN",
+    "id": 30413
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ALSANCAK",
+    "id": 30414
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 30415
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "GÜMÜŞLÜ",
+    "id": 30416
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DEMİRCİ",
+    "id": 30417
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 30418
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DÖRTYOL",
+    "id": 30419
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KEMALİYE",
+    "id": 30420
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KURUÇAM",
+    "id": 30421
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÖZAKDAMAR",
+    "id": 30422
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "UÇARSU",
+    "id": 30423
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 30424
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "BOZDOĞAN",
+    "id": 30425
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "FINDIKLI",
+    "id": 30426
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KARAÇAYIR",
+    "id": 30427
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KARPINAR",
+    "id": 30428
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ORTAKÖY",
+    "id": 30429
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YILDIZLI",
+    "id": 30430
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KAVAKLI",
+    "id": 30431
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "TÜTÜNCÜLER",
+    "id": 30432
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "CEVİZLİK",
+    "id": 30433
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ESENTEPE",
+    "id": 30434
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KALEÖNÜ",
+    "id": 30435
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "CEVİZLİ",
+    "id": 30436
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 30437
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ORTAALAN",
+    "id": 30438
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DÜRBİNAR",
+    "id": 30439
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "SARITAŞ",
+    "id": 30440
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 30441
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "OSMANBABA",
+    "id": 30442
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "SALACIK",
+    "id": 30443
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "SARICA",
+    "id": 30444
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ŞİNİK",
+    "id": 30445
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YAYLACIK",
+    "id": 30446
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AKPINAR",
+    "id": 30447
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DERECİK",
+    "id": 30448
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "FISTIKLI",
+    "id": 30449
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KAYALAR",
+    "id": 30450
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "DARICA",
+    "id": 30451
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "HELVACI",
+    "id": 30452
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "MERSİN",
+    "id": 30453
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "YENİ",
+    "id": 30454
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AMBARCIK",
+    "id": 30455
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ACISU",
+    "id": 30456
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AĞAÇLI",
+    "id": 30457
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "AKÇAKALE",
+    "id": 30458
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ARPACILI",
+    "id": 30459
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ÇINARLIK",
+    "id": 30460
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "IŞIKLAR",
+    "id": 30461
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "KOÇLU",
+    "id": 30462
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "MADEN",
+    "id": 30463
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ORTA",
+    "id": 30464
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "AKÇAABAT",
+    "MAHALLE": "ZAFERLİ",
+    "id": 30465
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÇAMLIKTEPE",
+    "id": 30466
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "TAŞTEPE",
+    "id": 30467
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YASSIKAYA",
+    "id": 30468
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YİĞİTÖZÜ",
+    "id": 30469
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YOLGÖREN",
+    "id": 30470
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KALECİK",
+    "id": 30471
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KARATEPE",
+    "id": 30472
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "İYİSU",
+    "id": 30473
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YEŞİLCE",
+    "id": 30474
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 30475
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "AYVADERE",
+    "id": 30476
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "BAHÇECİK",
+    "id": 30477
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÇİFTEPINAR",
+    "id": 30478
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÇANKAYA",
+    "id": 30479
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "AYTAŞ",
+    "id": 30480
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "BEREKETLİ",
+    "id": 30481
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "HALİLLİ",
+    "id": 30482
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ORTAKÖY",
+    "id": 30483
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "TÜRKELİ",
+    "id": 30484
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YALIBOYU",
+    "id": 30485
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YONCALI",
+    "id": 30486
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "HASKÖY",
+    "id": 30487
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KAYMAKLI",
+    "id": 30488
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "MERKEZ",
+    "id": 30489
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "HÜRRİYET",
+    "id": 30490
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÖZGEN",
+    "id": 30491
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "TAŞÖNÜ",
+    "id": 30492
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "TURNALI",
+    "id": 30493
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "BİRLİK",
+    "id": 30494
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KAYACIK",
+    "id": 30495
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "MERKEZKÖY",
+    "id": 30496
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 30497
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KÖPRÜÜSTÜ",
+    "id": 30498
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "SULAKYURT",
+    "id": 30499
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "BUZLUCA",
+    "id": 30500
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÇAMLICA",
+    "id": 30501
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ERENLER",
+    "id": 30502
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "PERVANE",
+    "id": 30503
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "TAŞGEÇİT",
+    "id": 30504
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YENİKÖY",
+    "id": 30505
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YÜCEYURT",
+    "id": 30506
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ERİKLİ",
+    "id": 30507
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KESTANELİK",
+    "id": 30508
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "DEĞİRMENCİK",
+    "id": 30509
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KAYAİÇİ",
+    "id": 30510
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "KÜKÜRTLÜ",
+    "id": 30511
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "SULARBAŞI",
+    "id": 30512
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "ÇUKURÇAYIR",
+    "id": 30513
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 30514
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARAKLI",
+    "MAHALLE": "YILDIZLI",
+    "id": 30515
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "AKKÖY",
+    "id": 30516
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ESENTEPE",
+    "id": 30517
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "HACIKÖY",
+    "id": 30518
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KIRANKÖY",
+    "id": 30519
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "BOZALAN",
+    "id": 30520
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "BÜYÜKLİMAN",
+    "id": 30521
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "İLYASLI",
+    "id": 30522
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "MISIRLI",
+    "id": 30523
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "FETHİYE",
+    "id": 30524
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "AÇIKALAN",
+    "id": 30525
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "DEREGÖZÜ",
+    "id": 30526
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "FEVZİYE",
+    "id": 30527
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "YAYLACIK",
+    "id": 30528
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KİRAZLIK",
+    "id": 30529
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KÖPRÜCEK",
+    "id": 30530
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ŞENOCAK",
+    "id": 30531
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "İSHAKLI",
+    "id": 30532
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KÜÇÜKDERE",
+    "id": 30533
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ORTAKÖY",
+    "id": 30534
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "SİNANLI",
+    "id": 30535
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ÇAMLIK",
+    "id": 30536
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ÇAMLIK SAHİL",
+    "id": 30537
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "GÜNEYSU",
+    "id": 30538
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "RIDVANLI",
+    "id": 30539
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "YALIKÖY",
+    "id": 30540
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 30541
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "GÜNEYKÖY",
+    "id": 30542
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KÖREZ",
+    "id": 30543
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "YILDIZ",
+    "id": 30544
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "ÇARŞI",
+    "id": 30545
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "HAMZALI",
+    "id": 30546
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "SEKMENLİ",
+    "id": 30547
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "TARLACIK",
+    "id": 30548
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "DEMİRCİ",
+    "id": 30549
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "BAHADIRLI",
+    "id": 30550
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "BALLI",
+    "id": 30551
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "HÜRRİYET",
+    "id": 30552
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "SOĞUKSU",
+    "id": 30553
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "AYDOĞDU",
+    "id": 30554
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "CAFERLİ",
+    "id": 30555
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "DÜZLÜK",
+    "id": 30556
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KİRAZLIKYENİ",
+    "id": 30557
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "MAHMUTLU",
+    "id": 30558
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30559
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KARATEPE",
+    "id": 30560
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "VAKFIKEBİR",
+    "MAHALLE": "KEMALİYE",
+    "id": 30561
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KAYRAN",
+    "id": 30562
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "AŞAĞIKUMLU",
+    "id": 30563
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ÇAYIROBA",
+    "id": 30564
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "MARAŞLI",
+    "id": 30565
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "YEŞİLALAN",
+    "id": 30566
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "BALTACILI",
+    "id": 30567
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "UZUNTARLA",
+    "id": 30568
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KABATAŞ",
+    "id": 30569
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "DERİNDERE",
+    "id": 30570
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KARAÇAM",
+    "id": 30571
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ARPAÖZÜ",
+    "id": 30572
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "SOĞANLI",
+    "id": 30573
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "UZUNGÖL",
+    "id": 30574
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "DEMİRLİ",
+    "id": 30575
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "TAŞLIGEDİK",
+    "id": 30576
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "AKDOĞAN",
+    "id": 30577
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "TAŞÖREN",
+    "id": 30578
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 30579
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "IŞIKLI",
+    "id": 30580
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KÖSELİ",
+    "id": 30581
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ATAKÖY",
+    "id": 30582
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KÖKNAR",
+    "id": 30583
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 30584
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "KOLDERE",
+    "id": 30585
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ŞAHİNKAYA",
+    "id": 30586
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ULUCAMİ",
+    "id": 30587
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "YUKARIKUMLU",
+    "id": 30588
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "TAŞKIRAN",
+    "id": 30589
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ÇAMBAŞI",
+    "id": 30590
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "EĞRİDERE",
+    "id": 30591
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "ŞEKERSU",
+    "id": 30592
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇAYKARA",
+    "MAHALLE": "YAYLAÖNÜ",
+    "id": 30593
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "AYKUT",
+    "id": 30594
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "BÜYÜK",
+    "id": 30595
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAL ÇEŞMALER",
+    "id": 30596
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAL ORTA",
+    "id": 30597
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAL CAMİLİ",
+    "id": 30598
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ALAZLI",
+    "id": 30599
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "CEVİZLİK",
+    "id": 30600
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAYIRBAĞI DOĞANKAYA",
+    "id": 30601
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAYIRBAĞI GÜLCANA",
+    "id": 30602
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "GÖKÇELER",
+    "id": 30603
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "GÜRGENDAĞ",
+    "id": 30604
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "TAŞOCAĞI",
+    "id": 30605
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇİĞDEMLİ",
+    "id": 30606
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "KÜÇÜKTEPEKÖY",
+    "id": 30607
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ORTA",
+    "id": 30608
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "YENİ",
+    "id": 30609
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAYIRBAĞI ORTA",
+    "id": 30610
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "YERLİCE",
+    "id": 30611
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAYIRBAĞI ZELİHA",
+    "id": 30612
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "DÜZALAN",
+    "id": 30613
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "ÇAYIRBAĞI YUSUFLU",
+    "id": 30614
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "DÜZKÖY",
+    "MAHALLE": "TEPECİK",
+    "id": 30615
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "GÜLYURDU",
+    "id": 30616
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "OCAK",
+    "id": 30617
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "KAYABAŞI",
+    "id": 30618
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "MADEN",
+    "id": 30619
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "NAMIKKEMAL",
+    "id": 30620
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "SANCAK",
+    "id": 30621
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "ÇAMLIYURT",
+    "id": 30622
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "KÖMÜRCÜ",
+    "id": 30623
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "OYMALI",
+    "id": 30624
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "KILIÇLI",
+    "id": 30625
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "TEPEKÖY",
+    "id": 30626
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "TAŞDELEN",
+    "id": 30627
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 30628
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "GÜRSEL",
+    "id": 30629
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "YENİCE",
+    "id": 30630
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "ÇINARLI",
+    "id": 30631
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "KAŞÜSTÜ",
+    "id": 30632
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "İKİSU",
+    "id": 30633
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "TANDIRLI",
+    "id": 30634
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "YOKUŞLU",
+    "id": 30635
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "ÖZDİL",
+    "id": 30636
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "KIRATLI",
+    "id": 30637
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "PINARLI",
+    "id": 30638
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "ÇAMLICA",
+    "id": 30639
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "YOMRA",
+    "MAHALLE": "ŞANLI",
+    "id": 30640
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ARPALI",
+    "id": 30641
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "BÜYÜKDOĞANLI",
+    "id": 30642
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "BEŞKÖY",
+    "id": 30643
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "PINARBAŞI",
+    "id": 30644
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ÇİFTEKÖPRÜ",
+    "id": 30645
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "FİDANLI",
+    "id": 30646
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 30647
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "AKPINAR",
+    "id": 30648
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 30649
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YAĞMURLU",
+    "id": 30650
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "AŞAĞIKIŞLACIK",
+    "id": 30651
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "CUMAPAZARI",
+    "id": 30652
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "GÜRPINAR",
+    "id": 30653
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SUGELDİ",
+    "id": 30654
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "UĞURLU",
+    "id": 30655
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "YENİ",
+    "id": 30656
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BÖLÜMLÜ",
+    "id": 30657
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "DUMLUSU",
+    "id": 30658
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "FINDIKOBA",
+    "id": 30659
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KİRAZ",
+    "id": 30660
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SARIKAYA",
+    "id": 30661
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇUKUROVA",
+    "id": 30662
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ESENKÖY",
+    "id": 30663
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "İRFANLI",
+    "id": 30664
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KORUCUK",
+    "id": 30665
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "PINARALTI",
+    "id": 30666
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SARAYKÖY",
+    "id": 30667
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SIRAAĞAÇ",
+    "id": 30668
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "DARILI",
+    "id": 30669
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "GÜRESEN",
+    "id": 30670
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KIYIBOYU",
+    "id": 30671
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "YUKARI KIŞLACIK",
+    "id": 30672
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇATALDERE",
+    "id": 30673
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ESKİPAZAR",
+    "id": 30674
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SARAÇLI",
+    "id": 30675
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "GÜMÜŞÖREN",
+    "id": 30676
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KARABUDAK",
+    "id": 30677
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "TEKOBA",
+    "id": 30678
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "DOĞANÇAY",
+    "id": 30679
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BİRLİK",
+    "id": 30680
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 30681
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KAZANÇLI",
+    "id": 30682
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BARIŞ",
+    "id": 30683
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇALTILI",
+    "id": 30684
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "İKİDERE",
+    "id": 30685
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KELER",
+    "id": 30686
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SEFAKÖY",
+    "id": 30687
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 30688
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SULAKLI",
+    "id": 30689
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "YAZLIK",
+    "id": 30690
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "AĞAÇBAŞI",
+    "id": 30691
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇATALSÖĞÜT",
+    "id": 30692
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ERENKÖY",
+    "id": 30693
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "OVACIK",
+    "id": 30694
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SİVRİCE",
+    "id": 30695
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "TAVŞANLI",
+    "id": 30696
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30697
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÇAMLI",
+    "id": 30698
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KAVAKPINAR",
+    "id": 30699
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KIYICIK",
+    "id": 30700
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BALLICA",
+    "id": 30701
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BAŞKÖY",
+    "id": 30702
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "BAYIRCA",
+    "id": 30703
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KUMLUDERE",
+    "id": 30704
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SERİNCE",
+    "id": 30705
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "DAĞALAN",
+    "id": 30706
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KİREÇLİ",
+    "id": 30707
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ÖRTÜLÜ",
+    "id": 30708
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "YANIKTAŞ",
+    "id": 30709
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KABAN",
+    "id": 30710
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "KORKUT",
+    "id": 30711
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SARIBEY",
+    "id": 30712
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "YEMİŞALAN",
+    "id": 30713
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "AĞAÇSEVEN",
+    "id": 30714
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "DEREKÖY",
+    "id": 30715
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "GÖKÇEOBA",
+    "id": 30716
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 30717
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "OF",
+    "MAHALLE": "ULUAĞAÇ",
+    "id": 30718
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "GÜZELYALI",
+    "id": 30719
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "HARMANLI",
+    "id": 30720
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "NUROĞLU",
+    "id": 30721
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YEŞİLCE",
+    "id": 30722
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 30723
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "FINDIKLI",
+    "id": 30724
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YOLAÇ",
+    "id": 30725
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YALI",
+    "id": 30726
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "KARACA",
+    "id": 30727
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 30728
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ATAYURT",
+    "id": 30729
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "BAŞDURAK",
+    "id": 30730
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30731
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "GÖLGELİK",
+    "id": 30732
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 30733
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÖRNEK",
+    "id": 30734
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "OĞUZ",
+    "id": 30735
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 30736
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "KUZGUNCUK",
+    "id": 30737
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 30738
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÖZLÜ",
+    "id": 30739
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YENİKÖY",
+    "id": 30740
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YOLÜSTÜ",
+    "id": 30741
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ELMAALAN",
+    "id": 30742
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "FATİH",
+    "id": 30743
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ŞENKAYA",
+    "id": 30744
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 30745
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "KONAK",
+    "id": 30746
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YEŞİLYALI",
+    "id": 30747
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "GÖLCÜK",
+    "id": 30748
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "GÜNEYCE",
+    "id": 30749
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "CUDİBEY",
+    "id": 30750
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "DİLEK",
+    "id": 30751
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "IŞIKLI",
+    "id": 30752
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "İŞHAN",
+    "id": 30753
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ARSİN",
+    "MAHALLE": "YENİ",
+    "id": 30754
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 30755
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "VELİKÖY",
+    "id": 30756
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "MERKEZ",
+    "id": 30757
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "ŞAHİNLİ",
+    "id": 30758
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "GÜLBAHÇE",
+    "id": 30759
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KOVANLI",
+    "id": 30760
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KEREM",
+    "id": 30761
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "YENİKÖY",
+    "id": 30762
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KADIKÖY",
+    "id": 30763
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "BURUNBAŞI",
+    "id": 30764
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KALEKÖY",
+    "id": 30765
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "ÇALLI",
+    "id": 30766
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "SAMSUN",
+    "id": 30767
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "SERPİLKÖY",
+    "id": 30768
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "FENERKÖY",
+    "id": 30769
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "PINARLI",
+    "id": 30770
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "ERENKÖY",
+    "id": 30771
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KAVAKLI",
+    "id": 30772
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "TAŞLITEPE",
+    "id": 30773
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "KÜÇÜKKÖY",
+    "id": 30774
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "SALOVA",
+    "id": 30775
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 30776
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ÇARŞIBAŞI",
+    "MAHALLE": "YAVUZ",
+    "id": 30777
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "2 NOLU BOSTANCI",
+    "id": 30778
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AKOLUK",
+    "id": 30779
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "İNCESU",
+    "id": 30780
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "TOKLU",
+    "id": 30781
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AĞILLI",
+    "id": 30782
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AKTOPRAK",
+    "id": 30783
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "BAHÇECİK",
+    "id": 30784
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇAMOBA",
+    "id": 30785
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KURTULUŞ",
+    "id": 30786
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "PINARALTI",
+    "id": 30787
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "UĞURLU",
+    "id": 30788
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇÖMLEKÇİ OSB",
+    "id": 30789
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GEÇİT",
+    "id": 30790
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KARAKAYA",
+    "id": 30791
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KARLIK",
+    "id": 30792
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "PAZARKAPI",
+    "id": 30793
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YENİCUMA",
+    "id": 30794
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "1 NOLU BEŞİRLİ",
+    "id": 30795
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 30796
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "FATİH",
+    "id": 30797
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GÖZALAN",
+    "id": 30798
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 30799
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ORTAHİSAR",
+    "id": 30800
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YALINCAK",
+    "id": 30801
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 30802
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 30803
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "1 NOLU ERDOĞDU",
+    "id": 30804
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "BENGİSU",
+    "id": 30805
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "BEŞTAŞ",
+    "id": 30806
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "2 NOLU BEŞİRLİ",
+    "id": 30807
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KEMERKAYA",
+    "id": 30808
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ZAFER",
+    "id": 30809
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "SEVİMLİ",
+    "id": 30810
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "SUBAŞI",
+    "id": 30811
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YENİKÖY",
+    "id": 30812
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLVADİ",
+    "id": 30813
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "1 NOLU BOSTANCI",
+    "id": 30814
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇARŞI",
+    "id": 30815
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "DOLAYLI",
+    "id": 30816
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KİREÇHANE",
+    "id": 30817
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KOZLUCA",
+    "id": 30818
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "SAYVAN",
+    "id": 30819
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30820
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 30821
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 30822
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KAYMAKLI",
+    "id": 30823
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "SOĞUKSU",
+    "id": 30824
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 30825
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YALI",
+    "id": 30826
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "BOZTEPE",
+    "id": 30827
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 30828
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇİLEKLİ",
+    "id": 30829
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "FATİHSULTAN",
+    "id": 30830
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GÜRBULAK",
+    "id": 30831
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KANUNİ",
+    "id": 30832
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KONAKLAR",
+    "id": 30833
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "SANAYİ",
+    "id": 30834
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "2 NOLU ERDOĞDU",
+    "id": 30835
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÇUKURÇAYIR",
+    "id": 30836
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ESENYURT",
+    "id": 30837
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "İSKENDERPAŞA",
+    "id": 30838
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLBÜK",
+    "id": 30839
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLHİSAR",
+    "id": 30840
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "3 NOLU ERDOĞDU",
+    "id": 30841
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AKKAYA",
+    "id": 30842
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "BULAK",
+    "id": 30843
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "DÜZYURT",
+    "id": 30844
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 30845
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "İNÖNÜ",
+    "id": 30846
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AKYAZI",
+    "id": 30847
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 30848
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "DOĞANÇAY",
+    "id": 30849
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GÖLÇAYIR",
+    "id": 30850
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KALKINMA",
+    "id": 30851
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "PELİTLİ",
+    "id": 30852
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 30853
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 30854
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "GÜLBAHARHATUN",
+    "id": 30855
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "AYVALI",
+    "id": 30856
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ESENTEPE",
+    "id": 30857
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "HIZIRBEY",
+    "id": 30858
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 30859
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "TOSKÖY",
+    "id": 30860
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KAVALA",
+    "id": 30861
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "KUTLUGÜN",
+    "id": 30862
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ORTAHİSAR",
+    "MAHALLE": "ÖZBİRLİK",
+    "id": 30863
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 30864
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ŞAHMELİK",
+    "id": 30865
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "AĞAÇLI",
+    "id": 30866
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "BEŞİKDAĞ",
+    "id": 30867
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ÇAKIRLI",
+    "id": 30868
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "DENİZLİ",
+    "id": 30869
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "OĞUZ",
+    "id": 30870
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ZEMBEREK",
+    "id": 30871
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "NEFSİŞARLI",
+    "id": 30872
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "SAYVANCIK",
+    "id": 30873
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "VARDALLI",
+    "id": 30874
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "DAĞLICA",
+    "id": 30875
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "KALEGÜNEY",
+    "id": 30876
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ARDIÇATAK",
+    "id": 30877
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ÇEŞMEÖNÜ",
+    "id": 30878
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "AKKESE",
+    "id": 30879
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "KORKUTHAN",
+    "id": 30880
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "DOLANLI",
+    "id": 30881
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "KUTLUCA",
+    "id": 30882
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "FATİH",
+    "id": 30883
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "TAKAZLI",
+    "id": 30884
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "GÜRGENLİ",
+    "id": 30885
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "RESULLÜ",
+    "id": 30886
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ADACIK",
+    "id": 30887
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "AKSAKLI",
+    "id": 30888
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "YENİCAMİ",
+    "id": 30889
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 30890
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ANBARLI",
+    "id": 30891
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 30892
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "BOZLU",
+    "id": 30893
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "DUYGULU",
+    "id": 30894
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "SEYİTAHMET",
+    "id": 30895
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "ÇITLAKLI",
+    "id": 30896
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "BEŞİKDÜZÜ",
+    "MAHALLE": "HÜNERLİ",
+    "id": 30897
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "AKMESCİT",
+    "id": 30898
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BAKIMLI",
+    "id": 30899
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KIRANTAŞ",
+    "id": 30900
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 30901
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ORTAKÖY",
+    "id": 30902
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "SEVİNÇ",
+    "id": 30903
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BAŞAR",
+    "id": 30904
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÇEŞMELER",
+    "id": 30905
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GÜNAY",
+    "id": 30906
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KİREMİTLİ",
+    "id": 30907
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ORMANÜSTÜ",
+    "id": 30908
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ALAÇAM",
+    "id": 30909
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KONAK",
+    "id": 30910
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KÖPRÜYANI",
+    "id": 30911
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ORMANİÇİ",
+    "id": 30912
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÖRNEKALAN",
+    "id": 30913
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GÜNEY",
+    "id": 30914
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ALATAŞ",
+    "id": 30915
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "DİKKAYA",
+    "id": 30916
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GÜZELCE",
+    "id": 30917
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BAHÇEKAYA",
+    "id": 30918
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÇATAK",
+    "id": 30919
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ARDIÇLIYAYLA",
+    "id": 30920
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BARIŞLI",
+    "id": 30921
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ŞİMŞİRLİ",
+    "id": 30922
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "TEMELLİ",
+    "id": 30923
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "HAMSİKÖY",
+    "id": 30924
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KUŞÇU",
+    "id": 30925
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÖĞÜTLÜ",
+    "id": 30926
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "SUKENARI",
+    "id": 30927
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YAYLABAŞI",
+    "id": 30928
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ARMAĞAN",
+    "id": 30929
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "HIZARLI",
+    "id": 30930
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "SINDIRAN",
+    "id": 30931
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YÜZÜNCÜYIL",
+    "id": 30932
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 30933
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "MATARACI",
+    "id": 30934
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 30935
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÇIRALI",
+    "id": 30936
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KAPUKÖY",
+    "id": 30937
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "REŞADİYE",
+    "id": 30938
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "COŞANDERE",
+    "id": 30939
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "OCAKLI",
+    "id": 30940
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BAKIRCILAR",
+    "id": 30941
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÇAYIRLAR",
+    "id": 30942
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "FATİH",
+    "id": 30943
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "KAYNARCA",
+    "id": 30944
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YAZLIK",
+    "id": 30945
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YENİKÖY",
+    "id": 30946
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 30947
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ZAFERLİ",
+    "id": 30948
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ATASU",
+    "id": 30949
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "MERKEZ",
+    "id": 30950
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ERGİNKÖY",
+    "id": 30951
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GAYRETLİ",
+    "id": 30952
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "GÜRGENAĞAÇ",
+    "id": 30953
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "OĞULAĞAÇ",
+    "id": 30954
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÜÇGEDİK",
+    "id": 30955
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YAZILITAŞ",
+    "id": 30956
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "YUKARIKÖY",
+    "id": 30957
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "AKARSU",
+    "id": 30958
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ALTINDERE",
+    "id": 30959
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ANAYURT",
+    "id": 30960
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "BAĞIŞLI",
+    "id": 30961
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ÇAMLIDÜZ",
+    "id": 30962
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "MAÇKA",
+    "MAHALLE": "ESİROĞLU",
+    "id": 30963
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "SİMENLİ",
+    "id": 30964
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "ÇAMKİRİŞ",
+    "id": 30965
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "SAYVANÇATAK",
+    "id": 30966
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "SÜTPINAR",
+    "id": 30967
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "TURALIUŞAĞI",
+    "id": 30968
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "ÇARLAKLI",
+    "id": 30969
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KUZULUK",
+    "id": 30970
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "DEREKÖY",
+    "id": 30971
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "GEYİKLİ",
+    "id": 30972
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "GÖLKİRİŞ",
+    "id": 30973
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "GÜDÜN",
+    "id": 30974
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "ÇAMLICA",
+    "id": 30975
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "AKÇİRİŞ",
+    "id": 30976
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "FİDANBAŞI",
+    "id": 30977
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "DORUKKİRİŞ",
+    "id": 30978
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "SUGÖREN",
+    "id": 30979
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "DOĞANCI",
+    "id": 30980
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "GÖKÇEKÖY",
+    "id": 30981
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "SİNLİCE",
+    "id": 30982
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KABASAKAL",
+    "id": 30983
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "AĞIRTAŞ",
+    "id": 30984
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KALECİK",
+    "id": 30985
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KASIMAĞZI",
+    "id": 30986
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KİREÇ",
+    "id": 30987
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "ÇETRİK",
+    "id": 30988
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "KARAKAYA",
+    "id": 30989
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "DÜZKÖY",
+    "id": 30990
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "PELİTÇİK",
+    "id": 30991
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "TEPEAĞZI",
+    "id": 30992
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "ŞALPAZARI",
+    "MAHALLE": "ÜZÜMÖZÜ",
+    "id": 30993
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KÖSECİK",
+    "id": 30994
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "ÇAMLI",
+    "id": 30995
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "HOŞARLI",
+    "id": 30996
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "MELİKŞAH",
+    "id": 30997
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "İSKENDERLİ",
+    "id": 30998
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KARAAĞAÇLI",
+    "id": 30999
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KOZLUCA",
+    "id": 31000
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "TURALI",
+    "id": 31001
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KALEMLİ",
+    "id": 31002
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KARASU",
+    "id": 31003
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KAYACAN",
+    "id": 31004
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "YAKÇUKUR",
+    "id": 31005
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "ÇAYIRİÇİ",
+    "id": 31006
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KALEÖNÜ",
+    "id": 31007
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "ORTA",
+    "id": 31008
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KARŞULAR",
+    "id": 31009
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "SAĞRI",
+    "id": 31010
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "SAYRAÇ",
+    "id": 31011
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "BİÇİNLİK",
+    "id": 31012
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "BÜYÜK",
+    "id": 31013
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "KALINÇAM",
+    "id": 31014
+  },
+  {
+    "İL": "TRABZON",
+    "İLÇE": "TONYA",
+    "MAHALLE": "YENİ",
+    "id": 31015
+  }
+]

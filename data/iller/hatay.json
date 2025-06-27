@@ -1,0 +1,3572 @@
+[
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ELEKTRİK",
+    "id": 13154
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "SÜMERLER",
+    "id": 13155
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "AKDENİZ",
+    "id": 13156
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 13157
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÇEKMECE",
+    "id": 13158
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "SİNANLI",
+    "id": 13159
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ARMUTLU",
+    "id": 13160
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÇÖKEK",
+    "id": 13161
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "DÖVER",
+    "id": 13162
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "YENİÇAĞ",
+    "id": 13163
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "HARBİYE",
+    "id": 13164
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "BAHÇEKÖY",
+    "id": 13165
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "TAVLA",
+    "id": 13166
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÜZENGİLİ",
+    "id": 13167
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "BALLIÖZ",
+    "id": 13168
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "BOSTANCIK",
+    "id": 13169
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "DURSUNLU",
+    "id": 13170
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "GÜNEYSÖĞÜT",
+    "id": 13171
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "SUBAŞI",
+    "id": 13172
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÖZBEK",
+    "id": 13173
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "DEĞİRMENYOLU",
+    "id": 13174
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "MEYDANCIK",
+    "id": 13175
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "HANCAĞIZ",
+    "id": 13176
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 13177
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "KOÇÖREN",
+    "id": 13178
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ORHANLI",
+    "id": 13179
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "AKNEHİR",
+    "id": 13180
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "BÜYÜKÇAT",
+    "id": 13181
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "HÜSEYİNLİ",
+    "id": 13182
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "SAMANKAYA",
+    "id": 13183
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "GÜMÜŞGÖZE",
+    "id": 13184
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 13185
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "TOYGARLI",
+    "id": 13186
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "AŞAĞIOKÇULAR",
+    "id": 13187
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "BALIKLIDERE",
+    "id": 13188
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "ÇINARLI",
+    "id": 13189
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DEFNE",
+    "MAHALLE": "TURUNÇLU",
+    "id": 13190
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAAĞAÇ ÖVÜNDÜK",
+    "id": 13191
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAGÖZ",
+    "id": 13192
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "TÜLEK",
+    "id": 13193
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ULUÇINAR",
+    "id": 13194
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ARPADERESİ",
+    "id": 13195
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ÇETİLLİK",
+    "id": 13196
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "HACIAHMETLİ",
+    "id": 13197
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "GÖZCÜLER",
+    "id": 13198
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "BEYKÖYÜ",
+    "id": 13199
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "IŞIKLI",
+    "id": 13200
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "PİRİNÇLİK",
+    "id": 13201
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "AŞAĞI KEPİRCE",
+    "id": 13202
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "TATARLI",
+    "id": 13203
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "YUKARIKEPİRCE",
+    "id": 13204
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KALE",
+    "id": 13205
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAAĞAÇ ŞARKONAK",
+    "id": 13206
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "NARDÜZÜ",
+    "id": 13207
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "AVCILARSUYU",
+    "id": 13208
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "GÜLCİHAN",
+    "id": 13209
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ÜÇGÜLLÜK",
+    "id": 13210
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "AKÇALI",
+    "id": 13211
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ARPAGEDİK",
+    "id": 13212
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "HAYMASEKİ",
+    "id": 13213
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "ARPAÇİFTLİK",
+    "id": 13214
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "GÖKMEYDAN",
+    "id": 13215
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KIŞLA",
+    "id": 13216
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "MADENLİ",
+    "id": 13217
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "DEREKUYU",
+    "id": 13218
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAAĞAÇ CUMHURİYET",
+    "id": 13219
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "HELVALI",
+    "id": 13220
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "HÜYÜK",
+    "id": 13221
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KOZAKLI",
+    "id": 13222
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "NERGİZLİK",
+    "id": 13223
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "HARLISU",
+    "id": 13224
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAAĞAÇ KONARLI",
+    "id": 13225
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KARAHÜSEYİNLİ",
+    "id": 13226
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KONACIK",
+    "id": 13227
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ARSUZ",
+    "MAHALLE": "KURTBAĞI",
+    "id": 13228
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "ÇATKÖY",
+    "id": 13229
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "ÖZERLİ",
+    "id": 13230
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "YEŞİL",
+    "id": 13231
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 13232
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "KIŞLALAR",
+    "id": 13233
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "KUZUCULU",
+    "id": 13234
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "KAPILI",
+    "id": 13235
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "OCAKLI",
+    "id": 13236
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "YENİYURT",
+    "id": 13237
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "NUMUNE EVLER",
+    "id": 13238
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "KARAKESE",
+    "id": 13239
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "SANAYİ",
+    "id": 13240
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "ALTINÇAĞ",
+    "id": 13241
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "KONAKLI",
+    "id": 13242
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "DÖRTYOL",
+    "MAHALLE": "ÇAYLI",
+    "id": 13243
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 13244
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "İSTİKLAL",
+    "id": 13245
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "İSALİ",
+    "id": 13246
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13247
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "YUKARIBURNAZ",
+    "id": 13248
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "KUYULUK",
+    "id": 13249
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "GÖKDERE",
+    "id": 13250
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "KIZLARÇAYI",
+    "id": 13251
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "BAŞLAMIŞ",
+    "id": 13252
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "GÖKGÖL",
+    "id": 13253
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "KARAMUSTAFALI",
+    "id": 13254
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "MUSTAFALI",
+    "id": 13255
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 13256
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "AŞAĞIBURNAZ",
+    "id": 13257
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "ŞÜKRÜ PAŞA",
+    "id": 13258
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "YENİ",
+    "id": 13259
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "MAHMUTLU",
+    "id": 13260
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 13261
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "TURUNÇLU",
+    "id": 13262
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ERZİN",
+    "MAHALLE": "YONCADÜZÜ",
+    "id": 13263
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "MUHARREM",
+    "id": 13264
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "HAMAM",
+    "id": 13265
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 13266
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "KIRCAOĞLU",
+    "id": 13267
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "KALETEPE",
+    "id": 13268
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "AKTAŞ",
+    "id": 13269
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13270
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "DOĞUAYRANCI",
+    "id": 13271
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "KELİ",
+    "id": 13272
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "AKKERPİÇ",
+    "id": 13273
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "AKPINAR",
+    "id": 13274
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "GÜLOVA",
+    "id": 13275
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "HATAYHAMAMI",
+    "id": 13276
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "BATIAYRANCI",
+    "id": 13277
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "GÖKÇEOĞLU",
+    "id": 13278
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KUMLU",
+    "MAHALLE": "AKKUYU",
+    "id": 13279
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "BENLİDERE",
+    "id": 13280
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "İSSUME",
+    "id": 13281
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "KICI",
+    "id": 13282
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ÖTENÇAY",
+    "id": 13283
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ATİK",
+    "id": 13284
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ŞEKERE",
+    "id": 13285
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ŞENBÜK",
+    "id": 13286
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "SOĞUKOLUK",
+    "id": 13287
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ÇAKALLI",
+    "id": 13288
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "MÜFTÜLER",
+    "id": 13289
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "FATİH",
+    "id": 13290
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13291
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "DEREBAHÇE",
+    "id": 13292
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "MUHLİSALİ",
+    "id": 13293
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "SARIMAZI",
+    "id": 13294
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "KÖMÜRÇUKURU",
+    "id": 13295
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "BAKRAS",
+    "id": 13296
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "HALİLBEY",
+    "id": 13297
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "BELEN",
+    "MAHALLE": "ÇERÇİKAYA",
+    "id": 13298
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "AKÇAY",
+    "id": 13299
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "GÜLTEPE",
+    "id": 13300
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "MEYDAN",
+    "id": 13301
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "SARISEKİ",
+    "id": 13302
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "MURADİYE",
+    "id": 13303
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "PİRİREİS",
+    "id": 13304
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 13305
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "AKARCA",
+    "id": 13306
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BİTİŞİK",
+    "id": 13307
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "GÜRSEL",
+    "id": 13308
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 13309
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "AZGANLIK",
+    "id": 13310
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "DÜĞÜNYURDU",
+    "id": 13311
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 13312
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "SAKARYA",
+    "id": 13313
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "KALEDİBİ",
+    "id": 13314
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "KARAYILAN",
+    "id": 13315
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "KAVAKLIOLUK",
+    "id": 13316
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "KOCATEPE",
+    "id": 13317
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 13318
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "AZGANLIK OSB",
+    "id": 13319
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13320
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "ÇINARLI",
+    "id": 13321
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 13322
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "SAVAŞ",
+    "id": 13323
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "SUÇIKAĞI",
+    "id": 13324
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "DENİZCİLER",
+    "id": 13325
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "KURTULUŞ",
+    "id": 13326
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "AŞKARBEYLİ",
+    "id": 13327
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "MODERNEVLER",
+    "id": 13328
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 13329
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BARIŞTEPE",
+    "id": 13330
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "MUSTAFA",
+    "id": 13331
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 13332
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BEKBELE",
+    "id": 13333
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "GÜZELÇAY",
+    "id": 13334
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "NUMUNE",
+    "id": 13335
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "YILDIRIMTEPE",
+    "id": 13336
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BARBAROS",
+    "id": 13337
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 13338
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "CIRTIMAN",
+    "id": 13339
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "ÇAY",
+    "id": 13340
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "İSMET İNÖNÜ",
+    "id": 13341
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 13342
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "BULUTTEPE",
+    "id": 13343
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "İSKENDERUN",
+    "MAHALLE": "ESENTEPE",
+    "id": 13344
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "BÜYÜKBURÇ",
+    "id": 13345
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "SİVRİKAVAK",
+    "id": 13346
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ALAKENT",
+    "id": 13347
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "HACIPAŞA",
+    "id": 13348
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "TEPEHAN",
+    "id": 13349
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KAMBERLİ",
+    "id": 13350
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "OYMAKLI",
+    "id": 13351
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "SARIBÜK",
+    "id": 13352
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "SARILAR",
+    "id": 13353
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "SEFERLİ",
+    "id": 13354
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "TÜRKMENMEZRAASI",
+    "id": 13355
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "AKAMBER",
+    "id": 13356
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "MAYADALI",
+    "id": 13357
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "AVUTTEPE",
+    "id": 13358
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KOZKALESİ",
+    "id": 13359
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "GÖZECİK",
+    "id": 13360
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KIYIGÖREN",
+    "id": 13361
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ERBAŞI",
+    "id": 13362
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "GÜNVURAN",
+    "id": 13363
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "HANYOLU",
+    "id": 13364
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KANSU",
+    "id": 13365
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KARSU",
+    "id": 13366
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ZİYARET",
+    "id": 13367
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YUNUSHANI",
+    "id": 13368
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ÇETENLİ",
+    "id": 13369
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YENİHİSAR",
+    "id": 13370
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "BOYNUYOĞUN",
+    "id": 13371
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KAZANCIK",
+    "id": 13372
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KILIÇTUTAN",
+    "id": 13373
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "TOKAÇLI",
+    "id": 13374
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ALTINKAYA",
+    "id": 13375
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "TOPRAKHİSAR",
+    "id": 13376
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YANIKPINAR",
+    "id": 13377
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "BABATORUN",
+    "id": 13378
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "SOFULAR",
+    "id": 13379
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YARSELİ",
+    "id": 13380
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "AKDARI",
+    "id": 13381
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KESKİNCİK",
+    "id": 13382
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ATAYURDU",
+    "id": 13383
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "DOKUZDAL",
+    "id": 13384
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "ENEK",
+    "id": 13385
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KARBEYAZ",
+    "id": 13386
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KOLCULAR",
+    "id": 13387
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 13388
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "YOLAĞZI",
+    "id": 13389
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "FATİKLİ",
+    "id": 13390
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "KURTMEZRAASI",
+    "id": 13391
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ALTINÖZÜ",
+    "MAHALLE": "TOKDEMİR",
+    "id": 13392
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KARŞIOSB",
+    "id": 13393
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KARBEYAZ",
+    "id": 13394
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "İSTİKLAL",
+    "id": 13395
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13396
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KÜRTÜL",
+    "id": 13397
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "FATİH",
+    "id": 13398
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KARACAMİ",
+    "id": 13399
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "SİNCAN",
+    "id": 13400
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KARŞI",
+    "id": 13401
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "ÇAĞLALIK",
+    "id": 13402
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "KOZLUDERE",
+    "id": 13403
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 13404
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "PAYAS",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 13405
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ATATÜRK",
+    "id": 13406
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "CEYLANDERE",
+    "id": 13407
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13408
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ATAKÖY",
+    "id": 13409
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ÇAMLIYAYLA",
+    "id": 13410
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "BATIAYAZ",
+    "id": 13411
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "CEMAL GÜRSEL",
+    "id": 13412
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "BÜYÜKOBA",
+    "id": 13413
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ÇİĞDEDE",
+    "id": 13414
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ÇANAKOLUK",
+    "id": 13415
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ÇÖĞÜRLÜ",
+    "id": 13416
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "AVCILAR",
+    "id": 13417
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 13418
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "DENİZ",
+    "id": 13419
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "GENERAL ŞÜKRÜ KANADLI",
+    "id": 13420
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "KAPISUYU",
+    "id": 13421
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "MEYDAN",
+    "id": 13422
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "FİDANLI",
+    "id": 13423
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "MAĞARACIK",
+    "id": 13424
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "SUTAŞI",
+    "id": 13425
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YENİKÖY",
+    "id": 13426
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "KOYUNOĞLU",
+    "id": 13427
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YEŞİLYAZI",
+    "id": 13428
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YOĞUNOLUK",
+    "id": 13429
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "MIZRAKLI",
+    "id": 13430
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "DEĞİRMENBAŞI",
+    "id": 13431
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "ERİKLİKUYU",
+    "id": 13432
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "KARAÇAY",
+    "id": 13433
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "TOMRUKSUYU",
+    "id": 13434
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YEŞİLADA",
+    "id": 13435
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "GÖZENE",
+    "id": 13436
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "HIDIRBEY",
+    "id": 13437
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "HUZURLU",
+    "id": 13438
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "KURTDERESİ",
+    "id": 13439
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "KUŞALANI",
+    "id": 13440
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YAYLICA",
+    "id": 13441
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "SELDİREN",
+    "id": 13442
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "TEKEBAŞI",
+    "id": 13443
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YENİ",
+    "id": 13444
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 13445
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "UZUNBAĞ",
+    "id": 13446
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "SAMANDAĞ",
+    "MAHALLE": "VAKIFLI",
+    "id": 13447
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "ARPALIUŞAĞI",
+    "id": 13448
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "HACILAR",
+    "id": 13449
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YUKARIBUCAK",
+    "id": 13450
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "BUHARA",
+    "id": 13451
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "EĞRİBUCAK",
+    "id": 13452
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "KATRANLIK",
+    "id": 13453
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "SUGEDİĞİ",
+    "id": 13454
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "MAZMANLI",
+    "id": 13455
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "AKBEZ",
+    "id": 13456
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "HAYDARLAR",
+    "id": 13457
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "AŞAĞIKARAFAKILI",
+    "id": 13458
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "DERVİŞPAŞA",
+    "id": 13459
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YENİYAPAN",
+    "id": 13460
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "15 KASIM",
+    "id": 13461
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "AKTEPE",
+    "id": 13462
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "DEMREK",
+    "id": 13463
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YENİ",
+    "id": 13464
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "ZEYTİNOBA",
+    "id": 13465
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "ARDIÇLI",
+    "id": 13466
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "ÇINARBAŞI",
+    "id": 13467
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "GÜLKENT",
+    "id": 13468
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "SAPANÖZÜ",
+    "id": 13469
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YUKARIKARAFAKILI",
+    "id": 13470
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YUVALI",
+    "id": 13471
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "BADEMLİ",
+    "id": 13472
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "BİNTAŞ",
+    "id": 13473
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "GAZELUŞAĞI",
+    "id": 13474
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "AKKÜLEK",
+    "id": 13475
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "DEDEMLİ",
+    "id": 13476
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "GÜVENÇ",
+    "id": 13477
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 13478
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "TİYEK",
+    "id": 13479
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "GİRNE",
+    "id": 13480
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "KÜRECİ",
+    "id": 13481
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "SÖĞÜT",
+    "id": 13482
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "ÇAY",
+    "id": 13483
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "KORUHÜYÜK",
+    "id": 13484
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "YOLUKLAR",
+    "id": 13485
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "HASSA",
+    "MAHALLE": "GÜLPINAR",
+    "id": 13486
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ALAYBEYLİ",
+    "id": 13487
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ALPARSLAN",
+    "id": 13488
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "AYGIRGÖLÜ",
+    "id": 13489
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KANGALLAR",
+    "id": 13490
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KURTLUSARIMAZI",
+    "id": 13491
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "AYDINLI",
+    "id": 13492
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÇİLOĞLANHÜYÜĞÜ",
+    "id": 13493
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "DEMİRKONAK",
+    "id": 13494
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ALİBEYÇAĞILLI",
+    "id": 13495
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BAŞPINAR",
+    "id": 13496
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "CAMUZKIŞLASI",
+    "id": 13497
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÇAMSEKİ",
+    "id": 13498
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "DELİBEKİRLİ",
+    "id": 13499
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GÜNDÜZ",
+    "id": 13500
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GÜVENTAŞI",
+    "id": 13501
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KURTLUSOĞUKSU",
+    "id": 13502
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BEKTAŞLI",
+    "id": 13503
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KIZILKAYA",
+    "id": 13504
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KURTULUŞ",
+    "id": 13505
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "REŞATLI",
+    "id": 13506
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "MAHMUTLU",
+    "id": 13507
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÖZKIZILKAYA",
+    "id": 13508
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARAMANKAŞI",
+    "id": 13509
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "SAYLAK",
+    "id": 13510
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "SÖĞÜTLÜÖZ",
+    "id": 13511
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "YALANGOZ",
+    "id": 13512
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "YILANLI",
+    "id": 13513
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BARBAROS",
+    "id": 13514
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KALETEPE",
+    "id": 13515
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KAMIŞLAR",
+    "id": 13516
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KAZKELİ",
+    "id": 13517
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KODALLI",
+    "id": 13518
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "SUCUKÖY",
+    "id": 13519
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13520
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 13521
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GÜZELCE",
+    "id": 13522
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "TORUN",
+    "id": 13523
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "408 EVLER",
+    "id": 13524
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 13525
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BALDIRAN",
+    "id": 13526
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "CEYLANLI",
+    "id": 13527
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "DANAAHMETLİ",
+    "id": 13528
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "FATİH",
+    "id": 13529
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ILIKPINAR",
+    "id": 13530
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "DEDEÇINAR",
+    "id": 13531
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ALSANCAK",
+    "id": 13532
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "BALARMUDU",
+    "id": 13533
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARADURMUŞLU",
+    "id": 13534
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 13535
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "YENİ",
+    "id": 13536
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ARKITÇA",
+    "id": 13537
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÇAMSARI",
+    "id": 13538
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 13539
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ABALAKLI",
+    "id": 13540
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ATTUTAN",
+    "id": 13541
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GÜLTEPE",
+    "id": 13542
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "İÇADA",
+    "id": 13543
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÖZSOĞUKSU",
+    "id": 13544
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "TAŞOLUK",
+    "id": 13545
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "TOPBOĞAZI",
+    "id": 13546
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ADALAR",
+    "id": 13547
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARAELMASLI",
+    "id": 13548
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "MURATPAŞA",
+    "id": 13549
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "NARLIHOPUR",
+    "id": 13550
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KAMBERLİKAYA",
+    "id": 13551
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "MENDERES",
+    "id": 13552
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÇANKAYA",
+    "id": 13553
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "GAZİ",
+    "id": 13554
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "İNCİRLİ",
+    "id": 13555
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARAÇAĞIL",
+    "id": 13556
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARAMAĞARA",
+    "id": 13557
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "KARATAŞ",
+    "id": 13558
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "KIRIKHAN",
+    "MAHALLE": "ÖZYÖRÜK",
+    "id": 13559
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ALAKUZU",
+    "id": 13560
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "DAVUTPAŞA",
+    "id": 13561
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 13562
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "CİLVEGÖZÜ",
+    "id": 13563
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ÇAKIRYİĞİT",
+    "id": 13564
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KONUK",
+    "id": 13565
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KURTULUŞ",
+    "id": 13566
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 13567
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "TERZİHÜYÜK",
+    "id": 13568
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 13569
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13570
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KARACANLIK",
+    "id": 13571
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KARASÜLEYMANLI",
+    "id": 13572
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "MEHMETBEYLİ",
+    "id": 13573
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "VARIŞLI",
+    "id": 13574
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ESENTEPE",
+    "id": 13575
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KULETEPE",
+    "id": 13576
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 13577
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "SULUKÖY",
+    "id": 13578
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "NERGİZLİ",
+    "id": 13579
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "TAYFURSÖKMEN",
+    "id": 13580
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "BAĞLAR",
+    "id": 13581
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "BEŞASLAN",
+    "id": 13582
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "HARRAN",
+    "id": 13583
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "MUSTAFA KEMAL",
+    "id": 13584
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "PAŞAHÜYÜK",
+    "id": 13585
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "UZUNKAVAK",
+    "id": 13586
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "BAYIR",
+    "id": 13587
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "FİDANLIK",
+    "id": 13588
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "GÖKTEPE",
+    "id": 13589
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "GÜLTEPE",
+    "id": 13590
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ÖZ KURTULUŞ",
+    "id": 13591
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KUŞAKLI",
+    "id": 13592
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "OĞULPINAR",
+    "id": 13593
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "AKYAYLA",
+    "id": 13594
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "DEĞİRMENKAŞI",
+    "id": 13595
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KUMTEPE",
+    "id": 13596
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "YENİ",
+    "id": 13597
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "BÜKÜLMEZ",
+    "id": 13598
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "ADABUCAK",
+    "id": 13599
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "CÜDEYDE",
+    "id": 13600
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "PINARBAŞI",
+    "id": 13601
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "AHMETBEYLİ",
+    "id": 13602
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 13603
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "GAZİMÜRSELTEPESİ",
+    "id": 13604
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 13605
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "REYHANLI",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 13606
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ALAZI",
+    "id": 13607
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BAĞRIYANIK",
+    "id": 13608
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GÜZELBURÇ",
+    "id": 13609
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KUYULU",
+    "id": 13610
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SUVATLI",
+    "id": 13611
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ESENLİK",
+    "id": 13612
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "HASANLI",
+    "id": 13613
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KANTARA",
+    "id": 13614
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KARAALİ",
+    "id": 13615
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SARAYKENT",
+    "id": 13616
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 13617
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 13618
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KURUYER",
+    "id": 13619
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ODABAŞI",
+    "id": 13620
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ULUCAMİİ",
+    "id": 13621
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ÜZÜMDALI",
+    "id": 13622
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "YENİ CAMİİ",
+    "id": 13623
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKCURUN",
+    "id": 13624
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KARAALİ BÖLÜĞÜ",
+    "id": 13625
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "NARLICA",
+    "id": 13626
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SARAYCIK",
+    "id": 13627
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "TAHTAKÖPRÜ",
+    "id": 13628
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ANAYAZI",
+    "id": 13629
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "APAYDIN",
+    "id": 13630
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "CEBRAİL",
+    "id": 13631
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "HABİB-İ NECCAR",
+    "id": 13632
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KÜÇÜKDALYAN",
+    "id": 13633
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SERİNYOL",
+    "id": 13634
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKEVLER",
+    "id": 13635
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "DUTDİBİ",
+    "id": 13636
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GÜNYAZI",
+    "id": 13637
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "HARAPARASI",
+    "id": 13638
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ŞİRİNCE",
+    "id": 13639
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ALAHAN",
+    "id": 13640
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BÜYÜKDALYAN",
+    "id": 13641
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13642
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "OĞLAKÖREN",
+    "id": 13643
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ŞEYHALİ",
+    "id": 13644
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BOZHÖYÜK",
+    "id": 13645
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "DEMİRKÖPRÜ",
+    "id": 13646
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "DİKMECE",
+    "id": 13647
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GENERAL ŞÜKRÜ KANATLI",
+    "id": 13648
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KARDEŞLER",
+    "id": 13649
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SOFULAR",
+    "id": 13650
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "UZUNALİÇ",
+    "id": 13651
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BOHŞİN",
+    "id": 13652
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 13653
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 13654
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "HAVUZLAR",
+    "id": 13655
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MADENBOYU",
+    "id": 13656
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 13657
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ÜRGEN PAŞA",
+    "id": 13658
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "YAYLACIK",
+    "id": 13659
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ZENGİNLER",
+    "id": 13660
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ARPAHAN",
+    "id": 13661
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "EMEK",
+    "id": 13662
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GÜLDEREN",
+    "id": 13663
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KARLISU",
+    "id": 13664
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KİSECİK",
+    "id": 13665
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "SAÇAKLI",
+    "id": 13666
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GÖKÇEGÖZ",
+    "id": 13667
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KIŞLA SARAY",
+    "id": 13668
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MANSURLU",
+    "id": 13669
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ORHANLI",
+    "id": 13670
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 13671
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKASYA",
+    "id": 13672
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKÇAOVA",
+    "id": 13673
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKSARAY",
+    "id": 13674
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ALTINÇAY",
+    "id": 13675
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AŞAĞIOBA",
+    "id": 13676
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AVSUYU",
+    "id": 13677
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BİTİREN",
+    "id": 13678
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KOCAABDİ",
+    "id": 13679
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "KUZEYTEPE",
+    "id": 13680
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AKHİSAR",
+    "id": 13681
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ALAATTİN",
+    "id": 13682
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "AÇIKDERE",
+    "id": 13683
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BİNİCİLER",
+    "id": 13684
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "BARBAROS",
+    "id": 13685
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GÜLLÜ BAHÇE",
+    "id": 13686
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "DERİNCE",
+    "id": 13687
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MARAŞBOĞAZI",
+    "id": 13688
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MELEKLİ",
+    "id": 13689
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ZÜLÜFLÜHAN",
+    "id": 13690
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GAZİ",
+    "id": 13691
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "GAZİ PAŞA",
+    "id": 13692
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MEYDAN",
+    "id": 13693
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ÜÇGEDİK",
+    "id": 13694
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "HACI ÖMER ALPAGOT",
+    "id": 13695
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "İPLİK PAZARI",
+    "id": 13696
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "MAŞUKLU",
+    "id": 13697
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "EKİNCİ",
+    "id": 13698
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "ESENTEPE",
+    "id": 13699
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "OVAKENT",
+    "id": 13700
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "ANTAKYA",
+    "MAHALLE": "TANIŞMA",
+    "id": 13701
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "GÜVEÇÇİ",
+    "id": 13702
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "SUNGUR",
+    "id": 13703
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÜÇIRMAK",
+    "id": 13704
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YONCAKAYA",
+    "id": 13705
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "TURFANDA",
+    "id": 13706
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YENİCE",
+    "id": 13707
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "GÖZLÜCE",
+    "id": 13708
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "GÜZELYURT",
+    "id": 13709
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KARAKÖSE",
+    "id": 13710
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "SÜRÜTME",
+    "id": 13711
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "BOZLU",
+    "id": 13712
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KÖSRELİK",
+    "id": 13713
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ARSLANYAZI",
+    "id": 13714
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇATBAŞI",
+    "id": 13715
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KARACURUN",
+    "id": 13716
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YALAZ",
+    "id": 13717
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YUKARIOKÇULAR",
+    "id": 13718
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YUKARIPULLUYAZI",
+    "id": 13719
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇAMALTI",
+    "id": 13720
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "HİSARCIK",
+    "id": 13721
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ŞENKÖY",
+    "id": 13722
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "AYDINBAHÇE",
+    "id": 13723
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "AŞAĞIPULLUYAZI",
+    "id": 13724
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "DENİZGÖREN",
+    "id": 13725
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "TUTLUBAHÇE",
+    "id": 13726
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇAKI",
+    "id": 13727
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KULAÇ",
+    "id": 13728
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KIZILÇAT",
+    "id": 13729
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YAYIKDAMLAR",
+    "id": 13730
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇAKSINA",
+    "id": 13731
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "AYIŞIĞI",
+    "id": 13732
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇABALA",
+    "id": 13733
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇANDIR",
+    "id": 13734
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ÇAYIR",
+    "id": 13735
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "EĞERCİ",
+    "id": 13736
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "GÜRIŞIK",
+    "id": 13737
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "DUSDURU",
+    "id": 13738
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "LEYLEKLİ",
+    "id": 13739
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "OLGUNLAR",
+    "id": 13740
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ŞAKŞAK",
+    "id": 13741
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 13742
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "BEZGE",
+    "id": 13743
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "GÖRENTAŞ",
+    "id": 13744
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KIŞLAK",
+    "id": 13745
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "KURTULUŞ",
+    "id": 13746
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "SEBENOBA",
+    "id": 13747
+  },
+  {
+    "İL": "HATAY",
+    "İLÇE": "YAYLADAĞI",
+    "MAHALLE": "ULUYOL",
+    "id": 13748
+  }
+]

@@ -3,15 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ufak İşler - Marmaris Ev Tadilatı ve Onarım Hizmetleri</title>
+    <title>Ufak İşler - Ev Tadilatı, Onarım ve Günlük Yardım Hizmetleri</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/additional_styles.css">
+    <link rel="stylesheet" href="css/mobile-fixes.css">
+    <link rel="stylesheet" href="css/header-fix.css">
+    <link rel="stylesheet" href="css/dropdown-fix.css">
+    <link rel="stylesheet" href="css/index-specific.css">
+    <link rel="stylesheet" href="css/mobile-menu-fix.css">
+    <link rel="stylesheet" href="css/hero-fix.css">
+    <link rel="stylesheet" href="css/floating-button-fix.css">
+    <link rel="stylesheet" href="css/modal-styles.css">
+    <link rel="stylesheet" href="css/whatsapp-button.css">
+    <link rel="stylesheet" href="css/floating-whatsapp.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
-    <meta name="description" content="Ufak İşler - Marmaris'te usta gerektirmeyen ev içi onarım ve tadilatlar için uygun fiyatlı hizmet">
+    <meta name="description" content="Ufak İşler - Marmaris'te ev tadilatı, onarım ve günlük yardım hizmetleri için uygun fiyatlı çözümler">
 </head>
-<body>
+<body class="home-page">
     <!-- Header Bölümü -->
     <header>
         <div class="container">
@@ -24,10 +35,15 @@
             <nav>
                 <ul>
                     <li><a href="index.html">Ana Sayfa</a></li>
-                    <li><a href="hizmetler.html">Hizmetlerimiz</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
                     <li><a href="nasil-calisir.html">Nasıl Çalışır?</a></li>
                     <li><a href="diy.html">Kendin Yap</a></li>
-                    <li><a href="hizmet-bolgeleri.html">Hizmet Bölgelerimiz</a></li>
                     <li><a href="hakkimizda.html">Hakkımızda</a></li>
                     <li><a href="iletisim.html">İletişim</a></li>
                 </ul>
@@ -43,18 +59,15 @@
         <div class="hero-bg"></div>
         <div class="container">
             <div class="hero-content">
-                <h2 class="hero-title">Ufak Onarım İşleriniz için Pratik <span class="glowy-text">Çözümler<img src="img/drill-tool.png" alt="Matkap" class="drill-image"></span></h2>
-                <p>Evdeki küçük tamir işleri hep ertelenir… Artık ertelemeyin!
-                Ufak onarım, tadilat ve montaj işleriniz için pratik ve uygun fiyatlı çözümler sunuyoruz.</p>
-                <!-- Marmaris Bilgi Bandı -->
-                <div class="location-banner hero-location-banner">
-                    <p><i class="fas fa-map-marker-alt"></i> Şu an sadece <strong>Marmaris</strong> ve çevresinde hizmet vermekteyiz</p>
-                </div>
+                <h2 class="hero-title">Ufak İşleriniz için Pratik <span class="glowy-text">Çözümler<img src="img/drill-tool.png" alt="Matkap" class="drill-image"></span></h2>
+                <p>Evdeki küçük tamir işleri veya günlük yardıma ihtiyacınız mı var? Artık ertelemeyin!
+                Ufak onarım, tadilat ve günlük yardım işleriniz için pratik ve uygun fiyatlı çözümler sunuyoruz.</p>
+
                 
                 <div class="hero-buttons">
-                    <a href="https://wa.me/+905458646613" class="btn btn-primary whatsapp-btn">
+                    <button class="btn btn-whatsapp service-select-btn" data-service-select="true">
                         <i class="fab fa-whatsapp"></i> WhatsApp'tan Ulaşın
-                    </a>
+                    </button>
                     <a href="hizmetler.html" class="btn btn-secondary">Hizmetlerimiz</a>
                 </div>
             </div>
@@ -74,8 +87,8 @@
                             <span class="info-value">%98</span>
                         </div>
                         <div class="info-item">
-                            <span class="info-label">Aktif Bölge</span>
-                            <span class="info-value">Marmaris</span>
+                            <span class="info-label"> </span>
+                            <span class="info-value"> </span>
                         </div>
                         <div class="info-item">
                             <span class="info-label">Hizmet Saatleri</span>
@@ -87,52 +100,98 @@
         </div>
     </section>
 
-    <!-- Hizmetler Bölümü -->
+    <!-- Hizmet Kategorileri Bölümü -->
+    <section class="service-categories">
+        <div class="container">
+            <div class="section-header">
+                <h2>Hizmet Kategorilerimiz</h2>
+                <p>Ufak İşler olarak artık iki farklı kategoride hizmet sunuyoruz. İhtiyacınıza göre seçim yapabilirsiniz.</p>
+            </div>
+            <div class="category-cards">
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-tools"></i>
+                    </div>
+                    <h3>Onarım ve Tadilat</h3>
+                    <p>Evdeki küçük tamir işleri hep ertelenir... Artık ertelemeyin! Ufak onarım, tadilat ve montaj işleriniz için pratik ve uygun fiyatlı çözümler sunuyoruz.</p>
+                    <ul class="category-features">
+                        <li><i class="fas fa-check"></i> Elektrik İşleri</li>
+                        <li><i class="fas fa-check"></i> Su Tesisatı</li>
+                        <li><i class="fas fa-check"></i> Montaj İşleri</li>
+                        <li><i class="fas fa-check"></i> Boya/Badana</li>
+                        <li><i class="fas fa-check"></i> Mobilya Tamiri</li>
+                    </ul>
+                    <a href="onarim-tadilat.html" class="btn btn-secondary">Detaylı Bilgi</a>
+                    <button class="btn btn-primary service-select-btn" data-service-type="onarim">
+                        <i class="fas fa-map-marker-alt"></i> Hemen Başvur
+                    </button>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-hand-holding-heart"></i>
+                    </div>
+                    <h3>Günlük Yardım</h3>
+                    <p>Zamanınız mı yok? Yardıma mı ihtiyacınız var? Günlük işlerinizde size yardımcı olacak güvenilir kişiler artık bir tık uzağınızda!</p>
+                    <ul class="category-features">
+                        <li><i class="fas fa-check"></i> Evcil Hayvan Bakımı</li>
+                        <li><i class="fas fa-check"></i> Market/Pazar Alışverişi</li>
+                        <li><i class="fas fa-check"></i> Paket/Kargo Taşıma</li>
+                        <li><i class="fas fa-check"></i> Yaşlı/Hasta Refakati</li>
+                        <li><i class="fas fa-check"></i> Diğer Küçük Yardımlar</li>
+                    </ul>
+                    <a href="gunluk-yardim.html" class="btn btn-secondary">Detaylı Bilgi</a>
+                    <button class="btn btn-primary service-select-btn" data-service-type="gunluk">
+                        <i class="fas fa-map-marker-alt"></i> Hemen Başvur
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Onarım ve Tadilat Hizmetleri -->
     <section class="services">
         <div class="container">
             <div class="section-header">
-                <h2>Hizmetlerimiz</h2>
-                <p>Bazen evdeki küçük bir onarım için ne zamanınız ne de gerekli aletleriniz vardır… veya belki sadece uğraşmak istemiyorsunuzdur. Ancak, o küçük işin yapılması gerektiği gerçeği değişmez. Ustalar genelde büyük işlerle meşguldür, bu ufak tefek işler ise hep ertelenir. İşte biz tam da bu yüzden buradayız!
-                Ufak onarım, tadilat ve montaj işlerinizde hızlı, uygun fiyatlı ve pratik çözümler sunuyoruz.
-                Evinizdeki küçük sorunları ertelemeyin, çözümü biz getirelim.</p>
+                <h2>Onarım ve Tadilat Hizmetlerimiz</h2>
+                <p>Bazen evdeki küçük bir onarım için ne zamanınız ne de gerekli aletleriniz vardır… veya belki sadece uğraşmak istemiyorsunuzdur. Ancak, o küçük işin yapılması gerektiği gerçeği değişmez. Ustalar genelde büyük işlerle meşguldür, bu ufak tefek işler ise hep ertelenir. İşte biz tam da bu yüzden buradayız!</p>
             </div>
             <div class="services-grid">
-                <a href="hizmetler.html#elektrik-isleri" class="service-card">
+                <a href="onarim-tadilat.html#elektrik-isleri" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-plug"></i>
                     </div>
                     <h3>Elektrik İşleri</h3>
                     <p>Priz değişimi, avize takma, elektrik arızaları ve daha fazlası</p>
                 </a>
-                <a href="hizmetler.html#su-tesisati" class="service-card">
+                <a href="onarim-tadilat.html#su-tesisati" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-faucet"></i>
                     </div>
                     <h3>Su Tesisatı</h3>
                     <p>Musluk tamiri, sifon değişimi, basit tesisat sorunları</p>
                 </a>
-                <a href="hizmetler.html#montaj-isleri" class="service-card">
+                <a href="onarim-tadilat.html#montaj-isleri" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-hammer"></i>
                     </div>
                     <h3>Montaj İşleri</h3>
                     <p>Raf, dolap, TV askısı ve mobilya montajı</p>
                 </a>
-                <a href="hizmetler.html#boya-badana" class="service-card">
+                <a href="onarim-tadilat.html#boya-badana" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-paint-roller"></i>
                     </div>
                     <h3>Boya/Badana</h3>
                     <p>Küçük alanlar için boya ve badana işleri</p>
                 </a>
-                <a href="hizmetler.html#mobilya-tamiri" class="service-card">
+                <a href="onarim-tadilat.html#mobilya-tamiri" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-couch"></i>
                     </div>
                     <h3>Mobilya Tamiri</h3>
                     <p>Mobilya onarımı, parça değişimi ve yenileme</p>
                 </a>
-                <a href="hizmetler.html#diger-tadilatlar" class="service-card">
+                <a href="onarim-tadilat.html#diger-tadilatlar" class="service-card">
                     <div class="service-icon">
                         <i class="fas fa-tools"></i>
                     </div>
@@ -141,7 +200,64 @@
                 </a>
             </div>
             <div class="services-cta">
-                <a href="hizmetler.html" class="btn btn-secondary">Tüm Hizmetleri Görüntüle</a>
+                <a href="onarim-tadilat.html" class="btn btn-secondary">Tüm Onarım Hizmetlerini Görüntüle</a>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Günlük Yardım Hizmetleri -->
+    <section class="services daily-help">
+        <div class="container">
+            <div class="section-header">
+                <h2>Günlük Yardım Hizmetlerimiz</h2>
+                <p>Zamanınız kısıtlı mı? Yardıma ihtiyacınız olan işler mi var? Günlük işlerinizde size yardımcı olacak güvenilir kişileri bir araya getiriyoruz. Partnerlerimiz, ihtiyacınız olan küçük işlerde size destek olmak için hazır.</p>
+            </div>
+            <div class="services-grid">
+                <a href="gunluk-yardim.html#evcil-hayvan" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-dog"></i>
+                    </div>
+                    <h3>Evcil Hayvan Bakımı</h3>
+                    <p>Köpek gezdirme, kedi bakımı, veteriner ziyaretleri</p>
+                </a>
+                <a href="gunluk-yardim.html#alisveris" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-shopping-basket"></i>
+                    </div>
+                    <h3>Market/Pazar Alışverişi</h3>
+                    <p>Alışveriş yapma, taşıma ve yerleştirme yardımı</p>
+                </a>
+                <a href="gunluk-yardim.html#tasima" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-box"></i>
+                    </div>
+                    <h3>Paket/Kargo Taşıma</h3>
+                    <p>Ağır paketlerin taşınması ve yerleştirilmesi</p>
+                </a>
+                <a href="gunluk-yardim.html#refakat" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-user-friends"></i>
+                    </div>
+                    <h3>Yaşlı/Hasta Refakati</h3>
+                    <p>Hastane ziyaretleri, kısa süreli refakat hizmetleri</p>
+                </a>
+                <a href="gunluk-yardim.html#ev-isleri" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-broom"></i>
+                    </div>
+                    <h3>Basit Ev İşleri</h3>
+                    <p>Çiçek sulama, posta toplama, basit temizlik işleri</p>
+                </a>
+                <a href="gunluk-yardim.html#diger-yardimlar" class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-hands-helping"></i>
+                    </div>
+                    <h3>Diğer Yardımlar</h3>
+                    <p>İhtiyacınız olan diğer küçük yardım hizmetleri</p>
+                </a>
+            </div>
+            <div class="services-cta">
+                <a href="gunluk-yardim.html" class="btn btn-secondary">Tüm Yardım Hizmetlerini Görüntüle</a>
             </div>
         </div>
     </section>
@@ -247,11 +363,11 @@
     <section class="contact-cta">
         <div class="container">
             <div class="cta-content">
-                <h2>Ev Tadilatı veya Onarımı mı Gerekiyor?</h2>
-                <p>Hemen WhatsApp üzerinden iletişime geçin, sorununuzu çözelim!</p>
-                <a href="https://wa.me/+905XXXXXXXXX" class="btn btn-primary whatsapp-btn">
+                <h2>Yardıma İhtiyacınız mı Var?</h2>
+                <p>Tadilat, onarım veya günlük işleriniz için hemen WhatsApp üzerinden iletişime geçin!</p>
+                <button class="btn btn-whatsapp service-select-btn" data-service-select="true">
                     <i class="fab fa-whatsapp"></i> WhatsApp'tan Yazın
-                </a>
+                </button>
             </div>
         </div>
     </section>
@@ -266,7 +382,6 @@
                         <span class="logo-text">Ufak İşler</span>
                     </a>
                     <p>Ufak onarım işleriniz için pratik çözümler</p>
-                    <p class="location-info"><i class="fas fa-map-marker-alt"></i> Marmaris ve çevresinde hizmet vermekteyiz</p>
                 </div>
                 <div class="footer-links">
                     <h3>Hızlı Bağlantılar</h3>
@@ -278,6 +393,7 @@
                         <li><a href="hizmet-bolgeleri.html">Hizmet Bölgelerimiz</a></li>
                         <li><a href="hakkimizda.html">Hakkımızda</a></li>
                         <li><a href="iletisim.html">İletişim</a></li>
+                        <li><a href="bizimle-calisin.html">Bizimle Çalışın</a></li>
                     </ul>
                 </div>
                 <div class="footer-contact">
@@ -297,13 +413,120 @@
         </div>
     </footer>
 
-    <!-- Floating WhatsApp Button -->
-    <div class="floating-whatsapp">
-        <a href="https://wa.me/+905XXXXXXXXX" class="floating-whatsapp-btn">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-    </div>
+    <!-- Floating Bizimle Çalışın Butonu -->
+    <a href="bizimle-calisin.html" class="floating-btn">
+        <i class="fas fa-handshake"></i> Bizimle Çalışın
+    </a>
 
+    <!-- WhatsApp Konum Seçim Penceresi -->
+    <div id="locationModal" class="location-modal">
+        <div class="location-modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>Size Nasıl Yardımcı Olabiliriz?</h2>
+            <p>Bulunduğunuz bölgedeki partnerimizle hemen iletişime geçmek için lütfen konumunuzu seçin:</p>
+            <form id="locationForm" class="location-form">
+                <div class="form-group">
+                    <label for="location">Konum:</label>
+                    <select id="location" name="location" required>
+                        <option value="">Konum seçiniz</option>
+                        <option value="Marmaris">Marmaris</option>
+                        <option value="Fethiye">Fethiye</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary whatsapp-btn">
+                        <i class="fab fa-whatsapp"></i> WhatsApp ile İletişime Geç
+                    </button>
+                </div>
+                <div class="location-info">
+                    <p><strong>Not:</strong> Seçtiğiniz konuma göre hizmet partnerimiz sizinle ilgilenecektir.</p>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <!-- JavaScript -->
+    <script src="js/personel-data.js"></script>
+    <script src="js/location-selector.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        // Konum Modalı için JavaScript
+        document.addEventListener('DOMContentLoaded', function() {
+            const modal = document.getElementById('locationModal');
+            const openModalBtn = document.getElementById('openLocationModal');
+            const openModalFloatBtn = document.getElementById('openLocationModalFloat');
+            const closeModalBtn = document.querySelector('.close-modal');
+            const locationSelect = document.getElementById('location');
+            const locationForm = document.getElementById('locationForm');
+            
+            // Konum seçeneklerini personel verisinden doldur
+            function populateLocationOptions() {
+                const locations = getAllLocations();
+                locationSelect.innerHTML = '<option value="">Konum seçiniz</option>';
+                
+                locations.forEach(location => {
+                    const option = document.createElement('option');
+                    option.value = location;
+                    option.textContent = location;
+                    locationSelect.appendChild(option);
+                });
+            }
+            
+            // Sayfa yüklenirken konum seçeneklerini doldur
+            populateLocationOptions();
+            
+            // Modalı aç
+            openModalBtn.addEventListener('click', function() {
+                modal.style.display = 'flex';
+            });
+            
+            if (openModalFloatBtn) {
+                openModalFloatBtn.addEventListener('click', function() {
+                    modal.style.display = 'flex';
+                });
+            }
+            
+            // Modalı kapat
+            closeModalBtn.addEventListener('click', function() {
+                modal.style.display = 'none';
+            });
+            
+            // Dışa tıklandığında kapat
+            window.addEventListener('click', function(event) {
+                if (event.target == modal) {
+                    modal.style.display = 'none';
+                }
+            });
+            
+            // Form gönderildiğinde seçilen konuma göre personele WhatsApp mesajı gönder
+            locationForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const selectedLocation = locationSelect.value;
+                
+                if (selectedLocation) {
+                    // Seçilen konuma göre personeli bul
+                    const personel = getPersonelByLocation(selectedLocation);
+                    
+                    if (personel) {
+                        // WhatsApp mesajı oluştur
+                        const message = `Merhaba ${personel.ad} ${personel.soyad}, ${selectedLocation} bölgesinden yardım talep ediyorum.`;
+                        const encodedMessage = encodeURIComponent(message);
+                        
+                        // WhatsApp linkini aç
+                        window.open(`https://wa.me/+90${personel.telefon}?text=${encodedMessage}`, '_blank');
+                        
+                        // Modalı kapat
+                        modal.style.display = 'none';
+                    } else {
+                        alert('Seçilen konum için personel bulunamadı!');
+                    }
+                } else {
+                    alert('Lütfen bir konum seçin!');
+                }
+            });
+        });
+    </script>
+
 </body>
 </html>

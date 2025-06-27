@@ -271,6 +271,10 @@ header .container {
 nav ul {
     display: flex;
     list-style: none;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    overflow-x: auto;
+    padding-bottom: 5px;
 }
 
 nav ul li {
@@ -1491,6 +1495,354 @@ footer {
     transition: transform 0.3s ease;
 }
 
+/* Ä°ÅŸ OrtaklarÄ± SayfasÄ± Stilleri */
+.partner-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+}
+
+.benefits-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.benefit-card {
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 35px;
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    text-align: center;
+}
+
+.benefit-card:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(234, 88, 12, 0.1) 0%, transparent 100%);
+    z-index: -1;
+    border-radius: 16px;
+}
+
+.benefit-card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--glow);
+    border-color: rgba(234, 88, 12, 0.3);
+}
+
+.benefit-icon {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+}
+
+.benefit-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.partner-requirements {
+    background-color: var(--light-bg);
+    padding: 80px 0;
+}
+
+.requirements-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.requirements-list li {
+    margin-bottom: 15px;
+    padding-left: 30px;
+    position: relative;
+    font-size: 1.1rem;
+}
+
+.requirements-list li i {
+    position: absolute;
+    left: 0;
+    top: 5px;
+    color: var(--secondary-color);
+}
+
+.requirements-note {
+    background-color: rgba(234, 88, 12, 0.1);
+    padding: 15px 20px;
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.requirements-image img {
+    width: 100%;
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+}
+
+.partner-application {
+    padding: 80px 0;
+}
+
+.application-form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+.partner-form .form-group {
+    margin-bottom: 25px;
+}
+
+.partner-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--white);
+}
+
+.partner-form .required {
+    color: var(--secondary-color);
+}
+
+.partner-form input[type="text"],
+.partner-form input[type="email"],
+.partner-form input[type="tel"],
+.partner-form select,
+.partner-form textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: rgba(15, 23, 42, 0.6);
+    color: var(--white);
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.partner-form input:focus,
+.partner-form select:focus,
+.partner-form textarea:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 2px rgba(234, 88, 12, 0.2);
+}
+
+.checkbox-group {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-item input[type="checkbox"] {
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    accent-color: var(--secondary-color);
+}
+
+.terms-group .checkbox-item {
+    margin-top: 10px;
+}
+
+.form-submit {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.partner-faq {
+    background-color: var(--light-bg);
+    padding: 80px 0;
+}
+
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+}
+
+.faq-question {
+    padding: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-question h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.faq-toggle {
+    background-color: rgba(234, 88, 12, 0.2);
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--secondary-color);
+    transition: all 0.3s ease;
+}
+
+.faq-answer {
+    padding: 0 20px 20px;
+    display: none;
+}
+
+.faq-answer p {
+    margin: 0;
+    color: var(--light-text);
+}
+
+/* Mobil Uyumluluk */
+@media (max-width: 768px) {
+    .requirements-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .requirements-image {
+        order: -1;
+    }
+    
+    .checkbox-group {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Konum SeÃ§me ModalÄ± */
+.location-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.location-modal-content {
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 30px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    position: relative;
+}
+
+.close-modal {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    color: var(--light-text);
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-modal:hover {
+    color: var(--secondary-color);
+}
+
+.location-modal-content h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--white);
+    font-size: 1.8rem;
+}
+
+.location-modal-content p {
+    margin-bottom: 25px;
+    color: var(--light-text);
+}
+
+.location-form .form-group {
+    margin-bottom: 20px;
+}
+
+.location-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--white);
+}
+
+.location-form select {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: rgba(15, 23, 42, 0.6);
+    color: var(--white);
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.location-form select:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 2px rgba(234, 88, 12, 0.2);
+}
+
+.location-form .form-submit {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.location-form button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+    .location-modal-content {
+        padding: 20px;
+        width: 95%;
+    }
+}
+
 .mobile-menu.active {
     transform: translateY(0);
 }
@@ -1517,4 +1869,177 @@ footer {
     font-size: 2rem;
     color: var(--white);
     cursor: pointer;
+}
+
+/* WhatsApp Lokasyon Modal Stilleri */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    animation: fadeIn 0.3s ease;
+}
+
+.modal-content {
+    background-color: var(--white);
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    animation: slideIn 0.4s ease;
+}
+
+.close-modal {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-modal:hover {
+    color: var(--primary-color);
+}
+
+.modal h2 {
+    margin-top: 0;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+.modal p {
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+.modal .form-group {
+    margin-bottom: 20px;
+}
+
+.modal label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.modal select {
+    width: 100%;
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    color: var(--text-color);
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.modal select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px rgba(37, 211, 102, 0.2);
+    outline: none;
+}
+
+.modal .btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* Katýlým Ücreti Bölümü Stilleri */
+.partner-fee {
+    background-color: var(--light-bg);
+    padding: 80px 0;
+}
+
+.fee-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.fee-card {
+    background-color: var(--white);
+    border-radius: 15px;
+    box-shadow: var(--shadow);
+    padding: 30px;
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    align-items: flex-start;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.fee-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.fee-icon {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-right: 20px;
+    padding-top: 5px;
+}
+
+.fee-details {
+    flex: 1;
+}
+
+.fee-details h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    font-size: 1.4rem;
+}
+
+.fee-amount {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+}
+
+.fee-note {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: rgba(var(--secondary-color-rgb), 0.1);
+    border-radius: 8px;
+}
+
+.fee-note p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+    .fee-content {
+        flex-direction: column;
+    }
+    
+    .fee-card {
+        width: 100%;
+    }
 }

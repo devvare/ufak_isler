@@ -1,0 +1,11 @@
+/* Ana sayfaya özel dropdown menü düzeltmeleri */
+.home-page .dropdown-content {
+    left: 0 !important; /* Ana sayfada dropdown menüsünün sol hizalamasını sağlar */
+    right: auto !important;
+    transform: none !important;
+}
+
+/* Ana sayfada dropdown menüsünün konumunu düzeltme */
+.home-page .dropdown {
+    position: relative !important;
+}

@@ -1,0 +1,800 @@
+[
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "BAŞYAYLA",
+    "MAHALLE": "GÖZTEPE",
+    "id": 17077
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "BAŞYAYLA",
+    "MAHALLE": "BAŞKÖY",
+    "id": 17078
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "BAŞYAYLA",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 17079
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "BAŞYAYLA",
+    "MAHALLE": "ŞİRİNDERE",
+    "id": 17080
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "BAŞYAYLA",
+    "MAHALLE": "KİRAZLIYAYLA",
+    "id": 17081
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "ADİLLER",
+    "id": 17082
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, ÇUKURBAĞ",
+    "id": 17083
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "ORTAKÖY",
+    "id": 17084
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "BAŞ",
+    "id": 17085
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, YEŞİLYURT",
+    "id": 17086
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 17087
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "MERKEZ",
+    "id": 17088
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "TURCALAR",
+    "id": 17089
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "ULUCAMİ",
+    "id": 17090
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, GÜLPAZAR",
+    "id": 17091
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "ÇAKILLAR",
+    "id": 17092
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, GÖKSU",
+    "id": 17093
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, CUMHURİYET",
+    "id": 17094
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, YILDIZ",
+    "id": 17095
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "KÜÇÜK KARAPINAR",
+    "id": 17096
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "MENÇEK",
+    "id": 17097
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, ESENTEPE",
+    "id": 17098
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "KARAKAYA",
+    "id": 17099
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "SARIVELİLER",
+    "MAHALLE": "GÖKTEPE, GÜNDER",
+    "id": 17100
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "AYRANCI",
+    "MAHALLE": "DEDE",
+    "id": 17101
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "AYRANCI",
+    "MAHALLE": "MUSA",
+    "id": 17102
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "AYRANCI",
+    "MAHALLE": "YENİ",
+    "id": 17103
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "AYRANCI",
+    "MAHALLE": "ULU",
+    "id": 17104
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, HABİB",
+    "id": 17105
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, ULUKÖY",
+    "id": 17106
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, ÇATALBADEM",
+    "id": 17107
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "ÇINARLISU",
+    "id": 17108
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, KIŞLACIK",
+    "id": 17109
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, ORTA",
+    "id": 17110
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, BUCAK",
+    "id": 17111
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜLLÜK",
+    "id": 17112
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, CAMİ",
+    "id": 17113
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, TÜRBESEKİ",
+    "id": 17114
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, YUKARI",
+    "id": 17115
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "SUSAKLI",
+    "id": 17116
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KEŞİLLİK",
+    "id": 17117
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "SANDIKLI",
+    "id": 17118
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, GÖKÇELER",
+    "id": 17119
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "MEYDAN",
+    "id": 17120
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, YENİMAHALLE",
+    "id": 17121
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KARALAR",
+    "id": 17122
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "AKCAMESCİT",
+    "id": 17123
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, ODA",
+    "id": 17124
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, ARALIK",
+    "id": 17125
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KEÇİPAZAR",
+    "id": 17126
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜLPAZAR",
+    "id": 17127
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, TEPECİK",
+    "id": 17128
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "GÜNEYYURT, PINARGÖZÜ",
+    "id": 17129
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KEBENDİBİ",
+    "id": 17130
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "KAZANCI, MERKEZ",
+    "id": 17131
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "ORTA",
+    "id": 17132
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "SEYRAN",
+    "id": 17133
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "BAŞPINAR",
+    "id": 17134
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "DEĞİRMENLİK",
+    "id": 17135
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "ERMENEK",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 17136
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "SELÇUKLU",
+    "id": 17137
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "EMSALHAYAT",
+    "id": 17138
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "PAZAR",
+    "id": 17139
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "BOYACI",
+    "id": 17140
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "EMİNETTİN",
+    "id": 17141
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "OBA",
+    "id": 17142
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "TİMSAL",
+    "id": 17143
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "KAZIMKARABEKİR",
+    "MAHALLE": "SUBAŞI",
+    "id": 17144
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYAZKENT",
+    "id": 17145
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İMARET",
+    "id": 17146
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇELTEK",
+    "id": 17147
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SÜMER",
+    "id": 17148
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUDURAĞI, CUMHURİYET",
+    "id": 17149
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİRİŞÇİ",
+    "id": 17150
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLHAN",
+    "id": 17151
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAŞEHİR, FATİH",
+    "id": 17152
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAŞEHİR, GAZİ",
+    "id": 17153
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 17154
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAŞAKŞEHİR",
+    "id": 17155
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FENARİ",
+    "id": 17156
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GEVHER HATUN",
+    "id": 17157
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 17158
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALİŞAHANE",
+    "id": 17159
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HİSAR",
+    "id": 17160
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAZIM KARABEKİR PAŞA",
+    "id": 17161
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MANSURDEDE",
+    "id": 17162
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "LARENDE",
+    "id": 17163
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 17164
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NEFİSE SULTAN",
+    "id": 17165
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYH ŞAMİL",
+    "id": 17166
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 17167
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 17168
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZEMBİLLİ ALİ EFENDİ",
+    "id": 17169
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUNUSKENT",
+    "id": 17170
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACICELAL",
+    "id": 17171
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAKABAŞI",
+    "id": 17172
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYH EDEBALİ",
+    "id": 17173
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOPUCAK",
+    "id": 17174
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 17175
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SİYAHSER",
+    "id": 17176
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TABDUK EMRE",
+    "id": 17177
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAHSİN ÜNAL",
+    "id": 17178
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "URGAN",
+    "id": 17179
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VALİDE SULTAN",
+    "id": 17180
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 17181
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İBRAHİM HAKKI KONYALI",
+    "id": 17182
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SEKİÇEŞME",
+    "id": 17183
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUDURAĞI, BAHÇELİEVLER",
+    "id": 17184
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAŞEHİR, ATATÜRK",
+    "id": 17185
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ELMAŞEHİR",
+    "id": 17186
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRBAĞI",
+    "id": 17187
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 17188
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 17189
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PİRİREİS",
+    "id": 17190
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABBAS",
+    "id": 17191
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAŞEHİR, HÜRRİYET",
+    "id": 17192
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAMANOĞLU MEHMET BEY",
+    "id": 17193
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 17194
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİYA GÖKALP",
+    "id": 17195
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17196
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KOÇAKDEDE",
+    "id": 17197
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MÜMİNE HATUN",
+    "id": 17198
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RAUF DENKTAŞ",
+    "id": 17199
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUDURAĞI, KETENCİ",
+    "id": 17200
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 17201
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AHİOSMAN",
+    "id": 17202
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 17203
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALACASULUK",
+    "id": 17204
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİDÜKKAN",
+    "id": 17205
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 17206
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 17207
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEDİT",
+    "id": 17208
+  },
+  {
+    "İL": "KARAMAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLADA",
+    "id": 17209
+  }
+]

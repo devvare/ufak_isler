@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select, input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        select {
+            cursor: pointer;
+            background-color: white;
+        }
+        .test-info {
+            background: #e8f4fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-info">
+        <h2>Form Test Sayfası</h2>
+        <p>Bu sayfa form elementlerinin çalışıp çalışmadığını test etmek için oluşturuldu.</p>
+    </div>
+
+    <form>
+        <div class="form-group">
+            <label for="testService">Hizmet Türü Test:</label>
+            <select id="testService" name="testService">
+                <option value="">Seçiniz</option>
+                <option value="onarim">Onarım ve Tadilat</option>
+                <option value="gunluk">Günlük Yardım</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="testCity">İl Test:</label>
+            <select id="testCity" name="testCity">
+                <option value="">Seçiniz</option>
+                <option value="Muğla">Muğla</option>
+                <option value="İstanbul">İstanbul</option>
+                <option value="Ankara">Ankara</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="testDistrict">İlçe Test:</label>
+            <select id="testDistrict" name="testDistrict">
+                <option value="">Önce il seçiniz</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="testName">Ad Soyad Test:</label>
+            <input type="text" id="testName" name="testName" placeholder="Adınızı yazın">
+        </div>
+    </form>
+
+    <script>
+        console.log('Test sayfası yüklendi');
+        
+        // Hizmet türü test
+        document.getElementById('testService').addEventListener('change', function() {
+            console.log('Hizmet türü seçildi:', this.value);
+        });
+
+        // İl seçimi test
+        document.getElementById('testCity').addEventListener('change', function() {
+            console.log('İl seçildi:', this.value);
+            const districtSelect = document.getElementById('testDistrict');
+            districtSelect.innerHTML = '<option value="">Seçiniz</option>';
+            
+            if (this.value === 'Muğla') {
+                const districts = ['Bodrum', 'Marmaris', 'Fethiye', 'Datça'];
+                districts.forEach(district => {
+                    const option = document.createElement('option');
+                    option.value = district;
+                    option.textContent = district;
+                    districtSelect.appendChild(option);
+                });
+            }
+        });
+
+        // İlçe seçimi test
+        document.getElementById('testDistrict').addEventListener('change', function() {
+            console.log('İlçe seçildi:', this.value);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,3416 @@
+[
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "DATÇA",
+    "id": 23719
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "İSKELE",
+    "id": 23720
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "SINDI",
+    "id": 23721
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "EMECİK",
+    "id": 23722
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "MESUDİYE",
+    "id": 23723
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "KIZLAN",
+    "id": 23724
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "REŞADİYE",
+    "id": 23725
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "CUMALI",
+    "id": 23726
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "HIZIRŞAH",
+    "id": 23727
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "YAKA",
+    "id": 23728
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "YAZI",
+    "id": 23729
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DATÇA",
+    "MAHALLE": "KARAKÖY",
+    "id": 23730
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "AKÇAOVA",
+    "id": 23731
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÇAKMAK",
+    "id": 23732
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÇIRPI",
+    "id": 23733
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DAĞPINAR",
+    "id": 23734
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ZEYTİN",
+    "id": 23735
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "AVCILAR",
+    "id": 23736
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DERİNKUYU",
+    "id": 23737
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KÖTEKLİ",
+    "id": 23738
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "PAŞAPINARI",
+    "id": 23739
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "SUNGUR",
+    "id": 23740
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YEMİŞENDERE",
+    "id": 23741
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 23742
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KUYUCAK",
+    "id": 23743
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "SARNIÇ",
+    "id": 23744
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YENİCE",
+    "id": 23745
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YENİKÖY",
+    "id": 23746
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "AKYER",
+    "id": 23747
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "MURATLAR",
+    "id": 23748
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "MUSLİHİTTİN",
+    "id": 23749
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DAĞDİBİ",
+    "id": 23750
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DOKUZÇAM",
+    "id": 23751
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "FADIL",
+    "id": 23752
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "GAZELLER",
+    "id": 23753
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "MÜŞTAKBEY",
+    "id": 23754
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ŞENYAYLA",
+    "id": 23755
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "BAYIR",
+    "id": 23756
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÇAMOLUK",
+    "id": 23757
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 23758
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ESENÇAY",
+    "id": 23759
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "GÜNLÜCE",
+    "id": 23760
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 23761
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "TAŞLI",
+    "id": 23762
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "AKKAYA",
+    "id": 23763
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KİRAMETTİN",
+    "id": 23764
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 23765
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "GÜLAĞZI",
+    "id": 23766
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KAFACA",
+    "id": 23767
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ORTA",
+    "id": 23768
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YARAŞ",
+    "id": 23769
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ALGI",
+    "id": 23770
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "BOZYER",
+    "id": 23771
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÇAYBÜKÜ",
+    "id": 23772
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DOĞAN",
+    "id": 23773
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KIRAN",
+    "id": 23774
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "MEKE",
+    "id": 23775
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ORHANİYE",
+    "id": 23776
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YENİBAĞYAKA",
+    "id": 23777
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "BAĞYAKA",
+    "id": 23778
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 23779
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "GÖKTEPE",
+    "id": 23780
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KUZLUK",
+    "id": 23781
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YENİKÖY (YERKESİK)",
+    "id": 23782
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "BALIBEY",
+    "id": 23783
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DENİZOVA",
+    "id": 23784
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KARACAÖREN",
+    "id": 23785
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "SALİHPAŞALAR",
+    "id": 23786
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ŞEYH",
+    "id": 23787
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "EMİRBEYAZIT",
+    "id": 23788
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "HACIRÜSTEM",
+    "id": 23789
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "İKİZCE",
+    "id": 23790
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "KARAMEHMET",
+    "id": 23791
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 23792
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YÖRÜKOĞLU",
+    "id": 23793
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "DÜĞEREK",
+    "id": 23794
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 23795
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MENTEŞE",
+    "MAHALLE": "YERKESİK",
+    "id": 23796
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KAYACIK",
+    "id": 23797
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BEKÇİLER",
+    "id": 23798
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇOBANİSA",
+    "id": 23799
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KUMLUOVA",
+    "id": 23800
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ATLIDERE",
+    "id": 23801
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 23802
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ALAÇAT",
+    "id": 23803
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇUKURİNCİR",
+    "id": 23804
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KAYADİBİ",
+    "id": 23805
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "TEMEL",
+    "id": 23806
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAYLA GÖKBEN",
+    "id": 23807
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ARİFLER",
+    "id": 23808
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23809
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DEMİRLER",
+    "id": 23810
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "HACIOSMANLAR",
+    "id": 23811
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KADIKÖY",
+    "id": 23812
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KORUBÜKÜ",
+    "id": 23813
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "SARIYER",
+    "id": 23814
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "UĞURLU",
+    "id": 23815
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DODURGA",
+    "id": 23816
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DONT",
+    "id": 23817
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DÖĞER",
+    "id": 23818
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "MİNARE",
+    "id": 23819
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "PAŞALI",
+    "id": 23820
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "SEYDİLER",
+    "id": 23821
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAYLAPATLANGIÇ",
+    "id": 23822
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BOĞALAR",
+    "id": 23823
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇALTIÖZÜ",
+    "id": 23824
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇAMURKÖY",
+    "id": 23825
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇAYKENARI",
+    "id": 23826
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DEREKÖY",
+    "id": 23827
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "SEKİ",
+    "id": 23828
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAKAKÖY",
+    "id": 23829
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAYLA ELDİREK",
+    "id": 23830
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BELEN",
+    "id": 23831
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "CEYLAN",
+    "id": 23832
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇÖKEK",
+    "id": 23833
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "GÖLBENT",
+    "id": 23834
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KINIK",
+    "id": 23835
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 23836
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "BAĞLIAĞAÇ",
+    "id": 23837
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 23838
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "GERİŞBURNU",
+    "id": 23839
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ARSAKÖY",
+    "id": 23840
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KINCILAR",
+    "id": 23841
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "GİRMELER",
+    "id": 23842
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KARAKÖY",
+    "id": 23843
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "MENEKŞE",
+    "id": 23844
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "SAHİLCEYLAN",
+    "id": 23845
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÖREN",
+    "id": 23846
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇALTILAR",
+    "id": 23847
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇAYAN",
+    "id": 23848
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KARADERE",
+    "id": 23849
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KAYABAŞI",
+    "id": 23850
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ORTAKÖY",
+    "id": 23851
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "SÖĞÜTLÜDERE",
+    "id": 23852
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAKABAĞ",
+    "id": 23853
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇATAK",
+    "id": 23854
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "DOĞANLAR",
+    "id": 23855
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ZORLAR",
+    "id": 23856
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "YAYLA KARAÇULHA",
+    "id": 23857
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "ÇOBANLAR",
+    "id": 23858
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "EŞEN",
+    "id": 23859
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "İZZETTİNKÖY",
+    "id": 23860
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "SEYDİKEMER",
+    "MAHALLE": "KABAAĞAÇ",
+    "id": 23861
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 23862
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "BİTEZ",
+    "id": 23863
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "DAĞBELEN",
+    "id": 23864
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÜRECE",
+    "id": 23865
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "PINARLIBELEN",
+    "id": 23866
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TEPECİK (KARAOVA)",
+    "id": 23867
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TÜRKKUYUSU",
+    "id": 23868
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YALIKAVAK",
+    "id": 23869
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "AKYARLAR",
+    "id": 23870
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "DİRMİL",
+    "id": 23871
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "FARİLYA",
+    "id": 23872
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÖKPINAR",
+    "id": 23873
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 23874
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ESKİÇEŞME",
+    "id": 23875
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 23876
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 23877
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YENİKÖY (KARAOVA)",
+    "id": 23878
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KARAOVA",
+    "id": 23879
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÖLKÖY",
+    "id": 23880
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÜMBET",
+    "id": 23881
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KEMER",
+    "id": 23882
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TORBA",
+    "id": 23883
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇAMLIK",
+    "id": 23884
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GERİŞ",
+    "id": 23885
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "MAZIKÖY",
+    "id": 23886
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KUMKÖY",
+    "id": 23887
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KÜÇÜKBÜK",
+    "id": 23888
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TÜRKBÜKÜ",
+    "id": 23889
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "AKÇAALAN",
+    "id": 23890
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23891
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇAMARASI",
+    "id": 23892
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 23893
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "BAHÇEYAKA",
+    "id": 23894
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇARŞI",
+    "id": 23895
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 23896
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KARABAĞ",
+    "id": 23897
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KOYUNBABA",
+    "id": 23898
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "MUMCULAR",
+    "id": 23899
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "MÜSKEBİ",
+    "id": 23900
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YOKUŞBAŞI",
+    "id": 23901
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 23902
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "DEREKÖY",
+    "id": 23903
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "GÜMÜŞLÜK",
+    "id": 23904
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KONACIK",
+    "id": 23905
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "PEKSİMET",
+    "id": 23906
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TEPECİK",
+    "id": 23907
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YAKAKÖY",
+    "id": 23908
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "CEVAT ŞAKİR",
+    "id": 23909
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "İSLAMHANELERİ",
+    "id": 23910
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "SAZKÖY",
+    "id": 23911
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "ÇIRKAN",
+    "id": 23912
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "TURGUTREİS",
+    "id": 23913
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "UMURCA",
+    "id": 23914
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YAHŞİ",
+    "id": 23915
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "YENİKÖY",
+    "id": 23916
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "BODRUM",
+    "MAHALLE": "KUMBAHÇE",
+    "id": 23917
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AKÇAKAYA",
+    "id": 23918
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜRCEĞİZ",
+    "id": 23919
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAYABÜKÜ",
+    "id": 23920
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BEYCİLER",
+    "id": 23921
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇALLI",
+    "id": 23922
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 23923
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EKİZTAŞ",
+    "id": 23924
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜNEŞ",
+    "id": 23925
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HİSARBAŞI-HOCA BEDRETTİN",
+    "id": 23926
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "İÇME",
+    "id": 23927
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AKKOVANLIK",
+    "id": 23928
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AVŞAR",
+    "id": 23929
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BOZBÜK",
+    "id": 23930
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇUKUR",
+    "id": 23931
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EPÇE",
+    "id": 23932
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ETRENLİ",
+    "id": 23933
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜRÇAMLAR",
+    "id": 23934
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 23935
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARAKUYU",
+    "id": 23936
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAYABAŞI",
+    "id": 23937
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ALATEPE",
+    "id": 23938
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAFA",
+    "id": 23939
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EKİNDERE",
+    "id": 23940
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HACI İLYAS",
+    "id": 23941
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 23942
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜLLÜK",
+    "id": 23943
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HASANLAR",
+    "id": 23944
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KETENDERE",
+    "id": 23945
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "NARHİSAR",
+    "id": 23946
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÖREN",
+    "id": 23947
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ULAŞ",
+    "id": 23948
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AKÇALI",
+    "id": 23949
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 23950
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAMLIYURT",
+    "id": 23951
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇOMAKDAĞKIZILAĞAÇ",
+    "id": 23952
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "FESLEĞEN",
+    "id": 23953
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "OVAKIŞLACIK",
+    "id": 23954
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAĞDAMLARI",
+    "id": 23955
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BALCILAR",
+    "id": 23956
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇANDIR",
+    "id": 23957
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇINARLI",
+    "id": 23958
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DANİŞMENT",
+    "id": 23959
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DERİNCE",
+    "id": 23960
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EKİZKÖY",
+    "id": 23961
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KONAK",
+    "id": 23962
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KURUDERE",
+    "id": 23963
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SÖĞÜTÇÜK",
+    "id": 23964
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "YAKA",
+    "id": 23965
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DÖRTTEPE",
+    "id": 23966
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÖLYAKA",
+    "id": 23967
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KALINAĞIL",
+    "id": 23968
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAPIKIRI",
+    "id": 23969
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARAHAYIT",
+    "id": 23970
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KILAVUZ",
+    "id": 23971
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 23972
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "MEŞELİK",
+    "id": 23973
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "TÜRKEVLERİ",
+    "id": 23974
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "YUSUFCA",
+    "id": 23975
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KISIRLAR",
+    "id": 23976
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KIYIKIŞLACIK",
+    "id": 23977
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KULTAK",
+    "id": 23978
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ORTAKÖY",
+    "id": 23979
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAZIKLI",
+    "id": 23980
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SARIKAYA",
+    "id": 23981
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SELİMİYE",
+    "id": 23982
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAYADERE",
+    "id": 23983
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KÖŞK",
+    "id": 23984
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SAVRAN",
+    "id": 23985
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ŞENKÖY",
+    "id": 23986
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAHÇE",
+    "id": 23987
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23988
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAMLICA",
+    "id": 23989
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 23990
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EMEK",
+    "id": 23991
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KALEM",
+    "id": 23992
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARAPINAR",
+    "id": 23993
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KORU",
+    "id": 23994
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "PINARCIK",
+    "id": 23995
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "TUZABAT",
+    "id": 23996
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAMOVALI",
+    "id": 23997
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EKİNANBARI",
+    "id": 23998
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HACIAHMETLER",
+    "id": 23999
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KUZYAKA",
+    "id": 24000
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "PINARARASI",
+    "id": 24001
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AĞAÇLIHÜYÜK",
+    "id": 24002
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AHMETÇAVUŞ-HAYITLI",
+    "id": 24003
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AKYOL",
+    "id": 24004
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ALAÇAM",
+    "id": 24005
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DİBEKDERE",
+    "id": 24006
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KAFACA",
+    "id": 24007
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARACAHİSAR",
+    "id": 24008
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "YAŞYER",
+    "id": 24009
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ASLANYAKA",
+    "id": 24010
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAHARLI",
+    "id": 24011
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAMLIBELEN",
+    "id": 24012
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DERE",
+    "id": 24013
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "FİRUZPAŞA-GAZİPAŞA",
+    "id": 24014
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARACAAĞAÇ",
+    "id": 24015
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KIRCAĞIZ",
+    "id": 24016
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BOZALAN",
+    "id": 24017
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇAKIRALAN",
+    "id": 24018
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜNLÜK",
+    "id": 24019
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HİSARCIK",
+    "id": 24020
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KARGICAK",
+    "id": 24021
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KIZILCAYIKIK",
+    "id": 24022
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "MENTEŞ",
+    "id": 24023
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 24024
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BEÇİN",
+    "id": 24025
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ÇÖKERTME",
+    "id": 24026
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "DAMLIBOĞAZ",
+    "id": 24027
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "EĞRİDERE",
+    "id": 24028
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÖKÇELER",
+    "id": 24029
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÜMÜŞLÜK",
+    "id": 24030
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HACIABTİ",
+    "id": 24031
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "HÜSAMLAR",
+    "id": 24032
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KORUCUK",
+    "id": 24033
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KÜÇÜKDİBEKDERE",
+    "id": 24034
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SAKARKAYA",
+    "id": 24035
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "SEK",
+    "id": 24036
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "YOĞUNOLUK",
+    "id": 24037
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 24038
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÖLDERE",
+    "id": 24039
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KANDAK",
+    "id": 24040
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KEMİKLER",
+    "id": 24041
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "OLUKBAŞI",
+    "id": 24042
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAHÇEBURUN",
+    "id": 24043
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BAYIR",
+    "id": 24044
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "BURGAZ",
+    "id": 24045
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "GÖKBEL",
+    "id": 24046
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "KIZILCAKUYU",
+    "id": 24047
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "PİNAR",
+    "id": 24048
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MİLAS",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 24049
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "ALTINTAS",
+    "id": 24050
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KAVACIK",
+    "id": 24051
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "SÖĞÜTLÜYURT",
+    "id": 24052
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "ELCİK",
+    "id": 24053
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24054
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "EGE",
+    "id": 24055
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "NARLI",
+    "id": 24056
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "ATAKENT",
+    "id": 24057
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "ŞEREFLER",
+    "id": 24058
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KAPUKARGIN",
+    "id": 24059
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "MERKEZ",
+    "id": 24060
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "GÜRKÖY",
+    "id": 24061
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "GÜRLEYK",
+    "id": 24062
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "AKÇATAŞ",
+    "id": 24063
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 24064
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "SABUNLU",
+    "id": 24065
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KARACAAĞAÇ",
+    "id": 24066
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KARAÇALI",
+    "id": 24067
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "ÇÖĞMEN",
+    "id": 24068
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "BEZKESE",
+    "id": 24069
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "BOZBEL",
+    "id": 24070
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KAYADİBİ",
+    "id": 24071
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "DARIYERİ",
+    "id": 24072
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KARGINKÜRÜ",
+    "id": 24073
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "DALAMAN",
+    "MAHALLE": "KIZILKAYA",
+    "id": 24074
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "KÖYCEĞİZ",
+    "id": 24075
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "EKİNCİK",
+    "id": 24076
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "TOPARLAR",
+    "id": 24077
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "ZEYTİNALANI",
+    "id": 24078
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "AKKÖPRÜ",
+    "id": 24079
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "BALCILAR",
+    "id": 24080
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "BEYOBASI",
+    "id": 24081
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "KARAÇAM",
+    "id": 24082
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "KAVAKARASI",
+    "id": 24083
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "OTMANLAR",
+    "id": 24084
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "GELİŞİM",
+    "id": 24085
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "ZAFERLER",
+    "id": 24086
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "DÖĞÜŞBELEN",
+    "id": 24087
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "GÜLPINAR",
+    "id": 24088
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "HAMİTKÖY",
+    "id": 24089
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "SULTANİYE",
+    "id": 24090
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "YAYLA",
+    "id": 24091
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "ÇAYHİSAR",
+    "id": 24092
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "SAZAK",
+    "id": 24093
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "ÇANDIR",
+    "id": 24094
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "PINAR",
+    "id": 24095
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 24096
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "ULUCAMİ",
+    "id": 24097
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "YENİ",
+    "id": 24098
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KÖYCEĞİZ",
+    "MAHALLE": "YANGI",
+    "id": 24099
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 24100
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "PORTAKALLIK",
+    "id": 24101
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 24102
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ELMALI",
+    "id": 24103
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "GÖKÇE",
+    "id": 24104
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KIRA",
+    "id": 24105
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "SARAYYANI",
+    "id": 24106
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ATAKÖY",
+    "id": 24107
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "YAYLASÖĞÜT",
+    "id": 24108
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "YEŞİLÇAM",
+    "id": 24109
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ÇITLIK",
+    "id": 24110
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ESENTEPE",
+    "id": 24111
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "GÖLCÜK",
+    "id": 24112
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 24113
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "GÖKOVA",
+    "id": 24114
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "AKYAKA",
+    "id": 24115
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 24116
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "AYAZKIYI",
+    "id": 24117
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 24118
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ÇÖRÜŞ",
+    "id": 24119
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 24120
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ALPARSLAN",
+    "id": 24121
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ARICILAR",
+    "id": 24122
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KARABÖRTLEN",
+    "id": 24123
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "TURGUT",
+    "id": 24124
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ARMUTCUK",
+    "id": 24125
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KAVAKÇALI",
+    "id": 24126
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ÖRNEKKÖY",
+    "id": 24127
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 24128
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ULA",
+    "MAHALLE": "KIZILYAKA",
+    "id": 24129
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "BEŞKÖPRÜ",
+    "id": 24130
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "DEREKÖY",
+    "id": 24131
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "FEVZİYE",
+    "id": 24132
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "ESKİKÖY",
+    "id": 24133
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "TEPEARASI",
+    "id": 24134
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "OKÇULAR",
+    "id": 24135
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "GÜZELYURT",
+    "id": 24136
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "KARABURUN",
+    "id": 24137
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "YERBELEN",
+    "id": 24138
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "EKŞİLİYURT",
+    "id": 24139
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "ATATÜRK",
+    "id": 24140
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "ARIKBAŞI",
+    "id": 24141
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24142
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "DİKMEKAVAK",
+    "id": 24143
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "AKINCI",
+    "id": 24144
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "DALYAN",
+    "id": 24145
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "KEMALİYE",
+    "id": 24146
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "SARIGERME",
+    "id": 24147
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "TERZİALİLER",
+    "id": 24148
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "MERGENLİ",
+    "id": 24149
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24150
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "ÇAYLI",
+    "id": 24151
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "DALAKLI",
+    "id": 24152
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "GÖKBEL",
+    "id": 24153
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 24154
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "KARADONLAR",
+    "id": 24155
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "ORTACA",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 24156
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ARMUTALAN",
+    "id": 24157
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ÇILDIR",
+    "id": 24158
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "SİTELER",
+    "id": 24159
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "TAŞLICA",
+    "id": 24160
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ÇETİBELİ",
+    "id": 24161
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "KARACA",
+    "id": 24162
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "TURUNÇ",
+    "id": 24163
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ORHANİYE",
+    "id": 24164
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "SARIANA",
+    "id": 24165
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "BELDİBİ",
+    "id": 24166
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "HİSARÖNÜ",
+    "id": 24167
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "HATİPİRİMİ",
+    "id": 24168
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "BOZBURUN",
+    "id": 24169
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ÇAMLI",
+    "id": 24170
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ADAKÖY",
+    "id": 24171
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "SÖĞÜT",
+    "id": 24172
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "BAYIR",
+    "id": 24173
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "ÇAMDİBİ",
+    "id": 24174
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "OSMANİYE",
+    "id": 24175
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "SELİMİYE",
+    "id": 24176
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "TEPE",
+    "id": 24177
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "İÇMELER",
+    "id": 24178
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "KEMERALTI",
+    "id": 24179
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "TURGUT",
+    "id": 24180
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "MARMARİS",
+    "MAHALLE": "YEŞİLBELDE",
+    "id": 24181
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "BAKIRCILAR",
+    "id": 24182
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "MENTEŞE",
+    "id": 24183
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ÇAVDIR",
+    "id": 24184
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 24185
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ÇAMLIYURT",
+    "id": 24186
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24187
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ÇAYBOYU",
+    "id": 24188
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "DEREBAĞ",
+    "id": 24189
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "YENİ",
+    "id": 24190
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 24191
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ÇATAK",
+    "id": 24192
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 24193
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "KURUCUOVA",
+    "id": 24194
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "NEBİLER",
+    "id": 24195
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "KAVAKLIDERE",
+    "MAHALLE": "SALKIM",
+    "id": 24196
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24197
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "BABATAŞI",
+    "id": 24198
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "FOÇA",
+    "id": 24199
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARAKEÇİLİLER",
+    "id": 24200
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "GÖKBEN",
+    "id": 24201
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARACAÖREN",
+    "id": 24202
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARAÇULHA",
+    "id": 24203
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "CAMİ",
+    "id": 24204
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 24205
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ESENKÖY",
+    "id": 24206
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "İNCİRKÖY",
+    "id": 24207
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "AKARCA",
+    "id": 24208
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ELDİREK",
+    "id": 24209
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "İNLİCE",
+    "id": 24210
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ÇENGER",
+    "id": 24211
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "GÖKÇEOVACIK",
+    "id": 24212
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KESİKKAPI",
+    "id": 24213
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "GÖCEK",
+    "id": 24214
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARAGEDİK",
+    "id": 24215
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARAGÖZLER",
+    "id": 24216
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ÇATALARIK",
+    "id": 24217
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "FARALYA",
+    "id": 24218
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARGI",
+    "id": 24219
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "YENİ",
+    "id": 24220
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "BOZYER",
+    "id": 24221
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 24222
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KORUKÖY",
+    "id": 24223
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "YAKACIK",
+    "id": 24224
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 24225
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KAYAKÖY",
+    "id": 24226
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "PAZARYERİ",
+    "id": 24227
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "KIZILBEL",
+    "id": 24228
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "ÖLÜDENİZ",
+    "id": 24229
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "TUZLA",
+    "id": 24230
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "YANIKLAR",
+    "id": 24231
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 24232
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "MENTEŞEOĞLU",
+    "id": 24233
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "PATLANGIÇ",
+    "id": 24234
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "NİF",
+    "id": 24235
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "TAŞYAKA",
+    "id": 24236
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "FETHİYE",
+    "MAHALLE": "YEŞİLÜZÜMLÜ",
+    "id": 24237
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KONAK",
+    "id": 24238
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 24239
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YUKARIYAYLA",
+    "id": 24240
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "BAHÇEYAKA",
+    "id": 24241
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "CAZKIRLAR",
+    "id": 24242
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "HİSARARDI",
+    "id": 24243
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KADIKÖY",
+    "id": 24244
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KAFACAKAPLANCIK",
+    "id": 24245
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 24246
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ŞAHİNLER",
+    "id": 24247
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KAVAK",
+    "id": 24248
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "GÖKGEDİK",
+    "id": 24249
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "TURGUTLAR",
+    "id": 24250
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "BOZARMUT",
+    "id": 24251
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24252
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ELMACIK",
+    "id": 24253
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "DERE",
+    "id": 24254
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ŞEREF",
+    "id": 24255
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ÇAMLICA",
+    "id": 24256
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "HACIBAYRAMLAR",
+    "id": 24257
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YENİKARAKUYU",
+    "id": 24258
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "AKYOL",
+    "id": 24259
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "NEBİKÖY",
+    "id": 24260
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YAYLA",
+    "id": 24261
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "DEŞTİN",
+    "id": 24262
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 24263
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YEŞİLBAĞCILAR",
+    "id": 24264
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ZEYTİNKÖY",
+    "id": 24265
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "HACIVELİLER",
+    "id": 24266
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KAPUBAĞ",
+    "id": 24267
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "MADENLER",
+    "id": 24268
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "AKGEDİK",
+    "id": 24269
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "BAĞYAKA",
+    "id": 24270
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ALAŞAR",
+    "id": 24271
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "BOZÜYÜK",
+    "id": 24272
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ESENKÖY",
+    "id": 24273
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "GÖKPINAR",
+    "id": 24274
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KIRIKKÖY",
+    "id": 24275
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "TURGUT",
+    "id": 24276
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 24277
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ATATÜRK",
+    "id": 24278
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ÇAKIRLAR",
+    "id": 24279
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "ÇUKURÖZ",
+    "id": 24280
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YAVA",
+    "id": 24281
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "BENCİK",
+    "id": 24282
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 24283
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KÖKLÜK",
+    "id": 24284
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "MESKEN",
+    "id": 24285
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "YENİ",
+    "id": 24286
+  },
+  {
+    "İL": "MUĞLA",
+    "İLÇE": "YATAĞAN",
+    "MAHALLE": "KATRANCI",
+    "id": 24287
+  }
+]

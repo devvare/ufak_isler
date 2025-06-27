@@ -1,0 +1,4046 @@
+[
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "MALGAÇEMİR",
+    "id": 4248
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "UZUNLAR",
+    "id": 4249
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "KILAVUZLAR",
+    "id": 4250
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "SALAVATLI",
+    "id": 4251
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "KAVAKLI",
+    "id": 4252
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 4253
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "YAĞDERE",
+    "id": 4254
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "DEMİRHAN",
+    "id": 4255
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "REKMEZ",
+    "id": 4256
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "BEŞEYLÜL",
+    "id": 4257
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "ATÇA",
+    "id": 4258
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "HİSAR",
+    "id": 4259
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "MALGAÇMUSTAFA",
+    "id": 4260
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "ZAFER",
+    "id": 4261
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "KABACA",
+    "id": 4262
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "İNCEALAN",
+    "id": 4263
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "GÜVENDİK",
+    "id": 4264
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SULTANHİSAR",
+    "MAHALLE": "KURTULUŞ",
+    "id": 4265
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "DAĞYENİ",
+    "id": 4266
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "KIZILCAGEDİK",
+    "id": 4267
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "NEŞETİYE",
+    "id": 4268
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "SELATİN",
+    "id": 4269
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ABDURRAHMANLAR",
+    "id": 4270
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "DAĞKARAAĞAÇ",
+    "id": 4271
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "DAMPINAR",
+    "id": 4272
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "MURSALLI",
+    "id": 4273
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "KARAAĞAÇLI",
+    "id": 4274
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "MESUDİYE",
+    "id": 4275
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 4276
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "REİSKÖY",
+    "id": 4277
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "YEDİEYLÜL",
+    "id": 4278
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "DEREKÖY",
+    "id": 4279
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ORTAKLAR",
+    "id": 4280
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "BOZKÖY",
+    "id": 4281
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ÖMERBEYLİ",
+    "id": 4282
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "UZUNKUM",
+    "id": 4283
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 4284
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ALANGÜLLÜ",
+    "id": 4285
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "GÜMÜŞYENİKÖY",
+    "id": 4286
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "MEŞELİ",
+    "id": 4287
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "MORALI",
+    "id": 4288
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "PARK",
+    "id": 4289
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "HIDIRBEYLİ",
+    "id": 4290
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "İSTASYON",
+    "id": 4291
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "GÜMÜŞKÖY",
+    "id": 4292
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "HABİBLER",
+    "id": 4293
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "NAİPLİ",
+    "id": 4294
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "TURANLAR",
+    "id": 4295
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 4296
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "YENİ",
+    "id": 4297
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "BALATÇIK",
+    "id": 4298
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "KIZILCAPINAR",
+    "id": 4299
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "TEKİN",
+    "id": 4300
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "GERMENCİK",
+    "MAHALLE": "ÇARIKLAR",
+    "id": 4301
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "GÜDÜŞLÜ",
+    "id": 4302
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "HALİLBEYLİ",
+    "id": 4303
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BOYDERE",
+    "id": 4304
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "CİNCİN",
+    "id": 4305
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ÇAKIRBEYLİ",
+    "id": 4306
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ATATÜRK",
+    "id": 4307
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ÇULHALAR",
+    "id": 4308
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "DEREKÖY",
+    "id": 4309
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KARADUT",
+    "id": 4310
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KULLAR",
+    "id": 4311
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "YAĞHANLI",
+    "id": 4312
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 4313
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KASAPLAR",
+    "id": 4314
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KIZILKAYA",
+    "id": 4315
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ORTA",
+    "id": 4316
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ŞENKÖY",
+    "id": 4317
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "YAĞCIDERE",
+    "id": 4318
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "SAPALAN",
+    "id": 4319
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "SOBUCA",
+    "id": 4320
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ŞAHİNCİLER",
+    "id": 4321
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ESENTEPE",
+    "id": 4322
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ÇEŞMEKÖY",
+    "id": 4323
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "AKMESCİT",
+    "id": 4324
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "DEDEKÖY",
+    "id": 4325
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "TİMİNCİLER",
+    "id": 4326
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BAĞCILAR",
+    "id": 4327
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BIYIKLI",
+    "id": 4328
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ÇALLI",
+    "id": 4329
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "EVSEKLER",
+    "id": 4330
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BAĞARCIK",
+    "id": 4331
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 4332
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KARACAÖREN",
+    "id": 4333
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "GÖZKAYA",
+    "id": 4334
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "HACIHAMZALAR",
+    "id": 4335
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "MERSİNBELEN",
+    "id": 4336
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "YENİKÖY",
+    "id": 4337
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "HAYDARLI",
+    "id": 4338
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ORHANİYE",
+    "id": 4339
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "SATILAR",
+    "id": 4340
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "TIĞILLAR",
+    "id": 4341
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ZEYTİNKÖY",
+    "id": 4342
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BİRCİ",
+    "id": 4343
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 4344
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 4345
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KIZILCABÖLÜK",
+    "id": 4346
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "KUŞLARBELEN",
+    "id": 4347
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "TEKELİ",
+    "id": 4348
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 4349
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "ÇAKMAR",
+    "id": 4350
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "GAFFARLAR",
+    "id": 4351
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "YENİ",
+    "id": 4352
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KOÇARLI",
+    "MAHALLE": "TAŞKÖY",
+    "id": 4353
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "İĞDECİK",
+    "id": 4354
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YAMALAK",
+    "id": 4355
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YAKUPPAŞA",
+    "id": 4356
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 4357
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "BEŞEYLÜL (MERKEZ)",
+    "id": 4358
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "BUCAKKÖY",
+    "id": 4359
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "ÇAMDİBİ",
+    "id": 4360
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "PAMUCAK",
+    "id": 4361
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YUKARIYAKACIK",
+    "id": 4362
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "AKSAZ",
+    "id": 4363
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "AYDINOĞLU",
+    "id": 4364
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "DEREKÖY",
+    "id": 4365
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "GENCELLİDERE",
+    "id": 4366
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "ÇOBANİSA",
+    "id": 4367
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "HORSUNLU",
+    "id": 4368
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "KARAPINAR",
+    "id": 4369
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "BEŞEYLÜL",
+    "id": 4370
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "PAMUKÖREN",
+    "id": 4371
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "TAŞOLUK",
+    "id": 4372
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YAYLALI",
+    "id": 4373
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YENİ",
+    "id": 4374
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "GENCELLİ",
+    "id": 4375
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "KAYRAN",
+    "id": 4376
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "YÖRE",
+    "id": 4377
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "FATİH",
+    "id": 4378
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "BAŞARAN",
+    "id": 4379
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "KURTULUŞ (HORSUNLU)",
+    "id": 4380
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "OVACIK",
+    "id": 4381
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "BELENOVA",
+    "id": 4382
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "KURTULUŞ",
+    "id": 4383
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "MUSTAFAPAŞA",
+    "id": 4384
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "ÖREN",
+    "id": 4385
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "SARICAOVA",
+    "id": 4386
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4387
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "MUSAKOLU",
+    "id": 4388
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUYUCAK",
+    "MAHALLE": "AZİZABAT",
+    "id": 4389
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ÖMERLER",
+    "id": 4390
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "CUMALAR",
+    "id": 4391
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "KOĞUK",
+    "id": 4392
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ŞENKÖY",
+    "id": 4393
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "AKÇAABAT",
+    "id": 4394
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "TEKELER",
+    "id": 4395
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "MUTLUCA",
+    "id": 4396
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ORTA",
+    "id": 4397
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "MERİÇLER",
+    "id": 4398
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "YENİ",
+    "id": 4399
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ULUKONAK",
+    "id": 4400
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "OVAPINARI",
+    "id": 4401
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "YAĞŞILAR",
+    "id": 4402
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "HATIPKIŞLA",
+    "id": 4403
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "IŞIKLAR",
+    "id": 4404
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ABAK",
+    "id": 4405
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "ÇOBANİSA",
+    "id": 4406
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "TÜTÜNLÜK",
+    "id": 4407
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "BAYRAKTEPE",
+    "id": 4408
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "EKTİRLİ",
+    "id": 4409
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "GÖLCÜK",
+    "id": 4410
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "GÜNEY",
+    "id": 4411
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARPUZLU",
+    "MAHALLE": "UMCULAR",
+    "id": 4412
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "ERİCEK",
+    "id": 4413
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "KAYABURNU",
+    "id": 4414
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "ZAFER",
+    "id": 4415
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 4416
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "GELENBE",
+    "id": 4417
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "İSTİKLAL",
+    "id": 4418
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "KIZILDERE",
+    "id": 4419
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "FESLEK",
+    "id": 4420
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "ORTAKÇI",
+    "id": 4421
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "KAMİLPAŞA",
+    "id": 4422
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "MENDERES",
+    "id": 4423
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "MURATDAĞI",
+    "id": 4424
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "ÜÇEYLÜL",
+    "id": 4425
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BUHARKENT",
+    "MAHALLE": "SAVCILLI",
+    "id": 4426
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "OSMANBÜKÜ",
+    "id": 4427
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "HACIALİOBASI",
+    "id": 4428
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ARPADERE",
+    "id": 4429
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "EĞREK",
+    "id": 4430
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ARZULAR",
+    "id": 4431
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ATATÜRK",
+    "id": 4432
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "KARAGÖZLER",
+    "id": 4433
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "PALAMUTKÖY",
+    "id": 4434
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ŞİRİNDERE",
+    "id": 4435
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "AKÇEŞME",
+    "id": 4436
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "GERENKOVA",
+    "id": 4437
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "İSTİKLAL",
+    "id": 4438
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ZAFER",
+    "id": 4439
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 4440
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "İKİZDERE",
+    "id": 4441
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "YAZIDERE",
+    "id": 4442
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "BEYKÖY",
+    "id": 4443
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4444
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "KÖPRÜOVA",
+    "id": 4445
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "İSAFAKILAR",
+    "id": 4446
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "SANDIKLI",
+    "id": 4447
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ACARLAR",
+    "id": 4448
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "KARABAĞ",
+    "id": 4449
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "SINIRTEKE",
+    "id": 4450
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "DEREAĞZI",
+    "id": 4451
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "ERBEYLİ",
+    "id": 4452
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "HAMİTLER",
+    "id": 4453
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "İNCİRLİOVA",
+    "MAHALLE": "KURTULUŞ",
+    "id": 4454
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 4455
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 4456
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KETENDERE",
+    "id": 4457
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "SEVİNDİKLİ",
+    "id": 4458
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "TURAN",
+    "id": 4459
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BEREKETLİ",
+    "id": 4460
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 4461
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ESENTEPE",
+    "id": 4462
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "İSABEYLİ",
+    "id": 4463
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "SAİLER",
+    "id": 4464
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YENİ SANAYİİ",
+    "id": 4465
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YILDIZTEPE",
+    "id": 4466
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 4467
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "AŞAĞIÖRENCİK",
+    "id": 4468
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BEKİRLER",
+    "id": 4469
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "APAKLAR",
+    "id": 4470
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KUŞÇULAR",
+    "id": 4471
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 4472
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ÇAPAHASAN",
+    "id": 4473
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DUALAR",
+    "id": 4474
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "HASKÖY",
+    "id": 4475
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KESTEL",
+    "id": 4476
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "GEDİK",
+    "id": 4477
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KOCAKESİK",
+    "id": 4478
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "PROF.MUAMMER AKSOY",
+    "id": 4479
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YAZIRLI",
+    "id": 4480
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ARSLANLI",
+    "id": 4481
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DURASILLI",
+    "id": 4482
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "HİSARCIK",
+    "id": 4483
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KAVACIK",
+    "id": 4484
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KIZILDERE",
+    "id": 4485
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 4486
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ŞİMŞELLİ",
+    "id": 4487
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BAĞCILLI",
+    "id": 4488
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "PİRLİBEY",
+    "id": 4489
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "UZUNÇAM",
+    "id": 4490
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YENİ",
+    "id": 4491
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "AŞAĞIYAKACIK",
+    "id": 4492
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "EYCELLİ",
+    "id": 4493
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 4494
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KAHVEDERESİ",
+    "id": 4495
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "SÜMER",
+    "id": 4496
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "AYDOĞDU",
+    "id": 4497
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BAYINDIR",
+    "id": 4498
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ESENKÖY",
+    "id": 4499
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "HAYDARLI",
+    "id": 4500
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YALINKUYU",
+    "id": 4501
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YUKARIÖRENCİK",
+    "id": 4502
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "AKPINAR",
+    "id": 4503
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "AKSU",
+    "id": 4504
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ÇATAK",
+    "id": 4505
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DALLICA",
+    "id": 4506
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 4507
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KARDEŞKÖY",
+    "id": 4508
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KAŞIKÇILAR",
+    "id": 4509
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "OCAKLI",
+    "id": 4510
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "SAMAİLLİ",
+    "id": 4511
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 4512
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4513
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ÇAYLI",
+    "id": 4514
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DEREAĞZI",
+    "id": 4515
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "IŞIKLAR",
+    "id": 4516
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KIRCAKLI",
+    "id": 4517
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "NAZİLLİ OSB",
+    "id": 4518
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "RAHMANLAR",
+    "id": 4519
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YEŞİL",
+    "id": 4520
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BOZYURT",
+    "id": 4521
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KARAÇAY",
+    "id": 4522
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KOZDERE",
+    "id": 4523
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ZAFER",
+    "id": 4524
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "DEREBAŞI",
+    "id": 4525
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "GEDİKALTI",
+    "id": 4526
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "HAMZALLI",
+    "id": 4527
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KETENOVA",
+    "id": 4528
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "OVACIK",
+    "id": 4529
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YAYLAPINAR",
+    "id": 4530
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "BEĞERLİ",
+    "id": 4531
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KARAHALLI",
+    "id": 4532
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "MESCİTLİ",
+    "id": 4533
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "TOYGAR",
+    "id": 4534
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "YELLİCE",
+    "id": 4535
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "ÇOBANLAR",
+    "id": 4536
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "NAZİLLİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 4537
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 4538
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BUCAK",
+    "id": 4539
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ÇALTI",
+    "id": 4540
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KADILAR",
+    "id": 4541
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KARAHAYIT",
+    "id": 4542
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "AKDAM",
+    "id": 4543
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ESKİÇİNE",
+    "id": 4544
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "EVCİLER",
+    "id": 4545
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KAHRAMAN",
+    "id": 4546
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "CUMALI",
+    "id": 4547
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KARANFİLLER",
+    "id": 4548
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KIRKIŞIK",
+    "id": 4549
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SARAÇLAR",
+    "id": 4550
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ALTINOVA",
+    "id": 4551
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "CAMIZAĞILI",
+    "id": 4552
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4553
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "GÖKYAKA",
+    "id": 4554
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "HACIPAŞALAR",
+    "id": 4555
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BAHÇEARASI",
+    "id": 4556
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BÖLÜNTÜ",
+    "id": 4557
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ÇATAK",
+    "id": 4558
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ÇÖĞÜRLÜK",
+    "id": 4559
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KIZILGÜNEY",
+    "id": 4560
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ÖZEREN",
+    "id": 4561
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SOĞANCILAR",
+    "id": 4562
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KAVŞIT",
+    "id": 4563
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "MUTAFLAR",
+    "id": 4564
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "HALLAÇLAR",
+    "id": 4565
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KİRAZDERESİ",
+    "id": 4566
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KARAKOLLAR",
+    "id": 4567
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SARIOĞLU",
+    "id": 4568
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SARNIÇ",
+    "id": 4569
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SEFERLER",
+    "id": 4570
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SOĞUKOLUK",
+    "id": 4571
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "İBRAHİMKAVAĞI",
+    "id": 4572
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KASAR",
+    "id": 4573
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SARIKÖY",
+    "id": 4574
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ALABAYIR",
+    "id": 4575
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "DERELİ",
+    "id": 4576
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KIRKSAKALLAR",
+    "id": 4577
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "OVACIK",
+    "id": 4578
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ELDERESİ",
+    "id": 4579
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "HAMİTABAT",
+    "id": 4580
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "HASANLAR",
+    "id": 4581
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KARĞI",
+    "id": 4582
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KURUKÖY",
+    "id": 4583
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KABALAR",
+    "id": 4584
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "KABATAŞ",
+    "id": 4585
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "AKÇAOVA",
+    "id": 4586
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BEREKET",
+    "id": 4587
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "DOĞANYURT",
+    "id": 4588
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "DORUMLAR",
+    "id": 4589
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SAĞLIK",
+    "id": 4590
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ALTINABAT",
+    "id": 4591
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "BEDİRLER",
+    "id": 4592
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "DUTLUOLUK",
+    "id": 4593
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ESENTEPE",
+    "id": 4594
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SÖĞÜTÇÜK",
+    "id": 4595
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ÜNLÜCE",
+    "id": 4596
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YAĞCILAR",
+    "id": 4597
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "TAŞOLUK",
+    "id": 4598
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YOLBOYU",
+    "id": 4599
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YENİ",
+    "id": 4600
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 4601
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "TOPÇAM",
+    "id": 4602
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "UMURKÖY",
+    "id": 4603
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YENİKÖY",
+    "id": 4604
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "TATARMEMİŞLER",
+    "id": 4605
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YÖRÜKLER",
+    "id": 4606
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "SUBAŞI",
+    "id": 4607
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "TEPEKÖY",
+    "id": 4608
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "ÇİNE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 4609
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "AĞAÇLI",
+    "id": 4610
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KONAK",
+    "id": 4611
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KARAATLI",
+    "id": 4612
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ATATÜRK",
+    "id": 4613
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 4614
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "DEMİRÇAY",
+    "id": 4615
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KÖPRÜALAN",
+    "id": 4616
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "DOĞANBEY",
+    "id": 4617
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "PAMUKÇULAR",
+    "id": 4618
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SARIKEMER",
+    "id": 4619
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ÇALIKÖY",
+    "id": 4620
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "AVCILAR",
+    "id": 4621
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "AVŞAR",
+    "id": 4622
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "GÜNEYYAKA",
+    "id": 4623
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SAVUCA",
+    "id": 4624
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KARAKAYA",
+    "id": 4625
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "AKÇAKONAK",
+    "id": 4626
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ARGAVLI",
+    "id": 4627
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ARSLANYAYLASI",
+    "id": 4628
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KARACAHAYIT",
+    "id": 4629
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "NALBANTLAR",
+    "id": 4630
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "AKÇAKAYA",
+    "id": 4631
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "GÜLLÜBAHÇE",
+    "id": 4632
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "GÜZELTEPE",
+    "id": 4633
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ATBURGAZI",
+    "id": 4634
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "BAĞARASI",
+    "id": 4635
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ÇAVDAR",
+    "id": 4636
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KAYGILLI",
+    "id": 4637
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SERÇİN",
+    "id": 4638
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YAMAÇ",
+    "id": 4639
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YENİKÖY",
+    "id": 4640
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 4641
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ÇALIŞLI",
+    "id": 4642
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "GÖLBENT",
+    "id": 4643
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 4644
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "ÖZBAŞI",
+    "id": 4645
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 4646
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YUVACA",
+    "id": 4647
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "BAYIRDAMI",
+    "id": 4648
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "BURUNKÖY",
+    "id": 4649
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4650
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "KİSİR",
+    "id": 4651
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SAYRAKÇI",
+    "id": 4652
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SAZLI",
+    "id": 4653
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SOFULAR",
+    "id": 4654
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YENİKENT",
+    "id": 4655
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "TUZBURGAZI",
+    "id": 4656
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "SÖKE OSB",
+    "id": 4657
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YENİCAMİİ",
+    "id": 4658
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "SÖKE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 4659
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "AKSEKİ",
+    "id": 4660
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "GÜNEYYAKA",
+    "id": 4661
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "GÜRE",
+    "id": 4662
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "AKYAKA",
+    "id": 4663
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4664
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KAKKALAN",
+    "id": 4665
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KIZILCA",
+    "id": 4666
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "OLUKBAŞI",
+    "id": 4667
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "TÜTÜNCÜLER",
+    "id": 4668
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ASMA",
+    "id": 4669
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "PINARLI",
+    "id": 4670
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "SEKİ",
+    "id": 4671
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ALAMUT",
+    "id": 4672
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÖRENTAHT",
+    "id": 4673
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YENİCE",
+    "id": 4674
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 4675
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KAVAKLI",
+    "id": 4676
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YAZIKENT",
+    "id": 4677
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ZİYARETLİ",
+    "id": 4678
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "HAYDERE",
+    "id": 4679
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "HIŞIMLAR",
+    "id": 4680
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KÖRTEKE",
+    "id": 4681
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "OSMANİYE",
+    "id": 4682
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KARAAHMETLER",
+    "id": 4683
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "AKÇAY",
+    "id": 4684
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "DUTAĞAÇ",
+    "id": 4685
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KIZILTEPE",
+    "id": 4686
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KOYUNCULAR",
+    "id": 4687
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "EYMİR",
+    "id": 4688
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KARABAĞLAR",
+    "id": 4689
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KONAKLI",
+    "id": 4690
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YEŞİLÇAM",
+    "id": 4691
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ALHİSAR",
+    "id": 4692
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÇARŞI",
+    "id": 4693
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "HIDIRBABA",
+    "id": 4694
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÖRTÜLÜ",
+    "id": 4695
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "HİSAR",
+    "id": 4696
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KEMER",
+    "id": 4697
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YAKA",
+    "id": 4698
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 4699
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "GÜNEY",
+    "id": 4700
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KAMIŞLAR",
+    "id": 4701
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KILAVUZLAR",
+    "id": 4702
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "AMASYA",
+    "id": 4703
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÖRENCİK",
+    "id": 4704
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "KAZANDERE",
+    "id": 4705
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "BAŞALAN",
+    "id": 4706
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÇAMLIDERE",
+    "id": 4707
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "DÖMEN",
+    "id": 4708
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "GÜVENİR",
+    "id": 4709
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "MADRAN",
+    "id": 4710
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "ÖRMEPINAR",
+    "id": 4711
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "SIRMA",
+    "id": 4712
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YENİ",
+    "id": 4713
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "BOZDOĞAN",
+    "MAHALLE": "YEŞİL YENİCE",
+    "id": 4714
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "CUMADERE",
+    "id": 4715
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 4716
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "SARIÇAM",
+    "id": 4717
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KIRAN",
+    "id": 4718
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KIZILCAKÖY",
+    "id": 4719
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 4720
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "BEYKÖY",
+    "id": 4721
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "CUMAYANI",
+    "id": 4722
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KARATEPE",
+    "id": 4723
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KIZILCAYER",
+    "id": 4724
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "YAVUZKÖY",
+    "id": 4725
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "BAŞÇAYIR",
+    "id": 4726
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "GÖKKİRİŞ",
+    "id": 4727
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KETENYERİ",
+    "id": 4728
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "KOÇAK",
+    "id": 4729
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "OVAKÖY",
+    "id": 4730
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "AHATLAR",
+    "id": 4731
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "UZUNDERE",
+    "id": 4732
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 4733
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "SOĞUKKUYU",
+    "id": 4734
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "ÇARŞI",
+    "id": 4735
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "BAKLAKÖY",
+    "id": 4736
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "ILIDAĞ",
+    "id": 4737
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "MEZEKÖY",
+    "id": 4738
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "SERDAROĞLU",
+    "id": 4739
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "ALTIEYLÜL",
+    "id": 4740
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 4741
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KÖŞK",
+    "MAHALLE": "MENTEŞELER",
+    "id": 4742
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 4743
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "EĞRİKAVAK",
+    "id": 4744
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "FATİH",
+    "id": 4745
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KÖPRÜLÜ-VEYSİPAŞA",
+    "id": 4746
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "YUKARIKAYACIK",
+    "id": 4747
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "IŞIKLI",
+    "id": 4748
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KEMER",
+    "id": 4749
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KENGER",
+    "id": 4750
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MESUTLU",
+    "id": 4751
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "TERZİLER",
+    "id": 4752
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "BADEMLİ",
+    "id": 4753
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4754
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "İLYASDERE",
+    "id": 4755
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KARAHAYIT",
+    "id": 4756
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KOCAGÜR",
+    "id": 4757
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ORTA",
+    "id": 4758
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ZAFER",
+    "id": 4759
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "İSTİKLAL",
+    "id": 4760
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KONUKLU",
+    "id": 4761
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MUSLUCA",
+    "id": 4762
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "SERÇEKÖY",
+    "id": 4763
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ALATEPE",
+    "id": 4764
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ALANLI",
+    "id": 4765
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "AMBARCIK",
+    "id": 4766
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ŞAHNALI",
+    "id": 4767
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "TEPECİK",
+    "id": 4768
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "BALIKKÖY",
+    "id": 4769
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KALFAKÖY",
+    "id": 4770
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KARAKÖY",
+    "id": 4771
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KIRIKLAR",
+    "id": 4772
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MERKEZ, YENİKÖY",
+    "id": 4773
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "TEPEKÖY",
+    "id": 4774
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "YAĞCILAR",
+    "id": 4775
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ARMUTLU",
+    "id": 4776
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ÇAYYÜZÜ",
+    "id": 4777
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DANİŞMENT",
+    "id": 4778
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GİRNE",
+    "id": 4779
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GÖZPINAR",
+    "id": 4780
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "HOROZKÖY",
+    "id": 4781
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ZEYBEK",
+    "id": 4782
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "AŞAĞIKAYACIK",
+    "id": 4783
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GÖLHİSAR",
+    "id": 4784
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GÜZELHİSAR",
+    "id": 4785
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KUYUCULAR",
+    "id": 4786
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ATA",
+    "id": 4787
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ATAOSB",
+    "id": 4788
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "HASANEFENDİ-RAMAZAN PAŞA",
+    "id": 4789
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KARDEŞKÖY",
+    "id": 4790
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KIZILCAKÖY",
+    "id": 4791
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KOZALAKLI",
+    "id": 4792
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "YEDİ EYLÜL",
+    "id": 4793
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "EFELER",
+    "id": 4794
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "PINARDERE",
+    "id": 4795
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ÇEŞTEPE",
+    "id": 4796
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DALAMA",
+    "id": 4797
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DEREKÖY",
+    "id": 4798
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ILICABAŞI",
+    "id": 4799
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KADIKÖY",
+    "id": 4800
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "OSMAN YOZGATLI",
+    "id": 4801
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 4802
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ZEYTİNKÖY",
+    "id": 4803
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 4804
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "CUMA",
+    "id": 4805
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DOĞAN",
+    "id": 4806
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KUYULU",
+    "id": 4807
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "BALTAKÖY",
+    "id": 4808
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DAĞEYMİRİ",
+    "id": 4809
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "EMİRDOĞAN",
+    "id": 4810
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GÖDRENLİ",
+    "id": 4811
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MEŞRUTİYET",
+    "id": 4812
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "OVAEYMİR",
+    "id": 4813
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "SAVRANDERE",
+    "id": 4814
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "YILMAZKÖY",
+    "id": 4815
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "GÖLCÜK",
+    "id": 4816
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "ORTAKÖY",
+    "id": 4817
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "BÖCEK",
+    "id": 4818
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "DALAMA, YENİKÖY",
+    "id": 4819
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KULOĞULLAR",
+    "id": 4820
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "KURTULUŞ",
+    "id": 4821
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "İMAMKÖY",
+    "id": 4822
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MESUDİYE",
+    "id": 4823
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 4824
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "SIRALILAR",
+    "id": 4825
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "EFELER",
+    "MAHALLE": "UMURLU",
+    "id": 4826
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "AŞAĞIGÖRLE",
+    "id": 4827
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "NARGEDİK",
+    "id": 4828
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "KARACAÖREN",
+    "id": 4829
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 4830
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 4831
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "BEREKETLİ",
+    "id": 4832
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ÇAMARASI",
+    "id": 4833
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "DEREKÖY",
+    "id": 4834
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "TEPECİK",
+    "id": 4835
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YENİKÖY",
+    "id": 4836
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YOLÜSTÜ",
+    "id": 4837
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "PALAMUTÇUK",
+    "id": 4838
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "CUMA",
+    "id": 4839
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "KARABAĞLAR",
+    "id": 4840
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "KÜÇÜKDAĞLI",
+    "id": 4841
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "TEKELİLER",
+    "id": 4842
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "BAHÇEKÖY",
+    "id": 4843
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "BİNGEÇ",
+    "id": 4844
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "DEDELER",
+    "id": 4845
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ALEMLER",
+    "id": 4846
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "IŞIKLAR",
+    "id": 4847
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "GÖRLE",
+    "id": 4848
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 4849
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "HACIHIDIRLAR",
+    "id": 4850
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "DİKMEN",
+    "id": 4851
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YAYLALI",
+    "id": 4852
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "CABİ",
+    "id": 4853
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ATAKÖY",
+    "id": 4854
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ESENÇAY",
+    "id": 4855
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YAZIR",
+    "id": 4856
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YENİCE",
+    "id": 4857
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ATAEYMİR",
+    "id": 4858
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "GEYRE",
+    "id": 4859
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 4860
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "BÜYÜKDAĞLI",
+    "id": 4861
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "GÜZELBEYLİ",
+    "id": 4862
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YAYKIN",
+    "id": 4863
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KARACASU",
+    "MAHALLE": "YOLALTI",
+    "id": 4864
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "ÇINARKÖY",
+    "id": 4865
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "KİRAZLI",
+    "id": 4866
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "YENİKÖY",
+    "id": 4867
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "İKİÇEŞMELİK",
+    "id": 4868
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "DAĞ",
+    "id": 4869
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "EGE",
+    "id": 4870
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "ALACAMESCİT",
+    "id": 4871
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "BAYRAKLIDEDE",
+    "id": 4872
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "KADINLAR DENİZİ",
+    "id": 4873
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "YAVANSU",
+    "id": 4874
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "YAYLAKÖY",
+    "id": 4875
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "CAMİATİK",
+    "id": 4876
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4877
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "GÜZELÇAMLI",
+    "id": 4878
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 4879
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "DAVUTLAR",
+    "id": 4880
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "SOĞUCAK",
+    "id": 4881
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "CAFERLİ",
+    "id": 4882
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "HACIFEYZULLAH",
+    "id": 4883
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "KARAOVA",
+    "id": 4884
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 4885
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "KADIKALESİ",
+    "id": 4886
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "KUŞADASI",
+    "MAHALLE": "TÜRKMEN",
+    "id": 4887
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "DENİZKÖY",
+    "id": 4888
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "YALIKÖY",
+    "id": 4889
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "AK-YENİKÖY",
+    "id": 4890
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 4891
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "YENİ",
+    "id": 4892
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "ALTINKUM",
+    "id": 4893
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4894
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "ÇAMLIK",
+    "id": 4895
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "AKKÖY",
+    "id": 4896
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "EFELER",
+    "id": 4897
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "AKBÜK",
+    "id": 4898
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "BATIKÖY",
+    "id": 4899
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "MAVİŞEHİR",
+    "id": 4900
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "BALAT",
+    "id": 4901
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "MERSİNDERE",
+    "id": 4902
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "DİDİM",
+    "MAHALLE": "HİSAR",
+    "id": 4903
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "KARAÇAKAL",
+    "id": 4904
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "KOYUNLAR",
+    "id": 4905
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "DEREKÖY",
+    "id": 4906
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ALHAN",
+    "id": 4907
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ÇARŞI",
+    "id": 4908
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ÇAVDAR",
+    "id": 4909
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "DOĞU",
+    "id": 4910
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "KARACAÖREN",
+    "id": 4911
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 4912
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "YENİ",
+    "id": 4913
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ÇULHAN",
+    "id": 4914
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ALİOĞULLAR",
+    "id": 4915
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "DİRECİK",
+    "id": 4916
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "EĞRİDERE",
+    "id": 4917
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "DONDURAN",
+    "id": 4918
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "HAMZABALİ",
+    "id": 4919
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "HÜKÜMET",
+    "id": 4920
+  },
+  {
+    "İL": "AYDIN",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "HACIKÖSELER",
+    "id": 4921
+  }
+]

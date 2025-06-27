@@ -1,0 +1,104 @@
+/* Dropdown menü sorunlarını çözmek için ek CSS */
+.dropdown {
+    position: relative !important;
+    z-index: 9999 !important;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute !important;
+    z-index: 9999 !important;
+    background-color: #0f172a !important;
+    min-width: 220px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;
+    border-radius: 8px;
+    border: 1px solid #334155;
+    padding: 10px 0;
+    margin-top: 0;
+    top: 100%; /* Dropdown menünün hizmetlerimiz butonunun altında çıkması için */
+    left: 0; /* Dropdown menünün hizmetlerimiz butonunun sol kenarından başlaması için */
+    transform: translateZ(0);
+    will-change: transform;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block !important;
+}
+
+/* Dropdown menü için hover alanı genişletme */
+.dropdown-content::before {
+    content: '';
+    position: absolute;
+    height: 20px;
+    width: 100%;
+    top: -20px;
+    left: 0;
+}
+
+/* Hero bölümü ve diğer bölümler için z-index ayarları */
+.hero, section {
+    position: relative;
+    z-index: 1 !important;
+}
+
+body {
+    padding-top: 0; /* Header fixed olduğu için body'ye padding ekliyoruz */
+}
+
+/* Dropdown menü için container */
+.dropdown-container {
+    position: static;
+}
+
+header, nav, nav ul, nav ul li {
+    position: relative;
+    z-index: 1051 !important;
+}
+
+/* Menü öğeleri için ek düzeltmeler */
+nav ul li {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+}
+
+/* Dropdown menü içindeki bağlantılar için stil */
+.dropdown-content a {
+    padding: 12px 20px;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(234, 88, 12, 0.1);
+    color: #ea580c;
+}
+
+/* Aktif sayfa için stil */
+.dropdown-content a.active {
+    background-color: rgba(234, 88, 12, 0.2);
+    color: #ea580c;
+    font-weight: 600;
+}
+
+/* Dropdown butonu için stil */
+.dropbtn {
+    position: relative;
+    cursor: pointer;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+}

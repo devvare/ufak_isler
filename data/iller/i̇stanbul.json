@@ -1,0 +1,5846 @@
+[
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "KİRAZLIDERE",
+    "id": 14002
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 14003
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "ÖMERLİ",
+    "id": 14004
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "KOÇULLU",
+    "id": 14005
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "ALEMDAĞ",
+    "id": 14006
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "SULTANÇİFTLİĞİ",
+    "id": 14007
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 14008
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14009
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "AYDINLAR",
+    "id": 14010
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14011
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "REŞADİYE",
+    "id": 14012
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "EKŞİOĞLU",
+    "id": 14013
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "ÇATALMEŞE",
+    "id": 14014
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "NİŞANTEPE",
+    "id": 14015
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "ÇAMLIK",
+    "id": 14016
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "HAMİDİYE",
+    "id": 14017
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 14018
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "MERKEZ",
+    "id": 14019
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "TAŞDELEN",
+    "id": 14020
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "HÜSEYİNLİ",
+    "id": 14021
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇEKMEKÖY",
+    "MAHALLE": "SIRAPINAR",
+    "id": 14022
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "AĞAÇLI",
+    "id": 14023
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "AKPINAR",
+    "id": 14024
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "MERKEZ",
+    "id": 14025
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "NİŞANCI",
+    "id": 14026
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "İSLAMBEY",
+    "id": 14027
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "ODAYERİ",
+    "id": 14028
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "ÇIRÇIR",
+    "id": 14029
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "DEFTERDAR",
+    "id": 14030
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "DÜĞMECİLER",
+    "id": 14031
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "ALİBEYKÖY",
+    "id": 14032
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "İHSANİYE",
+    "id": 14033
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "PİRİNÇÇİ",
+    "id": 14034
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "SİLAHTARAĞA",
+    "id": 14035
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "IŞIKLAR",
+    "id": 14036
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 14037
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "TOPÇULAR",
+    "id": 14038
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 14039
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "ÇİFTALAN",
+    "id": 14040
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "RAMİ CUMA",
+    "id": 14041
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 14042
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 14043
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "GÖKTÜRK MERKEZ",
+    "id": 14044
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "GÜZELTEPE",
+    "id": 14045
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "KARADOLAP",
+    "id": 14046
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "EMNİYETTEPE",
+    "id": 14047
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "RAMİ YENİ",
+    "id": 14048
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "SAKARYA",
+    "id": 14049
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "EYÜPSULTAN",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14050
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "HAMİDİYE",
+    "id": 14051
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "ŞİRİNTEPE",
+    "id": 14052
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 14053
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "ORTABAYIR",
+    "id": 14054
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "YEŞİLCE",
+    "id": 14055
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "EMNİYET EVLERİ",
+    "id": 14056
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "YAHYA KEMAL",
+    "id": 14057
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "TELSİZLER",
+    "id": 14058
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 14059
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "MERKEZ",
+    "id": 14060
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "HARMANTEPE",
+    "id": 14061
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "GÜLTEPE",
+    "id": 14062
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14063
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "NURTEPE",
+    "id": 14064
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 14065
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "GÜRSEL",
+    "id": 14066
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "TALATPAŞA",
+    "id": 14067
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "ÇELİKTEPE",
+    "id": 14068
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KAĞITHANE",
+    "MAHALLE": "SULTAN SELİM",
+    "id": 14069
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "TERAZİDERE",
+    "id": 14070
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "MURATPAŞA",
+    "id": 14071
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "ORTA",
+    "id": 14072
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "ALTINTEPSİ",
+    "id": 14073
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "KOCATEPE",
+    "id": 14074
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 14075
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "KARTALTEPE",
+    "id": 14076
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "YILDIRIM",
+    "id": 14077
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 14078
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "VATAN",
+    "id": 14079
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAYRAMPAŞA",
+    "MAHALLE": "CEVATPAŞA",
+    "id": 14080
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "HALKALI MERKEZ",
+    "id": 14081
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "TEVFİKBEY",
+    "id": 14082
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "KANARYA",
+    "id": 14083
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "CENNET",
+    "id": 14084
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "İSTASYON",
+    "id": 14085
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "KÜÇÜKÇEKMECE, İKİTELLİOSB",
+    "id": 14086
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 14087
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "YARIMBURGAZ",
+    "id": 14088
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "FEVZİ AÇKMAK",
+    "id": 14089
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "KARTALTEPE",
+    "id": 14090
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "YENİ ",
+    "id": 14091
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "GÜLTEPE",
+    "id": 14092
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "BEŞYOL",
+    "id": 14093
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14094
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14095
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "SULTAN MURAT",
+    "id": 14096
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "ATAKENT",
+    "id": 14097
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 14098
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 14099
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "ATATÜRK",
+    "id": 14100
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "FATİH",
+    "id": 14101
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KÜÇÜKÇEKMECE",
+    "MAHALLE": "SÖĞÜTLÜ ÇEŞME",
+    "id": 14102
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "DENİZKÖŞKLER",
+    "id": 14103
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "CİHANGİR",
+    "id": 14104
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "MERKEZ",
+    "id": 14105
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "TAHTAKALE",
+    "id": 14106
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "FİRUZKÖY",
+    "id": 14107
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "AMBARLI",
+    "id": 14108
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "MUSTAFA KEMALPAŞA",
+    "id": 14109
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 14110
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 14111
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "AVCILAR",
+    "MAHALLE": "GÜMÜŞPALA",
+    "id": 14112
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "AKPINAR",
+    "id": 14113
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 14114
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "HİLAL",
+    "id": 14115
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "SARIGAZİ",
+    "id": 14116
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "VEYSEL KARANİ",
+    "id": 14117
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 14118
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "MERVE",
+    "id": 14119
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "EMEK",
+    "id": 14120
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14121
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 14122
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "EYÜP SULTAN",
+    "id": 14123
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "FATİH",
+    "id": 14124
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 14125
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "MECLİS",
+    "id": 14126
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "KEMAL TÜRKLER",
+    "id": 14127
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "ATATÜRK",
+    "id": 14128
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "SAFA",
+    "id": 14129
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "ABDURRAHMANGAZİ",
+    "id": 14130
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SANCAKTEPE",
+    "MAHALLE": "MEVLANA",
+    "id": 14131
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 14132
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14133
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "ÇOBANÇEŞME",
+    "id": 14134
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "SOĞANLI",
+    "id": 14135
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "SİYAVUŞPAŞA",
+    "id": 14136
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 14137
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "KOCASİNAN MERKEZ",
+    "id": 14138
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "YENİBOSNA MERKEZ",
+    "id": 14139
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "ZAFER",
+    "id": 14140
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14141
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAHÇELİEVLER",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 14142
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "HAVAALANI",
+    "id": 14143
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "TURGUT REİS",
+    "id": 14144
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "FATİH",
+    "id": 14145
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "BİRLİK",
+    "id": 14146
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "DAVUTPAŞA",
+    "id": 14147
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "ÇİFTE HAVUZLAR",
+    "id": 14148
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 14149
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14150
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 14151
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 14152
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "KEMER",
+    "id": 14153
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "ORUÇREİS",
+    "id": 14154
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "TUNA",
+    "id": 14155
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 14156
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 14157
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "MENDERES",
+    "id": 14158
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENLER",
+    "MAHALLE": "NİNE HATUN",
+    "id": 14159
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "ESENTEPE",
+    "id": 14160
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "SOĞANLIK YENİ",
+    "id": 14161
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "KARLIKTEPE",
+    "id": 14162
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "CEVİZLİ",
+    "id": 14163
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14164
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "PETROL İŞ",
+    "id": 14165
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "YUNUS",
+    "id": 14166
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "YAKACIK YENİ",
+    "id": 14167
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "ORHANTEPE",
+    "id": 14168
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "ATALAR",
+    "id": 14169
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "GÜMÜŞPINAR",
+    "id": 14170
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "KORDONBOYU",
+    "id": 14171
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "YALI",
+    "id": 14172
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "ÇAVUŞOĞLU",
+    "id": 14173
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "TOPSELVİ",
+    "id": 14174
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "YAKACIK ÇARŞI",
+    "id": 14175
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "YUKARI",
+    "id": 14176
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14177
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "ORTA",
+    "id": 14178
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KARTAL",
+    "MAHALLE": "UĞUR MUMCU",
+    "id": 14179
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "DOĞANCILI",
+    "id": 14180
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ESENCELİ",
+    "id": 14181
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KABAKOZ",
+    "id": 14182
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KARAKİRAZ",
+    "id": 14183
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ALACALI",
+    "id": 14184
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "BIÇKIDERE",
+    "id": 14185
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "MEŞRUTİYET",
+    "id": 14186
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "OSMANKÖY",
+    "id": 14187
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "AHMETLİ",
+    "id": 14188
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "SORTULLU",
+    "id": 14189
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "AĞAÇDERE",
+    "id": 14190
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "BUCAKLI",
+    "id": 14191
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "GÖKMAŞLI",
+    "id": 14192
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "HACI KASIM",
+    "id": 14193
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "SATMAZLI",
+    "id": 14194
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "AĞVA MERKEZ",
+    "id": 14195
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "GÖKSU",
+    "id": 14196
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KORUCU",
+    "id": 14197
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KURFALLI",
+    "id": 14198
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "SAHİLKÖY",
+    "id": 14199
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "YENİKÖY",
+    "id": 14200
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "AKÇAKESE",
+    "id": 14201
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "BALİBEY",
+    "id": 14202
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 14203
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "HACILLI",
+    "id": 14204
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "İSAKÖY",
+    "id": 14205
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KADIKÖY",
+    "id": 14206
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ŞUAYİPLİ",
+    "id": 14207
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ERENLER",
+    "id": 14208
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "GEREDELİ",
+    "id": 14209
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KALEM",
+    "id": 14210
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "YAKA",
+    "id": 14211
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÇATAKLI",
+    "id": 14212
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KERVANSARAY",
+    "id": 14213
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KIZILCA",
+    "id": 14214
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "YEŞİLVADİ",
+    "id": 14215
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 14216
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "HASANLI",
+    "id": 14217
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÜVEZLİ",
+    "id": 14218
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KARABEYLİ",
+    "id": 14219
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "SOĞULLU",
+    "id": 14220
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ULUPELİT",
+    "id": 14221
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "YAZIMANAYIR",
+    "id": 14222
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "AVCIKORU",
+    "id": 14223
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KARACAKÖY",
+    "id": 14224
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KARAMANDERE",
+    "id": 14225
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "OVACIK",
+    "id": 14226
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "SOFULAR",
+    "id": 14227
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "TEKE",
+    "id": 14228
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "DEĞİRMENÇAYIRI",
+    "id": 14229
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "İMRENDERE",
+    "id": 14230
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KÖMÜRLÜK",
+    "id": 14231
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ORUÇOĞLU",
+    "id": 14232
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "İMRENLİ",
+    "id": 14233
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "YAYLALI",
+    "id": 14234
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "BOZGOCA",
+    "id": 14235
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÇELEBİ",
+    "id": 14236
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "DARLIK",
+    "id": 14237
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "GÖÇE",
+    "id": 14238
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KUMBABA",
+    "id": 14239
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "ÇENGİLLİ",
+    "id": 14240
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİLE",
+    "MAHALLE": "KURNA",
+    "id": 14241
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "BOLLUCA",
+    "id": 14242
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "DELİKLİKAYA",
+    "id": 14243
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "MUSTAFA KEMAL PAŞA",
+    "id": 14244
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ANADOLU",
+    "id": 14245
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 14246
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "BAKLALI",
+    "id": 14247
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "BOYALIK",
+    "id": 14248
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "HASTANE",
+    "id": 14249
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "DURSUNKÖY",
+    "id": 14250
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "İSLAMBEY",
+    "id": 14251
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "HACIMAŞLI",
+    "id": 14252
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "SAZLIBOSNA",
+    "id": 14253
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "TERKOS",
+    "id": 14254
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "YEŞİLBAYIR",
+    "id": 14255
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ARNAVUTKÖY MERKEZ",
+    "id": 14256
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "KARLIBAYIR",
+    "id": 14257
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "TAYAKADIN",
+    "id": 14258
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "DURUSU",
+    "id": 14259
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ÖMERLİ",
+    "id": 14260
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 14261
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ATATÜRK",
+    "id": 14262
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "İMRAHOR",
+    "id": 14263
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "KARABURUN",
+    "id": 14264
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "YASSIÖREN",
+    "id": 14265
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 14266
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "BOĞAZKÖY İSTİKLAL",
+    "id": 14267
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "HARAÇÇI",
+    "id": 14268
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "ÇİLİNGİR",
+    "id": 14269
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "TAŞOLUK",
+    "id": 14270
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "BALABAN",
+    "id": 14271
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "HİCRET",
+    "id": 14272
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "MAREŞAL FEVZİ ÇAKMAK",
+    "id": 14273
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 14274
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "FATİH",
+    "id": 14275
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "MAVİGÖL",
+    "id": 14276
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "HADIMKÖY",
+    "id": 14277
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "NENEHATUN",
+    "id": 14278
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ARNAVUTKÖY",
+    "MAHALLE": "YENİKÖY",
+    "id": 14279
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "SULTANÇİFTLİĞİ",
+    "id": 14280
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "UĞUR MUMCU",
+    "id": 14281
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "ESENTEPE",
+    "id": 14282
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "HABİBLER",
+    "id": 14283
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "MALKOÇOĞLU",
+    "id": 14284
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "50. YIL",
+    "id": 14285
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "GAZİ",
+    "id": 14286
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "YAYLA",
+    "id": 14287
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 14288
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "75. YIL",
+    "id": 14289
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "ESKİ HABİPLER",
+    "id": 14290
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 14291
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "ZÜBEYDE HANIM",
+    "id": 14292
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "CEBECİ",
+    "id": 14293
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANGAZİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14294
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ATAKÖY 2-5-6. KISIM",
+    "id": 14295
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "OSMANİYE",
+    "id": 14296
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 14297
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ŞENLİKKÖY",
+    "id": 14298
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 14299
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "BASINKÖY",
+    "id": 14300
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "SAKIZAĞACI",
+    "id": 14301
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ATAKÖY 3-4-11. KISIM",
+    "id": 14302
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ATAKÖY 7-8-9-10. KISIM",
+    "id": 14303
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "CEVİZLİK",
+    "id": 14304
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 14305
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 14306
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ZUHURATBABA",
+    "id": 14307
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "ATAKÖY 1. KISIM",
+    "id": 14308
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "KARTALTEPE",
+    "id": 14309
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAKIRKÖY",
+    "MAHALLE": "YEŞİLKÖY SB",
+    "id": 14310
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "KAYABAŞI",
+    "id": 14311
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "BAHÇEŞEHİR 1. KISIM",
+    "id": 14312
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "GÜVERCİNTEPE",
+    "id": 14313
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "BAŞAKŞEHİR",
+    "id": 14314
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "İKİTELLİ OSB",
+    "id": 14315
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "ŞAMLAR",
+    "id": 14316
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "BAHÇEŞEHİR 2. KISIM",
+    "id": 14317
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "BAŞAK",
+    "id": 14318
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "ZİYA GÖKALP",
+    "id": 14319
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "ALTINŞEHİR",
+    "id": 14320
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAŞAKŞEHİR",
+    "MAHALLE": "ŞAHİNTEPE",
+    "id": 14321
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 14322
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "GÜLENSU",
+    "id": 14323
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "GÜLSUYU",
+    "id": 14324
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "AYDINEVLER",
+    "id": 14325
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "BÜYÜKBAKKALKÖY",
+    "id": 14326
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "ALTAYÇEŞME",
+    "id": 14327
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "FEYZULLAH",
+    "id": 14328
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "YALI",
+    "id": 14329
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "FINDIKLI",
+    "id": 14330
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "KÜÇÜKYALI MERKEZ",
+    "id": 14331
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "BAŞIBÜYÜK",
+    "id": 14332
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "ESENKENT",
+    "id": 14333
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "GİRNE",
+    "id": 14334
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "ZÜMRÜTEVLER",
+    "id": 14335
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "CEVİZLİ",
+    "id": 14336
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "İDEALTEPE",
+    "id": 14337
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "ÇINAR",
+    "id": 14338
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "MALTEPE",
+    "MAHALLE": "ALTINTEPE",
+    "id": 14339
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KALFA",
+    "id": 14340
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "HİSARBEYLİ",
+    "id": 14341
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "BAŞAK",
+    "id": 14342
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "İNCEĞİZ",
+    "id": 14343
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KABAKÇA",
+    "id": 14344
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ÇAKIL",
+    "id": 14345
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ELBASAN",
+    "id": 14346
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KESTANELİK",
+    "id": 14347
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "OKLALI",
+    "id": 14348
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "FERHATPAŞA SB",
+    "id": 14349
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KALEİÇİ",
+    "id": 14350
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KIZILCAALİ",
+    "id": 14351
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "MURATBEY MERKEZ",
+    "id": 14352
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ÖRCÜNLÜ",
+    "id": 14353
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "YAZLIK",
+    "id": 14354
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "AYDINLAR",
+    "id": 14355
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KARACAKÖY MERKEZ",
+    "id": 14356
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "NAKKAŞ",
+    "id": 14357
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "HALLAÇLI",
+    "id": 14358
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "OVAYENİCE",
+    "id": 14359
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "DAĞYENİCE",
+    "id": 14360
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "BELGRAT",
+    "id": 14361
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "FATİH",
+    "id": 14362
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "KARAMANDERE",
+    "id": 14363
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ORMANLI",
+    "id": 14364
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ÖRENCİK",
+    "id": 14365
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "SUBAŞI",
+    "id": 14366
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "AKALAN",
+    "id": 14367
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "GÜMÜŞPINAR",
+    "id": 14368
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "GÖKÇEALİ",
+    "id": 14369
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "YAYLACIK",
+    "id": 14370
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 14371
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "İZZETTİN",
+    "id": 14372
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ATATÜRK",
+    "id": 14373
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "İHSANİYE",
+    "id": 14374
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "BAHŞAYİŞ",
+    "id": 14375
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "CELEPKÖY",
+    "id": 14376
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "ÇANAKÇA",
+    "id": 14377
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "FERHATPAŞA",
+    "id": 14378
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÇATALCA",
+    "MAHALLE": "YALIKÖY",
+    "id": 14379
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "MERKEZ",
+    "id": 14380
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "MAREŞAL ÇAKMAK",
+    "id": 14381
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "AKINCILAR",
+    "id": 14382
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "ABDURRAHMAN NAFİZ GÜRMAN",
+    "id": 14383
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "MEHMET NESİH ÖZMEN",
+    "id": 14384
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "TOZKOPARAN",
+    "id": 14385
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "GENÇOSMAN",
+    "id": 14386
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "GÜNEŞTEPE",
+    "id": 14387
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "HAZNEDAR",
+    "id": 14388
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "SANAYİ",
+    "id": 14389
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GÜNGÖREN",
+    "MAHALLE": "GÜVEN",
+    "id": 14390
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BEKİRLİ",
+    "id": 14391
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "YENİ",
+    "id": 14392
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "DANAMANDIRA",
+    "id": 14393
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "KADIKÖY",
+    "id": 14394
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "KÜÇÜK SİNEKLİ",
+    "id": 14395
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14396
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14397
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14398
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "FENER",
+    "id": 14399
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "SANCAKTEPE",
+    "id": 14400
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "AKÖREN",
+    "id": 14401
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 14402
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "SAYALAR",
+    "id": 14403
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "SEMİZKUMLAR",
+    "id": 14404
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BEYCİLER",
+    "id": 14405
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BÜYÜK SİNEKLİ",
+    "id": 14406
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "ÇAYIRDERE",
+    "id": 14407
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "ALİBEY",
+    "id": 14408
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "ALİPAŞA",
+    "id": 14409
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "ÇELTİK",
+    "id": 14410
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "KURFALLI",
+    "id": 14411
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BÜYÜK KILIÇLI",
+    "id": 14412
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "GAZİTEPE",
+    "id": 14413
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "KAVAKLI",
+    "id": 14414
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "GÜMÜŞYAKA",
+    "id": 14415
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 14416
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 14417
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "FATİH",
+    "id": 14418
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "YOLÇATI",
+    "id": 14419
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "KÜÇÜK KILIÇLI",
+    "id": 14420
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "PİRİ MEHMET PAŞA",
+    "id": 14421
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BALABAN",
+    "id": 14422
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "BÜYÜK ÇAVUŞLU",
+    "id": 14423
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "SELİMPAŞA",
+    "id": 14424
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SİLİVRİ",
+    "MAHALLE": "SEYMEN",
+    "id": 14425
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "SİNANPAŞA",
+    "id": 14426
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "TÜRKALİ",
+    "id": 14427
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 14428
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "MECİDİYE",
+    "id": 14429
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "AKAT",
+    "id": 14430
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "ARNAVUTKÖY",
+    "id": 14431
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "GAYRETTEPE",
+    "id": 14432
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 14433
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "MURADİYE",
+    "id": 14434
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "BALMUMCU",
+    "id": 14435
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "BEBEK",
+    "id": 14436
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "LEVAZIM",
+    "id": 14437
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "YILDIZ",
+    "id": 14438
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "ABBASAĞA",
+    "id": 14439
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "ULUS",
+    "id": 14440
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "LEVENT",
+    "id": 14441
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "KURUÇEŞME",
+    "id": 14442
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "NİSBETİYE",
+    "id": 14443
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "CİHANNÜMA",
+    "id": 14444
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "ETİLER",
+    "id": 14445
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "KONAKLAR",
+    "id": 14446
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "VİŞNEZADE",
+    "id": 14447
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEŞİKTAŞ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 14448
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ANADOLU HİSARI",
+    "id": 14449
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "GÖLLÜ",
+    "id": 14450
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÖRNEKKÖY",
+    "id": 14451
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "YENİ MAHALLE",
+    "id": 14452
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÇİĞDEM",
+    "id": 14453
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "KANLICA",
+    "id": 14454
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "BOZHANE",
+    "id": 14455
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "PAŞABAHÇE",
+    "id": 14456
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ANADOLU KAVAĞI",
+    "id": 14457
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 14458
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "GÖKSU",
+    "id": 14459
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "MERKEZ",
+    "id": 14460
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÖĞÜMCE",
+    "id": 14461
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "RİVA",
+    "id": 14462
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "KAVACIK",
+    "id": 14463
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "YALIKÖY",
+    "id": 14464
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÇENGELDERE",
+    "id": 14465
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 14466
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "GÜMÜŞSUYU",
+    "id": 14467
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "İSHAKLI",
+    "id": 14468
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "TOKATKÖY",
+    "id": 14469
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "DERESEKİ",
+    "id": 14470
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "BAKLACI",
+    "id": 14471
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "KILIÇLI",
+    "id": 14472
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "PAŞAMANDIRA",
+    "id": 14473
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 14474
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ÇAMLIBAHÇE",
+    "id": 14475
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "GÖRELE",
+    "id": 14476
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "GÖZTEPE",
+    "id": 14477
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "KAYNARCA",
+    "id": 14478
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "POYRAZKÖY",
+    "id": 14479
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "AKBABA",
+    "id": 14480
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "POLONEZKÖY",
+    "id": 14481
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "SOĞUKSU",
+    "id": 14482
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "MAHMUTŞEVKETPAŞA",
+    "id": 14483
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ACARLAR",
+    "id": 14484
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ALİBAHADIR",
+    "id": 14485
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ANADOLUFENERİ",
+    "id": 14486
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14487
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "RÜZGARLIBAHÇE",
+    "id": 14488
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ZERZAVATÇI",
+    "id": 14489
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ELMALI",
+    "id": 14490
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "FATİH",
+    "id": 14491
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "İNCİRKÖY",
+    "id": 14492
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYKOZ",
+    "MAHALLE": "ORTAÇEŞME",
+    "id": 14493
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "İSTİKLAL",
+    "id": 14494
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "MÜEYYETZADE",
+    "id": 14495
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KULAKSIZ",
+    "id": 14496
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KÜÇÜK PİYALE",
+    "id": 14497
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ÖRNEKTEPE",
+    "id": 14498
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 14499
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "YAHYA KAHYA",
+    "id": 14500
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ÇATMA MESCİT",
+    "id": 14501
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KILIÇALİ PAŞA",
+    "id": 14502
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "PÜRTELAŞHASAN",
+    "id": 14503
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KALYONCU KULLUĞU",
+    "id": 14504
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ARAP CAMİ",
+    "id": 14505
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "HACIMİMİ ",
+    "id": 14506
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KEÇECİ PİRİ",
+    "id": 14507
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KOCATEPE",
+    "id": 14508
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ŞAHKULU",
+    "id": 14509
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "HALICIOĞLU",
+    "id": 14510
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KEMANKEŞKARAMUSTAFAPAŞA",
+    "id": 14511
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "SURURİ MEHMET EFENDİ",
+    "id": 14512
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ASMALI MESCİT",
+    "id": 14513
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KAMER HATUN",
+    "id": 14514
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KATİPMUSTAFA ÇELEBİ",
+    "id": 14515
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KULOĞLU",
+    "id": 14516
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ÖMER AVNİ",
+    "id": 14517
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "HÜSEYİNAĞA",
+    "id": 14518
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "PİYALEPAŞA",
+    "id": 14519
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ŞEHİT MUHTAR",
+    "id": 14520
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 14521
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "ÇUKUR",
+    "id": 14522
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "FETİHTEPE",
+    "id": 14523
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 14524
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "CİHANGİR",
+    "id": 14525
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "BOSTAN",
+    "id": 14526
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "GÜMÜŞSUYU",
+    "id": 14527
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "PİRİPAŞA",
+    "id": 14528
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "BEREKETZADE",
+    "id": 14529
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "BÜLBÜL",
+    "id": 14530
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "BEDRETTİN",
+    "id": 14531
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "EVLİYA ÇELEBİ",
+    "id": 14532
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "FİRUZAĞA",
+    "id": 14533
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KAPTANPAŞA",
+    "id": 14534
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "EMEKYEMEZ",
+    "id": 14535
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "HACIAHMET",
+    "id": 14536
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "KADIMEHMET EFENDİ",
+    "id": 14537
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYOĞLU",
+    "MAHALLE": "TOMTOM",
+    "id": 14538
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "GÜZELCE",
+    "id": 14539
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14540
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 14541
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "TÜRKOBA",
+    "id": 14542
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "MURAT ÇEŞME",
+    "id": 14543
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "KUMBURGAZ",
+    "id": 14544
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "AHMEDİYE",
+    "id": 14545
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "ÇAKMAKLI",
+    "id": 14546
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "DİZDARİYE",
+    "id": 14547
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "MİMAROBA",
+    "id": 14548
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "ULUS",
+    "id": 14549
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 14550
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14551
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "CELALİYE",
+    "id": 14552
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 14553
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 14554
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "FATİH",
+    "id": 14555
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "SİNANOBA",
+    "id": 14556
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "19 MAYIS",
+    "id": 14557
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "PINARTEPE",
+    "id": 14558
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "ALKENT 2000",
+    "id": 14559
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "KAMİLOBA",
+    "id": 14560
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "ATATÜRK",
+    "id": 14561
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BÜYÜKÇEKMECE",
+    "MAHALLE": "EKİNOBA",
+    "id": 14562
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "MERKEZ",
+    "id": 14563
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 14564
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "PAZARİÇİ",
+    "id": 14565
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "BARBAROS HAYRETTİN PAŞA",
+    "id": 14566
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "YENİ MAHALLE",
+    "id": 14567
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "KARADENİZ",
+    "id": 14568
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 14569
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "SARIGÖL",
+    "id": 14570
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "ŞEMSİPAŞA",
+    "id": 14571
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 14572
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14573
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "KARLITEPE",
+    "id": 14574
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "KARAYOLLARI",
+    "id": 14575
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 14576
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "YILDIZTABYA",
+    "id": 14577
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "GAZİOSMANPAŞA",
+    "MAHALLE": "MEVLANA",
+    "id": 14578
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "PTT EVLERİ",
+    "id": 14579
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 14580
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "KISIRKAYA",
+    "id": 14581
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "RUMELİFENERİ",
+    "id": 14582
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "AYAZAĞA",
+    "id": 14583
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "DEMİRCİKÖY",
+    "id": 14584
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 14585
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "GÜMÜŞDERE",
+    "id": 14586
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "RUMELİKAVAĞI",
+    "id": 14587
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "BAHÇEKÖY YENİ",
+    "id": 14588
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14589
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "EMİRGAN",
+    "id": 14590
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "HUZUR",
+    "id": 14591
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "REŞİTPAŞA",
+    "id": 14592
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 14593
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "BAHÇEKÖY KEMER",
+    "id": 14594
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "KOCATAŞ",
+    "id": 14595
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "MADEN",
+    "id": 14596
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "YENİKÖY",
+    "id": 14597
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "BAHÇEKÖY MERKEZ",
+    "id": 14598
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "KAZIM KARABEKİR PAŞA",
+    "id": 14599
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "KİREÇBURNU",
+    "id": 14600
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "DARÜŞŞAFAKA",
+    "id": 14601
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "RUMELİHİSARI",
+    "id": 14602
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "TARABYA",
+    "id": 14603
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "YENİ",
+    "id": 14604
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "BALTALİMANI",
+    "id": 14605
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 14606
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "KUMKÖY (KİLYOS)",
+    "id": 14607
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "USKUMRUKÖY",
+    "id": 14608
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "ZEKERİYAKÖY",
+    "id": 14609
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "SARIYER MERKEZ",
+    "id": 14610
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "FERAHEVLER",
+    "id": 14611
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "GARİPÇE",
+    "id": 14612
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "İSTİNYE",
+    "id": 14613
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "MASLAK",
+    "id": 14614
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "PINAR",
+    "id": 14615
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SARIYER",
+    "MAHALLE": "POLİGON",
+    "id": 14616
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 14617
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 14618
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 14619
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "HASANPAŞA",
+    "id": 14620
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "NECİP FAZIL",
+    "id": 14621
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "MECİDİYE",
+    "id": 14622
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "TURGUT REİS",
+    "id": 14623
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 14624
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14625
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "ADİL",
+    "id": 14626
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "ABDURRAHMANGAZİ",
+    "id": 14627
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 14628
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "FATİH",
+    "id": 14629
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 14630
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "SULTANBEYLİ",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 14631
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 14632
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 14633
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "GÖZTEPE",
+    "id": 14634
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "SANCAKTEPE",
+    "id": 14635
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 14636
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 14637
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14638
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "KİRAZLI",
+    "id": 14639
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "YENİGÜN",
+    "id": 14640
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "YILDIZTEPE",
+    "id": 14641
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "MERKEZ",
+    "id": 14642
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "ÇINAR",
+    "id": 14643
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "FATİH",
+    "id": 14644
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14645
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 14646
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "BARBAROS",
+    "id": 14647
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 14648
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 14649
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "MAHMUTBEY",
+    "id": 14650
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "100. YIL",
+    "id": 14651
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "BAĞLAR",
+    "id": 14652
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BAĞCILAR",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 14653
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "YENİ ÇAMLICA",
+    "id": 14654
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "FERHATPAŞA",
+    "id": 14655
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14656
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 14657
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "İÇERENKÖY",
+    "id": 14658
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "MEVLANA",
+    "id": 14659
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "MUSTAFA KEMAL",
+    "id": 14660
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "FETİH",
+    "id": 14661
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "ATATÜRK",
+    "id": 14662
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "BARBAROS",
+    "id": 14663
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "ESATPAŞA",
+    "id": 14664
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "AŞIKVEYSEL",
+    "id": 14665
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "KAYIŞDAĞI",
+    "id": 14666
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "KÜÇÜKBAKKALKÖY",
+    "id": 14667
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14668
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "YENİSAHRA",
+    "id": 14669
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ATAŞEHİR",
+    "MAHALLE": "ÖRNEK",
+    "id": 14670
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "BEYLİKDÜZÜOSB",
+    "id": 14671
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "GÜRPINAR",
+    "id": 14672
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "MARMARA",
+    "id": 14673
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "BARIŞ",
+    "id": 14674
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14675
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "YAKUPLU",
+    "id": 14676
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "BÜYÜKŞEHİR",
+    "id": 14677
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "KAVAKLI",
+    "id": 14678
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "SAHİL",
+    "id": 14679
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "ADNAN KAHVECİ",
+    "id": 14680
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "BEYLİKDÜZÜ",
+    "MAHALLE": "DEREAĞZI",
+    "id": 14681
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "ACIBADEM",
+    "id": 14682
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "KOŞUYOLU",
+    "id": 14683
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "MERDİVENKÖY",
+    "id": 14684
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "HASANPAŞA",
+    "id": 14685
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "CAFERAĞA",
+    "id": 14686
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "ERENKÖY",
+    "id": 14687
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "RASİMPAŞA",
+    "id": 14688
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "ZÜHTÜPAŞA",
+    "id": 14689
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "BOSTANCI",
+    "id": 14690
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "GÖZTEPE",
+    "id": 14691
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 14692
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "19 MAYIS",
+    "id": 14693
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "SUADİYE",
+    "id": 14694
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "FENERYOLU",
+    "id": 14695
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "KOZYATAĞI",
+    "id": 14696
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "FENERBAHÇE",
+    "id": 14697
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "OSMANAĞA",
+    "id": 14698
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "SAHRAYICEDİT",
+    "id": 14699
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "CADDEBOSTAN",
+    "id": 14700
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "EĞİTİM",
+    "id": 14701
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "KADIKÖY",
+    "MAHALLE": "FİKİRTEPE",
+    "id": 14702
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ADALAR",
+    "MAHALLE": "MADEN",
+    "id": 14703
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ADALAR",
+    "MAHALLE": "BURGAZADA",
+    "id": 14704
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ADALAR",
+    "MAHALLE": "KINALIADA",
+    "id": 14705
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ADALAR",
+    "MAHALLE": "NİZAM",
+    "id": 14706
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ADALAR",
+    "MAHALLE": "HEYBELİADA",
+    "id": 14707
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "HARBİYE",
+    "id": 14708
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "MERKEZ",
+    "id": 14709
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "PAŞA",
+    "id": 14710
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "ERGENEKON",
+    "id": 14711
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "KAPTANPAŞA",
+    "id": 14712
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "GÜLBAHAR",
+    "id": 14713
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14714
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "DUATEPE",
+    "id": 14715
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14716
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "MAHMUT ŞEVKET PAŞA",
+    "id": 14717
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "YAYLA",
+    "id": 14718
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "FULYA",
+    "id": 14719
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "TEŞVİKİYE",
+    "id": 14720
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "ESKİŞEHİR",
+    "id": 14721
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "HALİL RIFAT PAŞA",
+    "id": 14722
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "MECİDİYEKÖY",
+    "id": 14723
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "HALİDE EDİP ADIVAR",
+    "id": 14724
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "İZZET PAŞA",
+    "id": 14725
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "KUŞTEPE",
+    "id": 14726
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "BOZKURT",
+    "id": 14727
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "ESENTEPE",
+    "id": 14728
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "FERİKÖY",
+    "id": 14729
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "19 MAYIS",
+    "id": 14730
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "HALASKARGAZİ",
+    "id": 14731
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ŞİŞLİ",
+    "MAHALLE": "MEŞRUTİYET",
+    "id": 14732
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "BURHANİYE",
+    "id": 14733
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "SULTANTEPE",
+    "id": 14734
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "ZEYNEP KAMİL",
+    "id": 14735
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "İCADİYE",
+    "id": 14736
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 14737
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "BULGURLU",
+    "id": 14738
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "FERAH",
+    "id": 14739
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "VALİDE-İ ATİH",
+    "id": 14740
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "BARBAROS",
+    "id": 14741
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14742
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KÜÇÜKSU",
+    "id": 14743
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14744
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KULELİ",
+    "id": 14745
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "ACIBADEM",
+    "id": 14746
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "MURATREİS",
+    "id": 14747
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "SALACAK",
+    "id": 14748
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KANDİLLİ",
+    "id": 14749
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KISIKLI",
+    "id": 14750
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "ÇENGELKÖY",
+    "id": 14751
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KÜÇÜK ÇAMLICA",
+    "id": 14752
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "ÜNALAN",
+    "id": 14753
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "ALTUNİZADE",
+    "id": 14754
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KUZGUNCUK",
+    "id": 14755
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "GÜZELTEPE",
+    "id": 14756
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KİRAZLITEPE",
+    "id": 14757
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "AZİZ MAHMUT HÜDAYİ",
+    "id": 14758
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "YAVUZTÜRK",
+    "id": 14759
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "SELİMİYE",
+    "id": 14760
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "AHMEDİYE",
+    "id": 14761
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "BEYLERBEYİ",
+    "id": 14762
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "SELAMİ ALİ",
+    "id": 14763
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 14764
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜSKÜDAR",
+    "MAHALLE": "KÜPLÜCE",
+    "id": 14765
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "BALIKYOLU",
+    "id": 14766
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ARDIÇLI",
+    "id": 14767
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "İSTİKLAL",
+    "id": 14768
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 14769
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "PİRİ REİS",
+    "id": 14770
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ESENKENT",
+    "id": 14771
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "HÜRRİYET",
+    "id": 14772
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ORHAN GAZİ",
+    "id": 14773
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 14774
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "PINAR",
+    "id": 14775
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "YENİKENT",
+    "id": 14776
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "BARBAROS HAYRETTİN PAŞA",
+    "id": 14777
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "AŞIK VEYSEL",
+    "id": 14778
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 14779
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "MEHTERÇEŞME",
+    "id": 14780
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "SAADETDERE",
+    "id": 14781
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "FATİH",
+    "id": 14782
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "BAĞLARÇEŞME",
+    "id": 14783
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "AKEVLER",
+    "id": 14784
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ÇINAR",
+    "id": 14785
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "MEVLANA",
+    "id": 14786
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ÖRNEK",
+    "id": 14787
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "GÜZELYURT",
+    "id": 14788
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "NECİP FAZIL KISAKÜREK",
+    "id": 14789
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "SULTANİYE",
+    "id": 14790
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "AKŞEMSEDDİN",
+    "id": 14791
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "İNÖNÜ",
+    "id": 14792
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "GÖKEVLER",
+    "id": 14793
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 14794
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ATATÜRK",
+    "id": 14795
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "İNCİRTEPE",
+    "id": 14796
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "KOZA",
+    "id": 14797
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "SELAHADDİN EYYUBİ",
+    "id": 14798
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ÜÇEVLER",
+    "id": 14799
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "AKÇABURGAZ",
+    "id": 14800
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 14801
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 14802
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 14803
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 14804
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "TALATPAŞA",
+    "id": 14805
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "ZAFER",
+    "id": 14806
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 14807
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ESENYURT",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 14808
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "CİBALİ",
+    "id": 14809
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 14810
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HOCA GIYASETTİN",
+    "id": 14811
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "İSKENDERPAŞA",
+    "id": 14812
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MİMAR KEMALETTİN",
+    "id": 14813
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SULTAN AHMET",
+    "id": 14814
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "DERVİŞ ALİ",
+    "id": 14815
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HASEKİ SULTAN",
+    "id": 14816
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MERCAN",
+    "id": 14817
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 14818
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "TOPKAPI",
+    "id": 14819
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ATİKALİ",
+    "id": 14820
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MOLLA HÜSREV",
+    "id": 14821
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ŞEHREMİNİ",
+    "id": 14822
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 14823
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "AKSARAY",
+    "id": 14824
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "CERRAHPAŞA",
+    "id": 14825
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HIRKA-İ ŞERİF",
+    "id": 14826
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HOCAPAŞA",
+    "id": 14827
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "TAHTAKALE",
+    "id": 14828
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KOCA MUSTAFAPAŞA",
+    "id": 14829
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "EMİN SİNAN",
+    "id": 14830
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KALENDERHANE",
+    "id": 14831
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SURURİ",
+    "id": 14832
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 14833
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 14834
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "BALABANAĞA",
+    "id": 14835
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HACI KADIN",
+    "id": 14836
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "NİŞANCA",
+    "id": 14837
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "RÜSTEMPAŞA",
+    "id": 14838
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SARIDEMİR",
+    "id": 14839
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ŞEHSUVAR BEY",
+    "id": 14840
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "BİNBİRDİREK",
+    "id": 14841
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "HOBYAR",
+    "id": 14842
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SÜMBÜL EFENDİ",
+    "id": 14843
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "TAYA HATUN",
+    "id": 14844
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "BEYAZIT",
+    "id": 14845
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MESİHPAŞA",
+    "id": 14846
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MOLLA GÜRANİ",
+    "id": 14847
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MUHSİNE HATUN",
+    "id": 14848
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ALİ KUŞÇU",
+    "id": 14849
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "BALAT",
+    "id": 14850
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MİMAR KEMALETTİN HAYRETTİN",
+    "id": 14851
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "YAVUZ SİNAN",
+    "id": 14852
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "AYVANSARAY",
+    "id": 14853
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KATİP KASIM",
+    "id": 14854
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ZEYREK",
+    "id": 14855
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "ALEMDAR",
+    "id": 14856
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KÜÇÜK AYASOFYA",
+    "id": 14857
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MEVLANAKAPI",
+    "id": 14858
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "MOLLA FENARİ",
+    "id": 14859
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SARAÇ İSHAK",
+    "id": 14860
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SEYYİD ÖMER",
+    "id": 14861
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "CANKURTARAN",
+    "id": 14862
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "KARAGÜMRÜK",
+    "id": 14863
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "SİLİVRİKAPI",
+    "id": 14864
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "FATİH",
+    "MAHALLE": "YEDİKULE",
+    "id": 14865
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 14866
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "KAYNARCA",
+    "id": 14867
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "KURTDOĞMUŞ",
+    "id": 14868
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "KURTKÖY",
+    "id": 14869
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "DOĞU",
+    "id": 14870
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 14871
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ÇAMLIK",
+    "id": 14872
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ÇINARDERE",
+    "id": 14873
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 14874
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "BATI",
+    "id": 14875
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "BALLICA",
+    "id": 14876
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "EMİRLİ",
+    "id": 14877
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 14878
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "GÜLLÜ BAĞLAR",
+    "id": 14879
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "KAVAKPINAR",
+    "id": 14880
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ŞEYHLİ",
+    "id": 14881
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "YEŞİLBAĞLAR",
+    "id": 14882
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ESENYALI",
+    "id": 14883
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "GÖÇBEYLİ",
+    "id": 14884
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 14885
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "GÜZELYALI",
+    "id": 14886
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "YENİ",
+    "id": 14887
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "HARMANDERE",
+    "id": 14888
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "SÜLÜNTEPE",
+    "id": 14889
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "SAPAN BAĞLARI",
+    "id": 14890
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ESENLER",
+    "id": 14891
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "FATİH",
+    "id": 14892
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "KURNA",
+    "id": 14893
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "VELİBABA",
+    "id": 14894
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 14895
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ORTA",
+    "id": 14896
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ÇAMÇEŞME",
+    "id": 14897
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "ERTUĞRUL GAZİ",
+    "id": 14898
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "RAMAZANOĞLU",
+    "id": 14899
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "SANAYİ",
+    "id": 14900
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "PENDİK",
+    "MAHALLE": "YAYALAR",
+    "id": 14901
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "ANADOLU",
+    "id": 14902
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "EVLİYA ÇELEBİ",
+    "id": 14903
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "ŞİFA",
+    "id": 14904
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "ORTA",
+    "id": 14905
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINLI",
+    "id": 14906
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "POSTANE",
+    "id": 14907
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "TEPEOREN İTOSB",
+    "id": 14908
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "İSTASYON",
+    "id": 14909
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINTEPE",
+    "id": 14910
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "CAMİ",
+    "id": 14911
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "FATİH",
+    "id": 14912
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINLI - BİRLİK OSB",
+    "id": 14913
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINLI SB",
+    "id": 14914
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "MESCİT",
+    "id": 14915
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINLI - İSTANBUL AYOSB",
+    "id": 14916
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 14917
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "YAYLA",
+    "id": 14918
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "İÇMELER",
+    "id": 14919
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "TEPEÖREN",
+    "id": 14920
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AKFIRAT",
+    "id": 14921
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "AYDINLI-KOSB",
+    "id": 14922
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "DERİ OSB",
+    "id": 14923
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "TUZLA",
+    "MAHALLE": "ORHANLI",
+    "id": 14924
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ARMAĞANEVLER",
+    "id": 14925
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ATATÜRK",
+    "id": 14926
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "İSTİKLAL",
+    "id": 14927
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ALTINŞEHİR",
+    "id": 14928
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "SARAY",
+    "id": 14929
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "YAMANEVLER",
+    "id": 14930
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ÇAKMAK",
+    "id": 14931
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ESENŞEHİR",
+    "id": 14932
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "TANTAVİ",
+    "id": 14933
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "DUDULLU OSB",
+    "id": 14934
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "İNKILAP",
+    "id": 14935
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "FİNANSKENT",
+    "id": 14936
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "IHLAMURKUYU",
+    "id": 14937
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "KAZIM",
+    "id": 14938
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 14939
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ŞERİFALİ",
+    "id": 14940
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 14941
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ÇAMLIK",
+    "id": 14942
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ELMALIKENT",
+    "id": 14943
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "TATLISU",
+    "id": 14944
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "NECİP FAZIL",
+    "id": 14945
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ATAKENT",
+    "id": 14946
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 14947
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "PARSELLER",
+    "id": 14948
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "TOPAĞACI",
+    "id": 14949
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "YUKARI DUDULLU",
+    "id": 14950
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "HEKİMBAŞI",
+    "id": 14951
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "TEPEÜSTÜ",
+    "id": 14952
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 14953
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "MADENLER",
+    "id": 14954
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "SİTE",
+    "id": 14955
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ADEM YAVUZ",
+    "id": 14956
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ESENEVLER",
+    "id": 14957
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "CEMİL MERİÇ",
+    "id": 14958
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "HUZUR",
+    "id": 14959
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "AŞAĞI DUDULLU",
+    "id": 14960
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "ESENKENT",
+    "id": 14961
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ÜMRANİYE",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 14962
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "SEYİTNİZAM",
+    "id": 14963
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "NURİPAŞA",
+    "id": 14964
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "ÇIRPICI",
+    "id": 14965
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "TELSİZ",
+    "id": 14966
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "GÖKALP",
+    "id": 14967
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "SÜMER",
+    "id": 14968
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "MERKEZEFENDİ",
+    "id": 14969
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "VELİEFENDİ",
+    "id": 14970
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "MALTEPE",
+    "id": 14971
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 14972
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "KAZLIÇEŞME",
+    "id": 14973
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 14974
+  },
+  {
+    "İL": "İSTANBUL",
+    "İLÇE": "ZEYTİNBURNU",
+    "MAHALLE": "BEŞTELSİZ",
+    "id": 14975
+  }
+]

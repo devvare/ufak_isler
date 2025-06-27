@@ -1,0 +1,650 @@
+[
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FETHİYE",
+    "id": 1712
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KOZA",
+    "id": 1713
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SOFULAR",
+    "id": 1714
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET PAŞA",
+    "id": 1715
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PİRİNÇÇİ",
+    "id": 1716
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORMAN BAĞLARI",
+    "id": 1717
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAMLAR",
+    "id": 1718
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYAZITPAŞA",
+    "id": 1719
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAKALLAR",
+    "id": 1720
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HATUNİYE",
+    "id": 1721
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELERİÇİ",
+    "id": 1722
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DERE",
+    "id": 1723
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜMÜŞLÜ",
+    "id": 1724
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACILAR MEYDANI",
+    "id": 1725
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HIZIRPAŞA",
+    "id": 1726
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İHSANİYE",
+    "id": 1727
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZI BAĞLARI",
+    "id": 1728
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİRÜSTÜ",
+    "id": 1729
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYHCUİ",
+    "id": 1730
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİYARET, SARAYCIK",
+    "id": 1731
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÜÇLER",
+    "id": 1732
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİYARET, YUKARI",
+    "id": 1733
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEMET EVLER",
+    "id": 1734
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖKMEDRESE",
+    "id": 1735
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖLLÜ BAĞLARI",
+    "id": 1736
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVACI",
+    "id": 1737
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAVADİYE",
+    "id": 1738
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKBİLEK",
+    "id": 1739
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARASENİR",
+    "id": 1740
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARILAR",
+    "id": 1741
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİYARET, AŞAĞI",
+    "id": 1742
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YÜZEVLER",
+    "id": 1743
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZKÖY",
+    "id": 1744
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ELLİBEŞEVLER",
+    "id": 1745
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİRAZLIDERE",
+    "id": 1746
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KURŞUNLU",
+    "id": 1747
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FINDIKLI",
+    "id": 1748
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NERGİZ",
+    "id": 1749
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACI İLYAS",
+    "id": 1750
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLYENİCE",
+    "id": 1751
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 1752
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "FATİH",
+    "id": 1753
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "PAZAR",
+    "id": 1754
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "BEYAZIT",
+    "id": 1755
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "BORSA",
+    "id": 1756
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1757
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "HACIHAYTA",
+    "id": 1758
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "ATA",
+    "id": 1759
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1760
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "ÇELTEKMADENİ",
+    "id": 1761
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "SARAYDÜZÜ",
+    "id": 1762
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "MAARİF",
+    "id": 1763
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "HACIBAYRAM",
+    "id": 1764
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "BİR EYLÜL",
+    "id": 1765
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "EYMİR",
+    "id": 1766
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "GİRNE",
+    "id": 1767
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "MAGOSA",
+    "id": 1768
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "YENİ",
+    "id": 1769
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "ORTA",
+    "id": 1770
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "CEVİZDİBİ",
+    "id": 1771
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "SULUOVA",
+    "MAHALLE": "ŞEKER",
+    "id": 1772
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "YEMİŞEN",
+    "id": 1773
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "TEPE",
+    "id": 1774
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "YEŞİLIRMAK",
+    "id": 1775
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "DOĞU",
+    "id": 1776
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "YENİ",
+    "id": 1777
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "SANAYİİ",
+    "id": 1778
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "TAŞOVA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1779
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 1780
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "ABİDEHATUN",
+    "id": 1781
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "CAMİCEDİT",
+    "id": 1782
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "TAVŞAN",
+    "id": 1783
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "MAHSEN",
+    "id": 1784
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 1785
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "HACIHASAN",
+    "id": 1786
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "KÜMBET HATUN",
+    "id": 1787
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 1788
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 1789
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "HACIBALI",
+    "id": 1790
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "NACCAR",
+    "id": 1791
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "YENİ",
+    "id": 1792
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "GAZİMAHBUP",
+    "id": 1793
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "HARMANLAR",
+    "id": 1794
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "SOFULAR",
+    "id": 1795
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "KÜMBETHATUNOSB",
+    "id": 1796
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "HOCASÜLEYMAN",
+    "id": 1797
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "NUSRATİYE",
+    "id": 1798
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "BUĞDAYLI",
+    "id": 1799
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "MERZİFON",
+    "MAHALLE": "ESKİ CAMİİ",
+    "id": 1800
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "TEKKE",
+    "id": 1801
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "SARAY",
+    "id": 1802
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "YENİCAMİ",
+    "id": 1803
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "AĞCADEDE",
+    "id": 1804
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "ADATEPE",
+    "id": 1805
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "CUMARA",
+    "id": 1806
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "ŞIHLAR",
+    "id": 1807
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "HACIYAHYA",
+    "id": 1808
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "ARTIKABAT",
+    "id": 1809
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "IRGAT",
+    "id": 1810
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "ÇAY",
+    "id": 1811
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÜMÜŞHACIKÖY",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 1812
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÖYNÜCEK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1813
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÖYNÜCEK",
+    "MAHALLE": "YENİ",
+    "id": 1814
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "GÖYNÜCEK",
+    "MAHALLE": "MERKEZ",
+    "id": 1815
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "HAMAMÖZÜ",
+    "MAHALLE": "ARKUTBEY",
+    "id": 1816
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "HAMAMÖZÜ",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 1817
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "HAMAMÖZÜ",
+    "MAHALLE": "HAMİTKAPLAN",
+    "id": 1818
+  },
+  {
+    "İL": "AMASYA",
+    "İLÇE": "HAMAMÖZÜ",
+    "MAHALLE": "SARAY",
+    "id": 1819
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "CANBEYLER",
+    "id": 10007
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "ODABAŞI",
+    "id": 10008
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "MUSTAFA DEMİREL",
+    "id": 10009
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 10010
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "ESKİBASKİL",
+    "id": 10011
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "BASKİL",
+    "MAHALLE": "ŞEFKAT",
+    "id": 10012
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "AĞIN",
+    "MAHALLE": "MERKEZ",
+    "id": 10013
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "AĞIN",
+    "MAHALLE": "BAŞPINAR",
+    "id": 10014
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "AĞIN",
+    "MAHALLE": "ŞENPINAR",
+    "id": 10015
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "AĞIN",
+    "MAHALLE": "AKPINAR",
+    "id": 10016
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "HALİL YAVUZ",
+    "id": 10017
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "BÜKARDI, ZEYNET",
+    "id": 10018
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ERİMLİ, KIŞLA",
+    "id": 10019
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ÜÇOCAK, KUTLU",
+    "id": 10020
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ERİMLİ, CAMİ",
+    "id": 10021
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ERİMLİ, CUMHURİYET",
+    "id": 10022
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ERİMLİ, GÜVENEVLER",
+    "id": 10023
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "BÜKARDI, KAPLANBAĞ",
+    "id": 10024
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "VALİ GÖKTAYOĞLU",
+    "id": 10025
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ERİMLİ, GÜLEÇ",
+    "id": 10026
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "GÜMÜŞYAKA",
+    "id": 10027
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "SİMSERKİS",
+    "id": 10028
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ÜÇOCAK, ZİYARET",
+    "id": 10029
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "MUSTAFA ÇELEBİ",
+    "id": 10030
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "BÜKARDI, PINARBAŞI",
+    "id": 10031
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "BÜKARDI, YAYLABAŞI",
+    "id": 10032
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "HÜRRİYET",
+    "id": 10033
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "SERİNEVLER",
+    "id": 10034
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ÜÇOCAK, HABERCİ",
+    "id": 10035
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "BÜKARDI, BÖLÜKBAŞI",
+    "id": 10036
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "SAMAN",
+    "id": 10037
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ÜÇOCAK, MERKEZ",
+    "id": 10038
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ARICAK",
+    "MAHALLE": "ÜÇOCAK, ÇAY",
+    "id": 10039
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, YENİCE",
+    "id": 10040
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKSARAY",
+    "id": 10041
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, BAHÇEKAPI",
+    "id": 10042
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, KİRAZ",
+    "id": 10043
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, YEŞİLKUŞAK",
+    "id": 10044
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, HÜRRİYET",
+    "id": 10045
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, KÜLTÜR",
+    "id": 10046
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, YEŞİLYURT",
+    "id": 10047
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKPINAR",
+    "id": 10048
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, PAŞALAR",
+    "id": 10049
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALA YAPRAK",
+    "id": 10050
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABDULLAH PAŞA",
+    "id": 10051
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, ZAFER",
+    "id": 10052
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKİRAZ, YÜZBAŞI",
+    "id": 10053
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANAYİ",
+    "id": 10054
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 10055
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKENDİ, MOLLAKENDİ",
+    "id": 10056
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 10057
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇARŞI",
+    "id": 10058
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇATAL ÇEŞME",
+    "id": 10059
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İCADİYE",
+    "id": 10060
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, ORG. EŞREF BİTLİS",
+    "id": 10061
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, SANAYİ",
+    "id": 10062
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, BAĞLAR",
+    "id": 10063
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, GÜLPINAR",
+    "id": 10064
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 10065
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 10066
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, YENİ",
+    "id": 10067
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖLLÜ BAĞ",
+    "id": 10068
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HİCRET",
+    "id": 10069
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAİL BEY",
+    "id": 10070
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAYATİK",
+    "id": 10071
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HİLALKENT",
+    "id": 10072
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 10073
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKLAR",
+    "id": 10074
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RÜSTEM PAŞA",
+    "id": 10075
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAFRAN",
+    "id": 10076
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DOĞU KENT",
+    "id": 10077
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HARPUT",
+    "id": 10078
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKENDİ, KARŞIBAĞ",
+    "id": 10079
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 10080
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SALI BABA",
+    "id": 10081
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜMÜŞKAVAK",
+    "id": 10082
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İZZET PAŞA",
+    "id": 10083
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILAY",
+    "id": 10084
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SÜRSÜRÜ",
+    "id": 10085
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, CUMHURİYET",
+    "id": 10086
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, SANAYİ",
+    "id": 10087
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, SANAYİOSB",
+    "id": 10088
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, KONAK",
+    "id": 10089
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, MERKEZ",
+    "id": 10090
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, YENİ",
+    "id": 10091
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAZIKONAK, FATİH",
+    "id": 10092
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIZ BAĞLARI",
+    "id": 10093
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, CUMHURİYET",
+    "id": 10094
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ATAŞEHİR",
+    "id": 10095
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESEN TEPE",
+    "id": 10096
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKENDİ, GÜNTAŞI",
+    "id": 10097
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUSTAFA PAŞA",
+    "id": 10098
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAYDAÇIRA",
+    "id": 10099
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAYVAN ÜRÜNLERİ OSB",
+    "id": 10100
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RIZAİYE",
+    "id": 10101
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OLGUNLAR",
+    "id": 10102
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SUGÖZÜ",
+    "id": 10103
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ULU KENT",
+    "id": 10104
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YURTBAŞI, AKMEZRA SAHİL ÖNÜ",
+    "id": 10105
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MADEN",
+    "MAHALLE": "CAMİİ KEBİR",
+    "id": 10106
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "MADEN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10107
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "KIRKPINAR",
+    "id": 10108
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "SARICAN, SUBAŞI",
+    "id": 10109
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "GÖLPINAR",
+    "id": 10110
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "KULUBABA",
+    "id": 10111
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10112
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "YENİ",
+    "id": 10113
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "TEPE",
+    "id": 10114
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 10115
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KARAKOÇAN",
+    "MAHALLE": "SARICAN, GÖLYAYLASI",
+    "id": 10116
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "ALTIOLUK",
+    "id": 10117
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 10118
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "GÜLAMAN",
+    "id": 10119
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "MERKEZ",
+    "id": 10120
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "SULARBAŞI",
+    "id": 10121
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "ALACAKAYA",
+    "MAHALLE": "ALTINÇANAK",
+    "id": 10122
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KEBAN",
+    "MAHALLE": "FIRAT",
+    "id": 10123
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KEBAN",
+    "MAHALLE": "BARAJ",
+    "id": 10124
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KEBAN",
+    "MAHALLE": "KALLAR",
+    "id": 10125
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KEBAN",
+    "MAHALLE": "DEĞİRMENBAŞI",
+    "id": 10126
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "HAZAR",
+    "id": 10127
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "KARAÇALI",
+    "id": 10128
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 10129
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "AKPINAR",
+    "id": 10130
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "KÜLTÜR",
+    "id": 10131
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "OLGUNLAR",
+    "id": 10132
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "SİVRİCE",
+    "MAHALLE": "SANAYİ",
+    "id": 10133
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "HEYBET",
+    "id": 10134
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "YENİ",
+    "id": 10135
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "GÜLTEPE",
+    "id": 10136
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "KAPIAÇMAZ",
+    "id": 10137
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 10138
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "KARACİMŞİT",
+    "id": 10139
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "ÇAY BAŞI",
+    "id": 10140
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "TUNA",
+    "id": 10141
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10142
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "BAĞLAR",
+    "id": 10143
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "FATİH",
+    "id": 10144
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "ÇARŞI BAŞI",
+    "id": 10145
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "KOVANCILAR",
+    "MAHALLE": "TOKİ",
+    "id": 10146
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "BEYHAN, GİRNE",
+    "id": 10147
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 10148
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "BEYHAN, KARŞIYAKA",
+    "id": 10149
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 10150
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "ESENTEPE",
+    "id": 10151
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "KALEKENT",
+    "id": 10152
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "ÇARŞI",
+    "id": 10153
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "KÜLTÜR",
+    "id": 10154
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "AŞAĞI",
+    "id": 10155
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "YUKARI PALU",
+    "id": 10156
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "NUMUNE",
+    "id": 10157
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "KARŞIBAHÇELER",
+    "id": 10158
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "BEYHAN, GÜNEY",
+    "id": 10159
+  },
+  {
+    "İL": "ELAZIĞ",
+    "İLÇE": "PALU",
+    "MAHALLE": "BEYHAN, İSTASYON",
+    "id": 10160
+  }
+]

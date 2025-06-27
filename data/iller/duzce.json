@@ -1,0 +1,704 @@
+[
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "ESKİKÖY",
+    "id": 9794
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "SARIYER",
+    "id": 9795
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "KARAÇALI",
+    "id": 9796
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "ÇELE",
+    "id": 9797
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "MERKEZ",
+    "id": 9798
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "KUMLUCA",
+    "id": 9799
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "KAYNAŞLI",
+    "MAHALLE": "ŞİMŞİR",
+    "id": 9800
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "KIŞLA",
+    "id": 9801
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "KÜLTÜR",
+    "id": 9802
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "FATİH",
+    "id": 9803
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "MERKEZ",
+    "id": 9804
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "YENİ",
+    "id": 9805
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÜMÜŞOVA",
+    "MAHALLE": "HACILAR",
+    "id": 9806
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "YALI",
+    "id": 9807
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "YENİ",
+    "id": 9808
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "YUKARI",
+    "id": 9809
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "AYAZLI",
+    "id": 9810
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "HACI YUSUFLAR",
+    "id": 9811
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9812
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 9813
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "AKÇAKOCA",
+    "MAHALLE": "OSMANİYE",
+    "id": 9814
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "MAHİRAĞA",
+    "id": 9815
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 9816
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "ULUCAMİ",
+    "id": 9817
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 9818
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "ARABACI",
+    "id": 9819
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "TOPÇULAR",
+    "id": 9820
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "ÇİLİMLİ",
+    "MAHALLE": "YEŞİL",
+    "id": 9821
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "YIĞILCA",
+    "MAHALLE": "AHMETÇİLER",
+    "id": 9822
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "YIĞILCA",
+    "MAHALLE": "MAREŞAL FEVZİ ÇAKMAK",
+    "id": 9823
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "YIĞILCA",
+    "MAHALLE": "ATATÜRK",
+    "id": 9824
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "YIĞILCA",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 9825
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "CUMAKIRI",
+    "id": 9826
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "YAZIPINAR",
+    "id": 9827
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "AÇMA",
+    "id": 9828
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "YEŞİL",
+    "id": 9829
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "ESEN",
+    "id": 9830
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "KÜLTÜR",
+    "id": 9831
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "YENİ",
+    "id": 9832
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "İMAMLAR",
+    "id": 9833
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "FATİH",
+    "id": 9834
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "GÖLYAKA",
+    "MAHALLE": "KUYUDÜZÜ",
+    "id": 9835
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "CUMAYERİ",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 9836
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "CUMAYERİ",
+    "MAHALLE": "YAKA",
+    "id": 9837
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "CUMAYERİ",
+    "MAHALLE": "ORTA",
+    "id": 9838
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "CUMAYERİ",
+    "MAHALLE": "ÇEVRİK",
+    "id": 9839
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "CUMAYERİ",
+    "MAHALLE": "YENİ",
+    "id": 9840
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKPINAR",
+    "id": 9841
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, CUMHURİYET",
+    "id": 9842
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, YENİ",
+    "id": 9843
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, DOKUZPINAR",
+    "id": 9844
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AZİZİYE",
+    "id": 9845
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, YEŞİLKÖY",
+    "id": 9846
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAVUŞLAR",
+    "id": 9847
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DERELİTÜTÜNCÜ",
+    "id": 9848
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 9849
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 9850
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEMETEVLER",
+    "id": 9851
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, İSTİKLAL OSB1",
+    "id": 9852
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9853
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇİFTEPINARLAR",
+    "id": 9854
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEDELER",
+    "id": 9855
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, YAZLIK",
+    "id": 9856
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DARICI",
+    "id": 9857
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARAPÇİFTLİĞİ",
+    "id": 9858
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, ÇAYIRTARLA",
+    "id": 9859
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAMLIEVLER",
+    "id": 9860
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FEVZİÇAKMAK",
+    "id": 9861
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, KÜLTÜR",
+    "id": 9862
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 9863
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜZELBAHÇE",
+    "id": 9864
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, DEĞİRMENBAŞI",
+    "id": 9865
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, BEYTEPE",
+    "id": 9866
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAKIRLAR",
+    "id": 9867
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAY",
+    "id": 9868
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, İSTİKLAL",
+    "id": 9869
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 9870
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYCİLER",
+    "id": 9871
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEYKÖY, CUMHURİYET OSB2",
+    "id": 9872
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 9873
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEDİDİYE",
+    "id": 9874
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BURHANİYE",
+    "id": 9875
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AĞAKÖYÜ",
+    "id": 9876
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 9877
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, BALLAR",
+    "id": 9878
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOĞAZİÇİ, ŞEKERPINAR",
+    "id": 9879
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKINLAR",
+    "id": 9880
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AZMİMİLLİ",
+    "id": 9881
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 9882
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MERGİÇ",
+    "id": 9883
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 9884
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 9885
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SALLAR",
+    "id": 9886
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TERZİALİLER",
+    "id": 9887
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOKUŞLAR",
+    "id": 9888
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KOÇYAZI",
+    "id": 9889
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÖRPEŞLER",
+    "id": 9890
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAYYERİ",
+    "id": 9891
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARACA",
+    "id": 9892
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KUYUMCUHACIALİ",
+    "id": 9893
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞIRALIK",
+    "id": 9894
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NALBANTOĞLU",
+    "id": 9895
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİREMİTOCAĞI",
+    "id": 9896
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT MURAT DEMİR",
+    "id": 9897
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAZUKOĞLU",
+    "id": 9898
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAKLAR",
+    "id": 9899
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT BAYRAM GÖKMEN",
+    "id": 9900
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "UZUNMUSTAFA",
+    "id": 9901
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NUSRETTİN",
+    "id": 9902
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 9903
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARA HACIMUSA ",
+    "id": 9904
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT KEMAL IŞILDAK",
+    "id": 9905
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 9906
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 9907
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT HÜSEYİN KIL",
+    "id": 9908
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAHYALAR",
+    "id": 9909
+  },
+  {
+    "İL": "DÜZCE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUKARI YAHYALAR",
+    "id": 9910
+  }
+]

@@ -1,0 +1,950 @@
+[
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1554
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1555
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "ZAFER",
+    "id": 1556
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 1557
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "EŞMEKAYA, KAYACIK",
+    "id": 1558
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "EŞMEKAYA, YEŞİLYURT",
+    "id": 1559
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "FATİH",
+    "id": 1560
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 1561
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "EŞMEKAYA, CAMİKEBİR",
+    "id": 1562
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 1563
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "EŞMEKAYA, YENİ",
+    "id": 1564
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "YILDIRIM",
+    "id": 1565
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "AYDINLIK",
+    "id": 1566
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 1567
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "ÇULFA",
+    "id": 1568
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "MERKEZ",
+    "id": 1569
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ESKİL",
+    "MAHALLE": "İSTİKLAL",
+    "id": 1570
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 1571
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "ÖZAL",
+    "id": 1572
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "ŞAFAKTEPE",
+    "id": 1573
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "FATİH",
+    "id": 1574
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 1575
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 1576
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 1577
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SARIYAHŞİ",
+    "MAHALLE": "KIZILIRMAK",
+    "id": 1578
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "KOYUNCU",
+    "id": 1579
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "SELÇUK",
+    "id": 1580
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "İSTİKAMET",
+    "id": 1581
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "ZAFER",
+    "id": 1582
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1583
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "GAZİ",
+    "id": 1584
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "SULTANHANI",
+    "MAHALLE": "TÜRKİSTAN",
+    "id": 1585
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "ESENTEPE",
+    "id": 1586
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "MALTEPE",
+    "id": 1587
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "İSTİKLAL",
+    "id": 1588
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "KIZILAY",
+    "id": 1589
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "ÇANKAYA",
+    "id": 1590
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "BALCI",
+    "id": 1591
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "FATİH",
+    "id": 1592
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 1593
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "PLEVNE",
+    "id": 1594
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "ZAFER",
+    "id": 1595
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "YENİ",
+    "id": 1596
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "KARŞI",
+    "id": 1597
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "GÜMÜŞTEPE",
+    "id": 1598
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "KALE",
+    "id": 1599
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "YURTSEVER",
+    "id": 1600
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "ZAFER",
+    "id": 1601
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "YENİŞABANLI",
+    "id": 1602
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "AĞAÇÖREN",
+    "MAHALLE": "YENİ",
+    "id": 1603
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARATOL BAHÇELİ",
+    "id": 1604
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÜYÜK BÖLCEK",
+    "id": 1605
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLIKAYA, KURTULUŞ",
+    "id": 1606
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 1607
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYRAMBABA",
+    "id": 1608
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇERDİĞİN",
+    "id": 1609
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLIKAYA, ÇİMELİ",
+    "id": 1610
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEDİR MUHTAR",
+    "id": 1611
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1612
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVADERE, KİRAZLI",
+    "id": 1613
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVADERE, ZAFER",
+    "id": 1614
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLIKAYA, YENİMAHALLE",
+    "id": 1615
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DERE",
+    "id": 1616
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIHASANLI",
+    "id": 1617
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HASAS",
+    "id": 1618
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "COĞLAKİ",
+    "id": 1619
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOPAKKAYA, FATİH",
+    "id": 1620
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİKENT, GAZİ",
+    "id": 1621
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KILIÇASLAN",
+    "id": 1622
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAĞLIK, YENİMAHALLE",
+    "id": 1623
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAMLI",
+    "id": 1624
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞPINAR, ERENLER OSB",
+    "id": 1625
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE, ZAFER",
+    "id": 1626
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUHSİN ÇELEBİ",
+    "id": 1627
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOPAKKAYA, GÜLHANE",
+    "id": 1628
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİNARECİK",
+    "id": 1629
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAĞLIK, DİVANOĞLU",
+    "id": 1630
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANAYİ",
+    "id": 1631
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SOMUNCU BABA",
+    "id": 1632
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞİFAHANE",
+    "id": 1633
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞPINAR, YAVUZ SELİM",
+    "id": 1634
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİKENT, İSTİKLAL",
+    "id": 1635
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZAFER",
+    "id": 1636
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 1637
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜÇÜK BÖLCEK",
+    "id": 1638
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PAŞACIK",
+    "id": 1639
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, ALASAKALLI",
+    "id": 1640
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "LALELİ",
+    "id": 1641
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PAMUCAK",
+    "id": 1642
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞPINAR, YENİ CAMİ",
+    "id": 1643
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOPAKKAYA, MEDENİ",
+    "id": 1644
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE, FATİH",
+    "id": 1645
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLIKAYA, BOĞAZİÇİ",
+    "id": 1646
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EREĞLİKAPI",
+    "id": 1647
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇESARAY",
+    "id": 1648
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARATOL İSTİKLAL",
+    "id": 1649
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİ",
+    "id": 1650
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 1651
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 1652
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVADERE, CUMHURİYET",
+    "id": 1653
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 1654
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALANLAR",
+    "id": 1655
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TOPAKKAYA, YEŞİLÇAM",
+    "id": 1656
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, KÖSELİ",
+    "id": 1657
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLOVA, PARABAŞLI",
+    "id": 1658
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE, HÜRRİYET",
+    "id": 1659
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 1660
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZİNCİRLİ",
+    "id": 1661
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEYDAN",
+    "id": 1662
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 1663
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 1664
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEYHHAMİT",
+    "id": 1665
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TACİN",
+    "id": 1666
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞPINAR, ERENLER",
+    "id": 1667
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRIMLI",
+    "id": 1668
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAĞLIK, FATİH",
+    "id": 1669
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SOFULAR",
+    "id": 1670
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAŞPAZAR",
+    "id": 1671
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 1672
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAKKAŞ",
+    "id": 1673
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVADERE, AYDINLAR",
+    "id": 1674
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1675
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLTEPE, ÇALIŞKAN",
+    "id": 1676
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACILAR HARMANI",
+    "id": 1677
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PINAR",
+    "id": 1678
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 1679
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİKENT, ZAFER",
+    "id": 1680
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "DEMİRCİ, KALEALTI",
+    "id": 1681
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "ATATÜRK",
+    "id": 1682
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "GÜLPINAR, FATİH",
+    "id": 1683
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "GÜLPINAR, PINARBAŞI",
+    "id": 1684
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "DEMİRCİ, ESKİCAMİ",
+    "id": 1685
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 1686
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "FATİH",
+    "id": 1687
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "SARATLI, İSTİKLAL",
+    "id": 1688
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "DEMİRCİ, YENİPAZAR",
+    "id": 1689
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "GÜLPINAR, CUMHURİYET",
+    "id": 1690
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "GÜLPINAR, KOYUNLU",
+    "id": 1691
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "SARATLI, CUMHURİYET",
+    "id": 1692
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "DEMİRCİ, KURTULUŞ",
+    "id": 1693
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "MEYDAN",
+    "id": 1694
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "SARATLI, KARŞIYAKA",
+    "id": 1695
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "SARATLI, MEYDAN",
+    "id": 1696
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "GÜLPINAR, TUZLA",
+    "id": 1697
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1698
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "SARATLI, ZAFER",
+    "id": 1699
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜLAĞAÇ",
+    "MAHALLE": "YENİ",
+    "id": 1700
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "AKYAMAÇ",
+    "id": 1701
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "IHLARA, KARŞIYAKA",
+    "id": 1702
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "YENİ",
+    "id": 1703
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "SELİME, KAYAALTI",
+    "id": 1704
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "SELİME, YENİ",
+    "id": 1705
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "AŞAĞI",
+    "id": 1706
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "YUKARI",
+    "id": 1707
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "IHLARA, HARMANLIK",
+    "id": 1708
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "IHLARA, KAYAARDI",
+    "id": 1709
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "SELİME, KÖPRÜBAŞI",
+    "id": 1710
+  },
+  {
+    "İL": "AKSARAY",
+    "İLÇE": "GÜZELYURT",
+    "MAHALLE": "IHLARA, AKPINAR",
+    "id": 1711
+  }
+]

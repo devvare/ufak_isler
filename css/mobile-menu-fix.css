@@ -1,0 +1,147 @@
+/* Mobil Menü Düzeltmeleri */
+.mobile-menu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 80%;
+    max-width: 350px;
+    height: 100vh;
+    background-color: var(--dark-bg);
+    z-index: 9999;
+    transition: right 0.3s ease;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+    padding: 100px 20px 20px; /* Menüyü daha aşağıya almak için üst padding'i artırıyorum */
+    border-left: 1px solid var(--border-color);
+}
+
+.mobile-menu.active {
+    right: 0;
+}
+
+.mobile-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mobile-menu ul li {
+    margin-bottom: 8px; /* Öğeler arası boşluğu azaltıyorum */
+}
+
+.mobile-menu ul li a {
+    color: var(--white);
+    font-size: 1.1rem;
+    text-decoration: none;
+    display: block;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    transition: color 0.3s ease;
+    text-align: left;
+}
+
+.mobile-menu ul li a:hover {
+    color: var(--secondary-color);
+}
+
+.close-menu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 1.5rem;
+    color: var(--white);
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-menu:hover {
+    color: var(--secondary-color);
+}
+
+.mobile-menu-btn {
+    display: none;
+    font-size: 1.5rem;
+    color: var(--white);
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.mobile-menu-btn:hover {
+    color: var(--secondary-color);
+}
+
+/* Mobil görünüm düzenlemeleri */
+@media (max-width: 992px) {
+    nav ul {
+        display: none !important;
+    }
+    
+    .mobile-menu-btn {
+        display: block !important;
+    }
+}
+
+/* Mobil menü arka planı */
+.mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9998;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.mobile-menu-overlay.active {
+    display: block;
+    opacity: 1;
+}
+
+/* Mobil açılır menü stilleri */
+.mobile-dropdown {
+    position: relative;
+}
+
+.mobile-dropbtn {
+    position: relative;
+    cursor: pointer;
+}
+
+.mobile-dropbtn::after {
+    content: '\f107'; /* Font Awesome down arrow */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.3s ease;
+}
+
+.mobile-dropdown-content {
+    display: none;
+    padding-left: 15px;
+    margin-top: 5px;
+}
+
+.mobile-dropdown-content.show {
+    display: block;
+}
+
+.mobile-dropdown-content a {
+    padding: 8px 0 8px 15px !important;
+    font-size: 1rem !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+    position: relative;
+}
+
+.mobile-dropdown-content a::before {
+    content: '-';
+    position: absolute;
+    left: 0;
+}
+
+/* Mobil menüde tüm öğeler aynı renkte gösterilecek */

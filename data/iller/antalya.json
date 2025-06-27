@@ -1,0 +1,5504 @@
+[
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "TEKİROVA",
+    "id": 3252
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "ARSLANBUCAK",
+    "id": 3253
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "ÇAMYUVA",
+    "id": 3254
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "KİRİŞ",
+    "id": 3255
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "BELDİBİ",
+    "id": 3256
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "KUZDERE",
+    "id": 3257
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "OVACIK",
+    "id": 3258
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "ULUPINAR",
+    "id": 3259
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "GÖYNÜK",
+    "id": 3260
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "BEYCİK",
+    "id": 3261
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "MERKEZ",
+    "id": 3262
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEMER",
+    "MAHALLE": "YENİ",
+    "id": 3263
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KARABUCAK",
+    "id": 3264
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "ÇEVRELİ",
+    "id": 3265
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "BELÖREN",
+    "id": 3266
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "BÜYÜKKUM",
+    "id": 3267
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "ÇAĞMAN",
+    "id": 3268
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "ALAKENT",
+    "id": 3269
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KÖŞKERLER",
+    "id": 3270
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "YAVU",
+    "id": 3271
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "YAYLAKAYA",
+    "id": 3272
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "BEYMELEK",
+    "id": 3273
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "GÖKYAZI",
+    "id": 3274
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KAPAKLI",
+    "id": 3275
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KAYAALTI",
+    "id": 3276
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KALEÜÇAĞIZ",
+    "id": 3277
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "GÜRSES",
+    "id": 3278
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "KÜÇÜKKUM",
+    "id": 3279
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DEMRE",
+    "MAHALLE": "DAVAZLAR",
+    "id": 3280
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 3281
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ALACADAĞ",
+    "id": 3282
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 3283
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "DAĞBAĞ",
+    "id": 3284
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ERNEZ",
+    "id": 3285
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YALNIZ",
+    "id": 3286
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "SAHİLKENT",
+    "id": 3287
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "İSKELE",
+    "id": 3288
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "KIZILCA",
+    "id": 3289
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "KUM",
+    "id": 3290
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ESKİ",
+    "id": 3291
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ASARÖNÜ",
+    "id": 3292
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "TURUNÇOVA",
+    "id": 3293
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YUVALI",
+    "id": 3294
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "ARİF",
+    "id": 3295
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "HASYURT",
+    "id": 3296
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "KALE",
+    "id": 3297
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 3298
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "BOLDAĞ",
+    "id": 3299
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "GÖKBÜK",
+    "id": 3300
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 3301
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "GÖKÇEYAKA",
+    "id": 3302
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YENİ",
+    "id": 3303
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "AKÇAALAN",
+    "id": 3304
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "SAKLISU",
+    "id": 3305
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "FİNİKE",
+    "MAHALLE": "YAZIR",
+    "id": 3306
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BOĞAZKENT",
+    "id": 3307
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BÜĞÜŞ",
+    "id": 3308
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "DENİZTEPESİ",
+    "id": 3309
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AŞAĞIÇATMA",
+    "id": 3310
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AŞAĞIOBA",
+    "id": 3311
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BELEK",
+    "id": 3312
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "GEDİK",
+    "id": 3313
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KÖKEZ",
+    "id": 3314
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "SARIABALI",
+    "id": 3315
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "TÖNGÜŞLÜ",
+    "id": 3316
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ÜRÜNDÜ",
+    "id": 3317
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YANKÖY",
+    "id": 3318
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BİLGİNLER",
+    "id": 3319
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BOZDOĞAN",
+    "id": 3320
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "CUMALI",
+    "id": 3321
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ÇANDIR",
+    "id": 3322
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "DİKMEN",
+    "id": 3323
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ORTA",
+    "id": 3324
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YUKARIÇATMA",
+    "id": 3325
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YUMAKLAR",
+    "id": 3326
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ABDURRAHMANLAR",
+    "id": 3327
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AKÇAALAN",
+    "id": 3328
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BURMAHANCI",
+    "id": 3329
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "EMİNCELER",
+    "id": 3330
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ESKİYÜRÜK",
+    "id": 3331
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "GÖKÇEPINAR",
+    "id": 3332
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KOZAN",
+    "id": 3333
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YUKARIKOCAYATAK",
+    "id": 3334
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "NEBİLER",
+    "id": 3335
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 3336
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 3337
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BELPINAR",
+    "id": 3338
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 3339
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ÇAKALLIK",
+    "id": 3340
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KAYABURNU",
+    "id": 3341
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YENİ",
+    "id": 3342
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KUŞLAR",
+    "id": 3343
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ŞATIRLI",
+    "id": 3344
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "GEBİZ",
+    "id": 3345
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KOZAĞACI",
+    "id": 3346
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AKBAŞ",
+    "id": 3347
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BUCAKKÖY",
+    "id": 3348
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KADRİYE",
+    "id": 3349
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "YEŞİLVADİ",
+    "id": 3350
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 3351
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "HASDÜMEN",
+    "id": 3352
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KARINCALI",
+    "id": 3353
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ZIRLANKAYA",
+    "id": 3354
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "HACIOSMANLAR",
+    "id": 3355
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KARATAŞ",
+    "id": 3356
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "PINARCIK",
+    "id": 3357
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ÇATALLAR",
+    "id": 3358
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ETLER",
+    "id": 3359
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 3360
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "HASKIZILÖREN",
+    "id": 3361
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KARADAYI",
+    "id": 3362
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "TEKKE",
+    "id": 3363
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "AŞAĞIKOCAYATAK",
+    "id": 3364
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BELKIS",
+    "id": 3365
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KIRBAŞ",
+    "id": 3366
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "MERKEZ",
+    "id": 3367
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "ALACAMİ",
+    "id": 3368
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "BERENDİ",
+    "id": 3369
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "DORUMLAR",
+    "id": 3370
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "HASPINAR",
+    "id": 3371
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "SERİK",
+    "MAHALLE": "KÜRÜŞ",
+    "id": 3372
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "AĞULLU",
+    "id": 3373
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BELDİBİ",
+    "id": 3374
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BELKONAK",
+    "id": 3375
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇAVDIR",
+    "id": 3376
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 3377
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "İKİZCE",
+    "id": 3378
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "OVA",
+    "id": 3379
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BEZİRGAN",
+    "id": 3380
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇATALOLUK",
+    "id": 3381
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KALKAN",
+    "id": 3382
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "SARIBELEN",
+    "id": 3383
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "SÜTLEĞEN",
+    "id": 3384
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YEŞİLBARAK",
+    "id": 3385
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ANDİFLİ",
+    "id": 3386
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BAYINDIR",
+    "id": 3387
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "DİRGENLER",
+    "id": 3388
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KINIK",
+    "id": 3389
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YENİKÖY",
+    "id": 3390
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "GELEMİŞ",
+    "id": 3391
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YAYLAKILINÇLI",
+    "id": 3392
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇAMLIKÖY",
+    "id": 3393
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇERLER",
+    "id": 3394
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KARADAĞ",
+    "id": 3395
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ORTABAĞ",
+    "id": 3396
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "PALAMUT",
+    "id": 3397
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "SAHİLKILINÇLI",
+    "id": 3398
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "SARILAR",
+    "id": 3399
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "AKLAR",
+    "id": 3400
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BOĞAZCIK",
+    "id": 3401
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "GÜRSU",
+    "id": 3402
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 3403
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YAYLAPALAMUT",
+    "id": 3404
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YUVACIK",
+    "id": 3405
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 3406
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "GÖKÇEYAZI",
+    "id": 3407
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "GÖMBE",
+    "id": 3408
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 3409
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇEŞME",
+    "id": 3410
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "DOĞANTAŞ",
+    "id": 3411
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KASABA",
+    "id": 3412
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "SİNNELİ",
+    "id": 3413
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "DERE",
+    "id": 3414
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KEMER",
+    "id": 3415
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 3416
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 3417
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "AHATLI",
+    "id": 3418
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "AKÖRÜ",
+    "id": 3419
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "BELENLİ",
+    "id": 3420
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇAMLIOVA",
+    "id": 3421
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "ÇUKURBAĞ",
+    "id": 3422
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "HACIOĞLAN",
+    "id": 3423
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "CEMRE",
+    "id": 3424
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "İSLAMLAR",
+    "id": 3425
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KAŞ",
+    "MAHALLE": "UĞRAR",
+    "id": 3426
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "AŞAĞI",
+    "id": 3427
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "ÇUKURVİRAN",
+    "id": 3428
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "YUKARI",
+    "id": 3429
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "BAŞLAR",
+    "id": 3430
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "ORMANA",
+    "id": 3431
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "DÜZLEN",
+    "id": 3432
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "ÜRÜNLÜ",
+    "id": 3433
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "AYDINYAYLA",
+    "id": 3434
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "İBRADI",
+    "MAHALLE": "ÜZÜMDERE",
+    "id": 3435
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "DEREKÖY",
+    "id": 3436
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARAKUYU",
+    "id": 3437
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KİREMİTLİ",
+    "id": 3438
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "LEYLEK",
+    "id": 3439
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YAKAKÖY",
+    "id": 3440
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "DURALİLER",
+    "id": 3441
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "İMECİK",
+    "id": 3442
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KIRKPINAR",
+    "id": 3443
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KIZILCADAĞ",
+    "id": 3444
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KOZAĞACI",
+    "id": 3445
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "MAMATLAR",
+    "id": 3446
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "AŞAĞIPAZAR",
+    "id": 3447
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BAHÇEYAKA",
+    "id": 3448
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARABAYIR",
+    "id": 3449
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARGIN",
+    "id": 3450
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "AVDAN",
+    "id": 3451
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ALAADDİN",
+    "id": 3452
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KÜÇÜKLÜ",
+    "id": 3453
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "NEBİLER",
+    "id": 3454
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YEŞİLOBA",
+    "id": 3455
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "TAŞKESİĞİ",
+    "id": 3456
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YUKARIKARAMAN",
+    "id": 3457
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BEĞİŞ",
+    "id": 3458
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARATAŞ",
+    "id": 3459
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ULUCAK",
+    "id": 3460
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "GARİPCE",
+    "id": 3461
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "İMRAHOR",
+    "id": 3462
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ÇAYKENARI",
+    "id": 3463
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KAYABAŞ",
+    "id": 3464
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YELTEN",
+    "id": 3465
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BAYAT",
+    "id": 3466
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "AKYAR",
+    "id": 3467
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YAZIR",
+    "id": 3468
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BÜYÜKKÖY",
+    "id": 3469
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ÇUKURCA",
+    "id": 3470
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BAYATBADEMLERİ",
+    "id": 3471
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "GÜMÜŞLÜ",
+    "id": 3472
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARGALIK",
+    "id": 3473
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 3474
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "SÖĞÜTCÜK",
+    "id": 3475
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YELEME",
+    "id": 3476
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ÇIVGALAR",
+    "id": 3477
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ESENYURT",
+    "id": 3478
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "GÖÇERLER",
+    "id": 3479
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "GÜZLE",
+    "id": 3480
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "BOZOVA",
+    "id": 3481
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KÖSELER",
+    "id": 3482
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KÜÇÜKKÖY",
+    "id": 3483
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "SÜLEKLER",
+    "id": 3484
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "TATKÖY",
+    "id": 3485
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "UZUNOLUK",
+    "id": 3486
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "ÇOMAKLI",
+    "id": 3487
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KEMERAĞZI",
+    "id": 3488
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "KIZILALİLER",
+    "id": 3489
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "MANAY",
+    "id": 3490
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "OSMANKALFALAR",
+    "id": 3491
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YENİ",
+    "id": 3492
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KORKUTELİ",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 3493
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARABUCAK",
+    "id": 3494
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARACALAR",
+    "id": 3495
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KISALAR",
+    "id": 3496
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "A.PAZARCI",
+    "id": 3497
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BUCAKŞEYHLER",
+    "id": 3498
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BÜKLÜCE",
+    "id": 3499
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "EVRENSEKİ",
+    "id": 3500
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GAZİLER",
+    "id": 3501
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BALLIBUCAK",
+    "id": 3502
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DENİZYAKA",
+    "id": 3503
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KIZILOT",
+    "id": 3504
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SEVİNÇKÖY",
+    "id": 3505
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "A.HİSAR",
+    "id": 3506
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "AŞAĞIIŞIKLAR",
+    "id": 3507
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 3508
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "CEVİZLER",
+    "id": 3509
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DEĞİRMENÖZÜ",
+    "id": 3510
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DÜZAĞAÇ",
+    "id": 3511
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "EMEK",
+    "id": 3512
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GÜZELYALI",
+    "id": 3513
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KIZILDAĞ",
+    "id": 3514
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÖRNEK",
+    "id": 3515
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SARAÇLI",
+    "id": 3516
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YAYLA",
+    "id": 3517
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "AHMETLER",
+    "id": 3518
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BELENOBASI",
+    "id": 3519
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HACIALİ",
+    "id": 3520
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARAKAYA",
+    "id": 3521
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KASAPLAR",
+    "id": 3522
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "NAMARAS",
+    "id": 3523
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SANAYİ",
+    "id": 3524
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ŞELALE",
+    "id": 3525
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YAYLAALAN",
+    "id": 3526
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BEŞKONAK",
+    "id": 3527
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 3528
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HACIOBASI",
+    "id": 3529
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HATİPLER",
+    "id": 3530
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HOCALI",
+    "id": 3531
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 3532
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SIRTKÖY",
+    "id": 3533
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇAKIŞ",
+    "id": 3534
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DOLBAZLAR",
+    "id": 3535
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GÜLTEPE",
+    "id": 3536
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HACIİSALI",
+    "id": 3537
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ILICA",
+    "id": 3538
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ODAÖNÜ",
+    "id": 3539
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 3540
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "UZUNKALE",
+    "id": 3541
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "AKSAZ",
+    "id": 3542
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ALTINKAYA",
+    "id": 3543
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇOLAKLI",
+    "id": 3544
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KADILAR",
+    "id": 3545
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARABÜK",
+    "id": 3546
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SALUR",
+    "id": 3547
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SORGUN",
+    "id": 3548
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ŞİŞELER",
+    "id": 3549
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "TAŞKESİĞİ",
+    "id": 3550
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ULUKAPI",
+    "id": 3551
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KIRKKAVAK",
+    "id": 3552
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "PERAKENDE",
+    "id": 3553
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SARILAR",
+    "id": 3554
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "TİLKİLER",
+    "id": 3555
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BEYDİĞİN",
+    "id": 3556
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇAVUŞKÖY",
+    "id": 3557
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ESKİ HİSAR",
+    "id": 3558
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARAÖZ",
+    "id": 3559
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "TEPEKÖY",
+    "id": 3560
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YENİKÖY",
+    "id": 3561
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YUKARIIŞIKLAR",
+    "id": 3562
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇALTEPE",
+    "id": 3563
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇENGER",
+    "id": 3564
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DİKMEN",
+    "id": 3565
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "EVRENLERYAVŞI",
+    "id": 3566
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GEBECE",
+    "id": 3567
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "OYMAPINAR",
+    "id": 3568
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YAVRUDOĞAN",
+    "id": 3569
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÖRENŞEHİR",
+    "id": 3570
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SAĞIRİN",
+    "id": 3571
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "Y.HİSAR",
+    "id": 3572
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BURMAHAN",
+    "id": 3573
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DENİZKENT",
+    "id": 3574
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KALEMLER",
+    "id": 3575
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KIZILAĞAÇ",
+    "id": 3576
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "MİLLİ EGEMENLİK",
+    "id": 3577
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SİDE",
+    "id": 3578
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "AYDINEVLER",
+    "id": 3579
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 3580
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇARDAKKÖY",
+    "id": 3581
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 3582
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "DOĞANÇAM",
+    "id": 3583
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BEREKET",
+    "id": 3584
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "ÇAYYAZI",
+    "id": 3585
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GENÇLER",
+    "id": 3586
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HOCALAR",
+    "id": 3587
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KARAVCA",
+    "id": 3588
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "BOZTEPE",
+    "id": 3589
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 3590
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "HALİTAĞALAR",
+    "id": 3591
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "KAVAKLI",
+    "id": 3592
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SALKIM EVLER",
+    "id": 3593
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SEYDİLER",
+    "id": 3594
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "SÜLEK",
+    "id": 3595
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "UZUNLAR",
+    "id": 3596
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "Y.PAZARCI",
+    "id": 3597
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YALÇIDİBİ",
+    "id": 3598
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MANAVGAT",
+    "MAHALLE": "YEŞİLBAĞ",
+    "id": 3599
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ALTINOVA DÜDEN",
+    "id": 3600
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "AYDOĞMUŞ",
+    "id": 3601
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "AKTOPRAK",
+    "id": 3602
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ALTINOVA ORTA",
+    "id": 3603
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 3604
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "BAŞKÖY",
+    "id": 3605
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "EMEK",
+    "id": 3606
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 3607
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ÜNSAL",
+    "id": 3608
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 3609
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ALTIAYAK",
+    "id": 3610
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KİRİŞÇİLER",
+    "id": 3611
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "SÜTÇÜLER",
+    "id": 3612
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YÜKSELİŞ",
+    "id": 3613
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "MENDERES",
+    "id": 3614
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "SANTRAL",
+    "id": 3615
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YENİ DOĞAN",
+    "id": 3616
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 3617
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ÖZGÜRLÜK",
+    "id": 3618
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "BARAJ",
+    "id": 3619
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "FABRİKALAR",
+    "id": 3620
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GAZİ",
+    "id": 3621
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GAZİLER",
+    "id": 3622
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GÖKSU",
+    "id": 3623
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KÜTÜKÇÜ",
+    "id": 3624
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ULUS",
+    "id": 3625
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 3626
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ERENKÖY",
+    "id": 3627
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GÜNEŞ",
+    "id": 3628
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ŞAFAK",
+    "id": 3629
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 3630
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 3631
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "VARSAK KARŞIYAKA",
+    "id": 3632
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ÇANKAYA",
+    "id": 3633
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ODABAŞI",
+    "id": 3634
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "VARSAK ESENTEPE",
+    "id": 3635
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 3636
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "VARSAK MENDERES",
+    "id": 3637
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "BARIŞ",
+    "id": 3638
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 3639
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YENİ EMEK",
+    "id": 3640
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ZAFER",
+    "id": 3641
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ALTINOVA SİNAN",
+    "id": 3642
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "BEŞKONAKLILAR",
+    "id": 3643
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KEPEZ",
+    "id": 3644
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "TEOMANPAŞA",
+    "id": 3645
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "AYANOĞLU",
+    "id": 3646
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 3647
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "DUACI",
+    "id": 3648
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KANAL",
+    "id": 3649
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KIZILLI",
+    "id": 3650
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KUZEYYAKA",
+    "id": 3651
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "AVNİ TOLUNAY",
+    "id": 3652
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "DURALİLER",
+    "id": 3653
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GÖÇERLER",
+    "id": 3654
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "GÜLVEREN",
+    "id": 3655
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "HABİBLER",
+    "id": 3656
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "HÜSNÜ KARAKAŞ",
+    "id": 3657
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YENİ",
+    "id": 3658
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 3659
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 3660
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 3661
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "DEMİREL",
+    "id": 3662
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "DÜDENBAŞI",
+    "id": 3663
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 3664
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "ŞELALE",
+    "id": 3665
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "AHATLI",
+    "id": 3666
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KEPEZ",
+    "MAHALLE": "FATİH",
+    "id": 3667
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "AKÇATI",
+    "id": 3668
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "AVSALLAR",
+    "id": 3669
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "HACIMEHMETLİ",
+    "id": 3670
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BAYIR",
+    "id": 3671
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BURÇAKLAR",
+    "id": 3672
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "İMAMLI",
+    "id": 3673
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SABURLAR",
+    "id": 3674
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 3675
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÜZELBAĞ",
+    "id": 3676
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "MAHMUTLAR",
+    "id": 3677
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YENİKÖY",
+    "id": 3678
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ALACAMİ",
+    "id": 3679
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ELİKESİK",
+    "id": 3680
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÜNEY",
+    "id": 3681
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "İSHAKLI",
+    "id": 3682
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 3683
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TOSLAK",
+    "id": 3684
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YAYLAKONAK",
+    "id": 3685
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BADEMAĞACI",
+    "id": 3686
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BEYRELİ",
+    "id": 3687
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 3688
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÜMÜŞKAVAK",
+    "id": 3689
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BAYIRKOZAĞACI",
+    "id": 3690
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÖZÜKÜÇÜKLÜ",
+    "id": 3691
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÜMÜŞGÖZE",
+    "id": 3692
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "UĞRAK",
+    "id": 3693
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "İNCEKUM",
+    "id": 3694
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÖTEKÖY",
+    "id": 3695
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÖZVADİ",
+    "id": 3696
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SUGÖZÜ",
+    "id": 3697
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TIRILAR",
+    "id": 3698
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 3699
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BELDİBİ",
+    "id": 3700
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "CİKCİLLİ",
+    "id": 3701
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÇAMLICA",
+    "id": 3702
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÇARŞI",
+    "id": 3703
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KARAKOCALI",
+    "id": 3704
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KESTEL",
+    "id": 3705
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YALÇI",
+    "id": 3706
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ASMACA",
+    "id": 3707
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BEKTAŞ",
+    "id": 3708
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "DİNEK",
+    "id": 3709
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "FAKIRCALI",
+    "id": 3710
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KAYABAŞI",
+    "id": 3711
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KÜÇÜKHASBAHÇE",
+    "id": 3712
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "UĞURLU",
+    "id": 3713
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BIÇAKÇI",
+    "id": 3714
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BUCAK",
+    "id": 3715
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "DERE",
+    "id": 3716
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "HACET",
+    "id": 3717
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KADIPAŞA",
+    "id": 3718
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TOPHANE",
+    "id": 3719
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SEKİ",
+    "id": 3720
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TÜRKLER",
+    "id": 3721
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TÜRKTAŞ",
+    "id": 3722
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ALARA",
+    "id": 3723
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ALİEFENDİ",
+    "id": 3724
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "HOCALAR",
+    "id": 3725
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KARGICAK",
+    "id": 3726
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "OBAALACAMİ",
+    "id": 3727
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ORHAN",
+    "id": 3728
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 3729
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BASIRLI",
+    "id": 3730
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÜLLER PINARI",
+    "id": 3731
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "HİSARİÇİ",
+    "id": 3732
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KEŞEFLİ",
+    "id": 3733
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KONAKLI",
+    "id": 3734
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SARAY",
+    "id": 3735
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "AKDAM",
+    "id": 3736
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BAŞKÖY",
+    "id": 3737
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BÜYÜKHASBAHÇE",
+    "id": 3738
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÇIPLAKLI",
+    "id": 3739
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ÇAKALLAR",
+    "id": 3740
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "FIĞLA",
+    "id": 3741
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "GÖZÜBÜYÜK",
+    "id": 3742
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KARAMANLAR",
+    "id": 3743
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KIZLAR PINARI",
+    "id": 3744
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "OBA",
+    "id": 3745
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "OKURCALAR",
+    "id": 3746
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SÜLEYMANLAR",
+    "id": 3747
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TOSMUR",
+    "id": 3748
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "UZUNÖZ",
+    "id": 3749
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YAYLALI",
+    "id": 3750
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KARAPINAR",
+    "id": 3751
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KOCAOĞLANLI",
+    "id": 3752
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ŞEKERHANE",
+    "id": 3753
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "ŞIHLAR",
+    "id": 3754
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 3755
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "BÜYÜKPINAR",
+    "id": 3756
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 3757
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "EMİŞBELENİ",
+    "id": 3758
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KIZILCAŞEHİR",
+    "id": 3759
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "MAHMUTSEYDİ",
+    "id": 3760
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "PAYALLAR",
+    "id": 3761
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SAPADERE",
+    "id": 3762
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 3763
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "TEPE",
+    "id": 3764
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YASİRALİ",
+    "id": 3765
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "HACIKERİMLER",
+    "id": 3766
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "İSBATLI",
+    "id": 3767
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "KUZYAKA",
+    "id": 3768
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ALANYA",
+    "MAHALLE": "YENİCE",
+    "id": 3769
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AHIRTAŞ",
+    "id": 3770
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AOSB2KISIM",
+    "id": 3771
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KARAVELİLER",
+    "id": 3772
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AOSB3KISIM",
+    "id": 3773
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "ILICAKÖY",
+    "id": 3774
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KARAMAN",
+    "id": 3775
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KEVŞİRLER",
+    "id": 3776
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KİLLİK",
+    "id": 3777
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "NEBİLER",
+    "id": 3778
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AYDINLAR",
+    "id": 3779
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "BADEMAĞACI",
+    "id": 3780
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "DAĞBELİ",
+    "id": 3781
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "DÜZLERÇAMI",
+    "id": 3782
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KOVANLIK",
+    "id": 3783
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "YENİKÖY",
+    "id": 3784
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "DERELİ",
+    "id": 3785
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "SELİMİYE",
+    "id": 3786
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "ALTINKALE",
+    "id": 3787
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AKKOÇ",
+    "id": 3788
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AŞAĞIOBA",
+    "id": 3789
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "CAMİLİ",
+    "id": 3790
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "ORTA",
+    "id": 3791
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KARATAŞ",
+    "id": 3792
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "YAĞCA",
+    "id": 3793
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AOSB1KISIM",
+    "id": 3794
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "AYANLAR",
+    "id": 3795
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "EKŞİLİ",
+    "id": 3796
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "YALINLI",
+    "id": 3797
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "ÇIPLAKLI",
+    "id": 3798
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "TOMALAR",
+    "id": 3799
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "BAHÇEYAKA",
+    "id": 3800
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "BIYIKLI",
+    "id": 3801
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "ÇIĞLIK",
+    "id": 3802
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "YEŞİLBAYIR",
+    "id": 3803
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "DÖŞEMEALTI",
+    "MAHALLE": "KÖMÜRCÜLER",
+    "id": 3804
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇAMLICA",
+    "id": 3805
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "AYDINCIK",
+    "id": 3806
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "AYDIN",
+    "id": 3807
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "AKOLUK",
+    "id": 3808
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "BEYOBASI",
+    "id": 3809
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "BAKILAR",
+    "id": 3810
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "BEYREBUCAK",
+    "id": 3811
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇAKMAK",
+    "id": 3812
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇALIPINAR",
+    "id": 3813
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 3814
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇIĞLIK",
+    "id": 3815
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ŞAHİNLER",
+    "id": 3816
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ESENPINAR",
+    "id": 3817
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "SUGÖZÜ",
+    "id": 3818
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "YAKACIK",
+    "id": 3819
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇİLE",
+    "id": 3820
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GÖÇÜK",
+    "id": 3821
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÖZNURTEPE",
+    "id": 3822
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GÖKÇEBELEN",
+    "id": 3823
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "İNAL",
+    "id": 3824
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KÜÇÜKLÜ",
+    "id": 3825
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 3826
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇÖRÜŞ",
+    "id": 3827
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "YENİ",
+    "id": 3828
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ZEYTİNADA",
+    "id": 3829
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "YENİKÖY",
+    "id": 3830
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "DOĞANCA",
+    "id": 3831
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "İNCEĞİZ",
+    "id": 3832
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KARALAR",
+    "id": 3833
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "MACAR",
+    "id": 3834
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ESENTEPE",
+    "id": 3835
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GAZİ",
+    "id": 3836
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GÜNEYKÖY",
+    "id": 3837
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GÜRÇAM",
+    "id": 3838
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "HASDERE",
+    "id": 3839
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "İSTİKLAL",
+    "id": 3840
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "GÖKÇESARAY",
+    "id": 3841
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KARATEPE",
+    "id": 3842
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KIRAHMETLER",
+    "id": 3843
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇİMENBAĞ",
+    "id": 3844
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÇOBANLAR",
+    "id": 3845
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "EKMEL",
+    "id": 3846
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KORU",
+    "id": 3847
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ILICA",
+    "id": 3848
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KIZILGÜNEY",
+    "id": 3849
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KORUBAŞI",
+    "id": 3850
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "SARIAĞAÇ",
+    "id": 3851
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KAHYALAR",
+    "id": 3852
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "MUZKENT",
+    "id": 3853
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "PAZARCI",
+    "id": 3854
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "YENİGÜNEY",
+    "id": 3855
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "KARAÇUKUR",
+    "id": 3856
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GAZİPAŞA",
+    "MAHALLE": "ÜÇKONAK",
+    "id": 3857
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 3858
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "BAYINDIR",
+    "id": 3859
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "FENER",
+    "id": 3860
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ERMENEK",
+    "id": 3861
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ETİLER",
+    "id": 3862
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KILINÇARSLAN",
+    "id": 3863
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "BALBEY",
+    "id": 3864
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KIZILARIK",
+    "id": 3865
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KONUKSEVER",
+    "id": 3866
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ALTINDAĞ",
+    "id": 3867
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 3868
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GEBİZLİ",
+    "id": 3869
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "SELÇUK",
+    "id": 3870
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "BARBAROS",
+    "id": 3871
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "TAHILPAZARI",
+    "id": 3872
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "HAŞİMİŞCAN",
+    "id": 3873
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KIZILTOPRAK",
+    "id": 3874
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "DENİZ",
+    "id": 3875
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KIŞLA",
+    "id": 3876
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 3877
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "DUTLUBAHÇE",
+    "id": 3878
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KIRCAMİ",
+    "id": 3879
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "MEMUREVLERİ",
+    "id": 3880
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ŞİRİNYALI",
+    "id": 3881
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GÜVENLİK",
+    "id": 3882
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GÜZELOBA",
+    "id": 3883
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GÜZELOLUK",
+    "id": 3884
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GENÇLİK",
+    "id": 3885
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "MELTEM",
+    "id": 3886
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ÜÇGEN",
+    "id": 3887
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "DOĞUYAKA",
+    "id": 3888
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "KIZILSARAY",
+    "id": 3889
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "MURATPAŞA",
+    "id": 3890
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "SEDİR",
+    "id": 3891
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "SİNAN",
+    "id": 3892
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "SOĞUKSU",
+    "id": 3893
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "DEMİRCİKARA",
+    "id": 3894
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "MEHMETÇİK",
+    "id": 3895
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "MEYDANKAVAĞI",
+    "id": 3896
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "TARIM",
+    "id": 3897
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "TUZCULAR",
+    "id": 3898
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ZERDALİLİK",
+    "id": 3899
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 3900
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ELMALI",
+    "id": 3901
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "GÜZELBAĞ",
+    "id": 3902
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YILDIZ",
+    "id": 3903
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 3904
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YÜKSEKALAN",
+    "id": 3905
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YENİGÖL",
+    "id": 3906
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "ZÜMRÜTOVA",
+    "id": 3907
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 3908
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "VARLIK",
+    "id": 3909
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YENİGÜN",
+    "id": 3910
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "TOPÇULAR",
+    "id": 3911
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "MURATPAŞA",
+    "MAHALLE": "YEŞİLBAHÇE",
+    "id": 3912
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "FETTAHLI",
+    "id": 3913
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 3914
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "FATİH",
+    "id": 3915
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "MACUN",
+    "id": 3916
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KAYADİBİ",
+    "id": 3917
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "PINARLI",
+    "id": 3918
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "GÜLOLUK",
+    "id": 3919
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "HACIALİLER",
+    "id": 3920
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KONAK",
+    "id": 3921
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "GÜZELYURT",
+    "id": 3922
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "İHSANİYE",
+    "id": 3923
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "ALAYLI",
+    "id": 3924
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 3925
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "ATATÜRK",
+    "id": 3926
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "DUMANLAR",
+    "id": 3927
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "SOĞUCAKSU",
+    "id": 3928
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "YENİDUMANLAR",
+    "id": 3929
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "YEŞİLKARAMAN",
+    "id": 3930
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "GÖKDERE",
+    "id": 3931
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KEMERAĞZI",
+    "id": 3932
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KURŞUNLU",
+    "id": 3933
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "MURTUNA",
+    "id": 3934
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "BOZTEPE",
+    "id": 3935
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "CİHADİYE",
+    "id": 3936
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KUNDU",
+    "id": 3937
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "SOLAK",
+    "id": 3938
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "YURTPINAR",
+    "id": 3939
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 3940
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "TOPALLI",
+    "id": 3941
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "BARBAROS",
+    "id": 3942
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KARAÇALLI",
+    "id": 3943
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "MANDIRLAR",
+    "id": 3944
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "ÇALKAYA",
+    "id": 3945
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KARAÖZ",
+    "id": 3946
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSU",
+    "MAHALLE": "KUMKÖY",
+    "id": 3947
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GEÇMEN",
+    "id": 3948
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GÖLOVA",
+    "id": 3949
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GÜMÜŞYAKA",
+    "id": 3950
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "İPLİK PAZARI",
+    "id": 3951
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "MACUN",
+    "id": 3952
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "AKÇAENİŞ",
+    "id": 3953
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "BAYINDIR",
+    "id": 3954
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GEÇİT",
+    "id": 3955
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KOCAPINAR",
+    "id": 3956
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "DÜDEN",
+    "id": 3957
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KARAKÖY",
+    "id": 3958
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YILMAZLI",
+    "id": 3959
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "AKÇAY",
+    "id": 3960
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "CAMİATİK",
+    "id": 3961
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ÇOBANİSA",
+    "id": 3962
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "HACIMUSALAR",
+    "id": 3963
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KIZILCA",
+    "id": 3964
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "SALUR",
+    "id": 3965
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ZÜMRÜTOVA",
+    "id": 3966
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "HACIYUSUFLAR",
+    "id": 3967
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "OVACIK",
+    "id": 3968
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "TOKLULAR",
+    "id": 3969
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "CAMİCEDİT",
+    "id": 3970
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ÇALPINAR",
+    "id": 3971
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 3972
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GÖKPINAR",
+    "id": 3973
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "İSLAMLAR",
+    "id": 3974
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ÇUKURELMA",
+    "id": 3975
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KARAMIK",
+    "id": 3976
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KIŞLA",
+    "id": 3977
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GÖLTARLA",
+    "id": 3978
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KUZKÖY",
+    "id": 3979
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "MURSAL",
+    "id": 3980
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "TAHTAMESCİT",
+    "id": 3981
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "SARILAR",
+    "id": 3982
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YENİ",
+    "id": 3983
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "EYMİR",
+    "id": 3984
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "İMİRCİK",
+    "id": 3985
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "TAVULLAR",
+    "id": 3986
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "TEKKE",
+    "id": 3987
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "AHATLI",
+    "id": 3988
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "BAYRALAR",
+    "id": 3989
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "BEYLER",
+    "id": 3990
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "DEREKÖY",
+    "id": 3991
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 3992
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YALNIZDAM",
+    "id": 3993
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ARMUTLU",
+    "id": 3994
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KÜÇÜKSÖĞLE",
+    "id": 3995
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YAKAÇİFTLİKKÖYÜ",
+    "id": 3996
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "BOZHÜYÜK",
+    "id": 3997
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "PİRHASANLAR",
+    "id": 3998
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "ÖZDEMİR",
+    "id": 3999
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YUVA",
+    "id": 4000
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "AFŞAR",
+    "id": 4001
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "BÜYÜKSÖĞLE",
+    "id": 4002
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KAPMESCİT",
+    "id": 4003
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "KARYAĞDI",
+    "id": 4004
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YAPRAKLI",
+    "id": 4005
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "YÖRENLER",
+    "id": 4006
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "ELMALI",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 4007
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ÇAĞLARCA",
+    "id": 4008
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "GEYİKBAYIRI",
+    "id": 4009
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "BAHTILI",
+    "id": 4010
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "SARISU",
+    "id": 4011
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "AŞAĞIKARAMAN",
+    "id": 4012
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "DOYRAN DAĞ",
+    "id": 4013
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "DOYRAN",
+    "id": 4014
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "HACISEKİLİLER",
+    "id": 4015
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "KURUÇAY",
+    "id": 4016
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "DOYRAN ÇAMLIBEL",
+    "id": 4017
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ULUÇ",
+    "id": 4018
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ÖĞRETMENEVLERİ",
+    "id": 4019
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "PINARBAŞI",
+    "id": 4020
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ÜÇOLUK",
+    "id": 4021
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "KARATEPE",
+    "id": 4022
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "KIR",
+    "id": 4023
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 4024
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "SİTELER",
+    "id": 4025
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "YARBAŞÇANDIR",
+    "id": 4026
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "YENİ",
+    "id": 4027
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "SUİÇECEK",
+    "id": 4028
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "AKKUYU",
+    "id": 4029
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "DEMİRCİLİK",
+    "id": 4030
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "KUŞKAVAĞI",
+    "id": 4031
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "UNCALI",
+    "id": 4032
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ÇİTDİBİ",
+    "id": 4033
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "GÖKDERE",
+    "id": 4034
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "GÜRSU",
+    "id": 4035
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ALTINKUM",
+    "id": 4036
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ARAPSUYU",
+    "id": 4037
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "HURMA",
+    "id": 4038
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "LİMAN",
+    "id": 4039
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "ÇAKIRLAR",
+    "id": 4040
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "AYDINLIK",
+    "id": 4041
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "HİSARÇANDIR",
+    "id": 4042
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "AKDAMLAR",
+    "id": 4043
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "LİMAN SB",
+    "id": 4044
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "MOLLA YUSUF",
+    "id": 4045
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "GÖKÇAM",
+    "id": 4046
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KONYAALTI",
+    "MAHALLE": "TOROS",
+    "id": 4047
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KUZCA",
+    "id": 4048
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "MEYDAN",
+    "id": 4049
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ÇALTI",
+    "id": 4050
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ERENTEPE",
+    "id": 4051
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "GÖLCÜK",
+    "id": 4052
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "HIZIRKAHYA",
+    "id": 4053
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "SARIKAVAK",
+    "id": 4054
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "TEMEL EĞİTİM",
+    "id": 4055
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ELLİNCİ YIL",
+    "id": 4056
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KUM",
+    "id": 4057
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "NARENCİYE",
+    "id": 4058
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ALTINYAKA",
+    "id": 4059
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "BEŞİKÇİ",
+    "id": 4060
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KARACAAĞAÇ",
+    "id": 4061
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ADRASAN",
+    "id": 4062
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "GÜZÖREN",
+    "id": 4063
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KARACAÖREN",
+    "id": 4064
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 4065
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "BAĞLIK",
+    "id": 4066
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 4067
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "MERKEZ",
+    "id": 4068
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KASAPÇAYIRI",
+    "id": 4069
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "SARICASU",
+    "id": 4070
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 4071
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ORTAKÖY",
+    "id": 4072
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "DEREKÖY",
+    "id": 4073
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "KAVAKKÖY",
+    "id": 4074
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "YENİKIŞLA",
+    "id": 4075
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "BEYKONAK",
+    "id": 4076
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "YAZIR",
+    "id": 4077
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "BELEN",
+    "id": 4078
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ESKİCAMİ",
+    "id": 4079
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "GÖKSU",
+    "id": 4080
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "SALUR",
+    "id": 4081
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "HACIVELİLER",
+    "id": 4082
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "TOPTAŞ",
+    "id": 4083
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "BÜYÜKALAN",
+    "id": 4084
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "ÇAYİÇİ",
+    "id": 4085
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "İNCİRCİK",
+    "id": 4086
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "YENİ",
+    "id": 4087
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "KUMLUCA",
+    "MAHALLE": "MAVİKENT",
+    "id": 4088
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "AKŞAHAP",
+    "id": 4089
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "KUYUCAK",
+    "id": 4090
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SALİHLER",
+    "id": 4091
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GÜNEYKAYA",
+    "id": 4092
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "HACI İLYAS",
+    "id": 4093
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "CEVİZLİ",
+    "id": 4094
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "AŞAĞIAŞIKLAR",
+    "id": 4095
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BUCAKKIŞLA",
+    "id": 4096
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "MAHMUTLU",
+    "id": 4097
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SARIHACILAR",
+    "id": 4098
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BUCAKALAN",
+    "id": 4099
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BÜYÜKALAN",
+    "id": 4100
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "CECELER",
+    "id": 4101
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "CENDEVE",
+    "id": 4102
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ÇALTILIÇUKUR",
+    "id": 4103
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 4104
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "KEPEZ",
+    "id": 4105
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "KEPEZBELENİ",
+    "id": 4106
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SARIHALİLLER",
+    "id": 4107
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "DİKMEN",
+    "id": 4108
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GÜÇLÜKÖY",
+    "id": 4109
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "DEĞİRMENLİK",
+    "id": 4110
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GÜMÜŞDAMLA",
+    "id": 4111
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "KARAKIŞLA",
+    "id": 4112
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ÇINARDİBİ",
+    "id": 4113
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ÇİMİKÖY",
+    "id": 4114
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "EMİRAŞIKLAR",
+    "id": 4115
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GERİŞ",
+    "id": 4116
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "TAŞLICA",
+    "id": 4117
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "HÜSAMETTİNKÖY",
+    "id": 4118
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SUSUZŞAHAP",
+    "id": 4119
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ALAÇEŞME",
+    "id": 4120
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "CEMERLER",
+    "id": 4121
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GÜZELSU",
+    "id": 4122
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "MENTEŞBEY",
+    "id": 4123
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "DUTLUCA",
+    "id": 4124
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "GÜNYAKA",
+    "id": 4125
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "HOCAKÖY",
+    "id": 4126
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SADIKLAR",
+    "id": 4127
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "YARPUZ",
+    "id": 4128
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ÇANAKPINAR",
+    "id": 4129
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ERENYAKA",
+    "id": 4130
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "FAKILAR",
+    "id": 4131
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 4132
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BOĞAZ",
+    "id": 4133
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BELENALAN",
+    "id": 4134
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "ÇUKURKÖY",
+    "id": 4135
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "MİNARELİ",
+    "id": 4136
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "BADEMLİ",
+    "id": 4137
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SİNANHOCA",
+    "id": 4138
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "AKSEKİ",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 4139
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "GÜNEYCİK",
+    "id": 4140
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ESKİBAĞ",
+    "id": 4141
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KÖPRÜLÜ",
+    "id": 4142
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ÇAMLIALAN",
+    "id": 4143
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "SERİNYAKA",
+    "id": 4144
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "AKYAR",
+    "id": 4145
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ÇİÇEKOLUK",
+    "id": 4146
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "NARAĞACI",
+    "id": 4147
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ÇALTI",
+    "id": 4148
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KALECİK",
+    "id": 4149
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "YENİKÖY",
+    "id": 4150
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ÇAYIRÖZÜ",
+    "id": 4151
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KARAKÖY",
+    "id": 4152
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ORTAKONUŞ",
+    "id": 4153
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "PEMBELİK",
+    "id": 4154
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "FATİH",
+    "id": 4155
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KAYABÜKÜ",
+    "id": 4156
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "RASİH KAPLAN",
+    "id": 4157
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "UMUTLU",
+    "id": 4158
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KARABUL",
+    "id": 4159
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "BEDAN",
+    "id": 4160
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "BALKAYA",
+    "id": 4161
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KARAİSA",
+    "id": 4162
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KOZAĞACI",
+    "id": 4163
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ÖZÜGÜR",
+    "id": 4164
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "GÜNEYYAKA",
+    "id": 4165
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "KARADERE",
+    "id": 4166
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 4167
+  },
+  {
+    "İL": "ANTALYA",
+    "İLÇE": "GÜNDOĞMUŞ",
+    "MAHALLE": "SENİR",
+    "id": 4168
+  }
+]

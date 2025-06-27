@@ -1,0 +1,6554 @@
+[
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "ALAHIDIR",
+    "id": 21110
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "YARAŞLI",
+    "id": 21111
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "CAMBAZLI",
+    "id": 21112
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "DİBEKDERE",
+    "id": 21113
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "DERİCİ",
+    "id": 21114
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "SEYDİKÖY",
+    "id": 21115
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "ATAKÖY",
+    "id": 21116
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "MANDALLI",
+    "id": 21117
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "HALİLKAHYA",
+    "id": 21118
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "ZAFER",
+    "id": 21119
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "HACIKÖSELİ",
+    "id": 21120
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "KARGIN",
+    "id": 21121
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "KESTELLİ",
+    "id": 21122
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21123
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "ULU CAMİ",
+    "id": 21124
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "DEREKÖY",
+    "id": 21125
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "GÖKKAYA",
+    "id": 21126
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "KENDİRLİK",
+    "id": 21127
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "BARBAROS",
+    "id": 21128
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "GÜLDEDE",
+    "id": 21129
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "KARAKÖY",
+    "id": 21130
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "ALTIEYLÜL",
+    "id": 21131
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AHMETLİ",
+    "MAHALLE": "BAHÇECİK",
+    "id": 21132
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ERDELLİ",
+    "id": 21133
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "REŞAT BEY",
+    "id": 21134
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SELVİLİ",
+    "id": 21135
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SİNDELLİ",
+    "id": 21136
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SÜLEYMANLI",
+    "id": 21137
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BÜKNÜŞ",
+    "id": 21138
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DOĞUCA",
+    "id": 21139
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "GÖKÇELER",
+    "id": 21140
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KETHÜDA",
+    "id": 21141
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MEDAR",
+    "id": 21142
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "PAŞA",
+    "id": 21143
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SABANCILAR",
+    "id": 21144
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SARILAR",
+    "id": 21145
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SELÇİKLİ",
+    "id": 21146
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "AKÇEŞME",
+    "id": 21147
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ATATÜRK",
+    "id": 21148
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KADIDAĞI",
+    "id": 21149
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MUSACA",
+    "id": 21150
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "PINARCIK",
+    "id": 21151
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SIRTKÖY",
+    "id": 21152
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 21153
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YAYAKIRILDIK",
+    "id": 21154
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "EROĞLU",
+    "id": 21155
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "GÖCEK",
+    "id": 21156
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SAZOBA",
+    "id": 21157
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YEĞENOBA",
+    "id": 21158
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 21159
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DİNGİLLER",
+    "id": 21160
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HARMANDALI",
+    "id": 21161
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MORALILAR",
+    "id": 21162
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SEYİT AHMET",
+    "id": 21163
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ULUPINAR",
+    "id": 21164
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BEKİRLER",
+    "id": 21165
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21166
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HAS HOCA",
+    "id": 21167
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "AKSELENDİ",
+    "id": 21168
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BÜNYANOSMANİYE",
+    "id": 21169
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HACIİBRAHİMLER",
+    "id": 21170
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KAYGANLI",
+    "id": 21171
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KÖMÜRCÜ",
+    "id": 21172
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MUŞTULLAR",
+    "id": 21173
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "TOPLUCA",
+    "id": 21174
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ARABACIBOZKÖY",
+    "id": 21175
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÇAMÖNÜ",
+    "id": 21176
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "GÖKÇEAHMET",
+    "id": 21177
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "RAGIP BEY",
+    "id": 21178
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SAKARKAYA",
+    "id": 21179
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SÜLEYMANKÖY",
+    "id": 21180
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ŞEYHİSA",
+    "id": 21181
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YATAĞAN",
+    "id": 21182
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YAYKIN",
+    "id": 21183
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "AŞAĞIDOLMA",
+    "id": 21184
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "AKÇAALAN",
+    "id": 21185
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÇITAK",
+    "id": 21186
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BALLICA",
+    "id": 21187
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÇOBANHASAN",
+    "id": 21188
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BEYOBA",
+    "id": 21189
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BOYALILAR",
+    "id": 21190
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "AKKOCALI",
+    "id": 21191
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "BAŞLAMIŞ",
+    "id": 21192
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÇORUK",
+    "id": 21193
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 21194
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KAYALIOĞLU",
+    "id": 21195
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "RAHMİYE",
+    "id": 21196
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SARIÇALI",
+    "id": 21197
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SARNIÇKÖY",
+    "id": 21198
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SÜNNETÇİLER",
+    "id": 21199
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ÜÇAVLU",
+    "id": 21200
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "EFENDİ",
+    "id": 21201
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "EVKAFTEKE",
+    "id": 21202
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KABAAĞAÇKIRAN",
+    "id": 21203
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KARAKÖY",
+    "id": 21204
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KOBAŞDERE",
+    "id": 21205
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DOĞANKAYA",
+    "id": 21206
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HAMİDİYE",
+    "id": 21207
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HASKÖY",
+    "id": 21208
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HÜRRİYET",
+    "id": 21209
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SEĞİRDİM",
+    "id": 21210
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "İNÖNÜ",
+    "id": 21211
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KAVAKALAN",
+    "id": 21212
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "TÜTENLİ",
+    "id": 21213
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ULU CAMİİ",
+    "id": 21214
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "YENİCE",
+    "id": 21215
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DAYIOĞLU",
+    "id": 21216
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DURASIL",
+    "id": 21217
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HACI İSHAK",
+    "id": 21218
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HAMİTKÖY",
+    "id": 21219
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "IŞIKKÖY",
+    "id": 21220
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KAPAKLI",
+    "id": 21221
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "İSACA",
+    "id": 21222
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 21223
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DAĞDERE",
+    "id": 21224
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DEREKÖY",
+    "id": 21225
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "DOLMADEĞİRMEN",
+    "id": 21226
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HACIOSMANLAR",
+    "id": 21227
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "HANPAŞA",
+    "id": 21228
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KARABÖRKLÜ",
+    "id": 21229
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KARAYAĞCI",
+    "id": 21230
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KIZLARALANI",
+    "id": 21231
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KOCAKAĞAN",
+    "id": 21232
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ZEYTİNLİOVA",
+    "id": 21233
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MECİDİYE",
+    "id": 21234
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SÜLEYMANLI OSB",
+    "id": 21235
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "ZEYTİNLİBAĞ",
+    "id": 21236
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "PEKMEZCİ",
+    "id": 21237
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "TAŞÇILAR",
+    "id": 21238
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KULAKSIZLAR",
+    "id": 21239
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "KURTULMUŞ",
+    "id": 21240
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "MUSALAR",
+    "id": 21241
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "AKHİSAR",
+    "MAHALLE": "SAĞRAKÇI",
+    "id": 21242
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇAKIRCAALİ",
+    "id": 21243
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HORZUMEMBELLİ",
+    "id": 21244
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "TEPEKÖY",
+    "id": 21245
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "YENİCE",
+    "id": 21246
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BAHÇELİKÖY",
+    "id": 21247
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇARIKKARALAR",
+    "id": 21248
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GÜMÜŞÇAY",
+    "id": 21249
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KAVAKLIDERE",
+    "id": 21250
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21251
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SOĞUKYURT",
+    "id": 21252
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "YENİKÖY",
+    "id": 21253
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BARIŞ",
+    "id": 21254
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GÜLPINAR",
+    "id": 21255
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GÜRSU",
+    "id": 21256
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HORZUMALAYAKA",
+    "id": 21257
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "İSMETİYE",
+    "id": 21258
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KİLLİK",
+    "id": 21259
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KOZLUCA",
+    "id": 21260
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "İSTASYON",
+    "id": 21261
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SAKARYA",
+    "id": 21262
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SOĞUKSU",
+    "id": 21263
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "TÜRKMEN",
+    "id": 21264
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "AZITEPE",
+    "id": 21265
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BAHÇEDERE",
+    "id": 21266
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇARIKTEKKE",
+    "id": 21267
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "PİYADELER",
+    "id": 21268
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BADINCA",
+    "id": 21269
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BAHADIR",
+    "id": 21270
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BAKLACI",
+    "id": 21271
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ILICA",
+    "id": 21272
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KASAPLI",
+    "id": 21273
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KESTANEDERESİ",
+    "id": 21274
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SOBRAN",
+    "id": 21275
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 21276
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ALHAN",
+    "id": 21277
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "FATİH",
+    "id": 21278
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HACIALİLER",
+    "id": 21279
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SERİNKÖY",
+    "id": 21280
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ULUDERBENT",
+    "id": 21281
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 21282
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HORZUMKESERLER",
+    "id": 21283
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "İSMAİLBEY",
+    "id": 21284
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KARADAĞ",
+    "id": 21285
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "MATARLI",
+    "id": 21286
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SARISU",
+    "id": 21287
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SERİNYAYLA",
+    "id": 21288
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "CABERFAKILI",
+    "id": 21289
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "CABERKAMARA",
+    "id": 21290
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 21291
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇARIKBOZDAĞ",
+    "id": 21292
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HACIBEY",
+    "id": 21293
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "HORZUMSAZDERE",
+    "id": 21294
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ILGIN",
+    "id": 21295
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "IŞIKLAR",
+    "id": 21296
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÖRENCİK",
+    "id": 21297
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ŞAHYAR",
+    "id": 21298
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "AKKEÇİLİ",
+    "id": 21299
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ERENKÖY",
+    "id": 21300
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "NARLIDERE",
+    "id": 21301
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SELCE",
+    "id": 21302
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SUBAŞI",
+    "id": 21303
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BELENYAKA",
+    "id": 21304
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "BEŞEYLÜL",
+    "id": 21305
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "EVRENLİ",
+    "id": 21306
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "MENDERES",
+    "id": 21307
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÇEŞNELİ",
+    "id": 21308
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "DAĞHACIYUSUF",
+    "id": 21309
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ESEN TEPE",
+    "id": 21310
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GÖBEKLİ",
+    "id": 21311
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KARACALAR",
+    "id": 21312
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KURUDERE",
+    "id": 21313
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "OSMANİYE",
+    "id": 21314
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "YENİ",
+    "id": 21315
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 21316
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "DAĞARLAR",
+    "id": 21317
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "DELEMENLER",
+    "id": 21318
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GİRELLİ",
+    "id": 21319
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ÖRNEKKÖY",
+    "id": 21320
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SOĞANLI",
+    "id": 21321
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "CABERBURHAN",
+    "id": 21322
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "KEMALİYE",
+    "id": 21323
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "AYDOĞDU",
+    "id": 21324
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "GÜLENYAKA",
+    "id": 21325
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "SARIPINAR",
+    "id": 21326
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "ŞEYH SİNAN",
+    "id": 21327
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "TOYGAR",
+    "id": 21328
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ALAŞEHİR",
+    "MAHALLE": "YUVACALI",
+    "id": 21329
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ÇARIKBALLI",
+    "id": 21330
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "SÖĞÜTDERE",
+    "id": 21331
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "DEREKÖY",
+    "id": 21332
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KENGER",
+    "id": 21333
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KIZILKAYA",
+    "id": 21334
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "NARINCALISÜLEYMAN",
+    "id": 21335
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "YAĞBASTI",
+    "id": 21336
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 21337
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BALIBEY",
+    "id": 21338
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ÇARIKMAHMUTLU",
+    "id": 21339
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ÇİFTÇİİBRAHİM",
+    "id": 21340
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "AYVATLAR",
+    "id": 21341
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 21342
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "HAMİDİYE",
+    "id": 21343
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "TATLIÇEŞME",
+    "id": 21344
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KONURCA",
+    "id": 21345
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ZAFERİYE",
+    "id": 21346
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "İBRAHİMAĞA",
+    "id": 21347
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KÖREZ",
+    "id": 21348
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "SARAÇLAR",
+    "id": 21349
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "AYAZÖREN",
+    "id": 21350
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BATTALMUSTAFA",
+    "id": 21351
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "HAYALLİ",
+    "id": 21352
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ESENYAZI",
+    "id": 21353
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "GÖKDERE",
+    "id": 21354
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "AKTAŞ",
+    "id": 21355
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "CAMİİ CEDİT",
+    "id": 21356
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 21357
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "NARINCALIPITRAK",
+    "id": 21358
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "SARNIÇ",
+    "id": 21359
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ORTAKÖY",
+    "id": 21360
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "PAPUÇLU",
+    "id": 21361
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "SEYİTALİ",
+    "id": 21362
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "EMRE",
+    "id": 21363
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KALINHARMAN",
+    "id": 21364
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "AHMETLİ",
+    "id": 21365
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BAŞIBÜYÜK",
+    "id": 21366
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BAYRAMŞAH",
+    "id": 21367
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BÖRTLÜCE",
+    "id": 21368
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "EVCİLER",
+    "id": 21369
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "İNCESU",
+    "id": 21370
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ŞEREMET",
+    "id": 21371
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ŞIHLI",
+    "id": 21372
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "YENİKÖY",
+    "id": 21373
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "4 EYLÜL",
+    "id": 21374
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "AKGÜN",
+    "id": 21375
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 21376
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KARAOBA",
+    "id": 21377
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "SANDAL",
+    "id": 21378
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ŞEHİTLİOĞLU",
+    "id": 21379
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ŞERİTLİ",
+    "id": 21380
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ENCEKLER",
+    "id": 21381
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "HACITUFAN",
+    "id": 21382
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "YURTBAŞI",
+    "id": 21383
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "KAVACIK",
+    "id": 21384
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "TOPUZDAMLARI",
+    "id": 21385
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BEBEKLİ",
+    "id": 21386
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "BEY",
+    "id": 21387
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "ERENBAĞI",
+    "id": 21388
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KULA",
+    "MAHALLE": "EROĞLU",
+    "id": 21389
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "AFŞAR",
+    "id": 21390
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "DADAĞLI",
+    "id": 21391
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "GÜNYAKA",
+    "id": 21392
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "YUKARIKOÇAKLAR",
+    "id": 21393
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "AHMETAĞA",
+    "id": 21394
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "BAHADIRLAR",
+    "id": 21395
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "EMCELLİ",
+    "id": 21396
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 21397
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "YENİKÖY",
+    "id": 21398
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 21399
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "BEYHARMANI",
+    "id": 21400
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ÇAVUŞLAR",
+    "id": 21401
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "KARACAALİ",
+    "id": 21402
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "AŞAĞI KOÇAKLAR",
+    "id": 21403
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "TIRAZLAR",
+    "id": 21404
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ALEMŞAHLI",
+    "id": 21405
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "BAHARLAR",
+    "id": 21406
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "BEREKETLİ",
+    "id": 21407
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ŞEYHDAVUTLAR",
+    "id": 21408
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 21409
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "GÜNEYDAMLARI",
+    "id": 21410
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "SIĞIRTMAÇLI",
+    "id": 21411
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "KAHRAMANLAR",
+    "id": 21412
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "DİNDARLI",
+    "id": 21413
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "KIZILÇUKUR",
+    "id": 21414
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "SELİMİYE",
+    "id": 21415
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ZİYANLAR",
+    "id": 21416
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "DOĞUŞLAR",
+    "id": 21417
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "KONAK",
+    "id": 21418
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ÖZPINAR",
+    "id": 21419
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "SİTELER",
+    "id": 21420
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "ÇİMENTEPE",
+    "id": 21421
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "AYAN",
+    "id": 21422
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "BAĞLICA",
+    "id": 21423
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARIGÖL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21424
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ATATÜRK",
+    "id": 21425
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÖREN",
+    "id": 21426
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÇEPNİDERE",
+    "id": 21427
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "İSTİKLAL",
+    "id": 21428
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "İZZETTİN",
+    "id": 21429
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KAYRAK",
+    "id": 21430
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ALBAYRAK",
+    "id": 21431
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SİVRİCE",
+    "id": 21432
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SUBAŞI",
+    "id": 21433
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "İSTASYONALTI",
+    "id": 21434
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SİNİRLİ",
+    "id": 21435
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "BOZKURT",
+    "id": 21436
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KUŞLAR",
+    "id": 21437
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "AVŞAR",
+    "id": 21438
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21439
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÇAMPINAR",
+    "id": 21440
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "DALBAHÇE",
+    "id": 21441
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "TEMREK",
+    "id": 21442
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YİĞİTLER",
+    "id": 21443
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ALTAY",
+    "id": 21444
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KABAÇINAR",
+    "id": 21445
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 21446
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "TURAN",
+    "id": 21447
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "MUSALARYENİKÖY",
+    "id": 21448
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SELVİLİTEPEOSB",
+    "id": 21449
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YAYLA",
+    "id": 21450
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "AŞAĞIBOZKIR",
+    "id": 21451
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "GÜNEY",
+    "id": 21452
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "IRLAMAZ",
+    "id": 21453
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "URGANLI",
+    "id": 21454
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "BOZKIR",
+    "id": 21455
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ERGENEKON",
+    "id": 21456
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KARAKÖY",
+    "id": 21457
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SARIBEY",
+    "id": 21458
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YENİ",
+    "id": 21459
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÇEPNİBEKTAŞ",
+    "id": 21460
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÇIKRIKÇI",
+    "id": 21461
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "DERBENT",
+    "id": 21462
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "MUSTAFA KEMAL",
+    "id": 21463
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "BAKTIRLI",
+    "id": 21464
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "DAĞYENİKÖY",
+    "id": 21465
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "SELVİLİTEPE",
+    "id": 21466
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 21467
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KARAOLUK",
+    "id": 21468
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21469
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "KURUDERE",
+    "id": 21470
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "MUSACALI",
+    "id": 21471
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "TURGUTLAR",
+    "id": 21472
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YEDİ EYLÜL",
+    "id": 21473
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YUNUSDERE",
+    "id": 21474
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "AKKÖY",
+    "id": 21475
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÖZYURT",
+    "id": 21476
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YAKUPLAR",
+    "id": 21477
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YILDIRIM",
+    "id": 21478
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YILMAZLAR",
+    "id": 21479
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ACARLAR",
+    "id": 21480
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "AYVACIK",
+    "id": 21481
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "ÇATALKÖPRÜ",
+    "id": 21482
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "GÖKGEDİK",
+    "id": 21483
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "HACIİSALAR",
+    "id": 21484
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "OSMANCIK",
+    "id": 21485
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "TURGUTLU",
+    "MAHALLE": "YENİKÖY",
+    "id": 21486
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BOZARMUT",
+    "id": 21487
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21488
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ÇEVİRCEK",
+    "id": 21489
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DUĞLA",
+    "id": 21490
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "İNÖNÜ",
+    "id": 21491
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KARAMANLI",
+    "id": 21492
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "SULTANİYE",
+    "id": 21493
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ZAFER",
+    "id": 21494
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "CUMA",
+    "id": 21495
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HAMİDİYE",
+    "id": 21496
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HATUN",
+    "id": 21497
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KOZANLI",
+    "id": 21498
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KOZLUÖREN",
+    "id": 21499
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "NAMAZGAH",
+    "id": 21500
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "SÖĞÜTÇÜK",
+    "id": 21501
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "YAĞCILI",
+    "id": 21502
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DEREKÖY",
+    "id": 21503
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "EVCİLER",
+    "id": 21504
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KAPLAN",
+    "id": 21505
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KOYUNDERE",
+    "id": 21506
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "NİHAT DANIŞMAN",
+    "id": 21507
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "URUZLAR",
+    "id": 21508
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "CENKYERİ",
+    "id": 21509
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "GÖKTAŞ",
+    "id": 21510
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "TEKELİ IŞIKLAR",
+    "id": 21511
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "TÜRKPİYALA",
+    "id": 21512
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KAYRAKALTI",
+    "id": 21513
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KUM",
+    "id": 21514
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "TABANLAR",
+    "id": 21515
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ÇATALÇAM",
+    "id": 21516
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 21517
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ADİL",
+    "id": 21518
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DARKALE",
+    "id": 21519
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "NALDÖKEN",
+    "id": 21520
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "SAMSACI",
+    "id": 21521
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "SEVİŞLER",
+    "id": 21522
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BAYAT",
+    "id": 21523
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ÇAVDIR",
+    "id": 21524
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DEVLETHAN",
+    "id": 21525
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DUALAR",
+    "id": 21526
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "EĞNEZ",
+    "id": 21527
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KARAÇAM",
+    "id": 21528
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "VAKIFLI",
+    "id": 21529
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "AKÇAAVLU",
+    "id": 21530
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "AVDAN",
+    "id": 21531
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "DENİŞ",
+    "id": 21532
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HACIYUSUF",
+    "id": 21533
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "PİRAHMET",
+    "id": 21534
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BÜYÜK IŞIKLAR",
+    "id": 21535
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HECİZ",
+    "id": 21536
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "MENTEŞE",
+    "id": 21537
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ONÜÇ EYLÜL",
+    "id": 21538
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "TURGUTALP",
+    "id": 21539
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "TÜRKALİ",
+    "id": 21540
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ULARCA",
+    "id": 21541
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BEYCE",
+    "id": 21542
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BONCUKLU",
+    "id": 21543
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "İSTASYON",
+    "id": 21544
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KARACAHİSAR",
+    "id": 21545
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "BÜYÜK GÜNEY",
+    "id": 21546
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "HAMİDİYE (MERKEZ)",
+    "id": 21547
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KİRAZ",
+    "id": 21548
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KOBAKLAR",
+    "id": 21549
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21550
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "YAYLADALI",
+    "id": 21551
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KIZILÖREN",
+    "id": 21552
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KÜÇÜK GÜNEY",
+    "id": 21553
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "YIRCA",
+    "id": 21554
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "ATATÜRK",
+    "id": 21555
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "KARACAKAŞ",
+    "id": 21556
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SOMA",
+    "MAHALLE": "SARIKAYA",
+    "id": 21557
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21558
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YAĞCI",
+    "id": 21559
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇIKRIKÇI",
+    "id": 21560
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇORTAK",
+    "id": 21561
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KARAKOZAN",
+    "id": 21562
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 21563
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ESKİCAMİ",
+    "id": 21564
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "HALILAR",
+    "id": 21565
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "HAVAOĞLU",
+    "id": 21566
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "RAHMANLAR",
+    "id": 21567
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ESKİN",
+    "id": 21568
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KURŞUNLU",
+    "id": 21569
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "MIDIKLI",
+    "id": 21570
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "PINARLAR",
+    "id": 21571
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "SELMANHACILAR",
+    "id": 21572
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 21573
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "AŞAĞITEFEN",
+    "id": 21574
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 21575
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "HACIHALİLLER",
+    "id": 21576
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KABAKLAR",
+    "id": 21577
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "HACILAR",
+    "id": 21578
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KAYRANLAR",
+    "id": 21579
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ZAFER",
+    "id": 21580
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KARASELENDİ",
+    "id": 21581
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "OMURLAR",
+    "id": 21582
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ŞEHİRLİOĞLU",
+    "id": 21583
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YENİCE",
+    "id": 21584
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KARATAŞTERZİLER",
+    "id": 21585
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KÜRKÇÜ",
+    "id": 21586
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "MOLLAAHMETLER",
+    "id": 21587
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YENİCAMİ",
+    "id": 21588
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ZIRAMANLAR",
+    "id": 21589
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇANŞA",
+    "id": 21590
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "TEPEYNİHAN",
+    "id": 21591
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "TURPÇU",
+    "id": 21592
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "AVLAŞA",
+    "id": 21593
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "BEKİRAĞALAR",
+    "id": 21594
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇİNAN",
+    "id": 21595
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "İNNİCE",
+    "id": 21596
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ALTINKÖY",
+    "id": 21597
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KARABEYLER",
+    "id": 21598
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KAZIKLI",
+    "id": 21599
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YUKARITEFEN",
+    "id": 21600
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "FATİH",
+    "id": 21601
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 21602
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇAMPINAR",
+    "id": 21603
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "BEYPINAR",
+    "id": 21604
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "DUMANLAR",
+    "id": 21605
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "AKÇAKERTİL",
+    "id": 21606
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇALIKLI",
+    "id": 21607
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "ÇAMYAYLA",
+    "id": 21608
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YEŞİL",
+    "id": 21609
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "DEDELER",
+    "id": 21610
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KARŞIOVA",
+    "id": 21611
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "KINIK",
+    "id": 21612
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "TAVAK",
+    "id": 21613
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SELENDİ",
+    "MAHALLE": "YILDIZ",
+    "id": 21614
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "BARBAROS",
+    "id": 21615
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAVELİLER",
+    "id": 21616
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "BEYDERE",
+    "id": 21617
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "DEMİRCİ",
+    "id": 21618
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "GÖKÇELER",
+    "id": 21619
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KÜÇÜKBELEN",
+    "id": 21620
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MERKEZ EFENDİ",
+    "id": 21621
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "PELİTALAN",
+    "id": 21622
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "75. YIL",
+    "id": 21623
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MAREŞAL FEVZİ ÇAKMAK",
+    "id": 21624
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "TOPÇUASIM",
+    "id": 21625
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 21626
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MESİR",
+    "id": 21627
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "OSMANCALI",
+    "id": 21628
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "PINARKÖY",
+    "id": 21629
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "YUNTDAĞIKÖSELER",
+    "id": 21630
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "GÜZELYURT",
+    "id": 21631
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KORUKÖY",
+    "id": 21632
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KÜÇÜKSÜMBÜLLER",
+    "id": 21633
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "AKGEDİK",
+    "id": 21634
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "AVDAL",
+    "id": 21635
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "AYNİ ALİ",
+    "id": 21636
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "DÜZLEN",
+    "id": 21637
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KAYAPINAR",
+    "id": 21638
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MOLLASÜLEYMANLI",
+    "id": 21639
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "UNCUBOZKÖY",
+    "id": 21640
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 21641
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "BAĞYOLU",
+    "id": 21642
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21643
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 21644
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAKILIÇLI",
+    "id": 21645
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KIŞLAKÖY",
+    "id": 21646
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MURADİYE",
+    "id": 21647
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 21648
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "GÜLBAHÇE",
+    "id": 21649
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAAHMETLİ",
+    "id": 21650
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAALİ",
+    "id": 21651
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAYAĞCIHACILAR",
+    "id": 21652
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KAYNAK",
+    "id": 21653
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MÜSLİH",
+    "id": 21654
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ÖRSELLİ",
+    "id": 21655
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SAKALLI",
+    "id": 21656
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SÜMBÜLTEPE",
+    "id": 21657
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ŞAMAR",
+    "id": 21658
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "EVRENOS",
+    "id": 21659
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "GÜRLE",
+    "id": 21660
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAKOCA",
+    "id": 21661
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KEÇİLİKÖYOSB",
+    "id": 21662
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MUTLU",
+    "id": 21663
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ÖRENCİK",
+    "id": 21664
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SARINASUHLAR",
+    "id": 21665
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "TURGUTALP",
+    "id": 21666
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "DAZYURT",
+    "id": 21667
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "BÜYÜKSÜMBÜLLER",
+    "id": 21668
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KARAHÜSEYİNLİ",
+    "id": 21669
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SARIAHMETLİ",
+    "id": 21670
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SPİL",
+    "id": 21671
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "YAYLAKÖY",
+    "id": 21672
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ATATÜRK",
+    "id": 21673
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "FATİH",
+    "id": 21674
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "HAFSA SULTAN",
+    "id": 21675
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "BOSTANLAR",
+    "id": 21676
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "DURASILLI",
+    "id": 21677
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "MALDAN",
+    "id": 21678
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "TEVFİKİYE",
+    "id": 21679
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "YENİ MAHALLE",
+    "id": 21680
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "İLYASÇILAR",
+    "id": 21681
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "LALAPAŞA",
+    "id": 21682
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SÜNGÜLLÜ",
+    "id": 21683
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "TÜRKMEN",
+    "id": 21684
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "ASMACIK",
+    "id": 21685
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "DAVUTLAR",
+    "id": 21686
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "EMLAKDERE",
+    "id": 21687
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "50.YIL",
+    "id": 21688
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "AKMESCİT",
+    "id": 21689
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KOZAKLAR",
+    "id": 21690
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KOCAKORU",
+    "id": 21691
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "LALELİ",
+    "id": 21692
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SEYİTLİ",
+    "id": 21693
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "UZUNBURUN",
+    "id": 21694
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "OTMANLAR",
+    "id": 21695
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "KUYUALAN",
+    "id": 21696
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "RECEPLİ",
+    "id": 21697
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "SARMA",
+    "id": 21698
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "UZUNLAR",
+    "id": 21699
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "YAĞCILAR",
+    "id": 21700
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "YUNUSEMRE",
+    "MAHALLE": "YUNTDAĞYENİCE",
+    "id": 21701
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ARMUTLU",
+    "id": 21702
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ALAAĞAÇ",
+    "id": 21703
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BARDAKÇI",
+    "id": 21704
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AKDERE",
+    "id": 21705
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AYVAALAN",
+    "id": 21706
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AZİZBEY",
+    "id": 21707
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AHMETLER",
+    "id": 21708
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BAHÇELER",
+    "id": 21709
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AHATLAR",
+    "id": 21710
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "AKINCILAR",
+    "id": 21711
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BAYRAMŞAH",
+    "id": 21712
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇANDIR",
+    "id": 21713
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ESENYURT",
+    "id": 21714
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KÖYLÜCE",
+    "id": 21715
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KÜÇÜKOBA",
+    "id": 21716
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "MİNNETLER",
+    "id": 21717
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 21718
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÜŞÜMÜŞ",
+    "id": 21719
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "DOKTOR MEHMET AKARSU",
+    "id": 21720
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İMRENLER",
+    "id": 21721
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "TEPERİK",
+    "id": 21722
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ULACIK",
+    "id": 21723
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 21724
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 21725
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KARAİSALAR",
+    "id": 21726
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KAYAKÖY",
+    "id": 21727
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "RAHMANLAR",
+    "id": 21728
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YİĞİTLER",
+    "id": 21729
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BOYACIK",
+    "id": 21730
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇATALOLUK",
+    "id": 21731
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "DANİŞMENTLER",
+    "id": 21732
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ELEK",
+    "id": 21733
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "FATİH",
+    "id": 21734
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SERÇELER",
+    "id": 21735
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YARBASAN",
+    "id": 21736
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 21737
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BEYAZIT",
+    "id": 21738
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BÜYÜKKIRAN",
+    "id": 21739
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "GÜRÇEŞME",
+    "id": 21740
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KUZUKÖY",
+    "id": 21741
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "MEZİTLER",
+    "id": 21742
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "TALAS",
+    "id": 21743
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21744
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HIRKALI",
+    "id": 21745
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KASIMFAKI",
+    "id": 21746
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KAYRANOKÇULAR",
+    "id": 21747
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KILAVUZLAR",
+    "id": 21748
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KUZEYİR",
+    "id": 21749
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SEVİŞLER",
+    "id": 21750
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HACIBABA",
+    "id": 21751
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HACIHASAN",
+    "id": 21752
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "IKLIKÇI",
+    "id": 21753
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İRİŞLER",
+    "id": 21754
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KAZANCI",
+    "id": 21755
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KÜPELER",
+    "id": 21756
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YEŞİLOBA",
+    "id": 21757
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HÜDÜK",
+    "id": 21758
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İMCELER",
+    "id": 21759
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KÜÇÜKKIRAN",
+    "id": 21760
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SİNAN",
+    "id": 21761
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BOZÇATLI",
+    "id": 21762
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "CAMİİ ATİK",
+    "id": 21763
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 21764
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 21765
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KULALAR",
+    "id": 21766
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÖKSÜZLÜ",
+    "id": 21767
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÖRÜCÜLER",
+    "id": 21768
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SAĞNIÇ",
+    "id": 21769
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SECAATTİN",
+    "id": 21770
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KARGINIŞIKLAR",
+    "id": 21771
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KERPİÇLİK",
+    "id": 21772
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "PAZAR",
+    "id": 21773
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SÖĞÜTÇÜK",
+    "id": 21774
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "TAŞOKÇULAR",
+    "id": 21775
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YAVAŞLAR",
+    "id": 21776
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "DURHASAN",
+    "id": 21777
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "GÜVELİ",
+    "id": 21778
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HACITÜRBEK",
+    "id": 21779
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İCİKLER",
+    "id": 21780
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "MAHMUTLAR",
+    "id": 21781
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SOFULAR",
+    "id": 21782
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 21783
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İSMAİLLER",
+    "id": 21784
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YENİCE",
+    "id": 21785
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÇAĞILLAR",
+    "id": 21786
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "DEMİRCİ",
+    "id": 21787
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "GÖMEÇLER",
+    "id": 21788
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HACIHAMZA",
+    "id": 21789
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "İÇHİSAR",
+    "id": 21790
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "SAYIK",
+    "id": 21791
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YAĞMUR",
+    "id": 21792
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "YİĞENLER",
+    "id": 21793
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "BOZKÖY",
+    "id": 21794
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "HOŞÇALAR",
+    "id": 21795
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "MARMARACIK",
+    "id": 21796
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ÖREN",
+    "id": 21797
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "ŞEHREKÜSTÜ",
+    "id": 21798
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "TEKELER",
+    "id": 21799
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "GÜMELE",
+    "id": 21800
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KIŞLAK",
+    "id": 21801
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "DEMİRCİ",
+    "MAHALLE": "KOVANCI",
+    "id": 21802
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 21803
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BEĞEL",
+    "id": 21804
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 21805
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DUTLUCA",
+    "id": 21806
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "NAKIPAĞA",
+    "id": 21807
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BENLİELİ",
+    "id": 21808
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KOBAKLAR",
+    "id": 21809
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ULGAR",
+    "id": 21810
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ATATÜRK",
+    "id": 21811
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BOYALI",
+    "id": 21812
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 21813
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "HÜSEYNİ BABA",
+    "id": 21814
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KALEMOĞLU",
+    "id": 21815
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KAŞIKÇI",
+    "id": 21816
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "AKPINAR",
+    "id": 21817
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BEĞENLER",
+    "id": 21818
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BEŞEYLÜL",
+    "id": 21819
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "CUMA",
+    "id": 21820
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KORUBAŞI",
+    "id": 21821
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KÖSELER",
+    "id": 21822
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "PINARBAŞI",
+    "id": 21823
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DALKARA",
+    "id": 21824
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "EVCİLER",
+    "id": 21825
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KARAYAĞCI",
+    "id": 21826
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ŞEYHYAYLA",
+    "id": 21827
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BALIKLI",
+    "id": 21828
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 21829
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KARAYAKUP",
+    "id": 21830
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "OĞULDURUK",
+    "id": 21831
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "SARIALİLER",
+    "id": 21832
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DİVAN",
+    "id": 21833
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "TEPEKÖY",
+    "id": 21834
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "TÜPÜLER",
+    "id": 21835
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ÇİĞİLLER",
+    "id": 21836
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DEREÇİFTLİK",
+    "id": 21837
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DOĞANPINAR",
+    "id": 21838
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "FUNDACIK",
+    "id": 21839
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 21840
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KÜREKÇİ",
+    "id": 21841
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "MALAZ",
+    "id": 21842
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "UZUNÇAM",
+    "id": 21843
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ÇATALARMUT",
+    "id": 21844
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KARAKEÇİLİ",
+    "id": 21845
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KAYACIK",
+    "id": 21846
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KIRANKÖY",
+    "id": 21847
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KIYMIK",
+    "id": 21848
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BAYAT",
+    "id": 21849
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "GÜLPINAR",
+    "id": 21850
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KILCANLAR",
+    "id": 21851
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "MALKOCA",
+    "id": 21852
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "SALUR",
+    "id": 21853
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "BÖREZ",
+    "id": 21854
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 21855
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KIZILDAM",
+    "id": 21856
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KUYUCAKKARAPINAR",
+    "id": 21857
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DARGIL",
+    "id": 21858
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "DELİÇOBAN",
+    "id": 21859
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 21860
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KABAKOZ",
+    "id": 21861
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "KUŞLUKKÖY",
+    "id": 21862
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "ŞAHİNKAYA",
+    "id": 21863
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "EFENDİLİ",
+    "id": 21864
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "YAKAKÖY",
+    "id": 21865
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖRDES",
+    "MAHALLE": "YENİKÖY",
+    "id": 21866
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "HACIBEKTAŞLI",
+    "id": 21867
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KAPLAN",
+    "id": 21868
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KEMERDAMLARI",
+    "id": 21869
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KÖSEALİ",
+    "id": 21870
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 21871
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 21872
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ADALA",
+    "id": 21873
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "AKYAR",
+    "id": 21874
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAMURHAMAMI",
+    "id": 21875
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAVLU",
+    "id": 21876
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KIRVELİ",
+    "id": 21877
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 21878
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ŞİRİNYER",
+    "id": 21879
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "TAYTAN",
+    "id": 21880
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YAĞMURLAR",
+    "id": 21881
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BURHAN",
+    "id": 21882
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DEDETAŞI",
+    "id": 21883
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "EMİNBEY",
+    "id": 21884
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "TORUNLU",
+    "id": 21885
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YAĞBASAN",
+    "id": 21886
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ALLAHDİYEN",
+    "id": 21887
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ATATÜRK",
+    "id": 21888
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DAMATLI",
+    "id": 21889
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DOMBAYLI",
+    "id": 21890
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GÜMÜŞ",
+    "id": 21891
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "HASALAN",
+    "id": 21892
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KURTTUTAN",
+    "id": 21893
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "MEVLUTLU",
+    "id": 21894
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 21895
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KABAZLI",
+    "id": 21896
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KALE",
+    "id": 21897
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KELİ",
+    "id": 21898
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 21899
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YEŞİLKAVAK",
+    "id": 21900
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BARIŞ",
+    "id": 21901
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BAŞLIOĞLU",
+    "id": 21902
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "HACILI",
+    "id": 21903
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KARAYAHŞİ",
+    "id": 21904
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KORDON",
+    "id": 21905
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "MİTATPAŞA",
+    "id": 21906
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ORAKLAR",
+    "id": 21907
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KAPANCI",
+    "id": 21908
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "MERSİNDERE",
+    "id": 21909
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YILMAZ",
+    "id": 21910
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 21911
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "AKSOY",
+    "id": 21912
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BAĞCILAR",
+    "id": 21913
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KEMER",
+    "id": 21914
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KIZILHAVLU",
+    "id": 21915
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "MAMATLI",
+    "id": 21916
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 21917
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇÖKELEK",
+    "id": 21918
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BEŞEYLÜL",
+    "id": 21919
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 21920
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DURASILLI",
+    "id": 21921
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GÜNEŞ",
+    "id": 21922
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "POYRAZDAMLARI",
+    "id": 21923
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 21924
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SİNDEL",
+    "id": 21925
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 21926
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAPAKLI",
+    "id": 21927
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DELİBAŞLI",
+    "id": 21928
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "EMİRHACILI",
+    "id": 21929
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GÖKÇEKÖY",
+    "id": 21930
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "İĞDECİK",
+    "id": 21931
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "TEKELİOĞLU",
+    "id": 21932
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇUKUROBA",
+    "id": 21933
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "HACIKÖSELİ",
+    "id": 21934
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇALTILI",
+    "id": 21935
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇELİKLİ",
+    "id": 21936
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "DERBENT",
+    "id": 21937
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ESKİ CAMİ",
+    "id": 21938
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GÖKEYÜP",
+    "id": 21939
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "HACIHIDIR",
+    "id": 21940
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KARAOĞLANLI",
+    "id": 21941
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "PAZARKÖY",
+    "id": 21942
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ZAFER",
+    "id": 21943
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "AKÖREN",
+    "id": 21944
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BAHÇECİK",
+    "id": 21945
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "BEYLİKLİ",
+    "id": 21946
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "CAFERBEY",
+    "id": 21947
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 21948
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAKALDOĞANLAR",
+    "id": 21949
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KARAPINAR",
+    "id": 21950
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KIRDAMLARI",
+    "id": 21951
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SAĞLIK",
+    "id": 21952
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SART",
+    "id": 21953
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YENİPAZAR",
+    "id": 21954
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 21955
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KARASAVCI",
+    "id": 21956
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SARIPINAR",
+    "id": 21957
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YÖRÜK",
+    "id": 21958
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GAFFAR OKKAN",
+    "id": 21959
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GÖKKÖY",
+    "id": 21960
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "MERSİNLİ",
+    "id": 21961
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "SALİHLİ OSB",
+    "id": 21962
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÇAYPINAR",
+    "id": 21963
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ELDELEK",
+    "id": 21964
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "GAZİLER",
+    "id": 21965
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 21966
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "KOCAÇEŞME",
+    "id": 21967
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "ÖZYURT",
+    "id": 21968
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "POYRAZ",
+    "id": 21969
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SALİHLİ",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 21970
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "BEYLER",
+    "id": 21971
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "YENİKÖY",
+    "id": 21972
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "TAŞKUYUCAK",
+    "id": 21973
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "TİYENLİ",
+    "id": 21974
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "ATATÜRK",
+    "id": 21975
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 21976
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "KILCANLAR",
+    "id": 21977
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "YENİ CAMİİ",
+    "id": 21978
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "ESKİ CAMİİ",
+    "id": 21979
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "HIROĞLU",
+    "id": 21980
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "İHSANİYE",
+    "id": 21981
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "KAYAALTI",
+    "id": 21982
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "DEĞNEKLER",
+    "id": 21983
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "AYANLAR",
+    "id": 21984
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 21985
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 21986
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "OZANCA",
+    "id": 21987
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "HACIVELİLER",
+    "id": 21988
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "HACIBAŞTANLAR",
+    "id": 21989
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "YUNUSLAR",
+    "id": 21990
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "GÖLMARMARA",
+    "MAHALLE": "KAYAPINAR",
+    "id": 21991
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ALANYOLU",
+    "id": 21992
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KOZAKLI",
+    "id": 21993
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 21994
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KINIK",
+    "id": 21995
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KURTLAR",
+    "id": 21996
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "SELVİLER",
+    "id": 21997
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ARPACI",
+    "id": 21998
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "BOZBURUN",
+    "id": 21999
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ÇARIKLAR",
+    "id": 22000
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "MESTANLI",
+    "id": 22001
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YUMUKLAR",
+    "id": 22002
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 22003
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 22004
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "TOKMAKLI",
+    "id": 22005
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KAVAKYERİ",
+    "id": 22006
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ÇAVULLAR",
+    "id": 22007
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÖKVELİLER",
+    "id": 22008
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "İKİZKUYU",
+    "id": 22009
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KARYAĞDI",
+    "id": 22010
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "TEMREK",
+    "id": 22011
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KARAELMACIK",
+    "id": 22012
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ATATÜRK",
+    "id": 22013
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YABACI",
+    "id": 22014
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YENİCE",
+    "id": 22015
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "GÜLPINAR",
+    "id": 22016
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KASAR",
+    "id": 22017
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KİLLİK",
+    "id": 22018
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 22019
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "UĞURLU",
+    "id": 22020
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "YARDERE",
+    "id": 22021
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "AZİMLİ",
+    "id": 22022
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "RAĞILLAR",
+    "id": 22023
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KULALI",
+    "id": 22024
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "AKÇAALAN",
+    "id": 22025
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "BORLU",
+    "id": 22026
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "CICIKLI",
+    "id": 22027
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "DÖĞÜŞEREN",
+    "id": 22028
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ARMAĞAN",
+    "id": 22029
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 22030
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KIDIRCIK",
+    "id": 22031
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 22032
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "SARAYCIK",
+    "id": 22033
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "SARGAÇ",
+    "id": 22034
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "ESAT",
+    "id": 22035
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KEMHALLI",
+    "id": 22036
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KÖPRÜBAŞI",
+    "MAHALLE": "KIRANŞEYH",
+    "id": 22037
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "AKPINAR",
+    "id": 22038
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 22039
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ÇARŞI",
+    "id": 22040
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KAĞAN",
+    "id": 22041
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SARIALAN",
+    "id": 22042
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 22043
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "1.ANAFARTALAR",
+    "id": 22044
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "2.ANAFARTALAR",
+    "id": 22045
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "DİLŞİKAR",
+    "id": 22046
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "UTKU",
+    "id": 22047
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "YUKARIÇOBANİSA",
+    "id": 22048
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "GÖKBEL",
+    "id": 22049
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SANCAKLIİĞDECİK",
+    "id": 22050
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ÇAVUŞOĞLU",
+    "id": 22051
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ÇINARLIKUYU",
+    "id": 22052
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KOCATEPE",
+    "id": 22053
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SELİMŞAHLAR",
+    "id": 22054
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "AKINCILAR",
+    "id": 22055
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "YENİHARMANDALI",
+    "id": 22056
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ÇERKEZMAHMUDİYE",
+    "id": 22057
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "DERE",
+    "id": 22058
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "AHMET BEDEVİ",
+    "id": 22059
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "BELENYENİCE",
+    "id": 22060
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KALEMLİ",
+    "id": 22061
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KARAYENİCE",
+    "id": 22062
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 22063
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "YARHASANLAR",
+    "id": 22064
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "YENİKÖY",
+    "id": 22065
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "HALITLI",
+    "id": 22066
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KIRANÇİFTLİĞİ",
+    "id": 22067
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "NURLUPINAR",
+    "id": 22068
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "DİNÇER",
+    "id": 22069
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "GEDİZ",
+    "id": 22070
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SAKARYA",
+    "id": 22071
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "TUNCA",
+    "id": 22072
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "VEZİROĞLU",
+    "id": 22073
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ALAYBEY",
+    "id": 22074
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ARDA",
+    "id": 22075
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "İBRAHİMÇELEBİ",
+    "id": 22076
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KARAAĞAÇLI",
+    "id": 22077
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "AYVACIK",
+    "id": 22078
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "BAYINDIRLIK",
+    "id": 22079
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "HACIHALİLLER",
+    "id": 22080
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KARAOĞLANLI",
+    "id": 22081
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ADAKALE",
+    "id": 22082
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "EGE",
+    "id": 22083
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "HAMZABEYLİ",
+    "id": 22084
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 22085
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "PEKER",
+    "id": 22086
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SANCAKLIBOZKÖY",
+    "id": 22087
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 22088
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 22089
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "İSHAKÇELEBI",
+    "id": 22090
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "NİŞANCIPAŞA",
+    "id": 22091
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SANCAKLIÇEŞMEBAŞI",
+    "id": 22092
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "TİLKİSÜLEYMANİYE",
+    "id": 22093
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "AŞAĞIÇOBANİSA",
+    "id": 22094
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ÇAMKÖY",
+    "id": 22095
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KUŞLUBAHÇE",
+    "id": 22096
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SARUHAN",
+    "id": 22097
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "TEPECİK",
+    "id": 22098
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "GÖKTAŞLI",
+    "id": 22099
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "KALEKÖY",
+    "id": 22100
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SANCAKLIKAYADİBİ",
+    "id": 22101
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "SANCAKLIUZUNÇINAR",
+    "id": 22102
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 22103
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "ŞEHZADELER",
+    "MAHALLE": "TEKELİLER",
+    "id": 22104
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "BAKIR",
+    "id": 22105
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KAYADİBİ",
+    "id": 22106
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "MUSALAR",
+    "id": 22107
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "SÖĞÜTALAN",
+    "id": 22108
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ÇOBANLAR",
+    "id": 22109
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "GÜVENDİK",
+    "id": 22110
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HALKAHAVLU",
+    "id": 22111
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 22112
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KOCAMEHMETAĞA",
+    "id": 22113
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "SARIAĞA",
+    "id": 22114
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "YENİ",
+    "id": 22115
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KADRİYE",
+    "id": 22116
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KÜÇÜKYAYA",
+    "id": 22117
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ALACALAR",
+    "id": 22118
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KINIK",
+    "id": 22119
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ŞAİR EŞREF",
+    "id": 22120
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ÖVEÇLİ",
+    "id": 22121
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ÇALTICAK",
+    "id": 22122
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KARAALİ",
+    "id": 22123
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KOCAİSKAN",
+    "id": 22124
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "SAKARLI",
+    "id": 22125
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "BODUROĞLU",
+    "id": 22126
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "CİNOSMAN",
+    "id": 22127
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 22128
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "DUALAR",
+    "id": 22129
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HACET",
+    "id": 22130
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "İLYASLAR",
+    "id": 22131
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "TEVFİKİYE",
+    "id": 22132
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ZORAĞA",
+    "id": 22133
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "BADEMLİ",
+    "id": 22134
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "GEBELER",
+    "id": 22135
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HIDIRAĞA",
+    "id": 22136
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "MEMİŞ",
+    "id": 22137
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "GELENBE",
+    "id": 22138
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HACIHİMMET",
+    "id": 22139
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KUYUCAK",
+    "id": 22140
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "SİLEDİK",
+    "id": 22141
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "ALİFAKI",
+    "id": 22142
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "BOSTANCI",
+    "id": 22143
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 22144
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "FIRDANLAR",
+    "id": 22145
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "IŞIKLAR",
+    "id": 22146
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "KARAKURT",
+    "id": 22147
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "MUSAHOCA",
+    "id": 22148
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "GÖKÇUKUR",
+    "id": 22149
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "HAMİTLİ",
+    "id": 22150
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "KIRKAĞAÇ",
+    "MAHALLE": "YAĞMURLU",
+    "id": 22151
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "İSTASYON",
+    "id": 22152
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "BÜYÜKBELEN",
+    "id": 22153
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "HACIMUSA",
+    "id": 22154
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KOYUNCU",
+    "id": 22155
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇALTEPE",
+    "id": 22156
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "PINARBAŞI",
+    "id": 22157
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "SEYİTOBA",
+    "id": 22158
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "YILMAZ",
+    "id": 22159
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "LÜTFİYE",
+    "id": 22160
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "CENGİZ TOPEL",
+    "id": 22161
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "GÖZLET",
+    "id": 22162
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "GÜMÜLCELİ",
+    "id": 22163
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "HACIRAHMANLI",
+    "id": 22164
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 22165
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "AZİMLİ",
+    "id": 22166
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇAMLIYURT",
+    "id": 22167
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "GÖKÇEKÖY",
+    "id": 22168
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "HALİTPAŞA",
+    "id": 22169
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ATATÜRK",
+    "id": 22170
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "AYDINLAR",
+    "id": 22171
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "APAK",
+    "id": 22172
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "BEDELLER",
+    "id": 22173
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "DİLEK",
+    "id": 22174
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KEPENEKLİ",
+    "id": 22175
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "HATIPLAR",
+    "id": 22176
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KEMİKLİDERE",
+    "id": 22177
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KOLDERE",
+    "id": 22178
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "MÜTEVELLİ",
+    "id": 22179
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ALİBEYLİ",
+    "id": 22180
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇULLUGÖRECE",
+    "id": 22181
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "HEYBELİ",
+    "id": 22182
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KAYIŞLAR",
+    "id": 22183
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KUMKUYUCAK",
+    "id": 22184
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "SARIÇAM",
+    "id": 22185
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "TİRKEŞ",
+    "id": 22186
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "SARISIĞIRLI",
+    "id": 22187
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22188
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇAKMAKLI",
+    "id": 22189
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "İSHAKÇELEBİ",
+    "id": 22190
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "KURTULUŞ",
+    "id": 22191
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "NURİYE",
+    "id": 22192
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 22193
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ADİLOBA",
+    "id": 22194
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "BAHADIR",
+    "id": 22195
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇERKEZ OSMANİYE",
+    "id": 22196
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "SARUHAN",
+    "id": 22197
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ŞATIRLAR",
+    "id": 22198
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "TAŞDİBİ",
+    "id": 22199
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "ÇINAROBA",
+    "id": 22200
+  },
+  {
+    "İL": "MANİSA",
+    "İLÇE": "SARUHANLI",
+    "MAHALLE": "DEVELİ",
+    "id": 22201
+  }
+]

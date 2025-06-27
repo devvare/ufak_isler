@@ -1,0 +1,842 @@
+[
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "DİVARLI, FATİH",
+    "id": 24527
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "BOZKÖY, YEŞİLYURT",
+    "id": 24528
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "AZATLI, SAĞIRGÖL",
+    "id": 24529
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "ÇARŞI",
+    "id": 24530
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "BOZKÖY, YENİKENT",
+    "id": 24531
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "BOZKÖY, YENİCE",
+    "id": 24532
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "YENİ",
+    "id": 24533
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "DİVARLI, YENİ",
+    "id": 24534
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "ÇİFTÇİ",
+    "id": 24535
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "ASMASIZ",
+    "id": 24536
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "AZATLI, KÜLLÜCE",
+    "id": 24537
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "DİVARLI, ALPASLAN",
+    "id": 24538
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "AZATLI, YENİ",
+    "id": 24539
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "AZATLI, YEŞİLKENT",
+    "id": 24540
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇİFTLİK",
+    "MAHALLE": "AZATLI, ÇAYIR",
+    "id": 24541
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KARAKAPI, YAKA",
+    "id": 24542
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KARAKAPI, YENİ",
+    "id": 24543
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "AŞAĞI",
+    "id": 24544
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KARAKAPI, CUMHURİYET",
+    "id": 24545
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "İSTİKLAL",
+    "id": 24546
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "ORTA",
+    "id": 24547
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KEÇİKALESİ, SELÇUK",
+    "id": 24548
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "YUKARI",
+    "id": 24549
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KEÇİKALESİ, CUMHURİYET",
+    "id": 24550
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "KEÇİKALESİ, ERENLER",
+    "id": 24551
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ALTUNHİSAR",
+    "MAHALLE": "SAĞLIK",
+    "id": 24552
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "ÇÖVEK",
+    "id": 24553
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "MISIRLI",
+    "id": 24554
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "BALLIK",
+    "id": 24555
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "ALPAĞUT",
+    "id": 24556
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "MEHMETPAŞA",
+    "id": 24557
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "DOĞU",
+    "id": 24558
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 24559
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ULUKIŞLA",
+    "MAHALLE": "KADILAR",
+    "id": 24560
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "FATİH",
+    "id": 24561
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, HAN",
+    "id": 24562
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "SIRA SÖĞÜTLER",
+    "id": 24563
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ARMUTLU",
+    "id": 24564
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAHÇELİ, SARAY",
+    "id": 24565
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ŞEKER",
+    "id": 24566
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "TOPLU KONUT",
+    "id": 24567
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "DİNK",
+    "id": 24568
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "HARIM",
+    "id": 24569
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "YENİGÖÇMEN",
+    "id": 24570
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ACIGÖL",
+    "id": 24571
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAHÇELİ, CUMHURİYET",
+    "id": 24572
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ÇUKURKUYU, BEKTİK",
+    "id": 24573
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "SOKUBAŞI",
+    "id": 24574
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24575
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, CAMİ",
+    "id": 24576
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, KEMER",
+    "id": 24577
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAĞDÜZ",
+    "id": 24578
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ÇUKURKUYU, TÜRKMEN YURDU",
+    "id": 24579
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "SALTUK",
+    "id": 24580
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAHÇELİ, ZAFER",
+    "id": 24581
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "AHMET KUDDİSİ",
+    "id": 24582
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "CIĞIZOĞLU OSMAN EFENDİ",
+    "id": 24583
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAŞPINAR",
+    "id": 24584
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, TEPE",
+    "id": 24585
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KALE",
+    "id": 24586
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KARACA UĞURLU",
+    "id": 24587
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "MEHMETÇİK",
+    "id": 24588
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ORTA",
+    "id": 24589
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, ÇAYIR",
+    "id": 24590
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "KEMERHİSAR, CUMHURİYET",
+    "id": 24591
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "BAHÇELİ, ŞEKER",
+    "id": 24592
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "BOR",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 24593
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEĞİRMENLİ, AŞAĞI",
+    "id": 24594
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜNDARLI, CUMHURİYET",
+    "id": 24595
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞAĞI KAYABAŞI",
+    "id": 24596
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKTAŞ, YENİ",
+    "id": 24597
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALE",
+    "id": 24598
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SONGUR",
+    "id": 24599
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜMÜŞLER, ESKİ GÜMÜŞ",
+    "id": 24600
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIABDULLAH, BUĞAZİÇİ",
+    "id": 24601
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAZLICA, YENİ",
+    "id": 24602
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAHSÜLEYMAN",
+    "id": 24603
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKTAŞ, DEVLET",
+    "id": 24604
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİLEDERE, HÜRRİYET",
+    "id": 24605
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLGÖLCÜK, CUMHURİYET",
+    "id": 24606
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIZTEPE, BAHÇELİEVLER",
+    "id": 24607
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜNDARLI, YENİCE",
+    "id": 24608
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEĞİRMENLİ, ORTA",
+    "id": 24609
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EDİKLİ, YENİ",
+    "id": 24610
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMAMLI",
+    "id": 24611
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAATLI, FATİH",
+    "id": 24612
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAATLI, ZAFER",
+    "id": 24613
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLGÖLCÜK, YENİ",
+    "id": 24614
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALAY, CUMHURİYET",
+    "id": 24615
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALAY, HÜRRİYET",
+    "id": 24616
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALAY, MİLLİYET",
+    "id": 24617
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AHİPAŞA",
+    "id": 24618
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAYIR",
+    "id": 24619
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 24620
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİCE",
+    "id": 24621
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YILDIZTEPE, YENİ",
+    "id": 24622
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLAMA, HÜRRİYET",
+    "id": 24623
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEĞİRMENLİ, YUKARI",
+    "id": 24624
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESKİSARAY",
+    "id": 24625
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KUMLUCA",
+    "id": 24626
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İLHANLI",
+    "id": 24627
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONAKLI, CUMHURİYET",
+    "id": 24628
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARUHAN",
+    "id": 24629
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAZLICA, YUKARI",
+    "id": 24630
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLGÖLCÜK, YUKARI",
+    "id": 24631
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BALHASAN",
+    "id": 24632
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DERE",
+    "id": 24633
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜNDARLI, FATİH",
+    "id": 24634
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EDİKLİ, CUMHURİYET",
+    "id": 24635
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EDİKLİ, HÜRRİYET",
+    "id": 24636
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKTAŞ, CUMHURİYET",
+    "id": 24637
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESENBEY",
+    "id": 24638
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALAADDİN",
+    "id": 24639
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BURHAN",
+    "id": 24640
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FERTEK",
+    "id": 24641
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLAMA, CUMHURİYET",
+    "id": 24642
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KİLEDERE, CUMHURİYET",
+    "id": 24643
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORHANLI, YAVUZ",
+    "id": 24644
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLGÖLCÜK, AŞAĞI",
+    "id": 24645
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞAHİNALİ",
+    "id": 24646
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SIRALİ",
+    "id": 24647
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EDİKLİ, FEVZİPAŞA",
+    "id": 24648
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIABDULLAH, YENİ",
+    "id": 24649
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAATLI, DUMLUPINAR",
+    "id": 24650
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONAKLI, HÜYÜK",
+    "id": 24651
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAR",
+    "id": 24652
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EFENDİBEY",
+    "id": 24653
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜMÜŞLER, YENİ GÜMÜŞ",
+    "id": 24654
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 24655
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORHANLI, FATİH",
+    "id": 24656
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜNDARLI, ZAFER",
+    "id": 24657
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KONAKLI, HÜRRİYET",
+    "id": 24658
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SAZLICA, AŞAĞI",
+    "id": 24659
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLGÖLCÜK, HÜRRİYET",
+    "id": 24660
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SELÇUK",
+    "id": 24661
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUKARI, KAYABAŞI",
+    "id": 24662
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇAMARDI",
+    "MAHALLE": "MADEN",
+    "id": 24663
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇAMARDI",
+    "MAHALLE": "YENİ ÇARŞI",
+    "id": 24664
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇAMARDI",
+    "MAHALLE": "BEREKETLİ",
+    "id": 24665
+  },
+  {
+    "İL": "NİĞDE",
+    "İLÇE": "ÇAMARDI",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 24666
+  }
+]

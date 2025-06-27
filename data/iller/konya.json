@@ -1,0 +1,6968 @@
+[
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "MEVLÜTLÜ",
+    "id": 19002
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "YUKARI",
+    "id": 19003
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "ÇÖĞÜRLÜ",
+    "id": 19004
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "ORTA",
+    "id": 19005
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "KORAŞI",
+    "id": 19006
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "ERDOĞDU",
+    "id": 19007
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "GÜRSU",
+    "id": 19008
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "KONARI",
+    "id": 19009
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "TURSUNLU",
+    "id": 19010
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "KUNDULLU",
+    "id": 19011
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "PAZAR",
+    "id": 19012
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "SUBATAN",
+    "id": 19013
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "KÖKLÜCE",
+    "id": 19014
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "PAZARKAYA",
+    "id": 19015
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TUZLUKÇU",
+    "MAHALLE": "AŞAĞI",
+    "id": 19016
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "BAŞLAMIŞ",
+    "id": 19017
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "BURUNSUZ",
+    "id": 19018
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19019
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "ÇUKURKENT",
+    "id": 19020
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "AKDAĞ",
+    "id": 19021
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 19022
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "DEĞİRMENALTI",
+    "id": 19023
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "BAHÇELİ EVLER",
+    "id": 19024
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "GÖÇERİ",
+    "id": 19025
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "YENİCE",
+    "id": 19026
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "BUDAK",
+    "id": 19027
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "ÇAMLICA",
+    "id": 19028
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "KÖŞK",
+    "id": 19029
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "SULUDERE",
+    "id": 19030
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "İLMEN",
+    "id": 19031
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "PINARBAŞI",
+    "id": 19032
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "SELKİ",
+    "id": 19033
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "TOLCA",
+    "id": 19034
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "İMRENLER",
+    "id": 19035
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "KIRELİ",
+    "id": 19036
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "ULUPINAR",
+    "id": 19037
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "GÖRÜNMEZ",
+    "id": 19038
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HÜYÜK",
+    "MAHALLE": "MUTLU",
+    "id": 19039
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "BAHÇESARAY",
+    "id": 19040
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KONAR",
+    "id": 19041
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 19042
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "GÖZLÜ",
+    "id": 19043
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "DOĞU İSTASYON",
+    "id": 19044
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "ERTUĞRUL",
+    "id": 19045
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "İNLİ",
+    "id": 19046
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "LADİK",
+    "id": 19047
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "ÖZKENT",
+    "id": 19048
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "FATİH",
+    "id": 19049
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KUYULUSEBİL",
+    "id": 19050
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KARABIYIK",
+    "id": 19051
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KAYIÖREN",
+    "id": 19052
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "BAŞHÜYÜK",
+    "id": 19053
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KURŞUNLU",
+    "id": 19054
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "BÜYÜKZENGİ",
+    "id": 19055
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "ÇEŞMELİSEBİL",
+    "id": 19056
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "BOYALI",
+    "id": 19057
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "BATI İSTASYON",
+    "id": 19058
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "SELİMİYE",
+    "id": 19059
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "YENİCEKAYA",
+    "id": 19060
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KADIOĞLU",
+    "id": 19061
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "KARATEPE",
+    "id": 19062
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "HATİP",
+    "id": 19063
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "SARAÇ",
+    "id": 19064
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SARAYÖNÜ",
+    "MAHALLE": "YUKARI",
+    "id": 19065
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "BÖĞRÜDELİK",
+    "id": 19066
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 19067
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "HACIÖMEROĞLU",
+    "id": 19068
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KOÇYAZI",
+    "id": 19069
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 19070
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "EŞME",
+    "id": 19071
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "PİRİBEYLİ",
+    "id": 19072
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ODABAŞI",
+    "id": 19073
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SELÇUK",
+    "id": 19074
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SIRAM",
+    "id": 19075
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SÜLÜKLÜ",
+    "id": 19076
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "HURSUNLU",
+    "id": 19077
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KARATAŞ",
+    "id": 19078
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KILLAR",
+    "id": 19079
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ORTAKIŞLA",
+    "id": 19080
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ÖZYAYLA",
+    "id": 19081
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ESENTEPE",
+    "id": 19082
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "TURGUT",
+    "id": 19083
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "YAVAŞLI",
+    "id": 19084
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "HATIRLI",
+    "id": 19085
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "İMAMOĞLU",
+    "id": 19086
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KURTUŞAĞI",
+    "id": 19087
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KUZÖREN",
+    "id": 19088
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SARAY",
+    "id": 19089
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KARGALI",
+    "id": 19090
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "FATİH",
+    "id": 19091
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SİNANLI",
+    "id": 19092
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "CEBRAİL",
+    "id": 19093
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KUYUBAŞI",
+    "id": 19094
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "BEŞIŞIKLI",
+    "id": 19095
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "HARUNLAR",
+    "id": 19096
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "AYRITEPE",
+    "id": 19097
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "MEŞELİK",
+    "id": 19098
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SERTLER",
+    "id": 19099
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "SEVİNÇ",
+    "id": 19100
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "YEŞİLOBA",
+    "id": 19101
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "YIĞAR",
+    "id": 19102
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "ALTINÖZ",
+    "id": 19103
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "EĞRİKUYU",
+    "id": 19104
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "HACIFAKILI",
+    "id": 19105
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "KARAYAYLA",
+    "id": 19106
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YUNAK",
+    "MAHALLE": "YENİ",
+    "id": 19107
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "AKÇALAR",
+    "id": 19108
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "HACISEYİTALİ",
+    "id": 19109
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KIZILCA",
+    "id": 19110
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KETENLİ",
+    "id": 19111
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KIZILCALAR",
+    "id": 19112
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "MESUDİYE",
+    "id": 19113
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ALAYLAR BİR",
+    "id": 19114
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "AŞAĞIKARAÖREN",
+    "id": 19115
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "GÖKÇEHÜYÜK",
+    "id": 19116
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KARABULAK",
+    "id": 19117
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KARACAÖREN",
+    "id": 19118
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KUMLUCA",
+    "id": 19119
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "IRMAKLI",
+    "id": 19120
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KARAKAVAK",
+    "id": 19121
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KOZLU",
+    "id": 19122
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 19123
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "MADENLİ",
+    "id": 19124
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "AKTAŞ",
+    "id": 19125
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 19126
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KESECİK",
+    "id": 19127
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "DEĞİRMENCİ",
+    "id": 19128
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 19129
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ANABAĞLAR",
+    "id": 19130
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "BAŞKARAÖREN",
+    "id": 19131
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "OĞLAKÇI",
+    "id": 19132
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ALAYLAR İKİ",
+    "id": 19133
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "GÖLYÜZÜ",
+    "id": 19134
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ÇATMAKAYA",
+    "id": 19135
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "BOSTANDERE",
+    "id": 19136
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "GEVREKLİ",
+    "id": 19137
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "MURADİYE",
+    "id": 19138
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "BOYALI",
+    "id": 19139
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ÇAT",
+    "id": 19140
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KURAN",
+    "id": 19141
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "BÜKÇE",
+    "id": 19142
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "GÖKHÜYÜK",
+    "id": 19143
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "İNCESU",
+    "id": 19144
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "KAVAK",
+    "id": 19145
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ORTAKARAÖREN",
+    "id": 19146
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "TOL",
+    "id": 19147
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SAADETLER",
+    "id": 19148
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "PINARBAŞI",
+    "id": 19149
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SUSUZ",
+    "id": 19150
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "TARAŞCI",
+    "id": 19151
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "YAYLACIK",
+    "id": 19152
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SEYİTHARUN",
+    "id": 19153
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "TEPECİK",
+    "id": 19154
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SARAYCIK",
+    "id": 19155
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 19156
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "YENİCAMİ",
+    "id": 19157
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SEYDİŞEHİR OSB",
+    "id": 19158
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "YENİCE",
+    "id": 19159
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "STAT",
+    "id": 19160
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "UFACIK",
+    "id": 19161
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "SOFUHANE",
+    "id": 19162
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SEYDİŞEHİR",
+    "MAHALLE": "ULUKAPI",
+    "id": 19163
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "ORHANİYE",
+    "id": 19164
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "YENİ",
+    "id": 19165
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "ALANKÖY",
+    "id": 19166
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "TÜLCE",
+    "id": 19167
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "HACILAR",
+    "id": 19168
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "ÇATÖREN",
+    "id": 19169
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "KAYASU",
+    "id": 19170
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "BELKUYU",
+    "id": 19171
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "DUTLU",
+    "id": 19172
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 19173
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "AHMEDİYE",
+    "id": 19174
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 19175
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "AĞALAR",
+    "id": 19176
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKÖREN",
+    "MAHALLE": "AVDAN",
+    "id": 19177
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KAZANCI",
+    "id": 19178
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YILDIZLI",
+    "id": 19179
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ZENGEN",
+    "id": 19180
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ACIPINAR",
+    "id": 19181
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BAHÇELİ",
+    "id": 19182
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BARBAROS",
+    "id": 19183
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "PINARÖZÜ",
+    "id": 19184
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "SÜMER",
+    "id": 19185
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TOROS",
+    "id": 19186
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YUNUSLU",
+    "id": 19187
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "500 EVLER",
+    "id": 19188
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "AZİZİYE",
+    "id": 19189
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HORTU",
+    "id": 19190
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YUKARIGÖNDELEN",
+    "id": 19191
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "CİNLER",
+    "id": 19192
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÇAKMAK",
+    "id": 19193
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÇİLLER",
+    "id": 19194
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÜÇGÖZ",
+    "id": 19195
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ALPASLAN",
+    "id": 19196
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ATAKENT",
+    "id": 19197
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÖZGÜRLER",
+    "id": 19198
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "PİRÖMER",
+    "id": 19199
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ADABAĞ",
+    "id": 19200
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ALHAN",
+    "id": 19201
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 19202
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÇAYHAN",
+    "id": 19203
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÇİMENCİK",
+    "id": 19204
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "DALMAZ",
+    "id": 19205
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "DOGUALAGÖZLÜ",
+    "id": 19206
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HACIMUTAHİR",
+    "id": 19207
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 19208
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TÜRBE",
+    "id": 19209
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ULUMEŞE",
+    "id": 19210
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YELLİCE",
+    "id": 19211
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YENİBAĞLAR",
+    "id": 19212
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ACIKUYU",
+    "id": 19213
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "AKHÜYÜK",
+    "id": 19214
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BELKAYA",
+    "id": 19215
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BEYÖREN",
+    "id": 19216
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BULGURLUK",
+    "id": 19217
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "GÖKTÖME",
+    "id": 19218
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HACIMUSTAFA",
+    "id": 19219
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ORHANİYE",
+    "id": 19220
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 19221
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YILDIRIMBEYAZIT",
+    "id": 19222
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "AŞAĞIGÖNDELEN",
+    "id": 19223
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "AŞIKLAR",
+    "id": 19224
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BOYACIALİ",
+    "id": 19225
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KUTÖREN",
+    "id": 19226
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 19227
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "SERVİLİ",
+    "id": 19228
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TATLIKUYU",
+    "id": 19229
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TALATPAŞA",
+    "id": 19230
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TAŞBUDAK",
+    "id": 19231
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "AYDINLAR",
+    "id": 19232
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BELCEAĞAÇ",
+    "id": 19233
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HACIMEMİŞ",
+    "id": 19234
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "HIDIRLI",
+    "id": 19235
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KUSKUNCUK",
+    "id": 19236
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KAMIŞLIKUYU",
+    "id": 19237
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KARGACI",
+    "id": 19238
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KIZILGEDİK",
+    "id": 19239
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KUZUKUYU",
+    "id": 19240
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 19241
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ZİYA GÖKALP",
+    "id": 19242
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BATIALAGÖZLÜ",
+    "id": 19243
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "FATİH",
+    "id": 19244
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "KARABURUN",
+    "id": 19245
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 19246
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YAZLIK",
+    "id": 19247
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "CAHI",
+    "id": 19248
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ETİ",
+    "id": 19249
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 19250
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 19251
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 19252
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "GÖKÇEYAZI",
+    "id": 19253
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "MELİCEK",
+    "id": 19254
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "SARICA",
+    "id": 19255
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "SARITOPALLI",
+    "id": 19256
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ŞİNASİ",
+    "id": 19257
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "GÜLBAHÇE",
+    "id": 19258
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BEYKÖY",
+    "id": 19259
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BURHANİYE",
+    "id": 19260
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "BÜYÜKDEDE",
+    "id": 19261
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 19262
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "GAYBİ",
+    "id": 19263
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EREĞLİ",
+    "MAHALLE": "TÜRKMEN",
+    "id": 19264
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "BALCILAR YUKARI",
+    "id": 19265
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "AFŞAR YUKARI",
+    "id": 19266
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "BALCILAR ORTA",
+    "id": 19267
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "KONGUL",
+    "id": 19268
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "ŞIHLAR",
+    "id": 19269
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "ÇETMİ CÖMEŞPINAR",
+    "id": 19270
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "HIRA",
+    "id": 19271
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "AFŞAR TEPECİK",
+    "id": 19272
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "BALCILAR VELİLER",
+    "id": 19273
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "ÇETMİ YENİ",
+    "id": 19274
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "ILICAPINAR",
+    "id": 19275
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "SAZAK",
+    "id": 19276
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "BEKTAŞ",
+    "id": 19277
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "BOLAY",
+    "id": 19278
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "TAŞKENT",
+    "MAHALLE": "KECİMEN",
+    "id": 19279
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "AKKÖY",
+    "id": 19280
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "AKÇAŞAR",
+    "id": 19281
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "ÖLMEZ",
+    "id": 19282
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "DEDELER",
+    "id": 19283
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "SARNIÇ",
+    "id": 19284
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "AYIŞIĞI",
+    "id": 19285
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "TOPRAKLIK",
+    "id": 19286
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "AKINCILAR",
+    "id": 19287
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "HACINUMAN",
+    "id": 19288
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "KOÇYAKA",
+    "id": 19289
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "OĞUZELİ",
+    "id": 19290
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "BORUKKUYU",
+    "id": 19291
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "MANTAR",
+    "id": 19292
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "YENİCE",
+    "id": 19293
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "KALE",
+    "id": 19294
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "KARAKAYA",
+    "id": 19295
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "YENİKUYU",
+    "id": 19296
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "YENİ ÖLMEZ",
+    "id": 19297
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "YENİYAYLA",
+    "id": 19298
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ALTINEKİN",
+    "MAHALLE": "KOÇAŞ",
+    "id": 19299
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "BAĞYURDU",
+    "id": 19300
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "HACILAR",
+    "id": 19301
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "AYDINKIŞLA",
+    "id": 19302
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "DEREKÖY",
+    "id": 19303
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KINIK",
+    "id": 19304
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KUŞCA",
+    "id": 19305
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YELBEĞİ",
+    "id": 19306
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "BAYBAĞAN",
+    "id": 19307
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KARAYAHYA",
+    "id": 19308
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KÜÇÜKHİSARLIK",
+    "id": 19309
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YALNIZCA",
+    "id": 19310
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "IŞIKLAR",
+    "id": 19311
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KARACAHİSAR",
+    "id": 19312
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YENİKÖY",
+    "id": 19313
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ARSLANTAŞ",
+    "id": 19314
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "BOZDAM",
+    "id": 19315
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 19316
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "DEREİÇİ",
+    "id": 19317
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "HACIYUNUSLAR",
+    "id": 19318
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "HİSARLIK",
+    "id": 19319
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KARACAARDIÇ",
+    "id": 19320
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KAYACILAR",
+    "id": 19321
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ULUPINAR",
+    "id": 19322
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YAZDAMI",
+    "id": 19323
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19324
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "HAMZALAR",
+    "id": 19325
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "TEPEARASI",
+    "id": 19326
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "DEMİRASAF",
+    "id": 19327
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "HARMANPINAR",
+    "id": 19328
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "SARIOĞLAN",
+    "id": 19329
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "SOĞUCAK",
+    "id": 19330
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "AKÇAPINAR",
+    "id": 19331
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ELMAAĞAÇ",
+    "id": 19332
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KARABAYIR",
+    "id": 19333
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ARMUTLU",
+    "id": 19334
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KİLDERE",
+    "id": 19335
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "SAZLI",
+    "id": 19336
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "AYVALCA",
+    "id": 19337
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "SÖĞÜT",
+    "id": 19338
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 19339
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YUKARI",
+    "id": 19340
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KIZILÇAKIR",
+    "id": 19341
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "YOLÖREN",
+    "id": 19342
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 19343
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KUZÖREN",
+    "id": 19344
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "SORKUN",
+    "id": 19345
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "TARLABAŞI",
+    "id": 19346
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "TEPELİCE",
+    "id": 19347
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 19348
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KAYAPINAR",
+    "id": 19349
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "KOVANLIK",
+    "id": 19350
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BOZKIR",
+    "MAHALLE": "PINARCIK",
+    "id": 19351
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "HASANOBA",
+    "id": 19352
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KAZANHÜYÜĞÜ",
+    "id": 19353
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "TÜRÜDİYE",
+    "id": 19354
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "FATİH",
+    "id": 19355
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KARAKIŞLA",
+    "id": 19356
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "APAK",
+    "id": 19357
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ÇETMİ",
+    "id": 19358
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "İPEKÇİOSB",
+    "id": 19359
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KESMEZ",
+    "id": 19360
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "PINARBAŞI",
+    "id": 19361
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "YAĞMAPINAR",
+    "id": 19362
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "AKÖREN",
+    "id": 19363
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "İSLİK",
+    "id": 19364
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 19365
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ZAFER",
+    "id": 19366
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ADALET",
+    "id": 19367
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ALAADDİN",
+    "id": 19368
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "FEVZİ PAŞA",
+    "id": 19369
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KAYACIK",
+    "id": 19370
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "SELİMİYE",
+    "id": 19371
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "İPEKÇİ",
+    "id": 19372
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "OYMALI",
+    "id": 19373
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "REŞADİYE",
+    "id": 19374
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "SAZLIPINAR",
+    "id": 19375
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "SANDIKLI",
+    "id": 19376
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "AKÇAYAZI",
+    "id": 19377
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "HACI ÖMERLİ",
+    "id": 19378
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "HANKAPI",
+    "id": 19379
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KALE",
+    "id": 19380
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KAYALI",
+    "id": 19381
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ULUS",
+    "id": 19382
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "GAZİ OSMAN PAŞA",
+    "id": 19383
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "HACI İSA",
+    "id": 19384
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KÜLLÜ",
+    "id": 19385
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ORTAOBA",
+    "id": 19386
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "YENİKUYU",
+    "id": 19387
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "ÇİĞİL",
+    "id": 19388
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "YENİ",
+    "id": 19389
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19390
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "HOTAMIŞ",
+    "id": 19391
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 19392
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "KÜÇÜKAŞLAMA",
+    "id": 19393
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARAPINAR",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 19394
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BAŞGÖTÜREN",
+    "id": 19395
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARADONA",
+    "id": 19396
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KUMKÖPRÜ",
+    "id": 19397
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "NAKİPOĞLU",
+    "id": 19398
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BAŞAK",
+    "id": 19399
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ÇATALHÜYÜK",
+    "id": 19400
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ESENTEPE",
+    "id": 19401
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KÖSEALİ",
+    "id": 19402
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ULUBATLIHASAN",
+    "id": 19403
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YAVŞANKUYU",
+    "id": 19404
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AĞSAKLI",
+    "id": 19405
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BÜYÜKBURNAK",
+    "id": 19406
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "EMİRGAZİ",
+    "id": 19407
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ERENLER",
+    "id": 19408
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KATRANCI",
+    "id": 19409
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KEÇECİLER",
+    "id": 19410
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SARIYAKUP",
+    "id": 19411
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YENİCE",
+    "id": 19412
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BAKIRTOLU",
+    "id": 19413
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BEŞAĞIL",
+    "id": 19414
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ELMACI",
+    "id": 19415
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "İSMİL",
+    "id": 19416
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "İSTİKLAL",
+    "id": 19417
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARAASLANDEDE",
+    "id": 19418
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARAASLANÜZÜMCÜ",
+    "id": 19419
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KERİM DEDE",
+    "id": 19420
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ORTAKONAK",
+    "id": 19421
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ORTAKONAK OSB",
+    "id": 19422
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "OVAKAVAĞI",
+    "id": 19423
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SAKYATAN",
+    "id": 19424
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AKİFPAŞA",
+    "id": 19425
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AKÖRENKIŞLA",
+    "id": 19426
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "GAZİOSMANPAŞA",
+    "id": 19427
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "GÖÇÜ",
+    "id": 19428
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HAMZAOĞLU",
+    "id": 19429
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KEYKUBAT",
+    "id": 19430
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SELİMSULTAN",
+    "id": 19431
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HACI HASAN",
+    "id": 19432
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HACISADIK",
+    "id": 19433
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YAĞLIBAYAT",
+    "id": 19434
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YARMA",
+    "id": 19435
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ÇENGİLTİ",
+    "id": 19436
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KIZÖREN",
+    "id": 19437
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HASANDEDEMESCİT",
+    "id": 19438
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "MENGENE",
+    "id": 19439
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SÜRÜÇ",
+    "id": 19440
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ÇATALTÖMEK",
+    "id": 19441
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ÇELEBİ",
+    "id": 19442
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "FEVZİÇAKMAK",
+    "id": 19443
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARAKAYA",
+    "id": 19444
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "OBRUK",
+    "id": 19445
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ŞATIR",
+    "id": 19446
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ACIDORT",
+    "id": 19447
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AKÇEŞME",
+    "id": 19448
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "DİVANLAR",
+    "id": 19449
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HACIİBALI",
+    "id": 19450
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HACIYUSUFMESCİT",
+    "id": 19451
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KAYACIKARAPLAR",
+    "id": 19452
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ŞEMSİTEBRİZİ",
+    "id": 19453
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ERLER",
+    "id": 19454
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HACIVEYİSZADE",
+    "id": 19455
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "TATLICAK",
+    "id": 19456
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "BÜYÜK SİNAN",
+    "id": 19457
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ÇİMENLİK",
+    "id": 19458
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SULTAN MESUD",
+    "id": 19459
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ZİNCİRLİ",
+    "id": 19460
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "FETİH",
+    "id": 19461
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 19462
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "SARAÇOĞLU",
+    "id": 19463
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AKABE",
+    "id": 19464
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AKBAŞ",
+    "id": 19465
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "DOĞUŞ",
+    "id": 19466
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "İPEKLER",
+    "id": 19467
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KALENDERHANE",
+    "id": 19468
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARAKULAK",
+    "id": 19469
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "AZİZİYE",
+    "id": 19470
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "HAYIROĞLU",
+    "id": 19471
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KARACİĞAN",
+    "id": 19472
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 19473
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YEDİLER",
+    "id": 19474
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KARATAY",
+    "MAHALLE": "YENİKENT",
+    "id": 19475
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "DEMİRCİ",
+    "id": 19476
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "TÜRBE",
+    "id": 19477
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "BESCİ",
+    "id": 19478
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "IŞIKLAR",
+    "id": 19479
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "KARAÖREN",
+    "id": 19480
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "KALE",
+    "id": 19481
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "AKMESCİT",
+    "id": 19482
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19483
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 19484
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "EKİZLİ",
+    "id": 19485
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "ÖBEKTAŞ",
+    "id": 19486
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "GÖLÖREN",
+    "id": 19487
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "MEŞELİ",
+    "id": 19488
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "FATİH",
+    "id": 19489
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "YAMAÇ",
+    "id": 19490
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "EMİRGAZİ",
+    "MAHALLE": "YENİ",
+    "id": 19491
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "DEĞİŞ",
+    "id": 19492
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "ÇİFTLİKÖZÜ",
+    "id": 19493
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "GÜNEY",
+    "id": 19494
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "ARAPÖZÜ",
+    "id": 19495
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "KARALAR",
+    "id": 19496
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "SARAYPINAR",
+    "id": 19497
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "DERBENTTEKKE",
+    "id": 19498
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "HACI AHMET",
+    "id": 19499
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 19500
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "GÜNEYKÖY",
+    "id": 19501
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "MÜLAYİM",
+    "id": 19502
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "SÜLEYMAN",
+    "id": 19503
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DERBENT",
+    "MAHALLE": "YUKARI",
+    "id": 19504
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "KENANKUYU",
+    "id": 19505
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "SARAYÖNÜ",
+    "id": 19506
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "YENİ",
+    "id": 19507
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "GENCEK",
+    "id": 19508
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "DURAK",
+    "id": 19509
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "GÖYNEM",
+    "id": 19510
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "UĞURLU",
+    "id": 19511
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "TEPEARASI",
+    "id": 19512
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "PINARBAŞI",
+    "id": 19513
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "ÇAMLIK",
+    "id": 19514
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "MUSALLA",
+    "id": 19515
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DEREBUCAK",
+    "MAHALLE": "TAŞLIPINAR",
+    "id": 19516
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "APASARAYCIK",
+    "id": 19517
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BEYLERCE",
+    "id": 19518
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ÇUKURKAVAK",
+    "id": 19519
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "SÜRGÜÇ",
+    "id": 19520
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "TAHTALI",
+    "id": 19521
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ARIKÖREN",
+    "id": 19522
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "AVDUL",
+    "id": 19523
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 19524
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BÜYÜKAŞLAMA",
+    "id": 19525
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "İSTİKLAL OSB",
+    "id": 19526
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 19527
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "YÖRÜKCAMİLİ",
+    "id": 19528
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "İZZETBEY",
+    "id": 19529
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "KARKIN",
+    "id": 19530
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ALEMDAR",
+    "id": 19531
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ÇİÇEKKÖY",
+    "id": 19532
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "GÖKHÜYÜK",
+    "id": 19533
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "SEÇME",
+    "id": 19534
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "YENİ",
+    "id": 19535
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ALISSA",
+    "id": 19536
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BAĞLAR",
+    "id": 19537
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BARAJ",
+    "id": 19538
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "DİNEKSARAY",
+    "id": 19539
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "HÜRRİYET",
+    "id": 19540
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "DOĞANLI",
+    "id": 19541
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "OKÇU",
+    "id": 19542
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ABDİTOLU",
+    "id": 19543
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "DEDEMOĞLU",
+    "id": 19544
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ERENTEPE",
+    "id": 19545
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "İNLİ",
+    "id": 19546
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ÜÇHÜYÜK",
+    "id": 19547
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "AFŞAR",
+    "id": 19548
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "MEYDAN",
+    "id": 19549
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "UZUNKUYU",
+    "id": 19550
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BARDAKÇI",
+    "id": 19551
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19552
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "KÜÇÜKKÖY",
+    "id": 19553
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "TÜRKMENCAMİLİ",
+    "id": 19554
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "DİNLENDİK",
+    "id": 19555
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "İSTİKLAL",
+    "id": 19556
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "YENİSU",
+    "id": 19557
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ALİBEYHÜYÜĞÜ",
+    "id": 19558
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "APA",
+    "id": 19559
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BALÇIKHİSAR",
+    "id": 19560
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 19561
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "İÇERİÇUMRA",
+    "id": 19562
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "KUZUCU",
+    "id": 19563
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ADAKALE",
+    "id": 19564
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "ÜRÜNLÜ",
+    "id": 19565
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "BAKKALBAŞI",
+    "id": 19566
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "DİNEK",
+    "id": 19567
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "FETHİYE",
+    "id": 19568
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 19569
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇUMRA",
+    "MAHALLE": "TÜRKMENKARAHÜYÜK",
+    "id": 19570
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "EMİRHAN",
+    "id": 19571
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "GÜNEYBAĞ",
+    "id": 19572
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "ÖMEROĞLU",
+    "id": 19573
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "KIZILÖZ",
+    "id": 19574
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "MEHMET ALİ",
+    "id": 19575
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "AYDOĞMUŞ",
+    "id": 19576
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "GÜRAĞAÇ",
+    "id": 19577
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "HABİLLER",
+    "id": 19578
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "ÖRENBOYALI",
+    "id": 19579
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "AVCITEPE",
+    "id": 19580
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "BARDAS",
+    "id": 19581
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "DURAYDA",
+    "id": 19582
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "KARASINIR",
+    "id": 19583
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "MEVLANA",
+    "id": 19584
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "SARIHACI",
+    "id": 19585
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "KURUKAVAK",
+    "id": 19586
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "AĞRAS",
+    "id": 19587
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "GÜNEYSINIR",
+    "MAHALLE": "KAYAAĞZI",
+    "id": 19588
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 19589
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "DEĞİRMENÖZÜ",
+    "id": 19590
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "DOĞUTEPE",
+    "id": 19591
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KARAPINAR",
+    "id": 19592
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KIRKKUYU",
+    "id": 19593
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ARŞINCI",
+    "id": 19594
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "SEYİTAHMETLİ",
+    "id": 19595
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ŞEREFLİ",
+    "id": 19596
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ZİNCİRLİKUYU",
+    "id": 19597
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ALTILAR",
+    "id": 19598
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 19599
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "BEŞKARDEŞ",
+    "id": 19600
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KIRKPINAR",
+    "id": 19601
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "CANIMANA",
+    "id": 19602
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "DİPDEDE",
+    "id": 19603
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 19604
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "SARIYAYLA",
+    "id": 19605
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "YENİ",
+    "id": 19606
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 19607
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KOZANLI",
+    "id": 19608
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "MANDIRA",
+    "id": 19609
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ÖMERANLI",
+    "id": 19610
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "BAHADIRLI",
+    "id": 19611
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KARACADAĞ",
+    "id": 19612
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KÖMÜŞİNİ",
+    "id": 19613
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ALPARSLAN",
+    "id": 19614
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "BOZAN",
+    "id": 19615
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "BURUNAĞIL",
+    "id": 19616
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "HİSARKÖY",
+    "id": 19617
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KARACADERE",
+    "id": 19618
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19619
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "DİNEK",
+    "id": 19620
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KÖSTENGİL",
+    "id": 19621
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "SOĞUKKUYU",
+    "id": 19622
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "ACIKUYU",
+    "id": 19623
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "FEVZİYE",
+    "id": 19624
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KÖŞKER",
+    "id": 19625
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "TUZYAKA",
+    "id": 19626
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "YARAŞLI",
+    "id": 19627
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 19628
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "TAVLIÖREN",
+    "id": 19629
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 19630
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "CELEP",
+    "id": 19631
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "GÖKLER",
+    "id": 19632
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "KEMALİYE",
+    "id": 19633
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KULU",
+    "MAHALLE": "YAZIÇAYIR",
+    "id": 19634
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YALIHÜYÜK",
+    "MAHALLE": "ARASÖĞÜT",
+    "id": 19635
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YALIHÜYÜK",
+    "MAHALLE": "AŞAĞI",
+    "id": 19636
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YALIHÜYÜK",
+    "MAHALLE": "SARAYKÖY",
+    "id": 19637
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "YALIHÜYÜK",
+    "MAHALLE": "YUKARI",
+    "id": 19638
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ALAKOVA",
+    "id": 19639
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "GÖDENE",
+    "id": 19640
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KIZILÖREN",
+    "id": 19641
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KÖYCEĞİZ",
+    "id": 19642
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "PAMUKCU",
+    "id": 19643
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ULUĞBEY",
+    "id": 19644
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ATEŞBAZ VELİ",
+    "id": 19645
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "AYMANAS",
+    "id": 19646
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇAYIRBAĞI",
+    "id": 19647
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "SEFAKÖY",
+    "id": 19648
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "AŞKAN",
+    "id": 19649
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "BORUKTOLU",
+    "id": 19650
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KARADİĞİNDERESİ",
+    "id": 19651
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "SAĞLIK",
+    "id": 19652
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YATAĞAN",
+    "id": 19653
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YEŞİLTEKKE",
+    "id": 19654
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 19655
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KAYALI",
+    "id": 19656
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "MELİKŞAH",
+    "id": 19657
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YAKA",
+    "id": 19658
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "LALEBAHÇE",
+    "id": 19659
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HAVZAN",
+    "id": 19660
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "İKİPINAR",
+    "id": 19661
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "BAYAT",
+    "id": 19662
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇARIKLAR",
+    "id": 19663
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "DERE",
+    "id": 19664
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KUMRALI",
+    "id": 19665
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 19666
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "BAHÇEŞEHİR",
+    "id": 19667
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "EVLİYATEKKE",
+    "id": 19668
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HADİMİ",
+    "id": 19669
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KAŞINHANI",
+    "id": 19670
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KAVAK",
+    "id": 19671
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KAYADİBİ",
+    "id": 19672
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YAYLAPINAR",
+    "id": 19673
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ALPASLAN",
+    "id": 19674
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "DURUNDAY",
+    "id": 19675
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ALAVARDI",
+    "id": 19676
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "BOYALI",
+    "id": 19677
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HATUNSARAY",
+    "id": 19678
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KONEVİ",
+    "id": 19679
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "PİREBİ",
+    "id": 19680
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ULUIRMAK",
+    "id": 19681
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 19682
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇOMAKLAR",
+    "id": 19683
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇOMAKLI",
+    "id": 19684
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ALİ ULVİ KURUCU",
+    "id": 19685
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "BOTSA",
+    "id": 19686
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HASANŞEYH",
+    "id": 19687
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "UZUNHARMANLAR",
+    "id": 19688
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KARADİĞİN",
+    "id": 19689
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KOVANAĞZI",
+    "id": 19690
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "AYANBEY",
+    "id": 19691
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "AYDOĞDU",
+    "id": 19692
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ÇUKURÇİMEN",
+    "id": 19693
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 19694
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "İNLİCE",
+    "id": 19695
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 19696
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "SADIKLAR",
+    "id": 19697
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "SAHİBATA",
+    "id": 19698
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "SARIKIZ",
+    "id": 19699
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KAYIHÜYÜK",
+    "id": 19700
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KİLİSTRA",
+    "id": 19701
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "YENİBAHÇE",
+    "id": 19702
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "ERENKAYA",
+    "id": 19703
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HARMANCIK",
+    "id": 19704
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "HATIP",
+    "id": 19705
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 19706
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "MERAM",
+    "MAHALLE": "OSMAN GAZİ",
+    "id": 19707
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÇAY",
+    "id": 19708
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KUŞÇU",
+    "id": 19709
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ALTUNKALEM",
+    "id": 19710
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "DEĞİRMENKÖY",
+    "id": 19711
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ENGİLİ",
+    "id": 19712
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SARAY",
+    "id": 19713
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "AHİCELAL",
+    "id": 19714
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ALANYURT",
+    "id": 19715
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "BOZLAĞAN",
+    "id": 19716
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SAVAŞ",
+    "id": 19717
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KARABULUT",
+    "id": 19718
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 19719
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "NASREDDİN",
+    "id": 19720
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ADSIZ",
+    "id": 19721
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ANIT",
+    "id": 19722
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "GAZİ",
+    "id": 19723
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ALTUNTAŞ",
+    "id": 19724
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ATAKENT",
+    "id": 19725
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "DOĞRUGÖZ",
+    "id": 19726
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KURUÇAY",
+    "id": 19727
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "İSTASYON",
+    "id": 19728
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KİLECİ",
+    "id": 19729
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÇAMLI",
+    "id": 19730
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "GEDİL",
+    "id": 19731
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "MEYDAN",
+    "id": 19732
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KOZAĞAÇ",
+    "id": 19733
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ESKİKALE",
+    "id": 19734
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "GÖZPINARI",
+    "id": 19735
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ILICAK",
+    "id": 19736
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "KIZILCA",
+    "id": 19737
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÇAKILLAR",
+    "id": 19738
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 19739
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ORTAKÖY",
+    "id": 19740
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "GÖLÇAYIR",
+    "id": 19741
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ORTACA",
+    "id": 19742
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "REİS",
+    "id": 19743
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "CANKURTARAN",
+    "id": 19744
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÇİMENDERE",
+    "id": 19745
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SELÇUK",
+    "id": 19746
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YAYLABELEN",
+    "id": 19747
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YENİ",
+    "id": 19748
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SEYRAN",
+    "id": 19749
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YAŞARLAR",
+    "id": 19750
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SORKUN",
+    "id": 19751
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 19752
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YILDIRIM",
+    "id": 19753
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YAZLA",
+    "id": 19754
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 19755
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YARENLER",
+    "id": 19756
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ÜÇHÜYÜK",
+    "id": 19757
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "TİPİ",
+    "id": 19758
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "TİPİKÖY",
+    "id": 19759
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "ULUPINAR",
+    "id": 19760
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "YENİKÖY",
+    "id": 19761
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AKŞEHİR",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 19762
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BÜYÜKOBA",
+    "id": 19763
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "FAHRETTİN ALTAY",
+    "id": 19764
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GÜNEYPINAR",
+    "id": 19765
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "AĞALAR",
+    "id": 19766
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BALKI",
+    "id": 19767
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ILICA",
+    "id": 19768
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "YORAZLAR",
+    "id": 19769
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GÖSTERE",
+    "id": 19770
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ORMANÖZÜ",
+    "id": 19771
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "FATİH",
+    "id": 19772
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GEÇİTKÖY",
+    "id": 19773
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "KAPAKLI",
+    "id": 19774
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "AYVATDEDE",
+    "id": 19775
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GÖLYAKA",
+    "id": 19776
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "HARMANYAZI",
+    "id": 19777
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "MİLLİ EGEMENLİK",
+    "id": 19778
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ZAFERİYE",
+    "id": 19779
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "AVDAN",
+    "id": 19780
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "YUKARIÇİĞİL",
+    "id": 19781
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BEHLÜLBEY",
+    "id": 19782
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GEDİKÖREN",
+    "id": 19783
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GÖKÇEYURT",
+    "id": 19784
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BELEKLER",
+    "id": 19785
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BOĞAZKENT",
+    "id": 19786
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BULCUK",
+    "id": 19787
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ÇİĞİL",
+    "id": 19788
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ARGITHANI",
+    "id": 19789
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BARAKMUSLU",
+    "id": 19790
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 19791
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "SAHİP ATA",
+    "id": 19792
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "UCARI",
+    "id": 19793
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "DIĞRAK",
+    "id": 19794
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ELDEŞ",
+    "id": 19795
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "İSTASYON",
+    "id": 19796
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "KARAKÖY",
+    "id": 19797
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "MAHMUTHİSAR",
+    "id": 19798
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "OLUKPINAR",
+    "id": 19799
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ORHANİYE",
+    "id": 19800
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "İHSANİYE",
+    "id": 19801
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "MECİDİYE",
+    "id": 19802
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ÇOBANKAYA",
+    "id": 19803
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ŞIHBEDRETTİN",
+    "id": 19804
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ÇAVUŞÇUGÖL",
+    "id": 19805
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "DÜĞER",
+    "id": 19806
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "SEBİLLER",
+    "id": 19807
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "BEYKONAK",
+    "id": 19808
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ÇATAK",
+    "id": 19809
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "DEREKÖY",
+    "id": 19810
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ESENTEPE",
+    "id": 19811
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "SADIKKÖY",
+    "id": 19812
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "CAMİİATİK",
+    "id": 19813
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "GÖKBUDAK",
+    "id": 19814
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "KALEKÖY",
+    "id": 19815
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "MİSAFİRLİ",
+    "id": 19816
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "ŞIHCARULLAH",
+    "id": 19817
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ILGIN",
+    "MAHALLE": "TEKELER",
+    "id": 19818
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 19819
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "DOĞANYURT",
+    "id": 19820
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "GÖKPINAR",
+    "id": 19821
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "TORUNLAR",
+    "id": 19822
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "İSHAKUŞAĞI",
+    "id": 19823
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "ADAKASIM",
+    "id": 19824
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 19825
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "YUKARIALİÇOMAK",
+    "id": 19826
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "BAHÇE SARAY",
+    "id": 19827
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "SELÇUK",
+    "id": 19828
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "KÜÇÜKHASAN",
+    "id": 19829
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "HONAMLI",
+    "id": 19830
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "KAŞÖREN",
+    "id": 19831
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "ÇELTİK",
+    "MAHALLE": "FATİH",
+    "id": 19832
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KONURÖREN",
+    "id": 19833
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KÖYLÜTOLU",
+    "id": 19834
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "YENİ",
+    "id": 19835
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KARAHİSARLI",
+    "id": 19836
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 19837
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KIZILKUYU",
+    "id": 19838
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "PUSAT",
+    "id": 19839
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "AFŞARLI",
+    "id": 19840
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "BEYKAVAĞI",
+    "id": 19841
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "DOĞANLAR",
+    "id": 19842
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KARAKURTLU",
+    "id": 19843
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KAYABAŞI",
+    "id": 19844
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "TURGUTLU",
+    "id": 19845
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "HACIPİRLİ",
+    "id": 19846
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KARAYÜRÜKLÜ",
+    "id": 19847
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ŞAHÖREN",
+    "id": 19848
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ALABAĞ",
+    "id": 19849
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KAMIŞLIÖZÜ",
+    "id": 19850
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "OSMANCIK",
+    "id": 19851
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "MEYDANLI",
+    "id": 19852
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ZAFER",
+    "id": 19853
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "BAYRAMLI",
+    "id": 19854
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ÇEŞMECİK",
+    "id": 19855
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "HACIMEHMETLİ",
+    "id": 19856
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KURTHASANLI",
+    "id": 19857
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KABACALI",
+    "id": 19858
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 19859
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ATLANTI",
+    "id": 19860
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KÜÇÜKKUYU",
+    "id": 19861
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "PINARBAŞI",
+    "id": 19862
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "SAÇIKARA",
+    "id": 19863
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "SARIKAYA",
+    "id": 19864
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "SÖĞÜTÖZÜ",
+    "id": 19865
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "BAKIRPINAR",
+    "id": 19866
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "DEMİROLUK",
+    "id": 19867
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KARASEVİNÇ",
+    "id": 19868
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ÖRNEK",
+    "id": 19869
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "TOSUNOĞLU",
+    "id": 19870
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "YAĞLICA",
+    "id": 19871
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 19872
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KARAKAYA",
+    "id": 19873
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KOLUKISA MESCİT",
+    "id": 19874
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KÖKEZ",
+    "id": 19875
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "BULGURPINARI",
+    "id": 19876
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ÇUBUK",
+    "id": 19877
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "KOLUKISA BERATLI",
+    "id": 19878
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "PİRALİ",
+    "id": 19879
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ÜNVEREN",
+    "id": 19880
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "YAYLAYAKA",
+    "id": 19881
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "BAŞKUYU",
+    "id": 19882
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "HACIOFLAZLAR",
+    "id": 19883
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "İSTİKLAL",
+    "id": 19884
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "KADINHANI",
+    "MAHALLE": "ÇAVDAR",
+    "id": 19885
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AKINCILAR",
+    "id": 19886
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 19887
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BİÇER",
+    "id": 19888
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BÜYÜKKAYACIK",
+    "id": 19889
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ERENKÖY",
+    "id": 19890
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "MALAZGİRT",
+    "id": 19891
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BAŞARAKAVAK",
+    "id": 19892
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BUHARA",
+    "id": 19893
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "GÜVENÇ",
+    "id": 19894
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HOROZLUHANOSB",
+    "id": 19895
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KALEKÖY",
+    "id": 19896
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "MUSALLA BAĞLARI",
+    "id": 19897
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SULUTAS",
+    "id": 19898
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ŞEKER",
+    "id": 19899
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "YAZIR",
+    "id": 19900
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BAĞRIKURT",
+    "id": 19901
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BİNKONUTLAR",
+    "id": 19902
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BOSNA HERSEK",
+    "id": 19903
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SAKARYA",
+    "id": 19904
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ŞEYH ŞAMİL",
+    "id": 19905
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "TATKÖY",
+    "id": 19906
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "YUKARIPINARBAŞI",
+    "id": 19907
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 19908
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HACIKAYMAK",
+    "id": 19909
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ARDIÇLI",
+    "id": 19910
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 19911
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "FERHUNİYE",
+    "id": 19912
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "NİŞANTAŞ",
+    "id": 19913
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SARAYKÖY",
+    "id": 19914
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AŞAĞIPINARBAŞI OSB",
+    "id": 19915
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BEDİR",
+    "id": 19916
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BÜYÜKKAYACIKOSB",
+    "id": 19917
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "İHSANİYE",
+    "id": 19918
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SALAHATTİN",
+    "id": 19919
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SANCAK",
+    "id": 19920
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ULUMUHSİNE",
+    "id": 19921
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AKPINAR",
+    "id": 19922
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AŞAĞIPINARBAŞI",
+    "id": 19923
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BEYHEKİM",
+    "id": 19924
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ÇALDERE",
+    "id": 19925
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ESENLER",
+    "id": 19926
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "IŞIKLAR",
+    "id": 19927
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KILINÇARSLAN",
+    "id": 19928
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "MEYDANKÖY",
+    "id": 19929
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "PARSANA",
+    "id": 19930
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SELÇUK",
+    "id": 19931
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SİLLE AK",
+    "id": 19932
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SİLLE",
+    "id": 19933
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "TÖMEK",
+    "id": 19934
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AKADEMİ",
+    "id": 19935
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 19936
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ÇALTI",
+    "id": 19937
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "DOKUZ",
+    "id": 19938
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "FATİH",
+    "id": 19939
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KERVAN",
+    "id": 19940
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KOSOVA",
+    "id": 19941
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HANAYBAŞI",
+    "id": 19942
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "EĞRİBAYAT",
+    "id": 19943
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KARAÖMERLER",
+    "id": 19944
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KÜÇÜKMUHSİNE",
+    "id": 19945
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "TEPEKENT",
+    "id": 19946
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "ÇANDIR",
+    "id": 19947
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "DAĞDERE",
+    "id": 19948
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "FERİTPAŞA",
+    "id": 19949
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HOCACİHAN",
+    "id": 19950
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HÜSAMETTİN ÇELEBİ",
+    "id": 19951
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 19952
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SARICALAR",
+    "id": 19953
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "BİLECİK",
+    "id": 19954
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SIZMA",
+    "id": 19955
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "HOROZLUHAN",
+    "id": 19956
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KINIK",
+    "id": 19957
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "KIZILCAKUYU",
+    "id": 19958
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "SELAHADDİNİ EYYUBİ",
+    "id": 19959
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "SELÇUKLU",
+    "MAHALLE": "YAZIBELEN",
+    "id": 19960
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "DOLHANLAR",
+    "id": 19961
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "FAKILAR",
+    "id": 19962
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "GEZLEVİ",
+    "id": 19963
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "YAĞCI",
+    "id": 19964
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "GAZİLER",
+    "id": 19965
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "KAPLANLI",
+    "id": 19966
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "EĞİSTE",
+    "id": 19967
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "KÜPLÜCE",
+    "id": 19968
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "ARMAĞANLAR",
+    "id": 19969
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "AŞAĞI MERNEK",
+    "id": 19970
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "AŞAĞIEŞENLER",
+    "id": 19971
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "SARNIÇ",
+    "id": 19972
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "AŞAĞI HADİM",
+    "id": 19973
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "BADEMLİ",
+    "id": 19974
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "GÖYNÜKKIŞLA",
+    "id": 19975
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "İĞDEÖREN",
+    "id": 19976
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "ODUNCU",
+    "id": 19977
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "TAŞPINAR",
+    "id": 19978
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "DEDEMLİ",
+    "id": 19979
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "KALINAĞIL",
+    "id": 19980
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "DÜLGERLER",
+    "id": 19981
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "BEYRELİ",
+    "id": 19982
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "GEREZ",
+    "id": 19983
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "MERNEK",
+    "id": 19984
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "UMURLAR",
+    "id": 19985
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "SELAHATTİN",
+    "id": 19986
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "YELMEZ",
+    "id": 19987
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "BOLAT",
+    "id": 19988
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "ÇİFTEPINAR",
+    "id": 19989
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "HOCALAR",
+    "id": 19990
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "YENİKONAK",
+    "id": 19991
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HADİM",
+    "MAHALLE": "YUKARIEŞENLER",
+    "id": 19992
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "ERDOĞAN",
+    "id": 19993
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "BALIKLAVA",
+    "id": 19994
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "KAYACIK",
+    "id": 19995
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "AKKİSE",
+    "id": 19996
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "BADEMLİ",
+    "id": 19997
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "MERKEZ",
+    "id": 19998
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "KARACAKUYU",
+    "id": 19999
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "KÜÇÜKÖZ",
+    "id": 20000
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "BÜYÜKÖZ",
+    "id": 20001
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "HENGEME",
+    "id": 20002
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "ALİÇERÇİ",
+    "id": 20003
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "HAMZALAR",
+    "id": 20004
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 20005
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "ÇUKURBUCAK",
+    "id": 20006
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "AHIRLI",
+    "MAHALLE": "KURUÇAY",
+    "id": 20007
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "FIRINLI",
+    "id": 20008
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "GÜVENDİK",
+    "id": 20009
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "YAZIR",
+    "id": 20010
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "BAŞ",
+    "id": 20011
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "YAZLICA",
+    "id": 20012
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "KONAKKALE",
+    "id": 20013
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "PAZAR",
+    "id": 20014
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "AYASLAR",
+    "id": 20015
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "BAŞKÖY",
+    "id": 20016
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "ÇINAROBA",
+    "id": 20017
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "DEŞTİĞİN",
+    "id": 20018
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "CUMA",
+    "id": 20019
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "HARMAN",
+    "id": 20020
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "KEMER",
+    "id": 20021
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "KOÇAŞ",
+    "id": 20022
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "YENİCE",
+    "id": 20023
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "ŞIH",
+    "id": 20024
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "YEĞİN",
+    "id": 20025
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 20026
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "AĞA",
+    "id": 20027
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "KUZ",
+    "id": 20028
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "UNCULAR",
+    "id": 20029
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "İLYASLAR",
+    "id": 20030
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "DOĞANHİSAR",
+    "MAHALLE": "KARAAĞA",
+    "id": 20031
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BAYAVŞAR",
+    "id": 20032
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÇİÇEKLER",
+    "id": 20033
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÇUKURAĞIL",
+    "id": 20034
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "DUMANLI",
+    "id": 20035
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÜSTÜNLER",
+    "id": 20036
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YENİ",
+    "id": 20037
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "AKBURUN",
+    "id": 20038
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KARAHİSAR",
+    "id": 20039
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "SEVİNDİK",
+    "id": 20040
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 20041
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "AKÇABELEN",
+    "id": 20042
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "EYLİKLER",
+    "id": 20043
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖÇÜ",
+    "id": 20044
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 20045
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YUNUSLAR",
+    "id": 20046
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BEKDEMİR",
+    "id": 20047
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "DAMLAPINAR",
+    "id": 20048
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖNEN",
+    "id": 20049
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "HACIAKİF",
+    "id": 20050
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KARADİKEN",
+    "id": 20051
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KÜÇÜKAVŞAR",
+    "id": 20052
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "AĞILÖNÜ",
+    "id": 20053
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BAYINDIR",
+    "id": 20054
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "DALYAN",
+    "id": 20055
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "HAMİDİYE",
+    "id": 20056
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "HÜSEYİNLER",
+    "id": 20057
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "AVŞAR",
+    "id": 20058
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "EVSAT",
+    "id": 20059
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "MESUTLAR",
+    "id": 20060
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 20061
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ESENCE",
+    "id": 20062
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "HUĞLU",
+    "id": 20063
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "İSAKÖY",
+    "id": 20064
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "AVDANCIK",
+    "id": 20065
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "DOĞANBEY",
+    "id": 20066
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "EMEN",
+    "id": 20067
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖKÇEKUYU",
+    "id": 20068
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KARABAYAT",
+    "id": 20069
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BAYAT",
+    "id": 20070
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ADAKÖY",
+    "id": 20071
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20072
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "SADIKHACI",
+    "id": 20073
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BEYTEPE",
+    "id": 20074
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "DOĞANCIK",
+    "id": 20075
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "HACIARMAĞAN",
+    "id": 20076
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "MÜFTÜ",
+    "id": 20077
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ESENTEPE",
+    "id": 20078
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "FASILLAR",
+    "id": 20079
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖKÇİMEN",
+    "id": 20080
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖLYAKA",
+    "id": 20081
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KAYABAŞI",
+    "id": 20082
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ŞAMLAR",
+    "id": 20083
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YAZYURDU",
+    "id": 20084
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 20085
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YEŞİLDAĞ",
+    "id": 20086
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BADEMLİ",
+    "id": 20087
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "İÇERİŞEHİR",
+    "id": 20088
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KARAALİ",
+    "id": 20089
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KURUCUOVA",
+    "id": 20090
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "KUŞLUCA",
+    "id": 20091
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "YUKARIESENCE",
+    "id": 20092
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "BAŞGÖZE",
+    "id": 20093
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 20094
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "ÇİVRİL",
+    "id": 20095
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "EĞİRLER",
+    "id": 20096
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "GÖLKAŞI",
+    "id": 20097
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "BEYŞEHİR",
+    "MAHALLE": "SARIKÖY",
+    "id": 20098
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "HODOĞLU",
+    "id": 20099
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KUŞÇA",
+    "id": 20100
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 20101
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "UZUNCAYAYLA",
+    "id": 20102
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "ÇÖL",
+    "id": 20103
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "BÜYÜKBEŞKAVAK",
+    "id": 20104
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KIRKIŞLA",
+    "id": 20105
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KORKMAZLAR",
+    "id": 20106
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "TURANLAR",
+    "id": 20107
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "ATÇEKEN",
+    "id": 20108
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "MUTLUKONAK",
+    "id": 20109
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "TÜFEKÇİPINAR",
+    "id": 20110
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KALE",
+    "id": 20111
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "DAMLAKUYU",
+    "id": 20112
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "SIĞIRCIK",
+    "id": 20113
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20114
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 20115
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "AĞABEYLİ",
+    "id": 20116
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "GEMECİK",
+    "id": 20117
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "YENİCEOBA",
+    "id": 20118
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "BÖĞRÜDELİK",
+    "id": 20119
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "GÜNYÜZÜ",
+    "id": 20120
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "SAĞLIK",
+    "id": 20121
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "YÜNLÜKUYU",
+    "id": 20122
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "BEYLİOVA",
+    "id": 20123
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "BULDUK",
+    "id": 20124
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 20125
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KAYI",
+    "id": 20126
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KÜÇÜKBEŞKAVAK",
+    "id": 20127
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "GÖLYAZI",
+    "id": 20128
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "İNSUYU",
+    "id": 20129
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "ÜZERLİKTEPE",
+    "id": 20130
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20131
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KELHASAN",
+    "id": 20132
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "YENİYAYLA",
+    "id": 20133
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "AHİRİGÜZEL",
+    "id": 20134
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "GÖKTEPE",
+    "id": 20135
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KANDİL",
+    "id": 20136
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KARABAĞ",
+    "id": 20137
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KOCATEPE",
+    "id": 20138
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KÜTÜKUŞAĞI",
+    "id": 20139
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "TAŞPINAR",
+    "id": 20140
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "YAPALI",
+    "id": 20141
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "ZAFERİYE",
+    "id": 20142
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "ÇİMEN",
+    "id": 20143
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KARATEPE",
+    "id": 20144
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "CİHANBEYLİ",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 20145
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "ÇAKILLAR",
+    "id": 20146
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "OSMANKÖSELİ",
+    "id": 20147
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "SEYDİFAKILI",
+    "id": 20148
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20149
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "DELİMAHMUTLU",
+    "id": 20150
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "KÖRLÜ",
+    "id": 20151
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "NERNEK",
+    "id": 20152
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20153
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "KÜSERE",
+    "id": 20154
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "YASSIKAYA",
+    "id": 20155
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "DEDELİ",
+    "id": 20156
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "KARAYUSUFLU",
+    "id": 20157
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "KAYASARAY",
+    "id": 20158
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 20159
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "BÜYÜKDOĞAN",
+    "id": 20160
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 20161
+  },
+  {
+    "İL": "KONYA",
+    "İLÇE": "HALKAPINAR",
+    "MAHALLE": "İVRİZ",
+    "id": 20162
+  }
+]

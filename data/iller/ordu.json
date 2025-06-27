@@ -1,0 +1,4640 @@
+[
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24667
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ÇAVUŞLAR",
+    "id": 24668
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ALEMBEY",
+    "id": 24669
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DİKENCE",
+    "id": 24670
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "EYÜPLÜ",
+    "id": 24671
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "AYDINLIK",
+    "id": 24672
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DURUGÖL",
+    "id": 24673
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ESKİPAZAR",
+    "id": 24674
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GÜMÜŞKÖY",
+    "id": 24675
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GÜNÖREN",
+    "id": 24676
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "HATİPLİ",
+    "id": 24677
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GÖKÖMER",
+    "id": 24678
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GÜZELYALI (UZUNİSA)",
+    "id": 24679
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ALTUNYURT",
+    "id": 24680
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ATAKÖY",
+    "id": 24681
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BURHANETTİNKÖY",
+    "id": 24682
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GÜZELYALI",
+    "id": 24683
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "AKÇATEPE",
+    "id": 24684
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "AKKİSE",
+    "id": 24685
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "AKYAZI",
+    "id": 24686
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DEDELİ",
+    "id": 24687
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "EMEN",
+    "id": 24688
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "HACILAR",
+    "id": 24689
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "AZİZİYE",
+    "id": 24690
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BAHARİYE",
+    "id": 24691
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BAYRAMLI",
+    "id": 24692
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "IŞIKLI",
+    "id": 24693
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ALİSAYVAN",
+    "id": 24694
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ARPAKÖY",
+    "id": 24695
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ERENLİ",
+    "id": 24696
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "GERCE",
+    "id": 24697
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ALINCA",
+    "id": 24698
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BUCAK",
+    "id": 24699
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24700
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ARTIKLI",
+    "id": 24701
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DÜZKÖY",
+    "id": 24702
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KÖKENLİ",
+    "id": 24703
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "OSMANİYE",
+    "id": 24704
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "SARAY",
+    "id": 24705
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "SARAYCIK",
+    "id": 24706
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KİRAZLİMANI",
+    "id": 24707
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KUYLU",
+    "id": 24708
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "TERZİLİ",
+    "id": 24709
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 24710
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KUMBAŞI",
+    "id": 24711
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "SUBAŞI",
+    "id": 24712
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ŞAHİNCİLİ",
+    "id": 24713
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "MUBAREK",
+    "id": 24714
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BOZTEPE",
+    "id": 24715
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DELİKKAYA",
+    "id": 24716
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ZAFER",
+    "id": 24717
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ÖVÜNDÜK",
+    "id": 24718
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YARAŞLI",
+    "id": 24719
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YENİ",
+    "id": 24720
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 24721
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KAYABAŞI",
+    "id": 24722
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "SELİMİYE",
+    "id": 24723
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ŞENOCAK",
+    "id": 24724
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 24725
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "UZUNİSA",
+    "id": 24726
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YILDIZLI",
+    "id": 24727
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARAOLUK",
+    "id": 24728
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 24729
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "SAĞIRLI",
+    "id": 24730
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "BAYADI",
+    "id": 24731
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24732
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARAPINAR",
+    "id": 24733
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KISACIK",
+    "id": 24734
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YEMİŞLİ",
+    "id": 24735
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARACAÖMER",
+    "id": 24736
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "NİZAMETTİN",
+    "id": 24737
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YAĞIZLI",
+    "id": 24738
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KARAPINAROSB",
+    "id": 24739
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KOVANCI",
+    "id": 24740
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KURTULMUŞ",
+    "id": 24741
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ORTAKÖY",
+    "id": 24742
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ÖCELİ",
+    "id": 24743
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "UZUNMUSA",
+    "id": 24744
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ÖRENCİK",
+    "id": 24745
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "TEYNELİ",
+    "id": 24746
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "TOPLUCA",
+    "id": 24747
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "YUKARITEPE",
+    "id": 24748
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "DÜZ",
+    "id": 24749
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KAYADİBİ",
+    "id": 24750
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ORHANİYE",
+    "id": 24751
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "PELİTLİ",
+    "id": 24752
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ZAFERİMİLLİ",
+    "id": 24753
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "OĞMACA",
+    "id": 24754
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ŞARKİYE",
+    "id": 24755
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "ŞENKÖY",
+    "id": 24756
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "KIZILHİSAR",
+    "id": 24757
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ALTINORDU",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 24758
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "SEFALIK",
+    "id": 24759
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ÇAKIRLI",
+    "id": 24760
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ZAFERİMİLLİ",
+    "id": 24761
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "KÜÇÜKYAKA",
+    "id": 24762
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ORTAKÖY",
+    "id": 24763
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "UZUNDERE",
+    "id": 24764
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "KOYUNCULU",
+    "id": 24765
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "SAĞLIK",
+    "id": 24766
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "KARAMANLI",
+    "id": 24767
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "SARIYAR",
+    "id": 24768
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "HİSARCIK",
+    "id": 24769
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ESENLİ",
+    "id": 24770
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "KUTLULAR",
+    "id": 24771
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ÇUKUR",
+    "id": 24772
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "PELİTÖZÜ",
+    "id": 24773
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ALACALAR",
+    "id": 24774
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "ARMUTLU",
+    "id": 24775
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "BEŞTAM",
+    "id": 24776
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "FATİH",
+    "id": 24777
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "KAYABAŞI",
+    "id": 24778
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AYBASTI",
+    "MAHALLE": "TOYGAR",
+    "id": 24779
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "MURATÇIK",
+    "id": 24780
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "ESKİKÖY",
+    "id": 24781
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "GÜLBELEN",
+    "id": 24782
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "AKMESCİT",
+    "id": 24783
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "GÖLLER",
+    "id": 24784
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "AKÖREN",
+    "id": 24785
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "AKYURT",
+    "id": 24786
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "TEPEKÖY",
+    "id": 24787
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "YURTSEVEN",
+    "id": 24788
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "ALASEHER",
+    "id": 24789
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "DÖŞEK",
+    "id": 24790
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 24791
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "BAHTİYARLAR",
+    "id": 24792
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "AĞIZLAR",
+    "id": 24793
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "ÇATALAĞAÇ",
+    "id": 24794
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "TİKENLİCE",
+    "id": 24795
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "IŞIKTEPE",
+    "id": 24796
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "TUZLA",
+    "id": 24797
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24798
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "GÜLTEPE",
+    "id": 24799
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "HASANCIK",
+    "id": 24800
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "KİRAZGÜNEYİ",
+    "id": 24801
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜRGENTEPE",
+    "MAHALLE": "OKÇABEL",
+    "id": 24802
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KIRANYAĞMUR",
+    "id": 24803
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ŞIHLAR",
+    "id": 24804
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "AKPINAR",
+    "id": 24805
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "BELENYURT",
+    "id": 24806
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KALICAK",
+    "id": 24807
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "OYUMGÜRGEN",
+    "id": 24808
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ŞEKEROLUK",
+    "id": 24809
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "AKOLUK",
+    "id": 24810
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 24811
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ÇATALLI",
+    "id": 24812
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ÖREN",
+    "id": 24813
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 24814
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "DOĞLU",
+    "id": 24815
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KİRAZLIK",
+    "id": 24816
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "REFAHİYE",
+    "id": 24817
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "AYDINLAR",
+    "id": 24818
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ÇUKUR",
+    "id": 24819
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "EYMÜR",
+    "id": 24820
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KARAKOCA",
+    "id": 24821
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KARDEŞLER",
+    "id": 24822
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 24823
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "FINDIKLI",
+    "id": 24824
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KADINCIK",
+    "id": 24825
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KOŞACA",
+    "id": 24826
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "HOCAOĞLU",
+    "id": 24827
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "OHTAMIŞ",
+    "id": 24828
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "CEVİZLİK",
+    "id": 24829
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KUMRULU",
+    "id": 24830
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "YOLBAŞI",
+    "id": 24831
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "UZUNMAHMUT",
+    "id": 24832
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "YENİSAYACA",
+    "id": 24833
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "YUKARIKIZILEN",
+    "id": 24834
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ELMAÇUKUR",
+    "id": 24835
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "KUMANLAR",
+    "id": 24836
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "BAŞÇARDAK",
+    "id": 24837
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "DURAK",
+    "id": 24838
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "GÜNDÜZLÜ",
+    "id": 24839
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "GÜVENKÖY",
+    "id": 24840
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "GÜVENYURT",
+    "id": 24841
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "GÜZELYURT",
+    "id": 24842
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ULUBEY",
+    "MAHALLE": "ŞAHİNKAYA",
+    "id": 24843
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "AKKÖY",
+    "id": 24844
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "AKPINAR",
+    "id": 24845
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "KOCAMAN",
+    "id": 24846
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "ÖRMELİ",
+    "id": 24847
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "ÇAVUŞBAŞI",
+    "id": 24848
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "SARIYAKUP",
+    "id": 24849
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "SUCUALİ",
+    "id": 24850
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "TAŞOLUK",
+    "id": 24851
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "YENİ",
+    "id": 24852
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "DANIŞMAN",
+    "id": 24853
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "SAİTLER",
+    "id": 24854
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "SAKARGERİŞ",
+    "id": 24855
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "UZUNALİ",
+    "id": 24856
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "BURHAN GÜNEYİ",
+    "id": 24857
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "GÜMÜŞLÜ",
+    "id": 24858
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "EDİRLİ",
+    "id": 24859
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "GİDEN",
+    "id": 24860
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "KEMAL PAŞA",
+    "id": 24861
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "SÖKEN",
+    "id": 24862
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "HİSARBEY",
+    "id": 24863
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "BUDAK",
+    "id": 24864
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "KESTANEYOKUŞU",
+    "id": 24865
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAMAŞ",
+    "MAHALLE": "TEPELİ",
+    "id": 24866
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "ORTAKÖY",
+    "id": 24867
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "ELMAKÖY",
+    "id": 24868
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 24869
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "TERİMLİ",
+    "id": 24870
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "HAŞAL",
+    "id": 24871
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 24872
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "GÖLLER",
+    "id": 24873
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "GÜNEYCE",
+    "id": 24874
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KARAHAMZA",
+    "id": 24875
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "AKKAYA",
+    "id": 24876
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "GÜNEY",
+    "id": 24877
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KIRAN",
+    "id": 24878
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "SAYACATÜRK",
+    "id": 24879
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "YENİ",
+    "id": 24880
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "İNCİRLİ",
+    "id": 24881
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 24882
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KAYATEPE",
+    "id": 24883
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "DERE",
+    "id": 24884
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KARAHASAN",
+    "id": 24885
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "MERKEZ",
+    "id": 24886
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "KEÇİLİ",
+    "id": 24887
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "MADENKÖY",
+    "id": 24888
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇATALPINAR",
+    "MAHALLE": "HATİPLER",
+    "id": 24889
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "GÖLKÖY",
+    "id": 24890
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "PAŞAPINAR",
+    "id": 24891
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "YUVAPINAR",
+    "id": 24892
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "İÇYAKA",
+    "id": 24893
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KOZÖREN",
+    "id": 24894
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "AKÇALI",
+    "id": 24895
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KONAK",
+    "id": 24896
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "AYDOĞAN",
+    "id": 24897
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "BAYIRALAN",
+    "id": 24898
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "HARUNİYE",
+    "id": 24899
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "BULUT",
+    "id": 24900
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "CİHADİYE",
+    "id": 24901
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KALE",
+    "id": 24902
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "ALANYURT",
+    "id": 24903
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KARAHASAN",
+    "id": 24904
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "DÜZYAYLA",
+    "id": 24905
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "EMİRLER",
+    "id": 24906
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KARAGÖZ",
+    "id": 24907
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "KUŞLUVAN",
+    "id": 24908
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "SARICA",
+    "id": 24909
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "ÇETİLLİ",
+    "id": 24910
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "DİREKLİ",
+    "id": 24911
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 24912
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "GÜZELYURT",
+    "id": 24913
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "ÖZLÜ",
+    "id": 24914
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "AHMETLİ",
+    "id": 24915
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "ÇATAK",
+    "id": 24916
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "DAMARLI",
+    "id": 24917
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 24918
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÖLKÖY",
+    "MAHALLE": "HÜRRİYET",
+    "id": 24919
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "FATİH",
+    "id": 24920
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "BAŞÖNÜ",
+    "id": 24921
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "ŞENTEPE",
+    "id": 24922
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "BOLLUK",
+    "id": 24923
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DEREBAŞI",
+    "id": 24924
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DİYEK",
+    "id": 24925
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "YUKARI KARLITEPE",
+    "id": 24926
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KİRAZTEPE",
+    "id": 24927
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "AŞAĞI KARLITEPE",
+    "id": 24928
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DEVECİK",
+    "id": 24929
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DÜZPELİT",
+    "id": 24930
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "YUKARI KAYNARTAŞ",
+    "id": 24931
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "BEYLERCE",
+    "id": 24932
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KERVANSARAY",
+    "id": 24933
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KURTLUCA",
+    "id": 24934
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "YENİCE",
+    "id": 24935
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "ESENTEPE",
+    "id": 24936
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "ÖZPINAR",
+    "id": 24937
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "SEYMENLİ",
+    "id": 24938
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "TOMBAŞLI",
+    "id": 24939
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "YOĞUNOLUK",
+    "id": 24940
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "AĞCAALAN",
+    "id": 24941
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DÜZMEŞE",
+    "id": 24942
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "YUNUSKIRIĞI",
+    "id": 24943
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "AŞAĞI KAYNARTAŞ",
+    "id": 24944
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KOCAMAN",
+    "id": 24945
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KALE",
+    "id": 24946
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "MERKEZ",
+    "id": 24947
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "GAZİLER",
+    "id": 24948
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "KURTKÖY",
+    "id": 24949
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "DUMANTEPE",
+    "id": 24950
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "İKİZCE",
+    "MAHALLE": "ENAĞIZLI",
+    "id": 24951
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ECELİ",
+    "id": 24952
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "KABATAŞ YENİ",
+    "id": 24953
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ŞİFA SUYU",
+    "id": 24954
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "BELEN",
+    "id": 24955
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ÇUKURCAK",
+    "id": 24956
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ALANKENT",
+    "id": 24957
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "BEYLERLİ",
+    "id": 24958
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "KAYINCIK",
+    "id": 24959
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ELBEYİ",
+    "id": 24960
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ALANBAŞI",
+    "id": 24961
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "MERKEZ",
+    "id": 24962
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "YENİCELİ",
+    "id": 24963
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ARDIÇ",
+    "id": 24964
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "ILICAK",
+    "id": 24965
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "HOŞKADEM",
+    "id": 24966
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "YAKACIK",
+    "id": 24967
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "DÜZ",
+    "id": 24968
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABATAŞ",
+    "MAHALLE": "KUZKÖY",
+    "id": 24969
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ABDİLİ",
+    "id": 24970
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "DAYILI",
+    "id": 24971
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 24972
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "AKPINAR",
+    "id": 24973
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BEYAĞAÇ",
+    "id": 24974
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "HERKÖZÜ",
+    "id": 24975
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "MÜSLÜM SARICA",
+    "id": 24976
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÜÇYOL",
+    "id": 24977
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "AKKIRIK",
+    "id": 24978
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ARPAALAN",
+    "id": 24979
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇERÇİ",
+    "id": 24980
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "DEREBAŞI",
+    "id": 24981
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÜLPINAR",
+    "id": 24982
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÜVENLİ",
+    "id": 24983
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KIŞLACIK",
+    "id": 24984
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇAVDAR",
+    "id": 24985
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇİTLİKSARICA",
+    "id": 24986
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "DOĞANÇAM",
+    "id": 24987
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KALE",
+    "id": 24988
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "MAKSUTALAN",
+    "id": 24989
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "TÜRKKÖYÜ",
+    "id": 24990
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "AŞAĞIGÖKÇE",
+    "id": 24991
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 24992
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 24993
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ILIŞAR",
+    "id": 24994
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KONACIK",
+    "id": 24995
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ARMUTKOLU",
+    "id": 24996
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BAYRAKLI",
+    "id": 24997
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ESATLI",
+    "id": 24998
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "SARICA",
+    "id": 24999
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BAHÇE",
+    "id": 25000
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇUKURALAN",
+    "id": 25001
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÜZELCE",
+    "id": 25002
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ARIKMUSA",
+    "id": 25003
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BİREBİR",
+    "id": 25004
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 25005
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BALIKLI",
+    "id": 25006
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "DURSUNLU",
+    "id": 25007
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÜZLE",
+    "id": 25008
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "HAMZALI",
+    "id": 25009
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KAYADİBİ",
+    "id": 25010
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "MUSALI",
+    "id": 25011
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ARICILAR",
+    "id": 25012
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ERİKKÖY",
+    "id": 25013
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÜNEYCE",
+    "id": 25014
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KARACAÖREN",
+    "id": 25015
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "PINARLI",
+    "id": 25016
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "CELAL",
+    "id": 25017
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "SARIYAYLA",
+    "id": 25018
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ÇALTEPE",
+    "id": 25019
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "GÖÇBEYİ",
+    "id": 25020
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KÖŞE",
+    "id": 25021
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "TOPÇAM",
+    "id": 25022
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "ALAN",
+    "id": 25023
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KAVAKLIDERE",
+    "id": 25024
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "AŞIKLI",
+    "id": 25025
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BEŞPINAR",
+    "id": 25026
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "BEYSEKİ",
+    "id": 25027
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "DARICABAŞI",
+    "id": 25028
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "KARABAYIR",
+    "id": 25029
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "MERKEZ",
+    "id": 25030
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YAĞMURLAR",
+    "id": 25031
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 25032
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YEŞİLÇİT",
+    "id": 25033
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YUVALI",
+    "id": 25034
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YARDERE",
+    "id": 25035
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YAVŞAN",
+    "id": 25036
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YUKARIGÖKÇE",
+    "id": 25037
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YEŞİLCE",
+    "id": 25038
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "MESUDİYE",
+    "MAHALLE": "YEVELİ",
+    "id": 25039
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "KARAKIŞLA",
+    "id": 25040
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "TERZİLİ",
+    "id": 25041
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "TEPE",
+    "id": 25042
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "BELALAN",
+    "id": 25043
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YENİPINAR",
+    "id": 25044
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "ÇİTLİCE",
+    "id": 25045
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "SARIALIÇ",
+    "id": 25046
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YUKARIYAYLACIK",
+    "id": 25047
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 25048
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 25049
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "DURALİ",
+    "id": 25050
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "AŞAĞIYAYLACIK",
+    "id": 25051
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "ÇAYIRKENT",
+    "id": 25052
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 25053
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 25054
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "KARAKOYUNLU",
+    "id": 25055
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YUKARIKOZPINAR",
+    "id": 25056
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "AŞAĞIKOZPINAR",
+    "id": 25057
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "TEPEALAN",
+    "id": 25058
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "KOÇCUĞAZ",
+    "id": 25059
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "TATARCIK",
+    "id": 25060
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YAZLIK",
+    "id": 25061
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YEŞİLALAN",
+    "id": 25062
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "BEYPINARI",
+    "id": 25063
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 25064
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "DİP",
+    "id": 25065
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "YAZICI",
+    "id": 25066
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "ÇAMLI",
+    "id": 25067
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KORGAN",
+    "MAHALLE": "BÜYÜKAKÇAKESE",
+    "id": 25068
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "FİZME",
+    "id": 25069
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KAYABAŞI",
+    "id": 25070
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "AĞCAALANTÜRK",
+    "id": 25071
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "AYVALI",
+    "id": 25072
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ERGENTÜRK",
+    "id": 25073
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 25074
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KOVANCILI",
+    "id": 25075
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YALNIZDAM",
+    "id": 25076
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "DUMAN",
+    "id": 25077
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KARACALAR",
+    "id": 25078
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "SAMUR",
+    "id": 25079
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KONAKLI",
+    "id": 25080
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YUKARIDAMLALI",
+    "id": 25081
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "AVDULLU",
+    "id": 25082
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "GÜNEYCİK",
+    "id": 25083
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YENİDİVAN",
+    "id": 25084
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "BALI",
+    "id": 25085
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "BALLIK",
+    "id": 25086
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "DEMİRCİLİ",
+    "id": 25087
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "DEREKÖY",
+    "id": 25088
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ORTAÇOKDEĞİRMEN",
+    "id": 25089
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "DİVANITÜRK",
+    "id": 25090
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ŞENYURT",
+    "id": 25091
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ERİKÇELİ",
+    "id": 25092
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ORTACA",
+    "id": 25093
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YENİAKÇAALAN",
+    "id": 25094
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YENİERGEN",
+    "id": 25095
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 25096
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KÜÇÜKAKÇAKESE",
+    "id": 25097
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ESENCE",
+    "id": 25098
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ESKİÇOKDEĞİRMEN",
+    "id": 25099
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "FATİH",
+    "id": 25100
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "ÇATILI",
+    "id": 25101
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "TEKKEKÖY",
+    "id": 25102
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "YEMİŞKEN",
+    "id": 25103
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KURTULUŞ",
+    "id": 25104
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KADINCIK",
+    "id": 25105
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "AKÇADERE",
+    "id": 25106
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "DERBENT",
+    "id": 25107
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KUMRU",
+    "MAHALLE": "KARACALI",
+    "id": 25108
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "ÇAYIR",
+    "id": 25109
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "EĞRİBEL",
+    "id": 25110
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "KAPILI",
+    "id": 25111
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "GÖKSU",
+    "id": 25112
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "KARGALI",
+    "id": 25113
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "GÜRCEK",
+    "id": 25114
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "HACIALİ",
+    "id": 25115
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "AKBABA",
+    "id": 25116
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "ÇINAR",
+    "id": 25117
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "İÇERİBÜKÜ",
+    "id": 25118
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "CEMALLI",
+    "id": 25119
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "NAMAZLI",
+    "id": 25120
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "TEKKE",
+    "id": 25121
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "ÇAY",
+    "id": 25122
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "İLKÜVEZ",
+    "id": 25123
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 25124
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "KÖKLÜK",
+    "id": 25125
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "ÇANDIR",
+    "id": 25126
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "MOLLALI",
+    "id": 25127
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "BORAS",
+    "id": 25128
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "YENİCUMA",
+    "id": 25129
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "AŞIKLI ÇAKILLI",
+    "id": 25130
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "CEVİZLİYATAK",
+    "id": 25131
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "TAŞKESİĞİ",
+    "id": 25132
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "KURUDERE",
+    "id": 25133
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÇAYBAŞI",
+    "MAHALLE": "KUŞLU",
+    "id": 25134
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "ÜRÜMBEY",
+    "id": 25135
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "TEPEALTI",
+    "id": 25136
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "YENİKÖY",
+    "id": 25137
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "ALİBEY",
+    "id": 25138
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "AMBARCILI",
+    "id": 25139
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "AYRILIK",
+    "id": 25140
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "MUSTAFALI",
+    "id": 25141
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "TURNASUYU",
+    "id": 25142
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "HOŞKÖY",
+    "id": 25143
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "TAŞLIÇAY",
+    "id": 25144
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "GÜLİSTAN",
+    "id": 25145
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "SAYACA",
+    "id": 25146
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "GÜLYALI",
+    "MAHALLE": "KESTANE",
+    "id": 25147
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "BAŞKÖY",
+    "id": 25148
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 25149
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "PINARBAŞI",
+    "id": 25150
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KALEDERE",
+    "id": 25151
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 25152
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KİLLİK",
+    "id": 25153
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KUŞDOĞAN",
+    "id": 25154
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SARAYCIK",
+    "id": 25155
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "TEPEKÖY",
+    "id": 25156
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YİĞİTLER",
+    "id": 25157
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "BAYRAMCA",
+    "id": 25158
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇİĞDEM",
+    "id": 25159
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÜZELYALI",
+    "id": 25160
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "İPEKYOLU",
+    "id": 25161
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SAHİLKÖY",
+    "id": 25162
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇATALPINAR",
+    "id": 25163
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "HANYANI",
+    "id": 25164
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ORTA YILMAZLAR",
+    "id": 25165
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YAYLALI",
+    "id": 25166
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YAZKONAĞI",
+    "id": 25167
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ATATÜRK",
+    "id": 25168
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "FATİH",
+    "id": 25169
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "HIZARBAŞIKUMARLI",
+    "id": 25170
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KADILAR",
+    "id": 25171
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "LİSELER",
+    "id": 25172
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "NURETTİN",
+    "id": 25173
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "NURİYE",
+    "id": 25174
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ORTAKÖY",
+    "id": 25175
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SARAÇLI",
+    "id": 25176
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 25177
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇAKMAK",
+    "id": 25178
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÖBÜ",
+    "id": 25179
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "İNKUR",
+    "id": 25180
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KALE",
+    "id": 25181
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "TAFLANCIK",
+    "id": 25182
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇAMURLU",
+    "id": 25183
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DÜZSAYLAN",
+    "id": 25184
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ERENYURT",
+    "id": 25185
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ESKİKIZILCAKESE",
+    "id": 25186
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "HAMİDİYE",
+    "id": 25187
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YAYCI",
+    "id": 25188
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "AĞIDERE",
+    "id": 25189
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "AYDINTEPE",
+    "id": 25190
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "BURUNUCU",
+    "id": 25191
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DÖŞEMEDİBİ",
+    "id": 25192
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DÜZKÖY",
+    "id": 25193
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SOFUTEPESİ",
+    "id": 25194
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 25195
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YAVI",
+    "id": 25196
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇINARCIK",
+    "id": 25197
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ESENKALE",
+    "id": 25198
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÖLCÜĞEZ",
+    "id": 25199
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KALEDİBİ",
+    "id": 25200
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "NADİRLİ",
+    "id": 25201
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "TAŞÇA",
+    "id": 25202
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "UĞURLU",
+    "id": 25203
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YEŞİLADA",
+    "id": 25204
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 25205
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YÜCELER",
+    "id": 25206
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ATAKÖY",
+    "id": 25207
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DENİZBÜKÜ",
+    "id": 25208
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ELMALIK",
+    "id": 25209
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "TEKKİRAZ",
+    "id": 25210
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KUŞÇULU",
+    "id": 25211
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇINARLIK",
+    "id": 25212
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÜNPINARI",
+    "id": 25213
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SARIHALİL",
+    "id": 25214
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YENİKENT",
+    "id": 25215
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DEREKÖY",
+    "id": 25216
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KEŞ",
+    "id": 25217
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "PELİTLİYATAK",
+    "id": 25218
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "BEYLERCE",
+    "id": 25219
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "CEVİZDERE",
+    "id": 25220
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÜZELKALE",
+    "id": 25221
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "HIZABAŞIGÜNLÜK",
+    "id": 25222
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "KOCUKLU",
+    "id": 25223
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ŞENYURT",
+    "id": 25224
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÜRECÜLÜ",
+    "id": 25225
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YENİKIZILCAKESE",
+    "id": 25226
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "YENİKÖY",
+    "id": 25227
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇATAK",
+    "id": 25228
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 25229
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "DİZDAR",
+    "id": 25230
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "GÖLEVİ",
+    "id": 25231
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "ÜNYE",
+    "MAHALLE": "SAYLAN",
+    "id": 25232
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "DAĞYOLU",
+    "id": 25233
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KARAÇAL",
+    "id": 25234
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ORTABÖLME",
+    "id": 25235
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 25236
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "DAMYERİ",
+    "id": 25237
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "GEDİKLİ",
+    "id": 25238
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KUŞÇULU",
+    "id": 25239
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "TUZAKKÖY",
+    "id": 25240
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "CEYHANLI",
+    "id": 25241
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KEMİKGERİŞ",
+    "id": 25242
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YEŞİLGÜNEYCİK",
+    "id": 25243
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YOLBAŞI",
+    "id": 25244
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇALDERE",
+    "id": 25245
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KARGI",
+    "id": 25246
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇÖKEK",
+    "id": 25247
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "AKPINAR",
+    "id": 25248
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KOÇCUVAZ",
+    "id": 25249
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KURTBOĞAZ",
+    "id": 25250
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YENİ",
+    "id": 25251
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇAMALAN",
+    "id": 25252
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "GÜRGENLİYATAK",
+    "id": 25253
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "HALİLUŞAĞI",
+    "id": 25254
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KIZILELMA",
+    "id": 25255
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KÜLEKÇİLİ",
+    "id": 25256
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ORMANCIK",
+    "id": 25257
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ALAN",
+    "id": 25258
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇUKURKÖY",
+    "id": 25259
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "DÜĞENCİLİ",
+    "id": 25260
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ESENTEPE",
+    "id": 25261
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "GÖKÇEBAYIR",
+    "id": 25262
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 25263
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "AMBARGÜRGEN",
+    "id": 25264
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "MERKEZ",
+    "id": 25265
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "KETENDERE",
+    "id": 25266
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "SEFERLİ",
+    "id": 25267
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ŞAHİNKÖY",
+    "id": 25268
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇAYIRALAN",
+    "id": 25269
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "MURATLI",
+    "id": 25270
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YUKARIDÜĞENCİLİ",
+    "id": 25271
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "SUBAŞI",
+    "id": 25272
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "MEYVALI",
+    "id": 25273
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "SALMAN",
+    "id": 25274
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "YAZLIKBELEN",
+    "id": 25275
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "AKKUŞ",
+    "MAHALLE": "ÇAVDAR",
+    "id": 25276
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BÜLBÜL",
+    "id": 25277
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "HATİPLİ",
+    "id": 25278
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YAPRAKLI",
+    "id": 25279
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BOZDAĞI",
+    "id": 25280
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "HAMLIK",
+    "id": 25281
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 25282
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YASSIBAHÇE",
+    "id": 25283
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YASSITAŞ",
+    "id": 25284
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 25285
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "FATSA OSB",
+    "id": 25286
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KALEÖNÜ",
+    "id": 25287
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KARGUCAK",
+    "id": 25288
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KÜPDÜŞEN",
+    "id": 25289
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YENİPAZAR",
+    "id": 25290
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BAĞLARCA",
+    "id": 25291
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DEMİRCİ",
+    "id": 25292
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "MEŞEBÜKÜ",
+    "id": 25293
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "OLUKLU",
+    "id": 25294
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KAYACA",
+    "id": 25295
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KÖSEBUCAĞI",
+    "id": 25296
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KULAK",
+    "id": 25297
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SAZCILAR",
+    "id": 25298
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YUKARIARDIÇ",
+    "id": 25299
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KILIÇLI",
+    "id": 25300
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "AHMETLER",
+    "id": 25301
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "AŞAĞIARDIÇ",
+    "id": 25302
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ÇÖMLEKLİ",
+    "id": 25303
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ILICA",
+    "id": 25304
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "İNÖNÜ",
+    "id": 25305
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YALIKÖY",
+    "id": 25306
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 25307
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BAHÇELER",
+    "id": 25308
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "İSLAMDAĞ",
+    "id": 25309
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KARATAŞ",
+    "id": 25310
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 25311
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KONAKBAŞI",
+    "id": 25312
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "TAHTABAŞ",
+    "id": 25313
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YENİKENT",
+    "id": 25314
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "AŞAĞITEPE",
+    "id": 25315
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BUHARİ",
+    "id": 25316
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "FATİH",
+    "id": 25317
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KAYAKÖY AKÇAKESE",
+    "id": 25318
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SUDERE",
+    "id": 25319
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BACANAK",
+    "id": 25320
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ESKİORDU",
+    "id": 25321
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KAVRAZ",
+    "id": 25322
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "TEPECİK",
+    "id": 25323
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YAVAŞ",
+    "id": 25324
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ÇÖTELÜ",
+    "id": 25325
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "EVKAF",
+    "id": 25326
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "TAŞLICA",
+    "id": 25327
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "TAYALI",
+    "id": 25328
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "UZUNDERE",
+    "id": 25329
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YUKARIBAHÇELER",
+    "id": 25330
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "AYAZLI",
+    "id": 25331
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BAŞKÖY",
+    "id": 25332
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BOLAMAN",
+    "id": 25333
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "HOYLU",
+    "id": 25334
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KILAVUZÖMER",
+    "id": 25335
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "MUSTAFAKEMALPAŞA",
+    "id": 25336
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ÖRENCİK",
+    "id": 25337
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 25338
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ASLANCAMİ",
+    "id": 25339
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BEYCELİ",
+    "id": 25340
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DOLUNAY",
+    "id": 25341
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 25342
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DÜĞÜNLÜK",
+    "id": 25343
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "GÖLKÖY",
+    "id": 25344
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 25345
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KURTULUŞ",
+    "id": 25346
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SARAYTEPE",
+    "id": 25347
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YENİYURT",
+    "id": 25348
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YUSUFLU",
+    "id": 25349
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "ARPALIK",
+    "id": 25350
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "AŞAĞIYAVAŞ",
+    "id": 25351
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DUAYERİ",
+    "id": 25352
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "GEYİKÇELİ",
+    "id": 25353
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "YUKARITEPE",
+    "id": 25354
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BUCAKLI",
+    "id": 25355
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "DEREYURT",
+    "id": 25356
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "HACIKÖY",
+    "id": 25357
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "HIDIRBEYLİ",
+    "id": 25358
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KABAKDAĞI",
+    "id": 25359
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "PALAZLI KÖMÜRLÜK",
+    "id": 25360
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SAKARYA",
+    "id": 25361
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SEFAKÖY",
+    "id": 25362
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "BÜYÜKKOÇ",
+    "id": 25363
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "KÜÇÜKKOÇ",
+    "id": 25364
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "MEHMETAKİF",
+    "id": 25365
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "FATSA",
+    "MAHALLE": "SALİHLİ",
+    "id": 25366
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "ESENYURT",
+    "id": 25367
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "GÜLPINAR",
+    "id": 25368
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "YOKUŞDİBİ",
+    "id": 25369
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "HARAMİ",
+    "id": 25370
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 25371
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "DİŞKAYA",
+    "id": 25372
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "AKGÜNEY",
+    "id": 25373
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "YEŞİLADA",
+    "id": 25374
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "GELİNKAYA",
+    "id": 25375
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "KİRAZDERE",
+    "id": 25376
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "KARAKİRAZ",
+    "id": 25377
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "DERİNÇAY",
+    "id": 25378
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "ÖZLÜKENT",
+    "id": 25379
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "TURNALIK",
+    "id": 25380
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "BAŞKÖY",
+    "id": 25381
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "KABADÜZ",
+    "id": 25382
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "MUSAKIRIK",
+    "id": 25383
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "GÜMÜŞDERE",
+    "id": 25384
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "KABADÜZ",
+    "MAHALLE": "YUKARI KİRAZDERE",
+    "id": 25385
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "BABALI",
+    "id": 25386
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "BEYLİ",
+    "id": 25387
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YENİÖZ",
+    "id": 25388
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "AZİZİYE",
+    "id": 25389
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "DOĞAN",
+    "id": 25390
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ORTATEPE",
+    "id": 25391
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YUMRUTAŞ",
+    "id": 25392
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "İSTANBULBOĞAZI",
+    "id": 25393
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KOVANLI",
+    "id": 25394
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "EFİRLİ",
+    "id": 25395
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KURTULUŞ",
+    "id": 25396
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ŞENYURT",
+    "id": 25397
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "TÖNGELDÜZÜ",
+    "id": 25398
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KUYLUCA",
+    "id": 25399
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ÇANDIR",
+    "id": 25400
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KUTLUCA",
+    "id": 25401
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "TEPECİK",
+    "id": 25402
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ÇAMARASI",
+    "id": 25403
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "DEREİÇİ",
+    "id": 25404
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "DÜZ",
+    "id": 25405
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KAZANCILI",
+    "id": 25406
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ALINCA",
+    "id": 25407
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "BOLATLI",
+    "id": 25408
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ÇERLİ",
+    "id": 25409
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "EKİNCİLER",
+    "id": 25410
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "TEPEKÖY",
+    "id": 25411
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "BEKİRLİ",
+    "id": 25412
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KALEYAKA",
+    "id": 25413
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KIRLI",
+    "id": 25414
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KOZAĞZI",
+    "id": 25415
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "MERSİN",
+    "id": 25416
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "SIRAKOVANCI",
+    "id": 25417
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 25418
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 25419
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "GÜZELYURT",
+    "id": 25420
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "HACILAR",
+    "id": 25421
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "HAMİDİYE",
+    "id": 25422
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YARLI",
+    "id": 25423
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "MEDRESEÖNÜ",
+    "id": 25424
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "OKÇULU",
+    "id": 25425
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YAZLIK",
+    "id": 25426
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ÇAYTEPE",
+    "id": 25427
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "İMEÇLİ",
+    "id": 25428
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "TARLACIK",
+    "id": 25429
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "YENİKÖY",
+    "id": 25430
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "BOĞAZCIK",
+    "id": 25431
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ÇINAR",
+    "id": 25432
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "KACALI",
+    "id": 25433
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "NENELİ",
+    "id": 25434
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "SARAY",
+    "id": 25435
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "SELİMİYE",
+    "id": 25436
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "ANAÇ",
+    "id": 25437
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "RAMAZAN",
+    "id": 25438
+  },
+  {
+    "İL": "ORDU",
+    "İLÇE": "PERŞEMBE",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 25439
+  }
+]

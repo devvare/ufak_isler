@@ -1,0 +1,7124 @@
+[
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KÜÇÜKOVA",
+    "id": 10319
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MERKEZ, ÇATÖREN",
+    "id": 10320
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TOSUNLU",
+    "id": 10321
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "HAYDARHACI",
+    "id": 10322
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "OCAKLI",
+    "id": 10323
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "BOZBURUN",
+    "id": 10324
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "CAHİT AYBAR",
+    "id": 10325
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "HACIHAMZA",
+    "id": 10326
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KAPIKALE",
+    "id": 10327
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MERDİVENKÖY",
+    "id": 10328
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "OVACIK",
+    "id": 10329
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "SARIBABA",
+    "id": 10330
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YUMRUVEREN",
+    "id": 10331
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 10332
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "GÖKÇEBÜK",
+    "id": 10333
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KAVURMAÇUKURU",
+    "id": 10334
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KOÇBABA",
+    "id": 10335
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "SAZLI",
+    "id": 10336
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 10337
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TOZLUCA",
+    "id": 10338
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YAYLIMLI",
+    "id": 10339
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "DEREKÖY",
+    "id": 10340
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "GÜLLÜDERE",
+    "id": 10341
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "HACIBEKİR",
+    "id": 10342
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MEYDAN",
+    "id": 10343
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TEPSİCİK",
+    "id": 10344
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TURAÇ",
+    "id": 10345
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÜÇ MART",
+    "id": 10346
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MEZREA",
+    "id": 10347
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TECER",
+    "id": 10348
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ABDALCIK",
+    "id": 10349
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "BALLITAŞ",
+    "id": 10350
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "DALLI",
+    "id": 10351
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "EMEK",
+    "id": 10352
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ESENTEPE",
+    "id": 10353
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KÜKÜRTLÜ",
+    "id": 10354
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MUSATANIŞMAN",
+    "id": 10355
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "NAHİYE GÖLÖREN",
+    "id": 10356
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÇARŞI",
+    "id": 10357
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "GÜMÜŞSEREN",
+    "id": 10358
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "HATUNCUK",
+    "id": 10359
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÖZLER",
+    "id": 10360
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ALTINTAŞ",
+    "id": 10361
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÇATALBAYIR",
+    "id": 10362
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "EYÜPOĞLU",
+    "id": 10363
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 10364
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "DAĞYURDU",
+    "id": 10365
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "DEMİRKIRAN",
+    "id": 10366
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ŞAFAK",
+    "id": 10367
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 10368
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "DÜZYURT",
+    "id": 10369
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "PIRNAKABAN",
+    "id": 10370
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YAYLAKÖY",
+    "id": 10371
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "AKÖREN",
+    "id": 10372
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KARASU",
+    "id": 10373
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YAYLAYOLU",
+    "id": 10374
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "GÜNEYÇAM",
+    "id": 10375
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KURTMAHMUT",
+    "id": 10376
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "SAPTIRAN",
+    "id": 10377
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YENİKÖY HALİTPAŞA",
+    "id": 10378
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10379
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "BÜYÜKGEÇİT",
+    "id": 10380
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "HACIMAHMUT",
+    "id": 10381
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KARAHASAN",
+    "id": 10382
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TAŞLIÇAYIR",
+    "id": 10383
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "GÜRKAYNAK",
+    "id": 10384
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KIBRIS",
+    "id": 10385
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KÜÇÜKGEÇİT",
+    "id": 10386
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "ÇİFTLİK, ÇATÖREN",
+    "id": 10387
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "İSTASYON",
+    "id": 10388
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KANDİLLİ",
+    "id": 10389
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "KOŞAPINAR",
+    "id": 10390
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "MERKEZ, GÖLÖREN",
+    "id": 10391
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TOPALÇAVUŞ",
+    "id": 10392
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "YENİ",
+    "id": 10393
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AŞKALE",
+    "MAHALLE": "TOKÇA",
+    "id": 10394
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BİNPINAR",
+    "id": 10395
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "HACILAR",
+    "id": 10396
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BURNAZ",
+    "id": 10397
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "MOLLADAVUT",
+    "id": 10398
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "DEDEÖREN",
+    "id": 10399
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "ERENLER",
+    "id": 10400
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KARMIŞ",
+    "id": 10401
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "AKKAVAK",
+    "id": 10402
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BAĞLAR",
+    "id": 10403
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "DOĞANBEY",
+    "id": 10404
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "MARUF",
+    "id": 10405
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KAVAKLI",
+    "id": 10406
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "OVAYONCALI",
+    "id": 10407
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "SARIVELİ",
+    "id": 10408
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KARAGÖZ",
+    "id": 10409
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BOZYAR",
+    "id": 10410
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "ÇATALGÜL",
+    "id": 10411
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "DUMAN",
+    "id": 10412
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "GÜNDÜZ",
+    "id": 10413
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "SEYHAN",
+    "id": 10414
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KIRIMKAYA",
+    "id": 10415
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BUDAKLI",
+    "id": 10416
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KOPAL",
+    "id": 10417
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "ERHANLAR",
+    "id": 10418
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KARAKÖPRÜ",
+    "id": 10419
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "KUŞLUCA",
+    "id": 10420
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAÇOBAN",
+    "MAHALLE": "BAHÇELİ",
+    "id": 10421
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "YANIKTAŞ",
+    "id": 10422
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ALACAYAR",
+    "id": 10423
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KİLİMLİ",
+    "id": 10424
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "DEMİRDAĞ",
+    "id": 10425
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KARADAĞ",
+    "id": 10426
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SAMİKALE",
+    "id": 10427
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KOYUNÖREN",
+    "id": 10428
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 10429
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ÇAMLIYAYLA",
+    "id": 10430
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "DAĞYOLU",
+    "id": 10431
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "GÖKDAĞ",
+    "id": 10432
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KIŞLAKÖY",
+    "id": 10433
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SEYYİD ALİ BABA",
+    "id": 10434
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "BAŞKALE",
+    "id": 10435
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KAMIŞÖZÜ",
+    "id": 10436
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "TOYGARLI",
+    "id": 10437
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "BEYLER",
+    "id": 10438
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "OTLUTEPE",
+    "id": 10439
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "TAŞBURUN",
+    "id": 10440
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "CAMİİSAĞIR",
+    "id": 10441
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "GÜVENLİK",
+    "id": 10442
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ARAKÖY",
+    "id": 10443
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ŞEKERLİ",
+    "id": 10444
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "AŞAĞIYAYLA",
+    "id": 10445
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "BOĞAKALE",
+    "id": 10446
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 10447
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ERGAZİ",
+    "id": 10448
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "GÖLLÜ",
+    "id": 10449
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "GÜLLÜDAĞ",
+    "id": 10450
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KARAPINAR",
+    "id": 10451
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 10452
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "YUKARIYAYLA",
+    "id": 10453
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KOÇKAYA",
+    "id": 10454
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SAPANLI",
+    "id": 10455
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SAVAŞÇILAR",
+    "id": 10456
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SERİNSU",
+    "id": 10457
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "ALABALIK",
+    "id": 10458
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "KURUÇALI",
+    "id": 10459
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "MAHMUTÇAVUŞ",
+    "id": 10460
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "MERCİMEKLİ",
+    "id": 10461
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "PINARYOLU",
+    "id": 10462
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SÜTPINAR",
+    "id": 10463
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "TELLİ",
+    "id": 10464
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "TUZLA",
+    "id": 10465
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "SÜLÜKLÜ",
+    "id": 10466
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "NARMAN",
+    "MAHALLE": "YOLDERE",
+    "id": 10467
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÇÖĞENDER",
+    "id": 10468
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "GERDEKKAYA",
+    "id": 10469
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "GÖLCİĞEZ",
+    "id": 10470
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KARAKALE",
+    "id": 10471
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KEVENLİK",
+    "id": 10472
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KÜÇÜKTÜY",
+    "id": 10473
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "OTLUKKAPI",
+    "id": 10474
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "SUNAK",
+    "id": 10475
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TAŞKAYNAK",
+    "id": 10476
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ALVAR",
+    "id": 10477
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 10478
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KIZILÖREN",
+    "id": 10479
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "PAŞABEY",
+    "id": 10480
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "SAKSI",
+    "id": 10481
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YASTIKTEPE",
+    "id": 10482
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YAYLA",
+    "id": 10483
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BULKASIM",
+    "id": 10484
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KASIMPAŞA",
+    "id": 10485
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KOTANDÜZÜ",
+    "id": 10486
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KURBANÇAYIR",
+    "id": 10487
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "PELİTLİ",
+    "id": 10488
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "AŞITLAR",
+    "id": 10489
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÇAKIRTAŞ",
+    "id": 10490
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "HASANDEDE",
+    "id": 10491
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "PUSUDERE",
+    "id": 10492
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ŞEHİT BURAK KARAKOÇ",
+    "id": 10493
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TAŞLIGÜNEY",
+    "id": 10494
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YAMAÇ",
+    "id": 10495
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "AĞCALAR",
+    "id": 10496
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ALTINBAŞAK",
+    "id": 10497
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TEPECİK",
+    "id": 10498
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YAVUZLU",
+    "id": 10499
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YENİKÖY",
+    "id": 10500
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BALDIZI",
+    "id": 10501
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 10502
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "PORSUK",
+    "id": 10503
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YENİ",
+    "id": 10504
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KAVUŞTURAN",
+    "id": 10505
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KURTULUŞ",
+    "id": 10506
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TAŞLIYURT",
+    "id": 10507
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "TİMAR",
+    "id": 10508
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÜĞÜMÜ",
+    "id": 10509
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YİĞİTTAŞI",
+    "id": 10510
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10511
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 10512
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YUKARIÇAKMAK",
+    "id": 10513
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "DEMİRDÖVEN",
+    "id": 10514
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "EPSEMCE",
+    "id": 10515
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ERZURUMKAPI",
+    "id": 10516
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KAPLICALAR",
+    "id": 10517
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YAYLADAĞ",
+    "id": 10518
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YUKARIDANİŞMENT",
+    "id": 10519
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ACI",
+    "id": 10520
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 10521
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "EMİRŞEYH",
+    "id": 10522
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "SİVAS",
+    "id": 10523
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "AĞAÇMİNARE",
+    "id": 10524
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BÜYÜKTÜY",
+    "id": 10525
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÖVENLER",
+    "id": 10526
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "REŞADİYE",
+    "id": 10527
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "UZUNARK",
+    "id": 10528
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ARDIÇLI",
+    "id": 10529
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "BAŞÖREN",
+    "id": 10530
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ESENDERE",
+    "id": 10531
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "HANAHMET",
+    "id": 10532
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KARAVELET",
+    "id": 10533
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "SERÇEBOĞAZI",
+    "id": 10534
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "YİĞİTPINARI",
+    "id": 10535
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÇALIYAZI",
+    "id": 10536
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "ÇAMLICA",
+    "id": 10537
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "KETHUDA",
+    "id": 10538
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PASİNLER",
+    "MAHALLE": "OVAKÖY",
+    "id": 10539
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "AŞAĞI",
+    "id": 10540
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "HOŞKÖY",
+    "id": 10541
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TAZEKÖY",
+    "id": 10542
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "UĞURLU",
+    "id": 10543
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "AKŞAR",
+    "id": 10544
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "AKTAŞ",
+    "id": 10545
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "BEREKETLİ",
+    "id": 10546
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "AŞAĞIBAKRAÇLI",
+    "id": 10547
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "İKİZPINAR",
+    "id": 10548
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KÜRKÇÜ",
+    "id": 10549
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "SUSUZ",
+    "id": 10550
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YANIKKAVAL",
+    "id": 10551
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "İĞDELİ",
+    "id": 10552
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TİMURKIŞLA",
+    "id": 10553
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ESENYURT",
+    "id": 10554
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KÖŞKKÖY",
+    "id": 10555
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KAYNAK",
+    "id": 10556
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "SARIYAR",
+    "id": 10557
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TURNALI",
+    "id": 10558
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YÜREKLİ",
+    "id": 10559
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ATYOLU",
+    "id": 10560
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "İÇMESU",
+    "id": 10561
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ORMANLI",
+    "id": 10562
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TEKETAŞ",
+    "id": 10563
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 10564
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DOKUZELMA",
+    "id": 10565
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GAZİLER",
+    "id": 10566
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "BALKAYA",
+    "id": 10567
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "BEŞPINARLAR",
+    "id": 10568
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DÖRTYOL",
+    "id": 10569
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GÖREŞKEN",
+    "id": 10570
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GÖZALAN",
+    "id": 10571
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YAYMEŞE",
+    "id": 10572
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ÇAMLIALAN",
+    "id": 10573
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DOLUNAY",
+    "id": 10574
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "İNCEÇAY",
+    "id": 10575
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KİREÇLİ",
+    "id": 10576
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "PENEK",
+    "id": 10577
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YUKARIBAKRAÇLI",
+    "id": 10578
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "AYDOĞDU",
+    "id": 10579
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GEZENEK",
+    "id": 10580
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "NİŞANTAŞI",
+    "id": 10581
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "SARIKAYALAR",
+    "id": 10582
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YEŞİLDEMET",
+    "id": 10583
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "BEYKAYNAK",
+    "id": 10584
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DEĞİRMENLİDERE",
+    "id": 10585
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GÜLVEREN",
+    "id": 10586
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KÖROĞLU",
+    "id": 10587
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ÇATALELMA",
+    "id": 10588
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "DELİKTAŞ",
+    "id": 10589
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GÖZEBAŞI",
+    "id": 10590
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TÜTENOCAK",
+    "id": 10591
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YOĞURTÇULAR",
+    "id": 10592
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YÜNÖREN",
+    "id": 10593
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ALICIK",
+    "id": 10594
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ESENCE",
+    "id": 10595
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ÖZYURT",
+    "id": 10596
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "PAŞALI",
+    "id": 10597
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "TAHTKÖY",
+    "id": 10598
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YAZILI",
+    "id": 10599
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "EVBAKAN",
+    "id": 10600
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "GÖLLET",
+    "id": 10601
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "KAYALISU",
+    "id": 10602
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "OYUKTAŞ",
+    "id": 10603
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ŞENPINAR",
+    "id": 10604
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "SINDIRAN",
+    "id": 10605
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "SÖĞÜTLER",
+    "id": 10606
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YELKIRAN",
+    "id": 10607
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YEŞİLKAYA",
+    "id": 10608
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "YUKARI",
+    "id": 10609
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ŞENKAYA",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 10610
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AKGÖZE",
+    "id": 10611
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ÇATAK",
+    "id": 10612
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ERBEYLİ",
+    "id": 10613
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SARILI",
+    "id": 10614
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "UYANIK",
+    "id": 10615
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YAMANLAR",
+    "id": 10616
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YELPİZ",
+    "id": 10617
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YENİKENT",
+    "id": 10618
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DERVİŞALİ",
+    "id": 10619
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "HALİLÇAVUŞ",
+    "id": 10620
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "MUTLUCA",
+    "id": 10621
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ACARKÖY",
+    "id": 10622
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ALİKIRI",
+    "id": 10623
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BAŞKÖY",
+    "id": 10624
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ERDURAN",
+    "id": 10625
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "HAYRAN",
+    "id": 10626
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KALECİK",
+    "id": 10627
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SILDIZ",
+    "id": 10628
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AKÖREN",
+    "id": 10629
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DAĞÇAYIRI",
+    "id": 10630
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "GÜLİSTAN",
+    "id": 10631
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ILICAKÖY",
+    "id": 10632
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SANAYİ",
+    "id": 10633
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TİPİDERESİ",
+    "id": 10634
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ULUÇAYIR",
+    "id": 10635
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ÜNLÜCE",
+    "id": 10636
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YENİKÖY",
+    "id": 10637
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DİBEKLİ",
+    "id": 10638
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "GÖLLER",
+    "id": 10639
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 10640
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KONGUR",
+    "id": 10641
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "PARMAKSIZ",
+    "id": 10642
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ŞAHABETTİNKÖY",
+    "id": 10643
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YEŞİLBAHÇE",
+    "id": 10644
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DİKİLİ",
+    "id": 10645
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KARAMOLLA",
+    "id": 10646
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "MOLLACELİL",
+    "id": 10647
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ŞALGAMKÖY",
+    "id": 10648
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TAŞBUDAK",
+    "id": 10649
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ALAGÖZ",
+    "id": 10650
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "İSMAİL",
+    "id": 10651
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KISIK",
+    "id": 10652
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ORTAKÖY",
+    "id": 10653
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TOPRAKKALE",
+    "id": 10654
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YAYLAKONAK",
+    "id": 10655
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YUKARIKAYABAŞI",
+    "id": 10656
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ERENCE",
+    "id": 10657
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ESENLİ",
+    "id": 10658
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "GÜRÇAYIR",
+    "id": 10659
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "MEZRA",
+    "id": 10660
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SALTEPE",
+    "id": 10661
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AVCILAR",
+    "id": 10662
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DERİNCE",
+    "id": 10663
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "MOLLAKULAÇ",
+    "id": 10664
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "OVAÇEVİRME",
+    "id": 10665
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ALACA",
+    "id": 10666
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ALINTERİ",
+    "id": 10667
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KARAKULA",
+    "id": 10668
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KETENCİ",
+    "id": 10669
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 10670
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "PINARKÖY",
+    "id": 10671
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SULTANLI",
+    "id": 10672
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TAPUKÖY",
+    "id": 10673
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TELLİTEPE",
+    "id": 10674
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 10675
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "GÜZELDERE",
+    "id": 10676
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KARABUDAK",
+    "id": 10677
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KIZILAHMET",
+    "id": 10678
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 10679
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YEŞİLYAZI",
+    "id": 10680
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BAHÇE",
+    "id": 10681
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ÇİLLİGÖL",
+    "id": 10682
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "GÜLLÜÇİMEN",
+    "id": 10683
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TORAMAN",
+    "id": 10684
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AKGELİN",
+    "id": 10685
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BELLİTAŞ",
+    "id": 10686
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DEMİRCİ",
+    "id": 10687
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "DİVANHÜSEYİN",
+    "id": 10688
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KAZANCI",
+    "id": 10689
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KIZMUSA",
+    "id": 10690
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "MEYDANKÖY",
+    "id": 10691
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AKÇAMELİK",
+    "id": 10692
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ALTINPINAR",
+    "id": 10693
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AŞAĞIKAYABAŞI",
+    "id": 10694
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BEYYURDU",
+    "id": 10695
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "BURHANKÖY",
+    "id": 10696
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ÇAMURLU",
+    "id": 10697
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "OVAKOZLU",
+    "id": 10698
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ARPADERESİ",
+    "id": 10699
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ÇAKMAK",
+    "id": 10700
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ELMADALI",
+    "id": 10701
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "SUVARAN",
+    "id": 10702
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "TANIR",
+    "id": 10703
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "YOLÜSTÜ",
+    "id": 10704
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "AKBAYIR",
+    "id": 10705
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "KOLHİSAR",
+    "id": 10706
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "PINARBAŞI",
+    "id": 10707
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HINIS",
+    "MAHALLE": "ŞAHVERDİ",
+    "id": 10708
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BAŞPINAR",
+    "id": 10709
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "CANKURTARAN",
+    "id": 10710
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AKGÜNEY",
+    "id": 10711
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AKTAŞ",
+    "id": 10712
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AŞAĞI ÖZBAĞ",
+    "id": 10713
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ARAKÖY",
+    "id": 10714
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ARMUTLU",
+    "id": 10715
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ARDIÇLI",
+    "id": 10716
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BOSTANCI",
+    "id": 10717
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AHLATLI",
+    "id": 10718
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AKSEKİ",
+    "id": 10719
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ALACABÜK",
+    "id": 10720
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ATÜRKÜTEN",
+    "id": 10721
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BAHÇELİ",
+    "id": 10722
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇAMLICA",
+    "id": 10723
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BAŞKÖY",
+    "id": 10724
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AKPINAR",
+    "id": 10725
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AKSU",
+    "id": 10726
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AŞAĞI FINDIKLI",
+    "id": 10727
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BAŞÇEŞME",
+    "id": 10728
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BOZAN",
+    "id": 10729
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "AVCIKÖY",
+    "id": 10730
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "BADEMLİ",
+    "id": 10731
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "CİBALİ",
+    "id": 10732
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇAKMAKLI",
+    "id": 10733
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇAMLIKAYA",
+    "id": 10734
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GAZİLER",
+    "id": 10735
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARAKAMIŞ",
+    "id": 10736
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KAYNAKBAŞI",
+    "id": 10737
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "TEPECİK",
+    "id": 10738
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DEMİRBİLEK",
+    "id": 10739
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "İYİDERE",
+    "id": 10740
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KOÇ",
+    "id": 10741
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "MÜLKKÖY",
+    "id": 10742
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "SANDIKLI",
+    "id": 10743
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "TAŞLICA",
+    "id": 10744
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 10745
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DEMİRKAYA",
+    "id": 10746
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "İNCESU",
+    "id": 10747
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARASEYDİ",
+    "id": 10748
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "SOĞUKSU",
+    "id": 10749
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ŞENKÖY",
+    "id": 10750
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KİRAZLI",
+    "id": 10751
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DEVEDAĞI",
+    "id": 10752
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KIZILHASAN",
+    "id": 10753
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "LEYLEKKÖY",
+    "id": 10754
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "İKİSU",
+    "id": 10755
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARAHAN",
+    "id": 10756
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KÖPRÜKÖY",
+    "id": 10757
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "MORYAYLA",
+    "id": 10758
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "SIRAKONAK",
+    "id": 10759
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YEDİGÖZE",
+    "id": 10760
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YEDİGÖL",
+    "id": 10761
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "PETEKLİ",
+    "id": 10762
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YUKARI ÖZBAĞ",
+    "id": 10763
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ZEYREK",
+    "id": 10764
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DÜZKÖY",
+    "id": 10765
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ELMALI",
+    "id": 10766
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 10767
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 10768
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÜLLÜBAĞ",
+    "id": 10769
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARAKAYA",
+    "id": 10770
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ORTAKÖY",
+    "id": 10771
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 10772
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "HALİLPAŞA",
+    "id": 10773
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 10774
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÖZTOPRAK",
+    "id": 10775
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ORTAÖREN",
+    "id": 10776
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 10777
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GEÇİTAĞZI",
+    "id": 10778
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÖLYURT",
+    "id": 10779
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "MADENKÖPRÜBAŞI",
+    "id": 10780
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "PINARLI",
+    "id": 10781
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ULUTAŞ",
+    "id": 10782
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YAĞLI",
+    "id": 10783
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YUNUSKÖY",
+    "id": 10784
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇATAKKAYA",
+    "id": 10785
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 10786
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÜLHAS",
+    "id": 10787
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 10788
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "IRMAKKÖY",
+    "id": 10789
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "DURUKÖY",
+    "id": 10790
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÖÇKÖY",
+    "id": 10791
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "GÜNEY",
+    "id": 10792
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÇAYIRÖZÜ",
+    "id": 10793
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KIRIK",
+    "id": 10794
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "TEKPINAR",
+    "id": 10795
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ULUBEL",
+    "id": 10796
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "ÜZÜMBAĞI",
+    "id": 10797
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YAYLACIK",
+    "id": 10798
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YUKARI FINDIKLI",
+    "id": 10799
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KAVAKLI",
+    "id": 10800
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "NUMANPAŞA",
+    "id": 10801
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KARAKALE",
+    "id": 10802
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "MESCİTLİ",
+    "id": 10803
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YILDIZTEPE",
+    "id": 10804
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "KÜMETAŞ",
+    "id": 10805
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 10806
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 10807
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "İSPİR",
+    "MAHALLE": "YUKARI",
+    "id": 10808
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "AKTEPE",
+    "id": 10809
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ÇATAKSU",
+    "id": 10810
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ALTUNKAYA",
+    "id": 10811
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YILDIZKAYA",
+    "id": 10812
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "AŞAĞIKARACASU",
+    "id": 10813
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "BEĞENDİK",
+    "id": 10814
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "EĞLEK",
+    "id": 10815
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "MERKEZ",
+    "id": 10816
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "OĞUZKENT",
+    "id": 10817
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "SOĞUKGÖZE",
+    "id": 10818
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ORMANAĞZI",
+    "id": 10819
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YUKARIÇAYIRLI",
+    "id": 10820
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "FİLİZLİ",
+    "id": 10821
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ŞALPAZARI",
+    "id": 10822
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ÜRÜNLÜ",
+    "id": 10823
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "BOZDOĞAN",
+    "id": 10824
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ILIKAYNAK",
+    "id": 10825
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "SÜNGÜBAYIR",
+    "id": 10826
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "AKBAYIR",
+    "id": 10827
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YAYLABAŞI",
+    "id": 10828
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "SARIBAŞAK",
+    "id": 10829
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "GÜNGÖRÜNDÜ",
+    "id": 10830
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YEŞİL BAĞLAR",
+    "id": 10831
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YUKARIKARACASU",
+    "id": 10832
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "COŞKUNLAR",
+    "id": 10833
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "TAŞGEÇİT",
+    "id": 10834
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "HÜKKAM",
+    "id": 10835
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KEKİKLİ",
+    "id": 10836
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "OLURDERE",
+    "id": 10837
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YEŞİLBAĞLAR",
+    "id": 10838
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "ATLI",
+    "id": 10839
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KALEDİBİ",
+    "id": 10840
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "UZUNHARMAN",
+    "id": 10841
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "AŞAĞIÇAYIRLI",
+    "id": 10842
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KARAKOÇLAR",
+    "id": 10843
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "YOLGÖZLER",
+    "id": 10844
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "EKİNLİK",
+    "id": 10845
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KEÇİLİ",
+    "id": 10846
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 10847
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "OLGUN",
+    "id": 10848
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "BEŞKAYA",
+    "id": 10849
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "BOĞAZGÖREN",
+    "id": 10850
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLUR",
+    "MAHALLE": "KABAN",
+    "id": 10851
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KAYNARCA",
+    "id": 10852
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ARDI",
+    "id": 10853
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ARPAÇAYIR",
+    "id": 10854
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "BULGURLU",
+    "id": 10855
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "PINAR",
+    "id": 10856
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YUKARITAHİRHOCA",
+    "id": 10857
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DÖLLEK",
+    "id": 10858
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "MOLLAAHMET",
+    "id": 10859
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "SEKMAN",
+    "id": 10860
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YARBOĞAZ",
+    "id": 10861
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YUKARIBADEMÖZÜ",
+    "id": 10862
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "GEREK",
+    "id": 10863
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "İNCESU",
+    "id": 10864
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KADICELAL",
+    "id": 10865
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIRIK",
+    "id": 10866
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HACIHALİL",
+    "id": 10867
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HIZIRİLYAS",
+    "id": 10868
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KARAPINAR",
+    "id": 10869
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "SAÇLIK",
+    "id": 10870
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "TEKNECİK",
+    "id": 10871
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AŞAĞIBADEMÖZÜ",
+    "id": 10872
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DANİŞMENT",
+    "id": 10873
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HASANBEY",
+    "id": 10874
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 10875
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 10876
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HACIAHMET",
+    "id": 10877
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KEPENEK",
+    "id": 10878
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIZILCA",
+    "id": 10879
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YILDIRAN",
+    "id": 10880
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AŞAĞIAKTAŞ",
+    "id": 10881
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ÇAMURLU",
+    "id": 10882
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HAYDARLI",
+    "id": 10883
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 10884
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 10885
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AKÇATOPRAK",
+    "id": 10886
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DALBAŞI",
+    "id": 10887
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "EĞERTAŞLAR",
+    "id": 10888
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "GÜNDEĞER",
+    "id": 10889
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HASANBABA",
+    "id": 10890
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "MOLLAMELİK",
+    "id": 10891
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YUKARIHORUM",
+    "id": 10892
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "BAHÇE",
+    "id": 10893
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "MÜMTAZ TURAN",
+    "id": 10894
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "PİRALİ",
+    "id": 10895
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "TAVŞANCIK",
+    "id": 10896
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YAZILITAŞ",
+    "id": 10897
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YÜRÜKATLI",
+    "id": 10898
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AĞILLI",
+    "id": 10899
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AKÇATAŞ",
+    "id": 10900
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DÖNERTAŞ",
+    "id": 10901
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 10902
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "IĞIRBIĞIR",
+    "id": 10903
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIZLARKALE",
+    "id": 10904
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KÜKÜRTLÜ",
+    "id": 10905
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "MURATBAĞI",
+    "id": 10906
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YAYLACIK",
+    "id": 10907
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 10908
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ÇAYIRDÜZÜ",
+    "id": 10909
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DEĞİRMENLER",
+    "id": 10910
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "İNÖNÜ",
+    "id": 10911
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KALENDER",
+    "id": 10912
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KARAÇUHA",
+    "id": 10913
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KEMERLİ",
+    "id": 10914
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KÜÇÜKKONAK",
+    "id": 10915
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "RECEP TAYYİP ERDOĞAN",
+    "id": 10916
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 10917
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 10918
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": " KEBİR",
+    "id": 10919
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ŞEYHYUSUF",
+    "id": 10920
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HARÇLI",
+    "id": 10921
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "İĞDELİ",
+    "id": 10922
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIRKDİKME",
+    "id": 10923
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIRKGÖZELER",
+    "id": 10924
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "PİRHASAN",
+    "id": 10925
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ALİÇEYREK",
+    "id": 10926
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ÇAMLIKALE",
+    "id": 10927
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KARACAÖREN",
+    "id": 10928
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KIRKLAR",
+    "id": 10929
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "YÜZÖREN",
+    "id": 10930
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ALAGÖZ",
+    "id": 10931
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ARAS",
+    "id": 10932
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "AZAP",
+    "id": 10933
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 10934
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "DİKİLİ",
+    "id": 10935
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "HIZARDERE",
+    "id": 10936
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "KARABIYIK",
+    "id": 10937
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "HORASAN",
+    "MAHALLE": "TAHİRHOCA",
+    "id": 10938
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AĞAÇLI",
+    "id": 10939
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SANCAKTAR",
+    "id": 10940
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SELENLİ",
+    "id": 10941
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YUKARISÖYLEMEZ",
+    "id": 10942
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇALTILI",
+    "id": 10943
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "GÖKSU",
+    "id": 10944
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "MURATLI",
+    "id": 10945
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ANITLI",
+    "id": 10946
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YUKARIÇIĞILGAN",
+    "id": 10947
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AKPINAR",
+    "id": 10948
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "BAYRAKTAR",
+    "id": 10949
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "GÜLLÜ",
+    "id": 10950
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "TAŞAN",
+    "id": 10951
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÜZENGİLİ",
+    "id": 10952
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "TURNAGÖL",
+    "id": 10953
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YİĞİTYOLU",
+    "id": 10954
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "BEZİRHANE",
+    "id": 10955
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "DEĞİRMENKAYA",
+    "id": 10956
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARAAĞIL",
+    "id": 10957
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "PAYVEREN",
+    "id": 10958
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SALYAMAÇ",
+    "id": 10959
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ULUCANLAR",
+    "id": 10960
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇALIŞKAN",
+    "id": 10961
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KAZBEL",
+    "id": 10962
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KÖYCEĞİZ",
+    "id": 10963
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SARIÇİÇEK",
+    "id": 10964
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YENİ",
+    "id": 10965
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇEPİ",
+    "id": 10966
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "DÜNDAR",
+    "id": 10967
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "GEVENTEPE",
+    "id": 10968
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "HASANOVA",
+    "id": 10969
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YENİKÖY",
+    "id": 10970
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇATALÖREN",
+    "id": 10971
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇELİKLİ",
+    "id": 10972
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KIRIKPINAR",
+    "id": 10973
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ŞAKİRKÖY",
+    "id": 10974
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YÜCELİK",
+    "id": 10975
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AYDINSU",
+    "id": 10976
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "DÖRTPINAR",
+    "id": 10977
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 10978
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YALINDAL",
+    "id": 10979
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 10980
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ABDURRAHMANKÖY",
+    "id": 10981
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ALİKÜLLEK",
+    "id": 10982
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "GÖKTEPE",
+    "id": 10983
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "HACIBAYRAM",
+    "id": 10984
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KAYALAR",
+    "id": 10985
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AŞAĞISÖYLEMEZ",
+    "id": 10986
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇAVUŞKÖY",
+    "id": 10987
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ELMAAĞAÇ",
+    "id": 10988
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARAKALE",
+    "id": 10989
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "MOLLABEKİR",
+    "id": 10990
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AKARSU",
+    "id": 10991
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ALEMDAĞI",
+    "id": 10992
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "AŞAĞIİNCESU",
+    "id": 10993
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇAKMAKÖZÜ",
+    "id": 10994
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARABEY",
+    "id": 10995
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARASU",
+    "id": 10996
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SUKONAK",
+    "id": 10997
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YAHYAKÖY",
+    "id": 10998
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YUKARICİHANBEY",
+    "id": 10999
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "DURUCA",
+    "id": 11000
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KARAKAYA",
+    "id": 11001
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KURUPINAR",
+    "id": 11002
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "TOSUNLU",
+    "id": 11003
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "UĞURDALI",
+    "id": 11004
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 11005
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "DORUCA",
+    "id": 11006
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KAPANLI",
+    "id": 11007
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "SULUTAŞ",
+    "id": 11008
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "YOLGÖREN",
+    "id": 11009
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "ÇAYIRBEYLİ",
+    "id": 11010
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KIRGINDERE",
+    "id": 11011
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "KÖSEHASAN",
+    "id": 11012
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KARAYAZI",
+    "MAHALLE": "MOLLA OSMAN",
+    "id": 11013
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "AYYILDIZ",
+    "id": 11014
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇANAKPINAR",
+    "id": 11015
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DAĞDİBİ",
+    "id": 11016
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "GÖKÇEDERE",
+    "id": 11017
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "GÜNLÜCE",
+    "id": 11018
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "İPEKÇAYIRI",
+    "id": 11019
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KARATAŞ",
+    "id": 11020
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "BAHÇELİKIŞLA",
+    "id": 11021
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ALATARLA",
+    "id": 11022
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "AŞAĞIÇAMLI",
+    "id": 11023
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇAYÜSTÜ",
+    "id": 11024
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KEMERKAYA",
+    "id": 11025
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "SARISAZ",
+    "id": 11026
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "NÜĞÜRCÜK",
+    "id": 11027
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "SUBATUK",
+    "id": 11028
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TUTLU",
+    "id": 11029
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YOLBOYU",
+    "id": 11030
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KAYAALTI",
+    "id": 11031
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ORUCUK",
+    "id": 11032
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KÜÇÜKORUCUK",
+    "id": 11033
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "SAĞLICAK",
+    "id": 11034
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TOKLU",
+    "id": 11035
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TUTMAÇ",
+    "id": 11036
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YARBAŞI",
+    "id": 11037
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YAYLAÇAYIR",
+    "id": 11038
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YUKARIKUMLU",
+    "id": 11039
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 11040
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 11041
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇATAK",
+    "id": 11042
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "AŞAĞIKUMLU",
+    "id": 11043
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇATALSÖĞÜT",
+    "id": 11044
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "İĞDELİ",
+    "id": 11045
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KONUKSEVEN",
+    "id": 11046
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "SÜLÜNKAYA",
+    "id": 11047
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 11048
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DAMARLITAŞ",
+    "id": 11049
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "İNANMIŞ",
+    "id": 11050
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "İNCİ",
+    "id": 11051
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ESENYAMAÇ",
+    "id": 11052
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KALEBOĞAZI",
+    "id": 11053
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÖZDERE",
+    "id": 11054
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YUSUF ZİYABEY",
+    "id": 11055
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "BALLICA",
+    "id": 11056
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ERDOĞMUŞ",
+    "id": 11057
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "GÜZELSU",
+    "id": 11058
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "HALİTPAŞA",
+    "id": 11059
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TEKELİ",
+    "id": 11060
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TUZLA",
+    "id": 11061
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "VİŞNELİ",
+    "id": 11062
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YUKARIÇAMLI",
+    "id": 11063
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "BAŞAKLI",
+    "id": 11064
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DEREBAŞI",
+    "id": 11065
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 11066
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÇENGELLİ",
+    "id": 11067
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DURALAR",
+    "id": 11068
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ELMADÜZÜ",
+    "id": 11069
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "SÜLEYMANLI",
+    "id": 11070
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ŞENDURAK",
+    "id": 11071
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TOPKAYNAK",
+    "id": 11072
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ASLANPAŞA",
+    "id": 11073
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "BAHÇECİK",
+    "id": 11074
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "DOKUZDEĞİRMEN",
+    "id": 11075
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "OBAYAYLA",
+    "id": 11076
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ARITAŞ",
+    "id": 11077
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "AYVALI",
+    "id": 11078
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "BAŞBAĞLAR",
+    "id": 11079
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "GÜRYAPRAK",
+    "id": 11080
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "YASİN HAŞİMOĞLU",
+    "id": 11081
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "İRİAĞAÇ",
+    "id": 11082
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "TOPRAKKALE",
+    "id": 11083
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "KARABEKİR",
+    "id": 11084
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "OLTU",
+    "MAHALLE": "ÜNLÜKAYA",
+    "id": 11085
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ÇUKURÇAYIR",
+    "id": 11086
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 11087
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "TUZLUCA",
+    "id": 11088
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "GÖKÇEŞEYH",
+    "id": 11089
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "İŞKİNLİ",
+    "id": 11090
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KAPLICA",
+    "id": 11091
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ÇİMENÖZÜ",
+    "id": 11092
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BARDAKÇI",
+    "id": 11093
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "GÖBEKÖREN",
+    "id": 11094
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KARACA",
+    "id": 11095
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "AĞAKÖY",
+    "id": 11096
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ELMAPINAR",
+    "id": 11097
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KIZILCA",
+    "id": 11098
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KUMAŞLI",
+    "id": 11099
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "SARIKAYA",
+    "id": 11100
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "YARMAK",
+    "id": 11101
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "SALTAŞ",
+    "id": 11102
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "YAVİ",
+    "id": 11103
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BAĞLICA",
+    "id": 11104
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "HATUNKÖY",
+    "id": 11105
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 11106
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ŞEYHHASAN",
+    "id": 11107
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "YUKARIÇAT",
+    "id": 11108
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ÇAYIRTEPE",
+    "id": 11109
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KÖSELER",
+    "id": 11110
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KURBANLI",
+    "id": 11111
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "MOLLAÖMER",
+    "id": 11112
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "PARMAKSIZ",
+    "id": 11113
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "TUZLATAŞI",
+    "id": 11114
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "SARIKAŞIK",
+    "id": 11115
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BAŞKÖY",
+    "id": 11116
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BAYINDIR",
+    "id": 11117
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BUDAKLAR",
+    "id": 11118
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "GÖLKÖY",
+    "id": 11119
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KARABEY",
+    "id": 11120
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 11121
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "KARAŞEYH",
+    "id": 11122
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "MURATÇAYIRI",
+    "id": 11123
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "OYUKLU",
+    "id": 11124
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BABADERESİ",
+    "id": 11125
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "BOZYAZI",
+    "id": 11126
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "AŞAĞIÇAT",
+    "id": 11127
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "ÇİRİŞLİ",
+    "id": 11128
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "SÖBEÇAYIR",
+    "id": 11129
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "ÇAT",
+    "MAHALLE": "YAYLASUYU",
+    "id": 11130
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "BURÇAKLI",
+    "id": 11131
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "BAYINDIR",
+    "id": 11132
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KARAKOÇ",
+    "id": 11133
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ÇAYDERE",
+    "id": 11134
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "DELİKTAŞ",
+    "id": 11135
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ESENYURT",
+    "id": 11136
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "GÖLYANI",
+    "id": 11137
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "CENNETPINARI",
+    "id": 11138
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ÇİFTEPINAR",
+    "id": 11139
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "AYÇUKURU",
+    "id": 11140
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "GÖZTEPE",
+    "id": 11141
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "GÜNEYSU",
+    "id": 11142
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "HACILAR",
+    "id": 11143
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ALIÇLI",
+    "id": 11144
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "CEVİZLİDERE",
+    "id": 11145
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "AMBARALAN",
+    "id": 11146
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "BÜYÜKDERE",
+    "id": 11147
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "DEMİRGÖZE",
+    "id": 11148
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "DİKMETAŞ",
+    "id": 11149
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KOZLU",
+    "id": 11150
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "AKBULUT",
+    "id": 11151
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KORKUTKÖY",
+    "id": 11152
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KUMAŞKAYA",
+    "id": 11153
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KUYMAKLI",
+    "id": 11154
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "YİĞİTBAŞI",
+    "id": 11155
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KILIÇÇI",
+    "id": 11156
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ÇATAKBAHÇE",
+    "id": 11157
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "GÜLÇİMEN",
+    "id": 11158
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KÖŞEYOLU",
+    "id": 11159
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "PAMUKLUDAĞ",
+    "id": 11160
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KONAKYERİ",
+    "id": 11161
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "LALELİ",
+    "id": 11162
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "MERKEZ",
+    "id": 11163
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "ŞEHİTLİK",
+    "id": 11164
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "SÜLEYMANBAĞI",
+    "id": 11165
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "MEŞEBAŞI",
+    "id": 11166
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "SADAKA",
+    "id": 11167
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "SERGENKAYA",
+    "id": 11168
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "YAYLAÖZÜ",
+    "id": 11169
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KÜMBETTEPE",
+    "id": 11170
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "YAYLALI",
+    "id": 11171
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "KARATAŞ",
+    "id": 11172
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PAZARYOLU",
+    "MAHALLE": "YENİ",
+    "id": 11173
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ATAKÖY",
+    "id": 11174
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "KAYABAŞI",
+    "id": 11175
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ZİYARET",
+    "id": 11176
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "EMRE",
+    "id": 11177
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "KARATAŞLAR",
+    "id": 11178
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "SAVATLI",
+    "id": 11179
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "EĞİRMEZ",
+    "id": 11180
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ILICASU",
+    "id": 11181
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ORTAKLAR",
+    "id": 11182
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "TOPÇU",
+    "id": 11183
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ÖRENTAŞ",
+    "id": 11184
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 11185
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YUKARIKIZILKALE",
+    "id": 11186
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "DEREBAŞI",
+    "id": 11187
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "MARİFET",
+    "id": 11188
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YEMLİK",
+    "id": 11189
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "AKÇAM",
+    "id": 11190
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "KIYIKONAK",
+    "id": 11191
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ALACA",
+    "id": 11192
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "AŞAĞIÇAKMAK",
+    "id": 11193
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "DİLEK",
+    "id": 11194
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "DUMANKAYA",
+    "id": 11195
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "SOĞUKSU",
+    "id": 11196
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "PEKECİK",
+    "id": 11197
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YUKARIKIZILCA",
+    "id": 11198
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "DUATEPE",
+    "id": 11199
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "SARITAŞ",
+    "id": 11200
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "MESCİTLİ",
+    "id": 11201
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YILANLI",
+    "id": 11202
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "AŞAĞIKIZILKALE",
+    "id": 11203
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 11204
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "EYÜPLER",
+    "id": 11205
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "ÇULLU",
+    "id": 11206
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "GÖLÇAYIR",
+    "id": 11207
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YAPAĞILI",
+    "id": 11208
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YEŞİLÖZ",
+    "id": 11209
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "GEYİKLİ",
+    "id": 11210
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "GÜZELHİSAR",
+    "id": 11211
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YAĞAN",
+    "id": 11212
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "AĞCAŞAR",
+    "id": 11213
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "YUKARISÖĞÜTLÜ",
+    "id": 11214
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "KÖPRÜKÖY",
+    "MAHALLE": "BUĞDAYLI",
+    "id": 11215
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "DELİLER",
+    "id": 11216
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "DENGİZ",
+    "id": 11217
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "HACIÖMER",
+    "id": 11218
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ILIGÖZE",
+    "id": 11219
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KARATAŞ",
+    "id": 11220
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KAZANCIK",
+    "id": 11221
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "MOLLAMEHMET",
+    "id": 11222
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AŞAĞITEPECİK",
+    "id": 11223
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "BEŞDERE",
+    "id": 11224
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇATAK",
+    "id": 11225
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "BEYKÖY",
+    "id": 11226
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇİÇEKDAĞI",
+    "id": 11227
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇAĞLAR",
+    "id": 11228
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇEVİRME",
+    "id": 11229
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 11230
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KALAYCI",
+    "id": 11231
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YONCALI",
+    "id": 11232
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇAYIRDAĞI",
+    "id": 11233
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "DALSÖĞÜT",
+    "id": 11234
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇATKALE",
+    "id": 11235
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜZELDERE",
+    "id": 11236
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "HÜSEYİNAĞA",
+    "id": 11237
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "MESCİTLİ",
+    "id": 11238
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "DÜZYURT",
+    "id": 11239
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "HÜRRİYET",
+    "id": 11240
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KÖRSU",
+    "id": 11241
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YERKÖY",
+    "id": 11242
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ERENCE",
+    "id": 11243
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜRGÜR",
+    "id": 11244
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KARLICA",
+    "id": 11245
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YİĞİTLER",
+    "id": 11246
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YUKARIHANBEYİ",
+    "id": 11247
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "TAŞKESEN",
+    "id": 11248
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "TOPTEPE",
+    "id": 11249
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YALINCA",
+    "id": 11250
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AKDAMAR",
+    "id": 11251
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ÇUKURYAYLA",
+    "id": 11252
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "CİHAN",
+    "id": 11253
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GEÇİTKÖY",
+    "id": 11254
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AĞCAKOCA",
+    "id": 11255
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AŞAĞIHANBEYİ",
+    "id": 11256
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 11257
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KARATEPE",
+    "id": 11258
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ALABAYIR",
+    "id": 11259
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AYDINLI",
+    "id": 11260
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "IŞIKLAR",
+    "id": 11261
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KARAPINAR",
+    "id": 11262
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KATRANLI",
+    "id": 11263
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KIRIKAN",
+    "id": 11264
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KOÇYAYLA",
+    "id": 11265
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KURUCA",
+    "id": 11266
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KÜLLÜ",
+    "id": 11267
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YUKARITEPECİK",
+    "id": 11268
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YEŞİLÖREN",
+    "id": 11269
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YUVAKLI",
+    "id": 11270
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "TURNAGÖL",
+    "id": 11271
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AYDINLIK",
+    "id": 11272
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÖKOĞLAN",
+    "id": 11273
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜLVEREN",
+    "id": 11274
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜNDAMI",
+    "id": 11275
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÜMÜŞLÜK",
+    "id": 11276
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "HAMZALAR",
+    "id": 11277
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AKDAĞ",
+    "id": 11278
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "AKPINAR",
+    "id": 11279
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "GÖZLÜCE",
+    "id": 11280
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "İNCESU",
+    "id": 11281
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "SUSUZ",
+    "id": 11282
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "VATAN",
+    "id": 11283
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "YÜCEPINAR",
+    "id": 11284
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "KAYABOĞAZ",
+    "id": 11285
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TEKMAN",
+    "MAHALLE": "ŞAKŞAK",
+    "id": 11286
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "BALLI",
+    "id": 11287
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇAYLICA",
+    "id": 11288
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "TATLISU",
+    "id": 11289
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YELLİTEPE",
+    "id": 11290
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "HAMİDİYE",
+    "id": 11291
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KALEBOYNU",
+    "id": 11292
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YAMANKAYA",
+    "id": 11293
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 11294
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "TORTUMKALE",
+    "id": 11295
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YUMAKLI",
+    "id": 11296
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇAMLICA",
+    "id": 11297
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KEMERKAYA",
+    "id": 11298
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 11299
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "AKSU",
+    "id": 11300
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "DORUKLU",
+    "id": 11301
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KAPIKAYA",
+    "id": 11302
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 11303
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ALAPINAR",
+    "id": 11304
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 11305
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇİVİLİKAYA",
+    "id": 11306
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "DEREKAPI",
+    "id": 11307
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ESENDURAK",
+    "id": 11308
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KIRMALI",
+    "id": 11309
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "MEYDANLAR",
+    "id": 11310
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "SERDARLI",
+    "id": 11311
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YAZYURDU",
+    "id": 11312
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "DİKMEN",
+    "id": 11313
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KONAK",
+    "id": 11314
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "TİPİLİ",
+    "id": 11315
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "AKBABA",
+    "id": 11316
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "CİHANLI",
+    "id": 11317
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "GÖKDERE",
+    "id": 11318
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ŞENYURT",
+    "id": 11319
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "AŞAĞI SERDARLI",
+    "id": 11320
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ARILI",
+    "id": 11321
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇAKILLI",
+    "id": 11322
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇATALDERE",
+    "id": 11323
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "İNCEDERE",
+    "id": 11324
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KALEDİBİ",
+    "id": 11325
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KİREÇLİ",
+    "id": 11326
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "DERİNPINAR",
+    "id": 11327
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KARLI",
+    "id": 11328
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "PEYNİRLİ",
+    "id": 11329
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "SUYATAĞI",
+    "id": 11330
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 11331
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "TAŞOLUK",
+    "id": 11332
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "UZUNKAVAK",
+    "id": 11333
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ZİYARETLİ",
+    "id": 11334
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 11335
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YAĞCILAR",
+    "id": 11336
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "AKTAŞ",
+    "id": 11337
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "ALPARSLAN",
+    "id": 11338
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "KAZANDERE",
+    "id": 11339
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "PEHLİVANLI",
+    "id": 11340
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "YUKARISİVRİ",
+    "id": 11341
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "BAĞBAŞI",
+    "id": 11342
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "BAHÇELİ",
+    "id": 11343
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "TORTUM",
+    "MAHALLE": "VİŞNELİ",
+    "id": 11344
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇAVUŞOĞLU",
+    "id": 11345
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "HALİLKAYA",
+    "id": 11346
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ILICA",
+    "id": 11347
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SELÇUKLU",
+    "id": 11348
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AKYAZI",
+    "id": 11349
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ALACA",
+    "id": 11350
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BAŞKENT",
+    "id": 11351
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇATAK",
+    "id": 11352
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KAPULU",
+    "id": 11353
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KIZILKALE",
+    "id": 11354
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KUMLUYAZI",
+    "id": 11355
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "OCAK",
+    "id": 11356
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÜÇKÖŞE",
+    "id": 11357
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇIKRIKLI",
+    "id": 11358
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "EMRECİK",
+    "id": 11359
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "GEZ KÖYÜOSB",
+    "id": 11360
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÖZBİLEN",
+    "id": 11361
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BAŞKURTDERE",
+    "id": 11362
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BİNGÖZE",
+    "id": 11363
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇAVDARLI",
+    "id": 11364
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "DAĞDAGÜL",
+    "id": 11365
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "DÜZTOPRAK",
+    "id": 11366
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "TINAZLI",
+    "id": 11367
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ADAÇAY",
+    "id": 11368
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KAVAKLIDERE",
+    "id": 11369
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KUZULUK",
+    "id": 11370
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÖZBEK",
+    "id": 11371
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SORKUNLU",
+    "id": 11372
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AĞÖREN",
+    "id": 11373
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BAŞÇAKMAK",
+    "id": 11374
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "EĞERTİ",
+    "id": 11375
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "TOPRAKKALE",
+    "id": 11376
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ATLIKONAK",
+    "id": 11377
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AYNALIKALE",
+    "id": 11378
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BEYPINARI",
+    "id": 11379
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SÖĞÜTLÜ (OVACIK)",
+    "id": 11380
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇİĞDEMLİ",
+    "id": 11381
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KARAKALE",
+    "id": 11382
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "RİZEKENT",
+    "id": 11383
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 11384
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "PAŞAYURDU",
+    "id": 11385
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "TEBRİZCİK",
+    "id": 11386
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AĞCAKENT",
+    "id": 11387
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AŞAĞICANÖREN",
+    "id": 11388
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ESKİPOLAT",
+    "id": 11389
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KABAKTEPE",
+    "id": 11390
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KAYAPA",
+    "id": 11391
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 11392
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AHIRCIK",
+    "id": 11393
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "BAŞOVACIK",
+    "id": 11394
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AKDAĞ",
+    "id": 11395
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "EŞKİNKAYA",
+    "id": 11396
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 11397
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KAHRAMANLAR",
+    "id": 11398
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "DEMİRGEÇİT",
+    "id": 11399
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "GELİNKAYA",
+    "id": 11400
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "GEYİK",
+    "id": 11401
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ALAYBEYİ",
+    "id": 11402
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "AŞAĞI YENİCE",
+    "id": 11403
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 11404
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KUZGUN",
+    "id": 11405
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SALTUKLU",
+    "id": 11406
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SARIYAYLA",
+    "id": 11407
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "KUŞÇU",
+    "id": 11408
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ÖMERTEPE",
+    "id": 11409
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SAKALIKESİK",
+    "id": 11410
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "ELMALI",
+    "id": 11411
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "SIRLI",
+    "id": 11412
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "TAŞPINAR",
+    "id": 11413
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "YEŞİLVADİ",
+    "id": 11414
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "YARIMCA",
+    "id": 11415
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "YONCALIK",
+    "id": 11416
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "AZİZİYE",
+    "MAHALLE": "YUKARICANÖREN",
+    "id": 11417
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "DADAŞKÖY",
+    "id": 11418
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "GÜNGÖRMEZ",
+    "id": 11419
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "SÖĞÜTYANI",
+    "id": 11420
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YOLGEÇTİ",
+    "id": 11421
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ALTINTEPE",
+    "id": 11422
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "DUMLU",
+    "id": 11423
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KÖSE MEHMET",
+    "id": 11424
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "SOĞUCAK",
+    "id": 11425
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YAZI PINARI",
+    "id": 11426
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "AKTOPRAK",
+    "id": 11427
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "GÜLPINAR",
+    "id": 11428
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KARAGÖBEK",
+    "id": 11429
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 11430
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "MÜLK",
+    "id": 11431
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "İBRAHİM HAKKI",
+    "id": 11432
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ŞÜKRÜPAŞA",
+    "id": 11433
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YERLİ SU",
+    "id": 11434
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 11435
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 11436
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "MURATGELDİ",
+    "id": 11437
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ORTA DÜZÜ",
+    "id": 11438
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "GÖKÇEYAMAÇ",
+    "id": 11439
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KIRMIZITAŞ",
+    "id": 11440
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "MURATPAŞA",
+    "id": 11441
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ÖMER NASUHİ BİLMEN",
+    "id": 11442
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "DEĞİRMENLER",
+    "id": 11443
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KÖŞKKÖY",
+    "id": 11444
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "LALAPAŞA",
+    "id": 11445
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ÇAYIRTEPE",
+    "id": 11446
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "UZUNYAYLA",
+    "id": 11447
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ALTINBULAK",
+    "id": 11448
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ÇAYIRCA",
+    "id": 11449
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KURTULUŞ",
+    "id": 11450
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 11451
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "AKDAĞ",
+    "id": 11452
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 11453
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ARIBAHÇE",
+    "id": 11454
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "GÜZELOVA",
+    "id": 11455
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KAZIM KARABEKİR PAŞA",
+    "id": 11456
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "KIRKGÖZE",
+    "id": 11457
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "RABİA ANA",
+    "id": 11458
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 11459
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "ŞENYURT",
+    "id": 11460
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "YAKUTİYE",
+    "MAHALLE": "UMUDUM",
+    "id": 11461
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "ALİ BEZİRGAN",
+    "id": 11462
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "MÜFTÜ SOLAKZADE",
+    "id": 11463
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 11464
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "TAŞLIGÜNEY",
+    "id": 11465
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "SIĞIRLI",
+    "id": 11466
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "TOPARLAK",
+    "id": 11467
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "HANCIĞAZ",
+    "id": 11468
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "KONAKLI",
+    "id": 11469
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "YIKILGAN",
+    "id": 11470
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "ABDURRAHMAN GAZİ",
+    "id": 11471
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "NENE HATUN",
+    "id": 11472
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "AZİZİYE",
+    "id": 11473
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "ÇEPERLİ",
+    "id": 11474
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "GÜZELYURT",
+    "id": 11475
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "HÜSEYİN AVNİ ULAŞ",
+    "id": 11476
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "TEKKEDERESİ",
+    "id": 11477
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 11478
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "UZUN AHMET",
+    "id": 11479
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "YAĞMURCUK",
+    "id": 11480
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "BÖREKLİ",
+    "id": 11481
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 11482
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "GÜLLÜ",
+    "id": 11483
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "DEREBOĞAZI",
+    "id": 11484
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "TEPEKÖY",
+    "id": 11485
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "YUKARIYENİCE",
+    "id": 11486
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "PALANDÖKEN",
+    "MAHALLE": "KÜMBET",
+    "id": 11487
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "SEYİTEFENDİ",
+    "id": 11488
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 11489
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ERİKLİ",
+    "id": 11490
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 11491
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ULUBAĞ",
+    "id": 11492
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "MERKEZ",
+    "id": 11493
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ALTINÇANAK",
+    "id": 11494
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "DİKYAR",
+    "id": 11495
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "KİRAZLI",
+    "id": 11496
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ÇAMLIYAMAÇ",
+    "id": 11497
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "BALIKLI",
+    "id": 11498
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "CÖMERTLER",
+    "id": 11499
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "YAYLA",
+    "id": 11500
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 11501
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "UZUNDERE",
+    "id": 11502
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "CEVİZLİ",
+    "id": 11503
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "SAPACA",
+    "id": 11504
+  },
+  {
+    "İL": "ERZURUM",
+    "İLÇE": "UZUNDERE",
+    "MAHALLE": "MURATEFENDİ",
+    "id": 11505
+  }
+]

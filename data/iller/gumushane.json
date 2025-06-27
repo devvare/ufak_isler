@@ -1,0 +1,458 @@
+[
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "ERENKAYA",
+    "id": 13031
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "BİLGİLİ",
+    "id": 13032
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "KARACA",
+    "id": 13033
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "ŞEHİT HAKAN",
+    "id": 13034
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "TEKKE",
+    "id": 13035
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "YEŞİLBÜK, YEŞİLYURT",
+    "id": 13036
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "YEŞİLBÜK, BEYDERE",
+    "id": 13037
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "YEŞİLBÜK, YEŞİLKENT",
+    "id": 13038
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "MERTEKLİ",
+    "id": 13039
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "FATİH",
+    "id": 13040
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "YEŞİLBÜK, KONAKLI",
+    "id": 13041
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "ÖRENKALE",
+    "id": 13042
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "ŞİRAN",
+    "MAHALLE": "YEŞİLBÜK, AKYAYLA",
+    "id": 13043
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 13044
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "BÜYÜKCAMİ",
+    "id": 13045
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "DEREDOLU, HÜRRİYET",
+    "id": 13046
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ÜNLÜPINAR, FATİH",
+    "id": 13047
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 13048
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "DEREDOLU, CUMHURİYET",
+    "id": 13049
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13050
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ÖBEKTAŞ, FATİH",
+    "id": 13051
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ÖBEKTAŞ, HALKEVİ",
+    "id": 13052
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 13053
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "GÜMÜŞGÖZE, ÖZYURT",
+    "id": 13054
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ATATÜRK",
+    "id": 13055
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "İNÖNÜ",
+    "id": 13056
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "KARAÇAYIR",
+    "id": 13057
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "SÖĞÜTLÜ, MERKEZ",
+    "id": 13058
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ÖBEKTAŞ, ESENTEPE",
+    "id": 13059
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "ÜNLÜPINAR, BÜYÜKCAMİ",
+    "id": 13060
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "GÜMÜŞGÖZE, FATİH",
+    "id": 13061
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "GÜMÜŞGÖZE, GÖZTEPE",
+    "id": 13062
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "KÜÇÜKCAMİ",
+    "id": 13063
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KELKİT",
+    "MAHALLE": "DEREDOLU, MAHMATLI",
+    "id": 13064
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "ÖZKÜRTÜN, SÜME",
+    "id": 13065
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "AŞAĞI",
+    "id": 13066
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "KÖYİÇİ",
+    "id": 13067
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "ÖZKÜRTÜN, CAYRA",
+    "id": 13068
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "MELİKLİ",
+    "id": 13069
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "ORTAKÖY",
+    "id": 13070
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "ÖZKÜRTÜN, KARAÇUKUR",
+    "id": 13071
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "YUKARI ULUKÖY",
+    "id": 13072
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÜRTÜN",
+    "MAHALLE": "CAMİ YANI",
+    "id": 13073
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, FATİH",
+    "id": 13074
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, OSMAN GAZİ",
+    "id": 13075
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 13076
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 13077
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, ESENTEPE",
+    "id": 13078
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HASANBEY",
+    "id": 13079
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 13080
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CANCA",
+    "id": 13081
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAER",
+    "id": 13082
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKÇAKALE",
+    "id": 13083
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESKİBAĞLAR",
+    "id": 13084
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 13085
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 13086
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, EKİNCİLER",
+    "id": 13087
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, MEZİRE",
+    "id": 13088
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 13089
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZCAN",
+    "id": 13090
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIEMİN",
+    "id": 13091
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OLTANBEY",
+    "id": 13092
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARZULARKABAKÖY, GAZİLER",
+    "id": 13093
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÖSE",
+    "MAHALLE": "FATİH",
+    "id": 13094
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÖSE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 13095
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÖSE",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 13096
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÖSE",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 13097
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "KÖSE",
+    "MAHALLE": "YENİ",
+    "id": 13098
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "ÇAMLICA",
+    "id": 13099
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "TUĞRULBEY",
+    "id": 13100
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "BAHÇECİK",
+    "id": 13101
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "KALEDİBİ",
+    "id": 13102
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "SOĞUKSU",
+    "id": 13103
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "MERKEZ",
+    "id": 13104
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "TUFANİYE",
+    "id": 13105
+  },
+  {
+    "İL": "GÜMÜŞHANE",
+    "İLÇE": "TORUL",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 13106
+  }
+]

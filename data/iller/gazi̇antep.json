@@ -1,0 +1,4706 @@
+[
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "HACİ ALİ ÖZTÜRK",
+    "id": 12047
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KALAYCIK",
+    "id": 12048
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YENİ",
+    "id": 12049
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YENİCELİ",
+    "id": 12050
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ALTINÜZÜM",
+    "id": 12051
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BURUNSUZLAR",
+    "id": 12052
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÖRTÜLÜ",
+    "id": 12053
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YAĞIZLAR",
+    "id": 12054
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ESENLER",
+    "id": 12055
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KALE",
+    "id": 12056
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "SULUMAĞARA",
+    "id": 12057
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "TÜRKBAHÇE",
+    "id": 12058
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ZİNCİRLİ",
+    "id": 12059
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "AYDINLIK",
+    "id": 12060
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BEYLER",
+    "id": 12061
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KAYABAŞI",
+    "id": 12062
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KAZIKLI",
+    "id": 12063
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KOÇCAĞIZ",
+    "id": 12064
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KUŞÇUMUSTAFA",
+    "id": 12065
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "AĞABEY",
+    "id": 12066
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KÖKLÜ",
+    "id": 12067
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "AKINYOLU",
+    "id": 12068
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BURHANİYE",
+    "id": 12069
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "GÖLTEPE",
+    "id": 12070
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KARAPINAR",
+    "id": 12071
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KOZDERE",
+    "id": 12072
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "TANDIR",
+    "id": 12073
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YENİKÖY",
+    "id": 12074
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YESEMEK",
+    "id": 12075
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 12076
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "CEVDETPAŞA",
+    "id": 12077
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KABAKLAR",
+    "id": 12078
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ORTAKLI",
+    "id": 12079
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "SERİNEVLER",
+    "id": 12080
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ŞERİKANLI",
+    "id": 12081
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 12082
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "DEĞİRMENCİK",
+    "id": 12083
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "HASANLÖK",
+    "id": 12084
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ŞAHMARAN",
+    "id": 12085
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YELLİBURUN",
+    "id": 12086
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YOLBAŞI",
+    "id": 12087
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "AĞALAROBASI",
+    "id": 12088
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ARPALI",
+    "id": 12089
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 12090
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ERENLER",
+    "id": 12091
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 12092
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "İDİLLİ",
+    "id": 12093
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KARACAÖREN",
+    "id": 12094
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÇUBUK",
+    "id": 12095
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "FEVZİPAŞA",
+    "id": 12096
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "TELLİ",
+    "id": 12097
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ATATÜRK",
+    "id": 12098
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 12099
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÇERÇİLİ",
+    "id": 12100
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 12101
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 12102
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "GÜLLÜHÜYÜK",
+    "id": 12103
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "PINARBAŞI",
+    "id": 12104
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ALACA",
+    "id": 12105
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 12106
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KIRIKÇALI",
+    "id": 12107
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "YUKARIBİLENLER",
+    "id": 12108
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "BAYRAKTEPE",
+    "id": 12109
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 12110
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÇINARLI",
+    "id": 12111
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ÇOLAKLAR",
+    "id": 12112
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "DERVİŞPAŞA",
+    "id": 12113
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "ELBİSTANHÜYÜĞÜ",
+    "id": 12114
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "HANAĞZI",
+    "id": 12115
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KARAKAYA",
+    "id": 12116
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "İSLAHİYE",
+    "MAHALLE": "KARAPOLAT",
+    "id": 12117
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "AKBUDAK",
+    "id": 12118
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "MEHMET GÖKÇEK",
+    "id": 12119
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "SARITEPE",
+    "id": 12120
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YAYLACIK",
+    "id": 12121
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YENİ ALTINTAŞ",
+    "id": 12122
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "AŞAĞIYUFKALI",
+    "id": 12123
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ESKİALTINTAŞ",
+    "id": 12124
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 12125
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KALE",
+    "id": 12126
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "GÜMÜŞPINAR",
+    "id": 12127
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YOLVEREN",
+    "id": 12128
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "BEYDİLİ",
+    "id": 12129
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "EMİRHAYDAR",
+    "id": 12130
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "FAKILI",
+    "id": 12131
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 12132
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "HİSAR",
+    "id": 12133
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ŞERİF PERİ",
+    "id": 12134
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 12135
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "AKKOÇ",
+    "id": 12136
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "BAĞLICA",
+    "id": 12137
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KARACAÖREN",
+    "id": 12138
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KARABABA",
+    "id": 12139
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "TARLABAŞI",
+    "id": 12140
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ALTINPINAR",
+    "id": 12141
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "BAŞPINAR",
+    "id": 12142
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "GÜZEY",
+    "id": 12143
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "SARIKAYA",
+    "id": 12144
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "TAŞDEĞİRMEN",
+    "id": 12145
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ÇİFTEKOZ",
+    "id": 12146
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "DAĞDANCIK",
+    "id": 12147
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "GELİNBUĞDAY",
+    "id": 12148
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "GÖKÇEPAYAM",
+    "id": 12149
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KÜÇÜKLÜ",
+    "id": 12150
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YUKARIYUFKALI",
+    "id": 12151
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "FISTIKLIDAĞ",
+    "id": 12152
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 12153
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KÖKLÜCE",
+    "id": 12154
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "NURETTİN",
+    "id": 12155
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 12156
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "YUKARIKARAVAİZ",
+    "id": 12157
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ZİYARET",
+    "id": 12158
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ELİF",
+    "id": 12159
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "ERENBAĞ",
+    "id": 12160
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 12161
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "HASANOĞLU",
+    "id": 12162
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "KÖRHACIOBASI",
+    "id": 12163
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "AŞAĞIKARAVAİZ",
+    "id": 12164
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "DOĞAN",
+    "id": 12165
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ARABAN",
+    "MAHALLE": "MURATLI",
+    "id": 12166
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BİNEVLER",
+    "id": 12167
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BURÇ ESENTEPE",
+    "id": 12168
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇEVRELİ",
+    "id": 12169
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇÖREKLİK",
+    "id": 12170
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GERCİĞİN",
+    "id": 12171
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KEPENEK",
+    "id": 12172
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KÜÇÜKKIZILHİSAR",
+    "id": 12173
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "NARLICA",
+    "id": 12174
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SARIKAYA",
+    "id": 12175
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEY",
+    "id": 12176
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CENGİZ TOPEL",
+    "id": 12177
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "HACIARSLAN",
+    "id": 12178
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAVŞAK",
+    "id": 12179
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "MAVİKENT",
+    "id": 12180
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÖĞRETMENEVLERİ",
+    "id": 12181
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "23 NİSAN",
+    "id": 12182
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "60.YIL",
+    "id": 12183
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKDERE",
+    "id": 12184
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 12185
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEKİRBEY",
+    "id": 12186
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "FİDANLIK",
+    "id": 12187
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GEYLANİ",
+    "id": 12188
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 12189
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KABARCIK",
+    "id": 12190
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KARAÇOMAK",
+    "id": 12191
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ORTAKLAR",
+    "id": 12192
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SAVCILI",
+    "id": 12193
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ŞAHVELİ",
+    "id": 12194
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TÖRELİ",
+    "id": 12195
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TÜRKTEPE",
+    "id": 12196
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "25 ARALIK",
+    "id": 12197
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEYAZLAR",
+    "id": 12198
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEYDİLLİ",
+    "id": 12199
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CEVİZLİ",
+    "id": 12200
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇAĞDAŞ",
+    "id": 12201
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇAMLICA",
+    "id": 12202
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GENEYİK",
+    "id": 12203
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "HACIKÖY",
+    "id": 12204
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "İSTİKLAL",
+    "id": 12205
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KALEBOYNU",
+    "id": 12206
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 12207
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SARIBAŞAK",
+    "id": 12208
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SARISALKIM",
+    "id": 12209
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SARIT",
+    "id": 12210
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SERİNEVLER",
+    "id": 12211
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TÜRKÖZÜ",
+    "id": 12212
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "UĞURTEPE",
+    "id": 12213
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 12214
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DAMLACIK",
+    "id": 12215
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DURANTAŞ",
+    "id": 12216
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKPINAR",
+    "id": 12217
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ALAYBEY",
+    "id": 12218
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 12219
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEŞKUYU",
+    "id": 12220
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CEMAL GÜRSEL",
+    "id": 12221
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BURÇ KARAKUYU",
+    "id": 12222
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CABİ",
+    "id": 12223
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DÜZTEPE",
+    "id": 12224
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ALİBABA",
+    "id": 12225
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BOSTANCI",
+    "id": 12226
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BOYACI",
+    "id": 12227
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DENİZ",
+    "id": 12228
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜLPINAR",
+    "id": 12229
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "EYÜPOĞLU",
+    "id": 12230
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAPÇAĞIZ",
+    "id": 12231
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KARAYILAN",
+    "id": 12232
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAZIKLI",
+    "id": 12233
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KILINÇOĞLU",
+    "id": 12234
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ŞAHİNTEPE",
+    "id": 12235
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BOZOKLAR",
+    "id": 12236
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "FIRAT",
+    "id": 12237
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜZELVADİ",
+    "id": 12238
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KOZANLI",
+    "id": 12239
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "MUHACİROSMAN",
+    "id": 12240
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ONUR",
+    "id": 12241
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TIŞLAKİ",
+    "id": 12242
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TURAN EMEKSİZ",
+    "id": 12243
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YEDİTEPE",
+    "id": 12244
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YOĞUNTAŞ",
+    "id": 12245
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "75.YIL",
+    "id": 12246
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BARAK",
+    "id": 12247
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DEREDÜZÜ",
+    "id": 12248
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "EKİNLİ",
+    "id": 12249
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "İBN-İ SİNA",
+    "id": 12250
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KANALICI",
+    "id": 12251
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KARATARLA",
+    "id": 12252
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KOLEJTEPE",
+    "id": 12253
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜMÜŞTEKİN",
+    "id": 12254
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KURBANBABA",
+    "id": 12255
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "PERİLİKAYA",
+    "id": 12256
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ŞEKEROĞLU",
+    "id": 12257
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TEKSTİLKENT",
+    "id": 12258
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YUKARIBAYIR",
+    "id": 12259
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKBAYIR",
+    "id": 12260
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ALLEBEN",
+    "id": 12261
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AYDINBABA",
+    "id": 12262
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BAYRAMLI",
+    "id": 12263
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DOKUR",
+    "id": 12264
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜNEYKENT",
+    "id": 12265
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KARATAŞ",
+    "id": 12266
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KUŞÇU",
+    "id": 12267
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SERİNCE",
+    "id": 12268
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÜNALDI",
+    "id": 12269
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YENİKÖY",
+    "id": 12270
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 12271
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YIĞMATEPE",
+    "id": 12272
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BOSTANCIK",
+    "id": 12273
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇAPALI",
+    "id": 12274
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "HACIKÖPRÜ",
+    "id": 12275
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KARAGÖZ",
+    "id": 12276
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KERER",
+    "id": 12277
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KOZLUCA",
+    "id": 12278
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "MORCALI",
+    "id": 12279
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ETİLER",
+    "id": 12280
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SULTAN SELİM",
+    "id": 12281
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SUYABATMAZ",
+    "id": 12282
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "VATAN",
+    "id": 12283
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 12284
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAVAKLIK",
+    "id": 12285
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAYAKENT",
+    "id": 12286
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KUMRUHAMURKESEN",
+    "id": 12287
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KÜLECİK",
+    "id": 12288
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KÜRÜM",
+    "id": 12289
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "UFACIK",
+    "id": 12290
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BARIŞ",
+    "id": 12291
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BELENKÖY",
+    "id": 12292
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 12293
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 12294
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GÜNEŞ",
+    "id": 12295
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "OZANLI",
+    "id": 12296
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ULAŞ",
+    "id": 12297
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÜÇOKLAR",
+    "id": 12298
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 12299
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKKENT",
+    "id": 12300
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKYAZI",
+    "id": 12301
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKYOL",
+    "id": 12302
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEKİŞLİ",
+    "id": 12303
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KIBRIS",
+    "id": 12304
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SEFERPAŞA",
+    "id": 12305
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ŞAHİNBEY MÜLK",
+    "id": 12306
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ŞENYURT",
+    "id": 12307
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 12308
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "HOŞGÖR",
+    "id": 12309
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "OCAKLAR",
+    "id": 12310
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAMAÇTEPE",
+    "id": 12311
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAYCI",
+    "id": 12312
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAYLACIK",
+    "id": 12313
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "AKBULUT",
+    "id": 12314
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ALMALI",
+    "id": 12315
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEŞTEPE",
+    "id": 12316
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BOZCA",
+    "id": 12317
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CEBELER",
+    "id": 12318
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇAMTEPE",
+    "id": 12319
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "DOĞANCA",
+    "id": 12320
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ESENTEPE",
+    "id": 12321
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "GAZİTEPE",
+    "id": 12322
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KİLLİK",
+    "id": 12323
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "NURİPAZARBAŞI",
+    "id": 12324
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "OSMANLI",
+    "id": 12325
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "PANCARLI",
+    "id": 12326
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SAÇAKLI",
+    "id": 12327
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SIRASÖĞÜT",
+    "id": 12328
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TİYEKLİ",
+    "id": 12329
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "TÜRKMENLER",
+    "id": 12330
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ABDÜLHAMİD HAN",
+    "id": 12331
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BEYBAHÇE",
+    "id": 12332
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "BÜLBÜLZADE",
+    "id": 12333
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 12334
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "ÇUBUKDİKEN",
+    "id": 12335
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "İNÖNÜ",
+    "id": 12336
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KAHVELİPINAR",
+    "id": 12337
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KALE",
+    "id": 12338
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAĞDÖVER",
+    "id": 12339
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "KONAK",
+    "id": 12340
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "MALAZGİRT",
+    "id": 12341
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "NARLITEPE",
+    "id": 12342
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "SAKARYA",
+    "id": 12343
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAVUZLAR",
+    "id": 12344
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAZIBAĞI",
+    "id": 12345
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 12346
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞAHİNBEY",
+    "MAHALLE": "YAZICIK",
+    "id": 12347
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "AKBAYIR",
+    "id": 12348
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BALLIK",
+    "id": 12349
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KUZUYATAĞI",
+    "id": 12350
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "SARIBUĞDAY",
+    "id": 12351
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "YUKARIKEKLİKTEPE",
+    "id": 12352
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KARABEY",
+    "id": 12353
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KÜÇÜKKARAKUYU",
+    "id": 12354
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BÜLBÜL",
+    "id": 12355
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ÇİLTOPRAK",
+    "id": 12356
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ÇİMENLİ",
+    "id": 12357
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KEŞROBASI",
+    "id": 12358
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "SULTAN SELİM",
+    "id": 12359
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "AŞAĞIHÖÇÜKLÜ",
+    "id": 12360
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 12361
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ILICAK",
+    "id": 12362
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "YARIMCA",
+    "id": 12363
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "AŞAĞIKEKLİKTEPE",
+    "id": 12364
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "HAVUZ",
+    "id": 12365
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ÖRENLİ",
+    "id": 12366
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BAKIRCA",
+    "id": 12367
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BÜYÜKKARAKUYU",
+    "id": 12368
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "DÜZCE",
+    "id": 12369
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KARAHAN",
+    "id": 12370
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ÜÇGÖL",
+    "id": 12371
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "SÜLEYMANOBASI",
+    "id": 12372
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "AŞAĞIKAYABAŞI",
+    "id": 12373
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "CİNGİFE",
+    "id": 12374
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "GÜLPINAR",
+    "id": 12375
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "SARAYMAĞARA",
+    "id": 12376
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "HACIMALLI",
+    "id": 12377
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KARAHÜSEYİNLİ",
+    "id": 12378
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "TOKAÇLI",
+    "id": 12379
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "YUKARIYENİKÖY",
+    "id": 12380
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BEĞENDİK",
+    "id": 12381
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "YÖRELİ",
+    "id": 12382
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "BAĞTEPE",
+    "id": 12383
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "GÖÇMEZ",
+    "id": 12384
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "KASABA",
+    "id": 12385
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "SARILAR",
+    "id": 12386
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "DEĞİRMİTAŞ",
+    "id": 12387
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 12388
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "YENİYURT",
+    "id": 12389
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 12390
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "YAVUZELİ",
+    "MAHALLE": "ŞENLİKÇE",
+    "id": 12391
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BOZALİOĞLU",
+    "id": 12392
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ALAHACI",
+    "id": 12393
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "AŞAĞIBAYINDIR",
+    "id": 12394
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ÇAKMAKTEPE",
+    "id": 12395
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BOYLUCA",
+    "id": 12396
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "AKÇAKENT",
+    "id": 12397
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BAHÇELİ",
+    "id": 12398
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "AKKUYU",
+    "id": 12399
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ATATÜRK",
+    "id": 12400
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ALTINDAĞ",
+    "id": 12401
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MERCANLI",
+    "id": 12402
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SALKIM",
+    "id": 12403
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SARAY",
+    "id": 12404
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BELKIS (MERKEZ)",
+    "id": 12405
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DERNEK",
+    "id": 12406
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 12407
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ADAKLI",
+    "id": 12408
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BAĞLICA",
+    "id": 12409
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BELKIS",
+    "id": 12410
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "CUMHURİYET",
+    "id": 12411
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜMÜŞGÜN",
+    "id": 12412
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "AŞAĞIÇARDAK",
+    "id": 12413
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "BALLI",
+    "id": 12414
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜDER",
+    "id": 12415
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜNALTI",
+    "id": 12416
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KAYALAR",
+    "id": 12417
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MAĞARACIK",
+    "id": 12418
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "NİZİP OSB",
+    "id": 12419
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SARIKOÇ",
+    "id": 12420
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TAHTANİ",
+    "id": 12421
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TURLU",
+    "id": 12422
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YOLÇATI",
+    "id": 12423
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DAZHÜYÜK",
+    "id": 12424
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KALEKÖY",
+    "id": 12425
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KUMLA",
+    "id": 12426
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 12427
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "PAZAR CAMİİ",
+    "id": 12428
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SEKİLİ",
+    "id": 12429
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DAYIDAĞI",
+    "id": 12430
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "FATİH SULTAN",
+    "id": 12431
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "FEVZİ PAŞA",
+    "id": 12432
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜLKAYA",
+    "id": 12433
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KOCATEPE",
+    "id": 12434
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ÖZYURT",
+    "id": 12435
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TATLICAK",
+    "id": 12436
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TURNALI",
+    "id": 12437
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ULUYATIR",
+    "id": 12438
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KIZILCAKENT",
+    "id": 12439
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "NAHIRTEPE",
+    "id": 12440
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TANIR",
+    "id": 12441
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "İNTEPE",
+    "id": 12442
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TOYDEMİR",
+    "id": 12443
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YAĞMURALAN",
+    "id": 12444
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YARIMTEPE",
+    "id": 12445
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 12446
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TOSUNLU",
+    "id": 12447
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "TULUKTAŞ",
+    "id": 12448
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YAĞCILAR",
+    "id": 12449
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YENİYAZI",
+    "id": 12450
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DURAKLI",
+    "id": 12451
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DÜZBAYIR",
+    "id": 12452
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "FIRAT",
+    "id": 12453
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KAMIŞLI",
+    "id": 12454
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KARABURÇ",
+    "id": 12455
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MİHRAP",
+    "id": 12456
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SULTAN ABDULHAMİT",
+    "id": 12457
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YUKARIBAYINDIR",
+    "id": 12458
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 12459
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ÇATALCA",
+    "id": 12460
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 12461
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KEKLİK",
+    "id": 12462
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MEVLANA",
+    "id": 12463
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SAMANLI",
+    "id": 12464
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ŞAHİNBEY",
+    "id": 12465
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "EKİNCİ",
+    "id": 12466
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜRBAŞAK",
+    "id": 12467
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "HAZIMOĞLU",
+    "id": 12468
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 12469
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KIRAÇGÜLÜ",
+    "id": 12470
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KIZILİN",
+    "id": 12471
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KÖSELER",
+    "id": 12472
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MENDERES",
+    "id": 12473
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SAMANDÖKEN",
+    "id": 12474
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DOĞRULAR",
+    "id": 12475
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "DUTLU",
+    "id": 12476
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "FEVKANİ",
+    "id": 12477
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KIBRIS",
+    "id": 12478
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MEHMETOBASI",
+    "id": 12479
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 12480
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ESKİKONAK",
+    "id": 12481
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GEVENCE",
+    "id": 12482
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 12483
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "HANCAĞIZ",
+    "id": 12484
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KESİKTAŞ",
+    "id": 12485
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KURUCAHÜYÜK",
+    "id": 12486
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 12487
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "HAFIZPAŞA",
+    "id": 12488
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KIRATLI",
+    "id": 12489
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SAHA",
+    "id": 12490
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "SUBOYU",
+    "id": 12491
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YENİYAPAN",
+    "id": 12492
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "GAZİLER",
+    "id": 12493
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "KORUCAK",
+    "id": 12494
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 12495
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ERENKÖY",
+    "id": 12496
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "EYÜP SULTAN",
+    "id": 12497
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "İKİZCE",
+    "id": 12498
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "İSTASYON",
+    "id": 12499
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "İSTİKLAL",
+    "id": 12500
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "ŞIHLAR",
+    "id": 12501
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NİZİP",
+    "MAHALLE": "YUKARIÇARDAK",
+    "id": 12502
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "BÜYÜKKARACAVİRAN",
+    "id": 12503
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "HÖTOĞLU",
+    "id": 12504
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KARADİBEK",
+    "id": 12505
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 12506
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÜÇDAMLAR",
+    "id": 12507
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "AŞAĞI YENİYAPAN",
+    "id": 12508
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "BULDUK",
+    "id": 12509
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KABACAAĞAÇ",
+    "id": 12510
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KOÇAKLAR",
+    "id": 12511
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 12512
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 12513
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "AKÇAMEZRA",
+    "id": 12514
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "BELÖREN",
+    "id": 12515
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇATALÇAM",
+    "id": 12516
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇATALSU",
+    "id": 12517
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "HACAR",
+    "id": 12518
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 12519
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KÖRKÜN",
+    "id": 12520
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "SEVİNDİ",
+    "id": 12521
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "TAŞYAZI",
+    "id": 12522
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "BEŞDELİ",
+    "id": 12523
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 12524
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "SERGİLİ",
+    "id": 12525
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ŞAHİNBEY",
+    "id": 12526
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DİBECİK",
+    "id": 12527
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ERMİŞ",
+    "id": 12528
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "FATİH",
+    "id": 12529
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GÜVEÇLİ",
+    "id": 12530
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GÜZELCE",
+    "id": 12531
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "İKİZKUYU",
+    "id": 12532
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "TÜZEL",
+    "id": 12533
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YALNIZBAĞ",
+    "id": 12534
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ALTINYURT",
+    "id": 12535
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DERO KÜÇÜKKARACAVİRAN",
+    "id": 12536
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DİREKLİ",
+    "id": 12537
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "İNCEYOL",
+    "id": 12538
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "İNKILAP",
+    "id": 12539
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KAŞYOLU",
+    "id": 12540
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KAYALIPINAR",
+    "id": 12541
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "TINAZDERE",
+    "id": 12542
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YAZILI",
+    "id": 12543
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "AMBARCIK",
+    "id": 12544
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DİKMETAŞ",
+    "id": 12545
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GÜLLÜK",
+    "id": 12546
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "HATUNLU",
+    "id": 12547
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KAYACIK",
+    "id": 12548
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "TAŞLI",
+    "id": 12549
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YAKACIK",
+    "id": 12550
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ASMACIK",
+    "id": 12551
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KARAMAN",
+    "id": 12552
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KARATAŞ",
+    "id": 12553
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KAVUNLUK",
+    "id": 12554
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KEÇİLİ",
+    "id": 12555
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "TAŞÇANAK",
+    "id": 12556
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇAYBAŞI OSB",
+    "id": 12557
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DEVEHÜYÜĞÜ",
+    "id": 12558
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DOĞANPINAR",
+    "id": 12559
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DURUKÖY",
+    "id": 12560
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GÜRSU",
+    "id": 12561
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "OĞUZLAR",
+    "id": 12562
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ARSLANLI",
+    "id": 12563
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ŞIH KÜÇÜKKARACAVİRAN",
+    "id": 12564
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ULAŞLI",
+    "id": 12565
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 12566
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 12567
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KARABURUN",
+    "id": 12568
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KILAVUZ",
+    "id": 12569
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÜÇKUBBE",
+    "id": 12570
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DOKUZYOL",
+    "id": 12571
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GEDİK",
+    "id": 12572
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KEÇİKUYUSU",
+    "id": 12573
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 12574
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DEMİRKONAK",
+    "id": 12575
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "DUTLUCA",
+    "id": 12576
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 12577
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YENİ CUMHURİYET",
+    "id": 12578
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 12579
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "GEBE",
+    "id": 12580
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 12581
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "YUKARIGÜNEYSE",
+    "id": 12582
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ACER",
+    "id": 12583
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KOVANLI",
+    "id": 12584
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "AŞAĞI GÜNEYSE",
+    "id": 12585
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "AYDINKAYA",
+    "id": 12586
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇAVUŞBAŞI",
+    "id": 12587
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "ÇAYBEYİ",
+    "id": 12588
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "EKİNVEREN",
+    "id": 12589
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KERSENTAŞ",
+    "id": 12590
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "KURUÇAY",
+    "id": 12591
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "SAZGIN",
+    "id": 12592
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "SUBAŞI",
+    "id": 12593
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "OĞUZELİ",
+    "MAHALLE": "UĞUROVA",
+    "id": 12594
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ATAKÖY",
+    "id": 12595
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "EMİRLER",
+    "id": 12596
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "HAMİDİYE",
+    "id": 12597
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KIRKPINAR",
+    "id": 12598
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KIRIŞKAL",
+    "id": 12599
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KURUDERE",
+    "id": 12600
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ALTINOVA",
+    "id": 12601
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ATMALI",
+    "id": 12602
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "HİSAR",
+    "id": 12603
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "İNCEGEDİK",
+    "id": 12604
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KÖMÜRLER",
+    "id": 12605
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "MESTHÜYÜK",
+    "id": 12606
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ALPASLAN TÜRKEŞ",
+    "id": 12607
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KUZOLUK",
+    "id": 12608
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "TORUNLAR",
+    "id": 12609
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "FATİH",
+    "id": 12610
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "TERKEN",
+    "id": 12611
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "TÜLLÜCE",
+    "id": 12612
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ASLANLI",
+    "id": 12613
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ATATÜRK",
+    "id": 12614
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "BADEMLİ",
+    "id": 12615
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "BAŞPINAR",
+    "id": 12616
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "OLUCAK",
+    "id": 12617
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "NOGAYLAR",
+    "id": 12618
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KARTAL",
+    "id": 12619
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "SAYBURUN",
+    "id": 12620
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ESENYURT",
+    "id": 12621
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "İÇERİSU",
+    "id": 12622
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "İNCİRLİ",
+    "id": 12623
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ÇAKMAK",
+    "id": 12624
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "İKİZKUYU",
+    "id": 12625
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "ŞATIRHÜYÜK",
+    "id": 12626
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 12627
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "BALIKALAN",
+    "id": 12628
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "NAİMLER",
+    "id": 12629
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "TANDIRLI",
+    "id": 12630
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "BELPINAR",
+    "id": 12631
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "GEDİKLİ",
+    "id": 12632
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "YAVUZSELİM",
+    "id": 12633
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "YAYLACIK",
+    "id": 12634
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "YENİ",
+    "id": 12635
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "DURMUŞLAR",
+    "id": 12636
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "GÖZLÜHÜYÜK",
+    "id": 12637
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "KARABURÇLU",
+    "id": 12638
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 12639
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "SAKÇAGÖZÜ",
+    "id": 12640
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "DEMİRLER",
+    "id": 12641
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "NURDAĞI",
+    "MAHALLE": "GÖKÇEDERE",
+    "id": 12642
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ERENYOLU",
+    "id": 12643
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "SUBAĞI",
+    "id": 12644
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YAŞAR",
+    "id": 12645
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ARIKDERE",
+    "id": 12646
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ELİFOĞLU",
+    "id": 12647
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "SAVAŞ",
+    "id": 12648
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "LOJMANLAR",
+    "id": 12649
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YAZIR",
+    "id": 12650
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KARACURUN",
+    "id": 12651
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "TÜRKYURDU",
+    "id": 12652
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ALAÇALI",
+    "id": 12653
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "AYYILDIZ",
+    "id": 12654
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 12655
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "AKÇAKÖY",
+    "id": 12656
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YEŞERTİ",
+    "id": 12657
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "BALABAN",
+    "id": 12658
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ÇARŞI",
+    "id": 12659
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ECELER",
+    "id": 12660
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KARANFİL",
+    "id": 12661
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KEPİRLER",
+    "id": 12662
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KORKMAZLAR",
+    "id": 12663
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ÖNCÜLER",
+    "id": 12664
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KELEKLİ",
+    "id": 12665
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YOLAĞZI",
+    "id": 12666
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ALAGÖZ",
+    "id": 12667
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "BEŞKILIÇ",
+    "id": 12668
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 12669
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ZÜHRECİK",
+    "id": 12670
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YURTBAĞI",
+    "id": 12671
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "GÜRÇAY",
+    "id": 12672
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KIVIRCIK",
+    "id": 12673
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ÖRMETAŞ",
+    "id": 12674
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "SOYLU",
+    "id": 12675
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "TEKETAŞI",
+    "id": 12676
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "TOSUNLU",
+    "id": 12677
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "YARIMCA",
+    "id": 12678
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ETİLER",
+    "id": 12679
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "KURUYAZI",
+    "id": 12680
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "KARKAMIŞ",
+    "MAHALLE": "ŞENLİK",
+    "id": 12681
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BAŞPINAR(ORGANİZE)OSB",
+    "id": 12682
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BAYATLI",
+    "id": 12683
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BOYNO",
+    "id": 12684
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 12685
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DÜLÜKBABA",
+    "id": 12686
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DÜNDARLI",
+    "id": 12687
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 12688
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AĞAÇLIBOYNO",
+    "id": 12689
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BATTAL",
+    "id": 12690
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "EYDİBABA",
+    "id": 12691
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÜVENEVLER",
+    "id": 12692
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AKTOPRAK SB",
+    "id": 12693
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÖZTEPE",
+    "id": 12694
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÜNGÜRGE",
+    "id": 12695
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İBRAHİMŞEHİR",
+    "id": 12696
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 12697
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AKÇAGÖZE",
+    "id": 12698
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BEDİRKÖY",
+    "id": 12699
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARACAAHMET",
+    "id": 12700
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARACAÖREN",
+    "id": 12701
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AKTOPRAK",
+    "id": 12702
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ALPASLAN",
+    "id": 12703
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BELKIZ",
+    "id": 12704
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BÜYÜKPINAR",
+    "id": 12705
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DEĞİRMİÇEM",
+    "id": 12706
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GİRNE",
+    "id": 12707
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "8 ŞUBAT",
+    "id": 12708
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AŞAĞI ARIL",
+    "id": 12709
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DURNALIK",
+    "id": 12710
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "EYÜPSULTAN",
+    "id": 12711
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "FATİH",
+    "id": 12712
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "IŞIKLI",
+    "id": 12713
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İNCİLİKAYA",
+    "id": 12714
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 12715
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ATATÜRK",
+    "id": 12716
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DIMIŞKILI",
+    "id": 12717
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ERİKLİ",
+    "id": 12718
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "FISTIKLIK",
+    "id": 12719
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GAZİLER",
+    "id": 12720
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "HUMANIZ",
+    "id": 12721
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BEYKENT",
+    "id": 12722
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "CERİTYENİYAPAN",
+    "id": 12723
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÖLLÜCE",
+    "id": 12724
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "HÜRRİYET",
+    "id": 12725
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İNCİLİ PINAR",
+    "id": 12726
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BEYLERBEYİ",
+    "id": 12727
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BEYRELİ",
+    "id": 12728
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÇAĞKUYU",
+    "id": 12729
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÇAKMAK",
+    "id": 12730
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GAZİKENT",
+    "id": 12731
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ATABEK",
+    "id": 12732
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BAĞBAŞI",
+    "id": 12733
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÇIKSORUT",
+    "id": 12734
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "EMEK",
+    "id": 12735
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÜNBULUR",
+    "id": 12736
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "HASIRCIOĞLU",
+    "id": 12737
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İNCESU",
+    "id": 12738
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İSKENDERLİ",
+    "id": 12739
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ATAKENT",
+    "id": 12740
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ATALAR",
+    "id": 12741
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARAOĞLAN",
+    "id": 12742
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GAZİ",
+    "id": 12743
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BİLEK",
+    "id": 12744
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BOZOBASI",
+    "id": 12745
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "DÜLÜK",
+    "id": 12746
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARACABURÇ",
+    "id": 12747
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "29 EKİM",
+    "id": 12748
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AKÇABURÇ",
+    "id": 12749
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 12750
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÖKTÜRK",
+    "id": 12751
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÜZELYURT",
+    "id": 12752
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARAYUSUFLU",
+    "id": 12753
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ACAROBA",
+    "id": 12754
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BATIKENT",
+    "id": 12755
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "BURAK",
+    "id": 12756
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "HACIBABA",
+    "id": 12757
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KABASAKIZ",
+    "id": 12758
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AYDINLAR",
+    "id": 12759
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "AYDINTEPE",
+    "id": 12760
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ESKİŞARKAYA",
+    "id": 12761
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "GÖKSÜNCÜK",
+    "id": 12762
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "İBRAHİMLİ",
+    "id": 12763
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARADEDE",
+    "id": 12764
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARAKESEK",
+    "id": 12765
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARPUZKAYA",
+    "id": 12766
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "PANCARLI",
+    "id": 12767
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KOZLUYAZI",
+    "id": 12768
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SELAHATTİN EYYUBİ",
+    "id": 12769
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SEYMENLİ",
+    "id": 12770
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SÜLÜKLÜ",
+    "id": 12771
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "TÜRKYURDU",
+    "id": 12772
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YAMAÇOBA",
+    "id": 12773
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KÖKSALAN",
+    "id": 12774
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SİNAN",
+    "id": 12775
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "TEKİRSİN",
+    "id": 12776
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "UMUT",
+    "id": 12777
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 12778
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KAYAÖNÜ",
+    "id": 12779
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 12780
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KIZIK KARASAKAL",
+    "id": 12781
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SİNAN OSB",
+    "id": 12782
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "UĞRUCA",
+    "id": 12783
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "TAŞLICA",
+    "id": 12784
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YAYIKTAŞ",
+    "id": 12785
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YIĞINLI",
+    "id": 12786
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YENİŞARKAYA",
+    "id": 12787
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 12788
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "TOKDEMİR",
+    "id": 12789
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÜÇGÖZE",
+    "id": 12790
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÖVÜNDÜK",
+    "id": 12791
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SACIR",
+    "id": 12792
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SARIGÜLLÜK",
+    "id": 12793
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SOFALICI",
+    "id": 12794
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YENİ",
+    "id": 12795
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KOÇLU",
+    "id": 12796
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MERVEŞEHİR",
+    "id": 12797
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KÜLLÜ",
+    "id": 12798
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MEDEGÖZ",
+    "id": 12799
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MÜCAHİTLER",
+    "id": 12800
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SAM",
+    "id": 12801
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 12802
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KIZIKHAMURKESEN",
+    "id": 12803
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MEVLANA",
+    "id": 12804
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "MÜNÜFPAŞA",
+    "id": 12805
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ONAT KUTLAR",
+    "id": 12806
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YAPRAK",
+    "id": 12807
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SANCAKTEPE",
+    "id": 12808
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÖĞÜMSÖĞÜT",
+    "id": 12809
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "PİRSULTAN",
+    "id": 12810
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ŞEHİRGÖSTEREN",
+    "id": 12811
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "TUĞLU",
+    "id": 12812
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YALANKOZ",
+    "id": 12813
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YUKARI ARIL",
+    "id": 12814
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "KOCATEPE",
+    "id": 12815
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "NESİMİ",
+    "id": 12816
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SELİMİYE",
+    "id": 12817
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÜLKERLİ",
+    "id": 12818
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SANAYİ",
+    "id": 12819
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SEFAŞEHİR",
+    "id": 12820
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 12821
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SARILAR",
+    "id": 12822
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 12823
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 12824
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "YEŞİLCE",
+    "id": 12825
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ZÜLFİKAR",
+    "id": 12826
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "NURTEPE",
+    "id": 12827
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "ÖZGÜRLÜK",
+    "id": 12828
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SERİNTEPE",
+    "id": 12829
+  },
+  {
+    "İL": "GAZİANTEP",
+    "İLÇE": "ŞEHİTKAMİL",
+    "MAHALLE": "SUBOĞAZ",
+    "id": 12830
+  }
+]

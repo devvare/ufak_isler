@@ -1,0 +1,2930 @@
+[
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "AKSIĞIN",
+    "id": 18514
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "ALTINKENT",
+    "id": 18515
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SAHİL",
+    "id": 18516
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 18517
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "TEPECİK",
+    "id": 18518
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SEPETLİPINAR",
+    "id": 18519
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SEPETLİPINAR SB",
+    "id": 18520
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SERİNDERE",
+    "id": 18521
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "YUVACIK YAKACIK",
+    "id": 18522
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "VEZİRÇİFTLİĞİ",
+    "id": 18523
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SEYMEN",
+    "id": 18524
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KULLAR YAKACIK",
+    "id": 18525
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "YAYLACIK",
+    "id": 18526
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "FATİH",
+    "id": 18527
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "MEHMETAĞA",
+    "id": 18528
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SERVETİYE KARŞI",
+    "id": 18529
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "BARBAROS",
+    "id": 18530
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 18531
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 18532
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "ATAKENT",
+    "id": 18533
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "AYDINKENT",
+    "id": 18534
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "CAMİDÜZÜ",
+    "id": 18535
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KÖRFEZ",
+    "id": 18536
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "DÖNGEL",
+    "id": 18537
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "HAVUZLUBAHÇE",
+    "id": 18538
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KARADENİZLİLER",
+    "id": 18539
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KULLAR TEPECİK",
+    "id": 18540
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SERVETİYE CAMİ",
+    "id": 18541
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "YENİKÖY MERKEZ",
+    "id": 18542
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "OVACIK",
+    "id": 18543
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "ŞEHİTEKREM",
+    "id": 18544
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "DAMLAR",
+    "id": 18545
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "MAHMUTPAŞA",
+    "id": 18546
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "PAŞADAĞ",
+    "id": 18547
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "DOĞANTEPE",
+    "id": 18548
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "SERDAR",
+    "id": 18549
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KAZANDERE",
+    "id": 18550
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "BAŞİSKELE",
+    "MAHALLE": "KILIÇARSLAN",
+    "id": 18551
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "KIZDERBENT",
+    "id": 18552
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "KADRİYE",
+    "id": 18553
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "OSMANİYE",
+    "id": 18554
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "FULACIK",
+    "id": 18555
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "İHSANİYE",
+    "id": 18556
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "SULUDERE",
+    "id": 18557
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "SAFİYE",
+    "id": 18558
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "DEREKÖY",
+    "id": 18559
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "PAZARKÖY",
+    "id": 18560
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "HAYRİYE",
+    "id": 18561
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "YALAKDERE",
+    "id": 18562
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "AVCIKÖY",
+    "id": 18563
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "SEMETLER",
+    "id": 18564
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "TEPEKÖY",
+    "id": 18565
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "EREĞLİ",
+    "id": 18566
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "İNEBEYLİ",
+    "id": 18567
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "AKPINAR",
+    "id": 18568
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "KAYACIK",
+    "id": 18569
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "AKÇAT",
+    "id": 18570
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "ÇAMDİBİ",
+    "id": 18571
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "KARAAHMETLİ",
+    "id": 18572
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "SENAİYE",
+    "id": 18573
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "KARAPINAR",
+    "id": 18574
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "TAHTALI",
+    "id": 18575
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "4 TEMMUZ",
+    "id": 18576
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "ÇAMÇUKUR",
+    "id": 18577
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARAMÜRSEL",
+    "MAHALLE": "OLUKLU",
+    "id": 18578
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BAĞIRGANLI",
+    "id": 18579
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HÜDAVERDİLER",
+    "id": 18580
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 18581
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKÇAKESE",
+    "id": 18582
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BALCI",
+    "id": 18583
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BEYLERBEYİ",
+    "id": 18584
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKÇABEYLİ",
+    "id": 18585
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AYDINLIK",
+    "id": 18586
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ELMACIK",
+    "id": 18587
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "GEBEŞLER",
+    "id": 18588
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HIDIRLAR",
+    "id": 18589
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KARLI",
+    "id": 18590
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AVDAN",
+    "id": 18591
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BOLU",
+    "id": 18592
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇALCA",
+    "id": 18593
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DELİVELİ",
+    "id": 18594
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "FERİZLİ",
+    "id": 18595
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "GONCAAYDIN",
+    "id": 18596
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "YAĞCILAR",
+    "id": 18597
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KOCAKAYMAS",
+    "id": 18598
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "LOKMANLI",
+    "id": 18599
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "MERKEZ ERİKLİ",
+    "id": 18600
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SARICAALİ",
+    "id": 18601
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "TEKSEN",
+    "id": 18602
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SAFALI",
+    "id": 18603
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "TATARAHMET",
+    "id": 18604
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AHMETHACILAR",
+    "id": 18605
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ALEFLİ",
+    "id": 18606
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇALYER",
+    "id": 18607
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KANATLAR",
+    "id": 18608
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KIRKARMUT",
+    "id": 18609
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "PİRCELER",
+    "id": 18610
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "TOPLUCA",
+    "id": 18611
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KARADİVAN",
+    "id": 18612
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KAYMAZ ERİKLİ",
+    "id": 18613
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KEFKEN",
+    "id": 18614
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "PELİTPINARI",
+    "id": 18615
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "PINARLI",
+    "id": 18616
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AĞAÇAĞIL",
+    "id": 18617
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKÇAOVA",
+    "id": 18618
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇERÇİLİ",
+    "id": 18619
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KURTYERİ",
+    "id": 18620
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SELAMETLİ",
+    "id": 18621
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SEPETÇİ",
+    "id": 18622
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BEYCE",
+    "id": 18623
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DOĞANCILI",
+    "id": 18624
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇAKMAKLAR",
+    "id": 18625
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KABAAĞAÇ",
+    "id": 18626
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ORHAN",
+    "id": 18627
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SARIAHMETLER",
+    "id": 18628
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SARNIÇLAR",
+    "id": 18629
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SÜLLÜ",
+    "id": 18630
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KAYMAZ",
+    "id": 18631
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKDURAK",
+    "id": 18632
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ANTAPLI",
+    "id": 18633
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇAMKONAK",
+    "id": 18634
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "EĞERCİLİ",
+    "id": 18635
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KUBUZCU",
+    "id": 18636
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "NASUHLAR",
+    "id": 18637
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HACIŞEYH",
+    "id": 18638
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "İNCECİK",
+    "id": 18639
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KIZILCAPINAR",
+    "id": 18640
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÖZBEY",
+    "id": 18641
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKBAL",
+    "id": 18642
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BALLAR",
+    "id": 18643
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇAKIRCAALİ",
+    "id": 18644
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HACILAR",
+    "id": 18645
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "KERPE",
+    "id": 18646
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "MÜLKÜŞEHSUVAR",
+    "id": 18647
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SELİMKÖY",
+    "id": 18648
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SİNANLIBİLALLI",
+    "id": 18649
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SUCUALİ",
+    "id": 18650
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "AKINCI",
+    "id": 18651
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BABAKÖY",
+    "id": 18652
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "CEBECİ",
+    "id": 18653
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HACIMAZLI",
+    "id": 18654
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "MANCARLAR",
+    "id": 18655
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "PINARDÜZÜ",
+    "id": 18656
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SARIGAZİ",
+    "id": 18657
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "YUSUFÇA",
+    "id": 18658
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BALABAN",
+    "id": 18659
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DALCA",
+    "id": 18660
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BABALI",
+    "id": 18661
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇALKÖY",
+    "id": 18662
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÇARŞI",
+    "id": 18663
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DURAKLI",
+    "id": 18664
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ESENTEPE",
+    "id": 18665
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "SEYİTALİLER",
+    "id": 18666
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ŞEREFSUNGUR",
+    "id": 18667
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "TERZİLER",
+    "id": 18668
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DÖNGELLİ",
+    "id": 18669
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "HEDİYELİ",
+    "id": 18670
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÖMERLİ",
+    "id": 18671
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "BOZBURUN",
+    "id": 18672
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "DURAÇALİ",
+    "id": 18673
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KANDIRA",
+    "MAHALLE": "ÜĞÜMCE",
+    "id": 18674
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "NUSRETİYE",
+    "id": 18675
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ÇEPNİ",
+    "id": 18676
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 18677
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "KARATEPE",
+    "id": 18678
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ARSLANBEY",
+    "id": 18679
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "EŞME",
+    "id": 18680
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "İBRİKDERE",
+    "id": 18681
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "RAHMİYE",
+    "id": 18682
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "SULTANİYE",
+    "id": 18683
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "İSTASYON",
+    "id": 18684
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "UZUNTARLA",
+    "id": 18685
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "DERBENT",
+    "id": 18686
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "KÖSEKÖY",
+    "id": 18687
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "EŞMEAHMEDİYE",
+    "id": 18688
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 18689
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ŞİRİNSULHİYE",
+    "id": 18690
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "MAŞUKİYE",
+    "id": 18691
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ATAEVLER",
+    "id": 18692
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "EMEKEVLER",
+    "id": 18693
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "SERİNLİK",
+    "id": 18694
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ATAŞEHİR",
+    "id": 18695
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "BALABAN",
+    "id": 18696
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "HAVLUBURUN",
+    "id": 18697
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ACISU",
+    "id": 18698
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ERTUĞRUL GAZİ",
+    "id": 18699
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "UZUNBEY",
+    "id": 18700
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ARSLANBEY OSB",
+    "id": 18701
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "SARIMEŞE",
+    "id": 18702
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "UZUNÇİFTLİK",
+    "id": 18703
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "KETENCİLER",
+    "id": 18704
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "PAZARÇAYIRI",
+    "id": 18705
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "SUADİYE",
+    "id": 18706
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KARTEPE",
+    "MAHALLE": "ŞEVKATİYE",
+    "id": 18707
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "YENİ",
+    "id": 18708
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "AKSE",
+    "id": 18709
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "EMEK",
+    "id": 18710
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "GEBZE OSB2",
+    "id": 18711
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "ÖZGÜRLÜK",
+    "id": 18712
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "ATATÜRK",
+    "id": 18713
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "ÇAYIROVA",
+    "id": 18714
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "İNÖNÜ",
+    "id": 18715
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "ŞEKERPINAR",
+    "id": 18716
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "TOSB OTOMOTİV (OSB)",
+    "id": 18717
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "ÇAYIROVA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18718
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "DURHASAN",
+    "id": 18719
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ESELER",
+    "id": 18720
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "HACIHASAN",
+    "id": 18721
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KAYNARCA",
+    "id": 18722
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KULMAHMUT",
+    "id": 18723
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "MECİDİYE",
+    "id": 18724
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SÜLEYMANİYE",
+    "id": 18725
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ATATÜRK (OSB)",
+    "id": 18726
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇUKURBAĞ",
+    "id": 18727
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GÜLBAHÇE KADRİYE",
+    "id": 18728
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÖMERAĞA",
+    "id": 18729
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SÜVERLER",
+    "id": 18730
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BÖĞÜRGEN",
+    "id": 18731
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇAVUŞOĞLU",
+    "id": 18732
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇAYIRKÖY",
+    "id": 18733
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "DAĞKÖY",
+    "id": 18734
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 18735
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "HASANCIKLAR",
+    "id": 18736
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KURUÇEŞME FATİH",
+    "id": 18737
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TAVŞANTEPE",
+    "id": 18738
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YENİ",
+    "id": 18739
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ALİKAHYA ATATÜRK",
+    "id": 18740
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BULDUK",
+    "id": 18741
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KOCATEPE",
+    "id": 18742
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ORHANİYE",
+    "id": 18743
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 18744
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 18745
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "EMİRHAN",
+    "id": 18746
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GEDİKLİ",
+    "id": 18747
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 18748
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "HATİPKÖY",
+    "id": 18749
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KOZLUCA",
+    "id": 18750
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇUBUKLUBALA",
+    "id": 18751
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 18752
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KURTDERE",
+    "id": 18753
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SANAYİ",
+    "id": 18754
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SULTANİYE",
+    "id": 18755
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BİBEROĞLU",
+    "id": 18756
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "MALTA",
+    "id": 18757
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ZEYTİNBURNU",
+    "id": 18758
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ERENLER",
+    "id": 18759
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "FATİH",
+    "id": 18760
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "FETHİYE",
+    "id": 18761
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KARAABDÜLBAKİ",
+    "id": 18762
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KARABAŞ",
+    "id": 18763
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KISALAR",
+    "id": 18764
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "NEBİHOCA",
+    "id": 18765
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SARIŞEYH",
+    "id": 18766
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SERDAR",
+    "id": 18767
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ZABITAN",
+    "id": 18768
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AKMEŞE CUMHURİYET",
+    "id": 18769
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "CEDİT",
+    "id": 18770
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KÖRFEZ",
+    "id": 18771
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YASSIBAĞ",
+    "id": 18772
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AKÇAKOCA",
+    "id": 18773
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AKPINAR",
+    "id": 18774
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ALİKAHYA FATİH",
+    "id": 18775
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ALİKAHYA OSB",
+    "id": 18776
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18777
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "DOĞAN",
+    "id": 18778
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KABAOĞLU",
+    "id": 18779
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "M.ALİPAŞA",
+    "id": 18780
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ŞAHİNLER",
+    "id": 18781
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AKMEŞE ATATÜRK",
+    "id": 18782
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AYAZMA",
+    "id": 18783
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇUBUKLUOSMANİYE",
+    "id": 18784
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KARADENİZLİLER",
+    "id": 18785
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TEPECİK",
+    "id": 18786
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TERZİBAYIRI",
+    "id": 18787
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AMBARCI",
+    "id": 18788
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BAYRAKTAR",
+    "id": 18789
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 18790
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "HACIHIZIR",
+    "id": 18791
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TÜYSÜZLER",
+    "id": 18792
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BEKİRDERE",
+    "id": 18793
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ÇAĞIRGAN",
+    "id": 18794
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "DÜĞMECİLER",
+    "id": 18795
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KADIKÖY",
+    "id": 18796
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SAPAKPINAR",
+    "id": 18797
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SEPETÇİ",
+    "id": 18798
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "VELİAHMET",
+    "id": 18799
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YENİCE",
+    "id": 18800
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 18801
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "28 HAZİRAN",
+    "id": 18802
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ALİKAHYA CUMHURİYET",
+    "id": 18803
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ARPALIKİHSANİYE",
+    "id": 18804
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BALÖREN",
+    "id": 18805
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ORHAN",
+    "id": 18806
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ALİKAHYA MERKEZ",
+    "id": 18807
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "BAĞLICA",
+    "id": 18808
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "GÜLTEPE",
+    "id": 18809
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "HAKANİYE",
+    "id": 18810
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KOZLUK",
+    "id": 18811
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TEPEKÖY",
+    "id": 18812
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TOPÇULAR",
+    "id": 18813
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "TURGUT",
+    "id": 18814
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "YAHYAKAPTAN",
+    "id": 18815
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "AKARCA",
+    "id": 18816
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ARIZLI",
+    "id": 18817
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 18818
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "KULFALLI",
+    "id": 18819
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ORTABURUN",
+    "id": 18820
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "SEKBANLI",
+    "id": 18821
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "İZMİT",
+    "MAHALLE": "ŞİRİNTEPE",
+    "id": 18822
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "AYVAZPINARI",
+    "id": 18823
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DEĞİRMENDERE MERKEZ",
+    "id": 18824
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "FERHADİYE",
+    "id": 18825
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 18826
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18827
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DÜZAĞAÇ",
+    "id": 18828
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ULAŞLI YALI",
+    "id": 18829
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YENİ",
+    "id": 18830
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "HİSAREYN MERKEZ",
+    "id": 18831
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "MAMURİYE",
+    "id": 18832
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "LÜTFİYE",
+    "id": 18833
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "NÜZHETİYE",
+    "id": 18834
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YAZLIK MERKEZ",
+    "id": 18835
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "İHSANİYE MERKEZ",
+    "id": 18836
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "SARAYLI",
+    "id": 18837
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "PİYALEPAŞA",
+    "id": 18838
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 18839
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ŞEVKETİYE",
+    "id": 18840
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "HALIDERE YALI",
+    "id": 18841
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "HALIDERE YENİ",
+    "id": 18842
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YAZLIK YENİ",
+    "id": 18843
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ATATÜRK",
+    "id": 18844
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "KÖRFEZ",
+    "id": 18845
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YÜZBAŞILAR",
+    "id": 18846
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DENİZ EVLER",
+    "id": 18847
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "PANAYIR",
+    "id": 18848
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ŞİRİNKÖY",
+    "id": 18849
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "HAMİDİYE",
+    "id": 18850
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "İRŞADİYE",
+    "id": 18851
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ÜMMİYE",
+    "id": 18852
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 18853
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DONANMA",
+    "id": 18854
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 18855
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "İPEK YOLU",
+    "id": 18856
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "SELİMİYE",
+    "id": 18857
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "DEĞİRMENDERE YALI",
+    "id": 18858
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "NİMETİYE",
+    "id": 18859
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ÖRCÜN",
+    "id": 18860
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "SİYRETİYE",
+    "id": 18861
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ESKİFERHADİYE",
+    "id": 18862
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "İCADİYE",
+    "id": 18863
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "KARAKÖPRÜ",
+    "id": 18864
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "TOPÇULAR",
+    "id": 18865
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "YUKARI",
+    "id": 18866
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "KAVAKLI",
+    "id": 18867
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "MESRURİYE",
+    "id": 18868
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "ULAŞLI YALI SULTAN SELİM",
+    "id": 18869
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "HASANEYN",
+    "id": 18870
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "MERKEZ",
+    "id": 18871
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GÖLCÜK",
+    "MAHALLE": "SOFULAR",
+    "id": 18872
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "FEVZİÇAKMAK",
+    "id": 18873
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "EMEK",
+    "id": 18874
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "BAYRAMOĞLU",
+    "id": 18875
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "CAMİ",
+    "id": 18876
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "KAZIMKARABEKİR",
+    "id": 18877
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "YENİ",
+    "id": 18878
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "ABDİ İPEKÇİ",
+    "id": 18879
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 18880
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "ZİNCİRLİKUYU",
+    "id": 18881
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "NENEHATUN",
+    "id": 18882
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "SIRASÖĞÜTLER",
+    "id": 18883
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "PİRİ",
+    "id": 18884
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "YALI",
+    "id": 18885
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DARICA",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 18886
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "TAHTALI",
+    "id": 18887
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 18888
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "MERSİNCİK",
+    "id": 18889
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "YAVUZ SULTAN",
+    "id": 18890
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "ÇENEDAĞ",
+    "id": 18891
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "ÇINARLI",
+    "id": 18892
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "KAŞIKÇI",
+    "id": 18893
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "İBNİSİNA",
+    "id": 18894
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "FATİH SULTAN",
+    "id": 18895
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "SIRRIPAŞA",
+    "id": 18896
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "DENİZ",
+    "id": 18897
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "YENİKENT",
+    "id": 18898
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "TOYLAR",
+    "id": 18899
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "TERZİLER",
+    "id": 18900
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "GEREDELİ",
+    "id": 18901
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 18902
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DERİNCE",
+    "MAHALLE": "KARAGÖLLÜ",
+    "id": 18903
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "BARBAROS",
+    "id": 18904
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "SİPAHİLER",
+    "id": 18905
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ŞİRİNYALI",
+    "id": 18906
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KALBURCU",
+    "id": 18907
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KIŞLADÜZÜ",
+    "id": 18908
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18909
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KARAYAKUPLU",
+    "id": 18910
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "HİMMETLİ",
+    "id": 18911
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KİRAZLIYALI",
+    "id": 18912
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KUTLUCA",
+    "id": 18913
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "KUZEY",
+    "id": 18914
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "OSMANLI",
+    "id": 18915
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "FATİH",
+    "id": 18916
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "HACI AKİF",
+    "id": 18917
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "NAİP",
+    "id": 18918
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 18919
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ELMACIK",
+    "id": 18920
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "CUMA",
+    "id": 18921
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "DERE",
+    "id": 18922
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ŞEMSETTİN",
+    "id": 18923
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "YENİYALI",
+    "id": 18924
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "BELEN",
+    "id": 18925
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 18926
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 18927
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "SEVİNDİKLİ",
+    "id": 18928
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "17 AĞUSTOS",
+    "id": 18929
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ÇIRAKLI",
+    "id": 18930
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "DİKENLİ",
+    "id": 18931
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 18932
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "YUKARI HEREKE",
+    "id": 18933
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ALİHOCALAR",
+    "id": 18934
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "GÜNEY",
+    "id": 18935
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "AGAH ATEŞ",
+    "id": 18936
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "ATALAR",
+    "id": 18937
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "HACI OSMAN",
+    "id": 18938
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "KÖRFEZ",
+    "MAHALLE": "İLİMTEPE",
+    "id": 18939
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "BEYLİKBAĞI",
+    "id": 18940
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "AHATLI",
+    "id": 18941
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "ADEM YAVUZ",
+    "id": 18942
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "CUMAKÖY",
+    "id": 18943
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "HACIHALİL",
+    "id": 18944
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "HÜRRİYET",
+    "id": 18945
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "YAĞCILAR",
+    "id": 18946
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "KADILLI",
+    "id": 18947
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18948
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "ESKİHİSAR",
+    "id": 18949
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "PELİTLİ",
+    "id": 18950
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "ELBİZLİ",
+    "id": 18951
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 18952
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "GEBZE OSB",
+    "id": 18953
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "BALÇIK",
+    "id": 18954
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "BARIŞ SB",
+    "id": 18955
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "GEBZE DİLOVASI OSB",
+    "id": 18956
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "GÜZELLER",
+    "id": 18957
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "İNÖNÜ, GEBZE PLASTİKÇİLER OSB",
+    "id": 18958
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "İNÖNÜ",
+    "id": 18959
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "İSTASYON",
+    "id": 18960
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "KİRAZPINAR",
+    "id": 18961
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MUALLİMKÖY",
+    "id": 18962
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "BARIŞ",
+    "id": 18963
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "TAVŞANLI",
+    "id": 18964
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "KARGALI",
+    "id": 18965
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "OSMAN YILMAZ",
+    "id": 18966
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "SULTAN ORHAN",
+    "id": 18967
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MUDARLI",
+    "id": 18968
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "ULUS",
+    "id": 18969
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "ARAPÇEŞME",
+    "id": 18970
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "OVACIK",
+    "id": 18971
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "DENİZLİ",
+    "id": 18972
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "YENİKENT",
+    "id": 18973
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "DURAKLI",
+    "id": 18974
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "İNÖNÜ, GEBZE GÜZELLER OSB",
+    "id": 18975
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "KÖŞKLÜ ÇEŞME",
+    "id": 18976
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "TEPEMANAYIR",
+    "id": 18977
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "GAZİLER",
+    "id": 18978
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "HATİPLER",
+    "id": 18979
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MEVLANA",
+    "id": 18980
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MOLLAFENARİ",
+    "id": 18981
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "MUSTAFAPAŞA",
+    "id": 18982
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 18983
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "GEBZE",
+    "MAHALLE": "TATLIKUYU",
+    "id": 18984
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "ÇERKEŞLİOSB",
+    "id": 18985
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "DEMİRCİLEROSB",
+    "id": 18986
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "KÖSELER",
+    "id": 18987
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 18988
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 18989
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 18990
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "TAVŞANCIL",
+    "id": 18991
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "FATİH",
+    "id": 18992
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "KAYAPINAR",
+    "id": 18993
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 18994
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "KOCAELİ-GEBZE KÖMÜRCÜLER OSB",
+    "id": 18995
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "TEPECİK",
+    "id": 18996
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "DİLİSKELESİ",
+    "id": 18997
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 18998
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18999
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "ÇERKEŞLİ",
+    "id": 19000
+  },
+  {
+    "İL": "KOCAELİ",
+    "İLÇE": "DİLOVASI",
+    "MAHALLE": "DİLOVASIOSB",
+    "id": 19001
+  }
+]

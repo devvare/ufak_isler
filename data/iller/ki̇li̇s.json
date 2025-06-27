@@ -1,0 +1,536 @@
+[
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MUSABEYLİ",
+    "MAHALLE": "MURATHÜYÜĞÜ",
+    "id": 18425
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MUSABEYLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18426
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MUSABEYLİ",
+    "MAHALLE": "PINAR",
+    "id": 18427
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "ELBEYLİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 18428
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "ELBEYLİ",
+    "MAHALLE": "AĞYÜZ",
+    "id": 18429
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "ELBEYLİ",
+    "MAHALLE": "YALÇIN NANE",
+    "id": 18430
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "ELBEYLİ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 18431
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÜYÜKKÜTAH",
+    "id": 18432
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HELVACIOĞLU",
+    "id": 18433
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ASLAN",
+    "id": 18434
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSLAMBEY",
+    "id": 18435
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BİLALİ HABEŞİ",
+    "id": 18436
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 18437
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MÜSLÜMANBEY",
+    "id": 18438
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KETENCİLER",
+    "id": 18439
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖNCÜ PINAR",
+    "id": 18440
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET SANLI",
+    "id": 18441
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAMIK ÜNLER PAŞA",
+    "id": 18442
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞIH ABDULLAH",
+    "id": 18443
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZEYTİNLİ",
+    "id": 18444
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MERCİDABIK",
+    "id": 18445
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORGANİZE SABNAYİ BÖLGESİ",
+    "id": 18446
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OYLUM",
+    "id": 18447
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İZZETTİN İYİGÜN PAŞA",
+    "id": 18448
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARTALBEY",
+    "id": 18449
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NACAROĞLU",
+    "id": 18450
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMAN GAZİ",
+    "id": 18451
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞIHLAR",
+    "id": 18452
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EBULÜLE",
+    "id": 18453
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 18454
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKPINAR",
+    "id": 18455
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÖLÜK",
+    "id": 18456
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CANPOLAT PAŞA",
+    "id": 18457
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DOĞAN GÜREŞ PAŞA",
+    "id": 18458
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞIT",
+    "id": 18459
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNNAPLI KÜTAH",
+    "id": 18460
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KANUNİ SULTAN SÜLEYMAN",
+    "id": 18461
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAALİ",
+    "id": 18462
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEDİ ARALIK",
+    "id": 18463
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAKVERDİ",
+    "id": 18464
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NEDİM ÖKMEN",
+    "id": 18465
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACI İLYAS",
+    "id": 18466
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HASAN KAMİL DEMİRBAŞ",
+    "id": 18467
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OKÇULAR",
+    "id": 18468
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞIH AHMET",
+    "id": 18469
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NECMETTİN ERBAKAN",
+    "id": 18470
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 18471
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALTINÜZÜM",
+    "id": 18472
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEVECİLER",
+    "id": 18473
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18474
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EKREM ÇETİN",
+    "id": 18475
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACI GÜMÜŞ",
+    "id": 18476
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞIH MEHMET",
+    "id": 18477
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NURETTİN",
+    "id": 18478
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 18479
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAŞAR AKTÜRK",
+    "id": 18480
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİLER",
+    "id": 18481
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HİNDİOĞLU",
+    "id": 18482
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MARAŞAL FEVZİ ÇAKMAK",
+    "id": 18483
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET RIFAT KAZANCIOĞLU",
+    "id": 18484
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEŞETLİK",
+    "id": 18485
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUALLİM RIFAT BİLGE",
+    "id": 18486
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MÜCAHİTLER",
+    "id": 18487
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "POLAT PAŞA",
+    "id": 18488
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 18489
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MULLAHAMİT",
+    "id": 18490
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABDİOYMAĞI",
+    "id": 18491
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 18492
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 18493
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MIHALİ",
+    "id": 18494
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALBAY İBRAHİM KARAOĞLANOĞLU",
+    "id": 18495
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BARIŞ",
+    "id": 18496
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAYLAK",
+    "id": 18497
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 18498
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 18499
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAÇ MEHMET ÇAVUŞ",
+    "id": 18500
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT SAKIP",
+    "id": 18501
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞÖRHABİL",
+    "id": 18502
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TEKYE",
+    "id": 18503
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VAİZ",
+    "id": 18504
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TABAKHANE",
+    "id": 18505
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TIRIKLI",
+    "id": 18506
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAVUZ SULTAN SELİM",
+    "id": 18507
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "KAYMAKAM KÜRŞAT AĞCA",
+    "id": 18508
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "ATATÜRK",
+    "id": 18509
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "SOSYAL KONUTLAR",
+    "id": 18510
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "EKREM ÇETİN",
+    "id": 18511
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18512
+  },
+  {
+    "İL": "KİLİS",
+    "İLÇE": "POLATELİ",
+    "MAHALLE": "ŞEHİT ALİ",
+    "id": 18513
+  }
+]

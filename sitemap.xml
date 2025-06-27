@@ -3,7 +3,7 @@
   <!-- Ana Sayfa -->
   <url>
     <loc>https://ufakisler.com/</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <!-- Hizmetlerimiz -->
   <url>
     <loc>https://ufakisler.com/hizmetler.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- Nasıl Çalışır -->
   <url>
     <loc>https://ufakisler.com/nasil-calisir.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,23 +27,47 @@
   <!-- Kendin Yap -->
   <url>
     <loc>https://ufakisler.com/diy.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
-  <!-- Hizmet Bölgelerimiz -->
+  <!-- Hizmet Sayfaları -->
   <url>
-    <loc>https://ufakisler.com/hizmet-bolgeleri.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <loc>https://ufakisler.com/hizmet-bolgesi.html</loc>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Onarım-Tadilat -->
+  <url>
+    <loc>https://ufakisler.com/onarim-tadilat.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Günlük Yardım -->
+  <url>
+    <loc>https://ufakisler.com/gunluk-yardim.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Bizimle Çalışın -->
+  <url>
+    <loc>https://ufakisler.com/bizimle-calisin.html</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   <!-- Hakkımızda -->
   <url>
     <loc>https://ufakisler.com/hakkimizda.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51,8 +75,154 @@
   <!-- İletişim -->
   <url>
     <loc>https://ufakisler.com/iletisim.html</loc>
-    <lastmod>2025-05-20</lastmod>
+    <lastmod>2025-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - Marmaris -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/armutalan/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/armutalan/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/beldibi/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/beldibi/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/siteler/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/siteler/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/icmeler/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/icmeler/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/turunc/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/mugla/marmaris/turunc/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - İstanbul -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/istanbul/kadikoy/caferaga/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/istanbul/kadikoy/caferaga/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - Ankara -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/ankara/cankaya/kizilay/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/ankara/cankaya/kizilay/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - İzmir -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/izmir/konak/alsancak/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/izmir/konak/alsancak/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - Antalya -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/antalya/muratpasa/konyaalti/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/antalya/muratpasa/konyaalti/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Dinamik Hizmet Bölgesi Sayfaları - Bursa -->
+  <url>
+    <loc>https://ufakisler.com/hizmet/bursa/nilufer/gorukle/gunluk/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ufakisler.com/hizmet/bursa/nilufer/gorukle/onarim/</loc>
+    <lastmod>2025-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

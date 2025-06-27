@@ -1,0 +1,115 @@
+/* Konum seçim penceresi için özel stiller */
+
+/* Select elementinin kendisi için stiller */
+select {
+    background-color: #2c3e50;
+    color: #ffffff;
+    border: 1px solid #3a506b;
+    padding: 10px 15px;
+    border-radius: 6px;
+    width: 100%;
+    font-size: 16px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="white" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+}
+
+/* Tüm tarayıcılar için option elementlerinin stilini zorla */
+select option {
+    background-color: #2c3e50 !important;
+    color: #ffffff !important;
+    padding: 10px !important;
+}
+
+/* Firefox için özel stiller */
+@-moz-document url-prefix() {
+    select {
+        background-color: #2c3e50;
+        color: #ffffff;
+    }
+    
+    select option {
+        background-color: #2c3e50 !important;
+        color: #ffffff !important;
+    }
+}
+
+/* Chrome ve Safari için özel stiller */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    select {
+        background-color: #2c3e50;
+        color: #ffffff;
+    }
+    
+    select option {
+        background-color: #2c3e50 !important;
+        color: #ffffff !important;
+    }
+}
+
+/* Özel select stilini desteklemeyen tarayıcılar için alternatif çözüm */
+/* Bu kısım JavaScript ile birlikte çalışır */
+.custom-select-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.custom-select {
+    position: relative;
+    background-color: #2c3e50;
+    color: #ffffff;
+    border: 1px solid #3a506b;
+    padding: 10px 15px;
+    border-radius: 6px;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-select-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #2c3e50;
+    border: 1px solid #3a506b;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+    display: none;
+}
+
+.custom-select-option {
+    padding: 10px 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.custom-select-option:hover {
+    background-color: #3a506b;
+}
+
+.custom-select-arrow {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #ffffff;
+}
+
+/* Seçim penceresi açık olduğunda */
+.custom-select.open .custom-select-options {
+    display: block;
+}
+
+.custom-select.open .custom-select-arrow {
+    transform: rotate(180deg);
+}

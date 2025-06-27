@@ -1,0 +1,410 @@
+[
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "GENÇ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6334
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "GENÇ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 6335
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "GENÇ",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 6336
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "GENÇ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6337
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "GENÇ",
+    "MAHALLE": "YOLDAŞAN",
+    "id": 6338
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "YOLGÜDEN",
+    "id": 6339
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "HAKTANIR",
+    "id": 6340
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "HASKÖY",
+    "id": 6341
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "CONAG",
+    "id": 6342
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "MERKEZ",
+    "id": 6343
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YAYLADERE",
+    "MAHALLE": "AKÇADAMLAR",
+    "id": 6344
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KİĞI",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 6345
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KİĞI",
+    "MAHALLE": "ESKİŞEHİR",
+    "id": 6346
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KİĞI",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 6347
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YEDİSU",
+    "MAHALLE": "KABAOLUK",
+    "id": 6348
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YEDİSU",
+    "MAHALLE": "DÖŞENGİ",
+    "id": 6349
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YEDİSU",
+    "MAHALLE": "YENİ",
+    "id": 6350
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YEDİSU",
+    "MAHALLE": "MERKEZ",
+    "id": 6351
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "YEDİSU",
+    "MAHALLE": "KOŞAN",
+    "id": 6352
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "KALE",
+    "id": 6353
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "KANİTAHT",
+    "id": 6354
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "SEYRAN TEPE",
+    "id": 6355
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 6356
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 6357
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "KARLIOVA",
+    "MAHALLE": "KANIREŞ",
+    "id": 6358
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "ARAKONAK, KÜLTÜR",
+    "id": 6359
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "ARAKONAK, KARŞIYAKA",
+    "id": 6360
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "BOĞLAN",
+    "id": 6361
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "ARAKONAK, MERKEZ",
+    "id": 6362
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "HALİME PINAR",
+    "id": 6363
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 6364
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "SOLHAN",
+    "MAHALLE": "YENİ",
+    "id": 6365
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "AFET KONUTLARI",
+    "id": 6366
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "MERKEZ",
+    "id": 6367
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "DEMİROLUK",
+    "id": 6368
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "DÖŞLÜCE",
+    "id": 6369
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "ARICA",
+    "id": 6370
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "GÜNGÖRSÜN",
+    "id": 6371
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "ADAKLI",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 6372
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6373
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNALI",
+    "id": 6374
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, KARAPINAR",
+    "id": 6375
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, UZUNDERE",
+    "id": 6376
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, ILICA",
+    "id": 6377
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, KAMIŞLI",
+    "id": 6378
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, SARIGÜMÜŞ",
+    "id": 6379
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARAY",
+    "id": 6380
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 6381
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT MUSTAFA GÜNDOĞDU",
+    "id": 6382
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İÇMELER",
+    "id": 6383
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RECEP TAYYİP ERDOĞAN",
+    "id": 6384
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SELAHADDİN-İ EYYUBİ",
+    "id": 6385
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, KILIÇLI",
+    "id": 6386
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, BÜYÜKBAŞKÖY",
+    "id": 6387
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, ÇİMENLİ",
+    "id": 6388
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, KÜÇÜKBAŞKÖY",
+    "id": 6389
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 6390
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 6391
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, HOŞKAR",
+    "id": 6392
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 6393
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SİMANİ",
+    "id": 6394
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, ÇAY",
+    "id": 6395
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ILICALAR, İÇPINAR",
+    "id": 6396
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİRZAN",
+    "id": 6397
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, AKBUDAK",
+    "id": 6398
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK, YEŞİLOVA",
+    "id": 6399
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 6400
+  },
+  {
+    "İL": "BİNGÖL",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 6401
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKÇAKENT",
+    "MAHALLE": "YENİYAPAN",
+    "id": 18357
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKÇAKENT",
+    "MAHALLE": "ŞEHRİCEDİD",
+    "id": 18358
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKÇAKENT",
+    "MAHALLE": "YENİKENT",
+    "id": 18359
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "BOYALIK",
+    "id": 18360
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "KÖSELİ, DEVRECELİ",
+    "id": 18361
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "FATİH",
+    "id": 18362
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "KÖSELİ, BAHÇELİEVLER",
+    "id": 18363
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "OSMAN ŞEVKİ",
+    "id": 18364
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 18365
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 18366
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "KÖSELİ, ÇİFTLİK",
+    "id": 18367
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "KÖSELİ, CUMHURİYET",
+    "id": 18368
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "KÖSELİ, ÇİÇEK",
+    "id": 18369
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 18370
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "ÇİÇEKDAĞI",
+    "MAHALLE": "YENİ",
+    "id": 18371
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "BOZTEPE",
+    "MAHALLE": "BAĞBAŞI",
+    "id": 18372
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "BOZTEPE",
+    "MAHALLE": "YENİ",
+    "id": 18373
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "BOZTEPE",
+    "MAHALLE": "ORTA",
+    "id": 18374
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "KURANCILI, BAHÇELİEVLER",
+    "id": 18375
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "HACIPINAR",
+    "id": 18376
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "ZİYARETTEPE",
+    "id": 18377
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "KURANCILI, ORTA",
+    "id": 18378
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "SARIUŞAĞI",
+    "id": 18379
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "YENİ",
+    "id": 18380
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "KURANCILI, CUMHURİYET",
+    "id": 18381
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "DARIÖZÜ",
+    "id": 18382
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "GAFFAR",
+    "id": 18383
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "ÇİFTLİKLİ",
+    "id": 18384
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "ORTA",
+    "id": 18385
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "CUMA",
+    "id": 18386
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "MÜDERRİS",
+    "id": 18387
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 18388
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "KAMAN",
+    "MAHALLE": "KURANCILI, YENİ",
+    "id": 18389
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 18390
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "SOLAKLI",
+    "id": 18391
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 18392
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "ŞATIROĞLU",
+    "id": 18393
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "HAMİDİYE",
+    "id": 18394
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "ACIÖZ",
+    "id": 18395
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MUCUR",
+    "MAHALLE": "YENİCE",
+    "id": 18396
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "HACI HÜSEYİN EFENDİ",
+    "id": 18397
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 18398
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18399
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 18400
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "ALİPAŞA",
+    "id": 18401
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "AKPINAR",
+    "MAHALLE": "KALEYAZI",
+    "id": 18402
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 18403
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AHİEVRAN",
+    "id": 18404
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAĞBAŞI",
+    "id": 18405
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇUKURÇAYIR",
+    "id": 18406
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞIKPAŞA",
+    "id": 18407
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLDİKENOSB",
+    "id": 18408
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KUŞDİLLİ",
+    "id": 18409
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, YENİ",
+    "id": 18410
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖLHİSAR",
+    "id": 18411
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KERVANSARAY",
+    "id": 18412
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NASUHDEDE",
+    "id": 18413
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, KIŞLAPINAR",
+    "id": 18414
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, SARAYLAR",
+    "id": 18415
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, KIZILCA",
+    "id": 18416
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAYABAŞI",
+    "id": 18417
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KINDAM",
+    "id": 18418
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEDRESE",
+    "id": 18419
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLDİKEN",
+    "id": 18420
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, KARŞIYAKA",
+    "id": 18421
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, ÖRCÜN",
+    "id": 18422
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİCE",
+    "id": 18423
+  },
+  {
+    "İL": "KIRŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZBAĞ, HELVACILAR",
+    "id": 18424
+  }
+]

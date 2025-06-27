@@ -1,0 +1,392 @@
+[
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "BEŞİKLİ",
+    "id": 6269
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "YÜZBAŞI",
+    "id": 6270
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "ÇARŞI",
+    "id": 6271
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "YENİ",
+    "id": 6272
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "DOĞANLAR",
+    "id": 6273
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "DEREBOĞAZ",
+    "id": 6274
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "PAZARYERİ",
+    "MAHALLE": "PAMUCAKOSB",
+    "id": 6275
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "OSMANELİ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 6276
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "OSMANELİ",
+    "MAHALLE": "HACELOĞLU",
+    "id": 6277
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "OSMANELİ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 6278
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "OSMANELİ",
+    "MAHALLE": "CAMİCEDİT",
+    "id": 6279
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "ÇARŞI",
+    "id": 6280
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "DODURGA, MEHMET AKİF",
+    "id": 6281
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "DODURGA, ZİYA GÖKALP",
+    "id": 6282
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "4 EYLÜL",
+    "id": 6283
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "DODURGA, NAMIK KEMAL",
+    "id": 6284
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "İÇKÖY",
+    "id": 6285
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "YENİ",
+    "id": 6286
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 6287
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "KASIMPAŞA",
+    "id": 6288
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 6289
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "DODURGA, MİTHATPAŞA",
+    "id": 6290
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "AKPINAR",
+    "id": 6291
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "YEDİLER",
+    "id": 6292
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "BOZÜYÜK",
+    "MAHALLE": "TEKKE",
+    "id": 6293
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "GÖLPAZARI",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 6294
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "GÖLPAZARI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6295
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "GÖLPAZARI",
+    "MAHALLE": "İSTİKLAL",
+    "id": 6296
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "GÖLPAZARI",
+    "MAHALLE": "ORTA",
+    "id": 6297
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "GÖLPAZARI",
+    "MAHALLE": "REŞADİYE",
+    "id": 6298
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET 1.OSB",
+    "id": 6299
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 6300
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ERTUĞRULGAZİ",
+    "id": 6301
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET 2.OSB",
+    "id": 6302
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 6303
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 6304
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTASYON",
+    "id": 6305
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYIRKÖY, FATİH",
+    "id": 6306
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEZİRHAN, İSTASYON",
+    "id": 6307
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEZİRHAN, KÖPRÜLÜ MEHMET PAŞA",
+    "id": 6308
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEZİRHAN, YENİ",
+    "id": 6309
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEZİRHAN, ERTUĞRULGAZİ",
+    "id": 6310
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6311
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 6312
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEŞİKTAŞ",
+    "id": 6313
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYIRKÖY, GAZİ",
+    "id": 6314
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "VEZİRHAN, KAYALAR",
+    "id": 6315
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYIRKÖY, SARMAŞIK",
+    "id": 6316
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 6317
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PELİTÖZÜ",
+    "id": 6318
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 6319
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 6320
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "SÖĞÜT",
+    "MAHALLE": "ORTA",
+    "id": 6321
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "SÖĞÜT",
+    "MAHALLE": "BALABAN",
+    "id": 6322
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "SÖĞÜT",
+    "MAHALLE": "KAYHAN",
+    "id": 6323
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "SÖĞÜT",
+    "MAHALLE": "TÜRKMENBAŞI",
+    "id": 6324
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "SÖĞÜT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 6325
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "İNHİSAR",
+    "MAHALLE": "GÜNER ORBAY",
+    "id": 6326
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "İNHİSAR",
+    "MAHALLE": "ZAFER",
+    "id": 6327
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "İNHİSAR",
+    "MAHALLE": "AKKUM",
+    "id": 6328
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "İNHİSAR",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 6329
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ZAFER",
+    "id": 6330
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "YENİ",
+    "id": 6331
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 6332
+  },
+  {
+    "İL": "BİLECİK",
+    "İLÇE": "YENİPAZAR",
+    "MAHALLE": "ÇÖTE",
+    "id": 6333
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YAYLADÜZÜ, CUMHURİYET",
+    "id": 1457
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YÜCEKAPI, YEŞİLYURT",
+    "id": 1458
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1459
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YÜCEKAPI, ESENTEPE",
+    "id": 1460
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "LOZAN",
+    "id": 1461
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "MÜFTÜSELİM",
+    "id": 1462
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YAYLADÜZÜ, KARŞIYAKA",
+    "id": 1463
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YÜCEKAPI, OKLAVALI",
+    "id": 1464
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YAYLADÜZÜ, AŞAĞICİHANBEY",
+    "id": 1465
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "TAHİR, KARŞIYAKA",
+    "id": 1466
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "FATİH",
+    "id": 1467
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 1468
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "İSTİKLAL",
+    "id": 1469
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "TAHİR, YEŞİL",
+    "id": 1470
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YÜCEKAPI, ŞEHİT ENGİN",
+    "id": 1471
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "TAHİR, AYDINTEPE",
+    "id": 1472
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YAYLADÜZÜ, DEĞİRMENGEÇİDİ",
+    "id": 1473
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "ESENTEPE",
+    "id": 1474
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 1475
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "ELEŞKİRT",
+    "MAHALLE": "YAYLADÜZÜ, GÖKÇAYIR",
+    "id": 1476
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TUTAK",
+    "MAHALLE": "CAMİ",
+    "id": 1477
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TUTAK",
+    "MAHALLE": "MURAT",
+    "id": 1478
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TUTAK",
+    "MAHALLE": "PINAR",
+    "id": 1479
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TUTAK",
+    "MAHALLE": "YENİ",
+    "id": 1480
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TUTAK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 1481
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "İSAAĞA",
+    "id": 1482
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "GÖL",
+    "id": 1483
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "MURAT",
+    "id": 1484
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "KETENPINAR",
+    "id": 1485
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "14 NİSAN",
+    "id": 1486
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "ATATÜRK",
+    "id": 1487
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DİYADİN",
+    "MAHALLE": "FATİH",
+    "id": 1488
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "ABDİGÖR",
+    "id": 1489
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "İSHAKPAŞA",
+    "id": 1490
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "ÇİFTEPINAR",
+    "id": 1491
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "KOÇKIRAN",
+    "id": 1492
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "BARIŞ",
+    "id": 1493
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "SARIGÜL",
+    "id": 1494
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "ULUYOL",
+    "id": 1495
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "HASANKEYF",
+    "id": 1496
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "AHMEDİHANİ",
+    "id": 1497
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "VATAN",
+    "id": 1498
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "BÜYÜK AĞRI",
+    "id": 1499
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1500
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "SANAYİ",
+    "id": 1501
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "DOĞUBAYAZIT",
+    "MAHALLE": "YENİ",
+    "id": 1502
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "HAMUR",
+    "MAHALLE": "BUZHANE",
+    "id": 1503
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "HAMUR",
+    "MAHALLE": "KALE",
+    "id": 1504
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "HAMUR",
+    "MAHALLE": "YENİ",
+    "id": 1505
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "HAMUR",
+    "MAHALLE": "KÜMBET",
+    "id": 1506
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1507
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAVUZ",
+    "id": 1508
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 1509
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 1510
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 1511
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "100.YIL",
+    "id": 1512
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABİDE",
+    "id": 1513
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FIRAT",
+    "id": 1514
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 1515
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KURTULUŞ",
+    "id": 1516
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 1517
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SITKIYE",
+    "id": 1518
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİ",
+    "id": 1519
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MURAT",
+    "id": 1520
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AŞAĞIKÜPKIRAN",
+    "id": 1521
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "LEYLEK PINAR",
+    "id": 1522
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALPASLAN",
+    "id": 1523
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1524
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "AHMED-İ HANİ",
+    "id": 1525
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "14 NİSAN",
+    "id": 1526
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SÜPHAN DAĞI",
+    "id": 1527
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 1528
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "DEDELİ, BUDAK",
+    "id": 1529
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "DEDELİ, YEŞİLOVA",
+    "id": 1530
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "ALPASLAN",
+    "id": 1531
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SARISU",
+    "id": 1532
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1533
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SÜTLÜ PINAR",
+    "id": 1534
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "DEDELİ, MERKEZ",
+    "id": 1535
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SANAYİ",
+    "id": 1536
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "YUNUSEMRE",
+    "id": 1537
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "DEDELİ, ÜZÜMLÜ",
+    "id": 1538
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "BADİŞAN",
+    "id": 1539
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "ÇAY",
+    "id": 1540
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "CAMİ",
+    "id": 1541
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "DEDELİ, CUMHURİYET",
+    "id": 1542
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "ABDULVEHAP KÜFREVİ",
+    "id": 1543
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "ATATÜRK",
+    "id": 1544
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "YEŞİL ÇİMEN",
+    "id": 1545
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "İNÖNÜ",
+    "id": 1546
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SERHAD",
+    "id": 1547
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "SELAHADDİNİ EYYUBİ",
+    "id": 1548
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "PATNOS",
+    "MAHALLE": "YENİ",
+    "id": 1549
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TAŞLIÇAY",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 1550
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TAŞLIÇAY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 1551
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TAŞLIÇAY",
+    "MAHALLE": "15 TEMMUZ ŞEHİTLER",
+    "id": 1552
+  },
+  {
+    "İL": "AĞRI",
+    "İLÇE": "TAŞLIÇAY",
+    "MAHALLE": "HÜRRİYET",
+    "id": 1553
+  }
+]

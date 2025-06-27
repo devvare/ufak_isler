@@ -1,0 +1,302 @@
+[
+  {
+    "İL": "SİNOP",
+    "İLÇE": "ERFELEK",
+    "MAHALLE": "KINIK",
+    "id": 27777
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "ERFELEK",
+    "MAHALLE": "MERKEZ",
+    "id": 27778
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "ERFELEK",
+    "MAHALLE": "SALAVAT",
+    "id": 27779
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MEYDANKAPI",
+    "id": 27780
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KORUCUK",
+    "id": 27781
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNCEDAYI",
+    "id": 27782
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ORDU",
+    "id": 27783
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANİYE",
+    "id": 27784
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ZEYTİNLİK",
+    "id": 27785
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ADA",
+    "id": 27786
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 27787
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 27788
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GELİNCİK",
+    "id": 27789
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALEYAZISI",
+    "id": 27790
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOSTANCILI",
+    "id": 27791
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KEFEVİ",
+    "id": 27792
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "TÜRKELİ",
+    "MAHALLE": "GEMİYANI",
+    "id": 27793
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "TÜRKELİ",
+    "MAHALLE": "TÜMERKAN",
+    "id": 27794
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "TÜRKELİ",
+    "MAHALLE": "GÜZELYURT",
+    "id": 27795
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "AYANCIK",
+    "MAHALLE": "ÇAYİÇİ",
+    "id": 27796
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "AYANCIK",
+    "MAHALLE": "BEŞİKTAŞ",
+    "id": 27797
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "AYANCIK",
+    "MAHALLE": "CEVİZLİ",
+    "id": 27798
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "AYANCIK",
+    "MAHALLE": "DENİZCİLER",
+    "id": 27799
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "AYANCIK",
+    "MAHALLE": "YALI",
+    "id": 27800
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "ATATÜRK",
+    "id": 27801
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 27802
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "19 MAYIS",
+    "id": 27803
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "ÇARŞI",
+    "id": 27804
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "HAMİDİYE",
+    "id": 27805
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "KÖŞK",
+    "id": 27806
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "GERZE",
+    "MAHALLE": "YENİ",
+    "id": 27807
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "GÖKDERE",
+    "id": 27808
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "SEFA",
+    "id": 27809
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "KUMLUK",
+    "id": 27810
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "ÇAMLICA",
+    "id": 27811
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "ZİNCİRLİKUYU",
+    "id": 27812
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "ESENTEPE",
+    "id": 27813
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 27814
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "YILDIZ",
+    "id": 27815
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "BOYABAT",
+    "MAHALLE": "YENİ",
+    "id": 27816
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "SARAYDÜZÜ",
+    "MAHALLE": "MERKEZ",
+    "id": 27817
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DİKMEN",
+    "MAHALLE": "KIRÇAL",
+    "id": 27818
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DİKMEN",
+    "MAHALLE": "BABALIOĞLU",
+    "id": 27819
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DİKMEN",
+    "MAHALLE": "ÇORAK",
+    "id": 27820
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "MERKEZ",
+    "id": 27821
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "GÖKIRMAK",
+    "id": 27822
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "BUZLUK",
+    "id": 27823
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "ALTINKAYA",
+    "id": 27824
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 27825
+  },
+  {
+    "İL": "SİNOP",
+    "İLÇE": "DURAĞAN",
+    "MAHALLE": "YANDAK",
+    "id": 27826
+  }
+]

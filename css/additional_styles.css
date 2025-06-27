@@ -1,0 +1,406 @@
+/* Floating Bizimle Çalışın Butonu */
+.floating-btn {
+    position: fixed;
+    bottom: 100px; /* WhatsApp butonunun üstünde */
+    right: 20px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    z-index: 9999; /* Header'dan daha yüksek z-index değeri */
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    border: none;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.floating-btn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+.floating-btn i {
+    margin-right: 8px;
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--card-bg);
+    min-width: 220px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 9999; /* En yüksek z-index değeri */
+    border-radius: 8px;
+    margin-top: 5px;
+    border: 1px solid var(--border-color);
+    left: 0; /* Dropdown'un sol taraftan başlamasını sağlar */
+    top: 100%; /* Ana menü öğesinin hemen altında konumlandırır */
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+    opacity: 1;
+    visibility: visible;
+}
+
+.dropdown-content a {
+    color: var(--white);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: all 0.3s ease;
+    border-radius: 0;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(234, 88, 12, 0.1);
+    color: var(--secondary-color);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block !important;
+    animation: fadeIn 0.3s ease;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Dropdown menü hover alanını genişletme */
+.dropdown-content::before {
+    content: '';
+    position: absolute;
+    top: -20px; /* Hover alanını yukarı doğru genişlet */
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background-color: transparent;
+}
+
+/* Services Daily Help */
+.services.daily-help {
+    background-color: var(--dark-bg);
+}
+
+/* Katılım Ücreti Kartları Stilleri */
+.fee-card {
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin-bottom: 30px;
+    border: 1px solid var(--border-color);
+}
+
+.fee-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.fee-details p, .fee-details-inner p, .fee-note p {
+    color: #e0e0e0; /* Daha koyu bir renk */
+    font-weight: 500; /* Yazıyı biraz daha kalın yapma */
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.fee-note {
+    background-color: rgba(52, 152, 219, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    border-left: 4px solid #3498db;
+}
+
+.fee-note p {
+    margin-bottom: 0;
+}
+
+.fee-note strong {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Konum Seçimi Stilleri */
+select {
+    background-color: #2c3e50;
+    color: #ffffff;
+    border: 1px solid #3a506b;
+    padding: 10px 15px;
+    border-radius: 6px;
+    width: 100%;
+    font-size: 16px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="white" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+}
+
+select option {
+    background-color: #2c3e50 !important;
+    color: #ffffff !important;
+    padding: 10px;
+}
+
+/* Konum Modalı Özel Stilleri */
+.location-modal-content select {
+    background-color: #2c3e50;
+    color: #ffffff;
+    border: 1px solid #3a506b;
+}
+
+.location-modal-content select option {
+    background-color: #2c3e50 !important;
+    color: #ffffff !important;
+}
+
+/* WhatsApp Konum Seçim Penceresi Stilleri */
+.location-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.location-modal-content {
+    background-color: #0f172a;
+    padding: 30px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+    border: 1px solid #3a506b;
+}
+
+.location-modal-content h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 15px;
+}
+
+.location-modal-content p {
+    color: #ffffff;
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.location-form .form-group {
+    margin-bottom: 25px;
+}
+
+.location-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.location-form select {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 8px;
+    background-color: #1e293b;
+    color: #ffffff;
+    border: 1px solid #3a506b;
+    font-size: 16px;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="white" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    transition: all 0.3s ease;
+}
+
+.location-form select:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 2px rgba(234, 88, 12, 0.3);
+}
+
+.location-form .btn {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.location-info {
+    background-color: rgba(234, 88, 12, 0.1);
+    border-left: 4px solid var(--secondary-color);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.location-info p {
+    color: #ffffff;
+    margin: 0;
+    font-size: 14px;
+}
+
+.location-info strong {
+    color: var(--secondary-color);
+}
+
+.close-modal {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 28px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-modal:hover {
+    color: #ea580c;
+}
+
+/* Service Categories Section */
+.service-categories {
+    padding: 80px 0;
+    background-color: var(--dark-bg);
+}
+
+.category-cards {
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.category-card {
+    flex: 1;
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.category-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.category-icon {
+    font-size: 3rem;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.category-card h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: var(--white);
+    text-align: center;
+}
+
+.category-card p {
+    color: #e0e0e0; /* Daha koyu bir renk */
+    margin-bottom: 20px;
+    flex-grow: 1;
+    font-weight: 500; /* Yazıyı biraz daha kalın yapma */
+}
+
+.category-features {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.category-features li {
+    margin-bottom: 10px;
+    color: var(--white);
+    display: flex;
+    align-items: center;
+}
+
+.category-features li i {
+    color: var(--secondary-color);
+    margin-right: 10px;
+}
+
+.category-card .btn {
+    align-self: center;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .category-cards {
+        flex-direction: column;
+    }
+    
+    /* Mobil görünümde header düzenlemesi */
+    header .container {
+        padding: 10px 15px;
+    }
+    
+    header nav ul {
+        display: none;
+    }
+    
+    /* Mobil görünümde floating buton ayarları */
+    .floating-btn {
+        bottom: 80px;
+        right: 15px;
+        padding: 10px 16px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Hizmet Bölgeleri Sayfası Bizimle Çalışın CTA */
+.join-us-cta {
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(234, 88, 12, 0.8) 100%);
+    padding: 40px 20px;
+    border-radius: 12px;
+    margin: 40px 0;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+.join-us-cta h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: var(--white);
+}
+
+.join-us-cta p {
+    color: #e0e0e0;
+    margin-bottom: 25px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.join-us-cta .btn {
+    font-size: 1.1rem;
+    padding: 12px 30px;
+}

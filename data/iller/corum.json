@@ -1,0 +1,764 @@
+[
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "MEYDAN",
+    "id": 7998
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "MUTAFLAR",
+    "id": 7999
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "ULUDERE",
+    "id": 8000
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "BAHABEY",
+    "id": 8001
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "KALEBOĞAZI",
+    "id": 8002
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "SAKARYA",
+    "id": 8003
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "HACIPİRİ",
+    "id": 8004
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "ERENLER",
+    "id": 8005
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "YENİCAMİ",
+    "id": 8006
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 8007
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "ULAŞTEPE",
+    "id": 8008
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "BÜYÜKTAŞ",
+    "id": 8009
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "TABAKHANE",
+    "id": 8010
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "İSKİLİP",
+    "MAHALLE": "EKİZOĞLU",
+    "id": 8011
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "ŞEHLER",
+    "id": 8012
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8013
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "HIDIRLIK",
+    "id": 8014
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "TUTLUK",
+    "id": 8015
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "DOĞU",
+    "id": 8016
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 8017
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "SARIDEDE",
+    "id": 8018
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MECİTÖZÜ",
+    "MAHALLE": "MESCİT",
+    "id": 8019
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "FATİH",
+    "id": 8020
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "HACETTEPE",
+    "id": 8021
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "TURAN",
+    "id": 8022
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "BAŞPINAR",
+    "id": 8023
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 8024
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "FEVZİ PAŞA",
+    "id": 8025
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "GÜRPINAR",
+    "id": 8026
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8027
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "AKÇAKENT",
+    "id": 8028
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "CEVHERİ",
+    "id": 8029
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "SUNGUROĞLU",
+    "id": 8030
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "AKÇAY",
+    "id": 8031
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 8032
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "ŞEKERPINAR",
+    "id": 8033
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "ÖRNEKEVLER",
+    "id": 8034
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "SUNGURLU",
+    "MAHALLE": "YENİHAYAT",
+    "id": 8035
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BAYAT",
+    "MAHALLE": "DERE",
+    "id": 8036
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BAYAT",
+    "MAHALLE": "YENİ",
+    "id": 8037
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BAYAT",
+    "MAHALLE": "KAYABAŞI",
+    "id": 8038
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BAYAT",
+    "MAHALLE": "YATUKCU",
+    "id": 8039
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BAYAT",
+    "MAHALLE": "TEPEBAYAT",
+    "id": 8040
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "OKUL",
+    "id": 8041
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "ESENTEPE",
+    "id": 8042
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "ULUCAMİ",
+    "id": 8043
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "ÇATAR",
+    "id": 8044
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 8045
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "DODURGA",
+    "MAHALLE": "DOĞU",
+    "id": 8046
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇEPNİ",
+    "id": 8047
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, GEDİKBEKİR",
+    "id": 8048
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, İKİPINAR",
+    "id": 8049
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, ATAKÖY",
+    "id": 8050
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLABİBEY",
+    "id": 8051
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KALE",
+    "id": 8052
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÜÇTUTLAR",
+    "id": 8053
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİYOL",
+    "id": 8054
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, KIŞLADERESİ",
+    "id": 8055
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ULUKAVAK",
+    "id": 8056
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, YUNUSEMRE",
+    "id": 8057
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, KUTLAK",
+    "id": 8058
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAVRUTURNA",
+    "id": 8059
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8060
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇÖPLÜ",
+    "id": 8061
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAKEÇİLİ",
+    "id": 8062
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KUNDUZHAN",
+    "id": 8063
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 8064
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, FATİH SULTAN MEHMET",
+    "id": 8065
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AK KENT",
+    "id": 8066
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYAT",
+    "id": 8067
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DÜVENCİ, MİMARSİNAN",
+    "id": 8068
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BUHARAEVLER",
+    "id": 8069
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PINARÇAYOSB",
+    "id": 8070
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "UĞURLUDAĞ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 8071
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "UĞURLUDAĞ",
+    "MAHALLE": "TUTPINAR",
+    "id": 8072
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "UĞURLUDAĞ",
+    "MAHALLE": "YENİCAMİİ",
+    "id": 8073
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "UĞURLUDAĞ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 8074
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "UĞURLUDAĞ",
+    "MAHALLE": "YÜZGEÇ",
+    "id": 8075
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8076
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "DENİZHAN",
+    "id": 8077
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "ÖZHAN",
+    "id": 8078
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "CENGİZHAN",
+    "id": 8079
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "GÜNHAN",
+    "id": 8080
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "YILDIZHAN",
+    "id": 8081
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ALACA",
+    "MAHALLE": "AYHAN",
+    "id": 8082
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8083
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "İMAMBEY",
+    "id": 8084
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "FATİH",
+    "id": 8085
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "YENİ",
+    "id": 8086
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "MİHRİHATUN",
+    "id": 8087
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "KARGI",
+    "MAHALLE": "ORTA",
+    "id": 8088
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "KARAPINAR",
+    "id": 8089
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "ŞENYURT",
+    "id": 8090
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "HIDIRLIK",
+    "id": 8091
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "TEMENÇE",
+    "id": 8092
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "ÇAY",
+    "id": 8093
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "YENİ",
+    "id": 8094
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "ESENTEPE",
+    "id": 8095
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "EYMİR",
+    "id": 8096
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "ÇİFTLİKLER",
+    "id": 8097
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "GÜNEY",
+    "id": 8098
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "YAZI",
+    "id": 8099
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "GÜRLEYİK",
+    "id": 8100
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "KIZILIRMAK",
+    "id": 8101
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "GEMİCİ",
+    "id": 8102
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "ULUCAMİİ",
+    "id": 8103
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "YEŞİLÇATMA",
+    "id": 8104
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8105
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OSMANCIK",
+    "MAHALLE": "KOYUNBABA",
+    "id": 8106
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "ASARÇAY",
+    "id": 8107
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "BİRTATLI",
+    "id": 8108
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 8109
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "KARADONLU",
+    "id": 8110
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "KIZILCAPELİT",
+    "id": 8111
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "ÇARŞI",
+    "id": 8112
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "OĞUZLAR",
+    "MAHALLE": "ÇEŞME",
+    "id": 8113
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BOĞAZKALE",
+    "MAHALLE": "HATTUSAS",
+    "id": 8114
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BOĞAZKALE",
+    "MAHALLE": "HİSAR",
+    "id": 8115
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "BOĞAZKALE",
+    "MAHALLE": "ÇARŞI",
+    "id": 8116
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "LAÇİN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8117
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "LAÇİN",
+    "MAHALLE": "FATİH",
+    "id": 8118
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "LAÇİN",
+    "MAHALLE": "YENİ",
+    "id": 8119
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "SUYOLU",
+    "id": 8120
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "AŞTAVUL, BAHÇELİEVLER",
+    "id": 8121
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "CUMHURİYET",
+    "id": 8122
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "AŞTAVUL, ŞİRİNEVLER",
+    "id": 8123
+  },
+  {
+    "İL": "ÇORUM",
+    "İLÇE": "ORTAKÖY",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 8124
+  }
+]

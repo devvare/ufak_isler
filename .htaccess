@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# SEO dostu URL'leri hizmet-bolgesi.html sayfasına yönlendir
+# Örnek: /hizmet/mugla/marmaris/kemeraltı/onarim/personel-var/ -> hizmet-bolgesi.html
+
+# Personel durumu olan URL'ler için
+RewriteRule ^hizmet/([^/]+)/([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ hizmet-bolgesi.html?il=$1&ilce=$2&mahalle=$3&tip=$4&durum=$5 [L,QSA]
+
+# Personel durumu olmayan URL'ler için
+RewriteRule ^hizmet/([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ hizmet-bolgesi.html?il=$1&ilce=$2&mahalle=$3&tip=$4 [L,QSA]
+
+# Eğer mahalleId parametresi URL'de varsa, onu da ekle
+RewriteCond %{QUERY_STRING} mahalleId=([0-9]+)
+RewriteRule ^hizmet-bolgesi.html$ - [L]
+
+# 404 hataları için ana sayfaya yönlendir
+ErrorDocument 404 /index.html

@@ -1,0 +1,590 @@
+[
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "BEYDERE",
+    "id": 7900
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "TOPRAKLIK",
+    "id": 7901
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 7902
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "CAMİ",
+    "id": 7903
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "DERE",
+    "id": 7904
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ELDİVAN",
+    "MAHALLE": "ÇAY",
+    "id": 7905
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "OKÇULAR",
+    "id": 7906
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "SAÇAK, GÜZELYURT",
+    "id": 7907
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "SAÇAK, YALIÖZÜ",
+    "id": 7908
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "KARAMUKLU",
+    "id": 7909
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "SAÇAK, KAYABAŞI",
+    "id": 7910
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "İSTASYON",
+    "id": 7911
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "SAÇAK, YENİ",
+    "id": 7912
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "ÇERKEŞOSB",
+    "id": 7913
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "İDRİS",
+    "id": 7914
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 7915
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "YENİ",
+    "id": 7916
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "ULUSU",
+    "id": 7917
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "YENİ KENT",
+    "id": 7918
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "KURTLAR",
+    "id": 7919
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ÇERKEŞ",
+    "MAHALLE": "KARALAR",
+    "id": 7920
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "KARATAŞ",
+    "id": 7921
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "GAZİ DEDE",
+    "id": 7922
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "YAVUZ",
+    "id": 7923
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "FATİH",
+    "id": 7924
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "YUKARI",
+    "id": 7925
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "ZİRAAT",
+    "id": 7926
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "ŞENTEPE",
+    "id": 7927
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "YENİ",
+    "id": 7928
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ILGAZ",
+    "MAHALLE": "ULUPINAR",
+    "id": 7929
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "BAYRAMÖREN",
+    "MAHALLE": "ZÜBEYDE HANIM",
+    "id": 7930
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "BAYRAMÖREN",
+    "MAHALLE": "KÖPRÜLÜBEY",
+    "id": 7931
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "BAYRAMÖREN",
+    "MAHALLE": "MERKEZ",
+    "id": 7932
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "ERENLER",
+    "id": 7933
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "KALEKAPU",
+    "id": 7934
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "MÜSLÜM",
+    "id": 7935
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "YEŞİL",
+    "id": 7936
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "HACI BEKİR",
+    "id": 7937
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "BEŞPINAR",
+    "id": 7938
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "ÇAL",
+    "id": 7939
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "ÇİYNİ",
+    "id": 7940
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "CÖMERTLER",
+    "id": 7941
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "KALE",
+    "id": 7942
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KURŞUNLU",
+    "MAHALLE": "YENİ",
+    "id": 7943
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "ESKİ YAYLA",
+    "id": 7944
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "YAYLAKENT, KAYILAR",
+    "id": 7945
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "YAYLAKENT, CUMHURİYET",
+    "id": 7946
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "SULTAN BEYAZIT",
+    "id": 7947
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "YAYLAKENT, HÜRRİYET",
+    "id": 7948
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "YAYLAKENT, İNKİLAP",
+    "id": 7949
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "KANLICA",
+    "id": 7950
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ORTA",
+    "MAHALLE": "CEM SULTAN",
+    "id": 7951
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KORGUN",
+    "MAHALLE": "BÜYÜKOSB",
+    "id": 7952
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KORGUN",
+    "MAHALLE": "DOĞU",
+    "id": 7953
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KORGUN",
+    "MAHALLE": "ULUDAĞ",
+    "id": 7954
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KORGUN",
+    "MAHALLE": "BÜYÜK",
+    "id": 7955
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "GÜMERDİĞİN",
+    "id": 7956
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "SAĞLIK",
+    "id": 7957
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 7958
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "YENİ",
+    "id": 7959
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "GÜRPINAR",
+    "id": 7960
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 7961
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "YENİOSB",
+    "id": 7962
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ŞABANÖZÜ",
+    "MAHALLE": "KARAÖREN",
+    "id": 7963
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALİBEY",
+    "id": 7964
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 7965
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ABDULHALİK RENDA",
+    "id": 7966
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARATAŞ",
+    "id": 7967
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TABAKHANE",
+    "id": 7968
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 7969
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRKEVLER",
+    "id": 7970
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 7971
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNCİLİ ÇEŞME",
+    "id": 7972
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKSU",
+    "id": 7973
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 7974
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 7975
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BUĞDAY PAZARI",
+    "id": 7976
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARATEKİN",
+    "id": 7977
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "HOCA",
+    "id": 7978
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "GAZİBEY",
+    "id": 7979
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ILIPINAR",
+    "id": 7980
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ÇARDAKLI, MUSTAFA KEMAL",
+    "id": 7981
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ÇARDAKLI, CUMHURİYET",
+    "id": 7982
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "KIRAN",
+    "id": 7983
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ÇARDAKLI, HÜRRİYET",
+    "id": 7984
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "İLKER",
+    "id": 7985
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "MOLLAOSMAN",
+    "id": 7986
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ÇARDAKLI, BOZKUŞ",
+    "id": 7987
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "ATKARACALAR",
+    "MAHALLE": "ÇARDAKLI, NEVZAT AYAZ",
+    "id": 7988
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "AKYAZI",
+    "id": 7989
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 7990
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "İĞDİR",
+    "id": 7991
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "AŞAĞI",
+    "id": 7992
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "KAVAK",
+    "id": 7993
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "YAPRAKLI",
+    "MAHALLE": "YUKARI",
+    "id": 7994
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KIZILIRMAK",
+    "MAHALLE": "OSMANLI",
+    "id": 7995
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KIZILIRMAK",
+    "MAHALLE": "YENİ",
+    "id": 7996
+  },
+  {
+    "İL": "ÇANKIRI",
+    "İLÇE": "KIZILIRMAK",
+    "MAHALLE": "HÜSEYİNLİ",
+    "id": 7997
+  }
+]

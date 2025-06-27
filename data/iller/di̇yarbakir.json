@@ -1,0 +1,6296 @@
+[
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARAÇALI",
+    "id": 8745
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "NEFİRTAŞ",
+    "id": 8746
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "PINARDÜZÜ",
+    "id": 8747
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ZİYA GÖKALP",
+    "id": 8748
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ALİ PAŞA",
+    "id": 8749
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "HAVACILAR",
+    "id": 8750
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KÜÇÜKKADI",
+    "id": 8751
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SARIKAMIŞ",
+    "id": 8752
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SÜLEYMAN NAZİF",
+    "id": 8753
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YİĞİTÇAVUŞ",
+    "id": 8754
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BÜYÜKAKÖREN",
+    "id": 8755
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "CEVAT PAŞA",
+    "id": 8756
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "HARMANLAR",
+    "id": 8757
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "HIZIR İLYAS",
+    "id": 8758
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ZİYARET",
+    "id": 8759
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DUMRUL",
+    "id": 8760
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "İSKENDERPAŞA",
+    "id": 8761
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "MELİKAHMET",
+    "id": 8762
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SAĞDIÇLI",
+    "id": 8763
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SARILAR",
+    "id": 8764
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SATİ",
+    "id": 8765
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BAĞPINAR",
+    "id": 8766
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BAHÇECİK",
+    "id": 8767
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "GENCAN",
+    "id": 8768
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KIRMASIRT",
+    "id": 8769
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KUŞLUKBAĞI",
+    "id": 8770
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "TANOĞLU",
+    "id": 8771
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "TEZGEÇER",
+    "id": 8772
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 8773
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BEYBULAK",
+    "id": 8774
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BOZDEMİR",
+    "id": 8775
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KAVAKLIBAĞ",
+    "id": 8776
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KOYUNGÜDEN",
+    "id": 8777
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SÜNGÜLER",
+    "id": 8778
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DOĞANLI",
+    "id": 8779
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "GÜLTEPE",
+    "id": 8780
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARAÇİMEN",
+    "id": 8781
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KUŞBURNU",
+    "id": 8782
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YEŞİLLİ",
+    "id": 8783
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YUKARIKILIÇTAŞI",
+    "id": 8784
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BÜYÜKKADI",
+    "id": 8785
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "CAMİ NEBİ",
+    "id": 8786
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DERVİŞHASAN",
+    "id": 8787
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "FİDANLAR",
+    "id": 8788
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ÖZEKLİ",
+    "id": 8789
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SAPANCA",
+    "id": 8790
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YENİCE",
+    "id": 8791
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARDEŞLER",
+    "id": 8792
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "MERMERİ",
+    "id": 8793
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SAYARLAR",
+    "id": 8794
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ALABAL",
+    "id": 8795
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ALİBARDAK",
+    "id": 8796
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BAROĞLU",
+    "id": 8797
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ÇATAKSU",
+    "id": 8798
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "HACIOSMAN",
+    "id": 8799
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KAPAKLIPINAR",
+    "id": 8800
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 8801
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "LALEBEY",
+    "id": 8802
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "CAMİ KEBİR",
+    "id": 8803
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARTALTEPE",
+    "id": 8804
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KITILBIL",
+    "id": 8805
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KONACIK",
+    "id": 8806
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KUMRUCAK",
+    "id": 8807
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YEŞİLVADİ",
+    "id": 8808
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ABDALDEDE",
+    "id": 8809
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DABANOĞLU",
+    "id": 8810
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "GÖLPINAR",
+    "id": 8811
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KABASAKAL",
+    "id": 8812
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARPUZTEPE",
+    "id": 8813
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KUMLUÇAT",
+    "id": 8814
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KÜÇÜKAKÖREN",
+    "id": 8815
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SARIYAZMA",
+    "id": 8816
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SAVAŞ",
+    "id": 8817
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YENİEVLER",
+    "id": 8818
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "AĞAÇLIDERE",
+    "id": 8819
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ARPADERESİ",
+    "id": 8820
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "BOSTANPINAR",
+    "id": 8821
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DİCLE",
+    "id": 8822
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ESENBAĞ",
+    "id": 8823
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARABAŞ",
+    "id": 8824
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARACAÖREN",
+    "id": 8825
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KARPUZLU",
+    "id": 8826
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KOZAN",
+    "id": 8827
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "SOĞANLI",
+    "id": 8828
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ÇELİKLİ",
+    "id": 8829
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 8830
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KÖŞK",
+    "id": 8831
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YARIMCA",
+    "id": 8832
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "DOĞU ÇANAKÇI",
+    "id": 8833
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ERİMLİ",
+    "id": 8834
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ERYOLU",
+    "id": 8835
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "FATİHPAŞA",
+    "id": 8836
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "HASIRLI",
+    "id": 8837
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KAYAYOLU",
+    "id": 8838
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KENGERLİ",
+    "id": 8839
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "KERVANPINAR",
+    "id": 8840
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "ALCIK",
+    "id": 8841
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "CEMAL YILMAZ",
+    "id": 8842
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "MERMER",
+    "id": 8843
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SUR",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 8844
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 8845
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "AVUT",
+    "id": 8846
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "GÖKÇEPELİT",
+    "id": 8847
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "GÜNEYDERE",
+    "id": 8848
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "HANDERE",
+    "id": 8849
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ORMANÇAYI",
+    "id": 8850
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "CAMİİSUK",
+    "id": 8851
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "KARAKAYA",
+    "id": 8852
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "TÜRKMEN",
+    "id": 8853
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "AKBAŞAK",
+    "id": 8854
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 8855
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "İLYAS",
+    "id": 8856
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "NORŞİN",
+    "id": 8857
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ARPADERE",
+    "id": 8858
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "BALCILAR",
+    "id": 8859
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "GEÇİTKÖY",
+    "id": 8860
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "SEFERUŞAĞI",
+    "id": 8861
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "YAZYAĞMURU",
+    "id": 8862
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "KAYNAKKÖY",
+    "id": 8863
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "YENİCE",
+    "id": 8864
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ATALAR",
+    "id": 8865
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "KOÇÖREN",
+    "id": 8866
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ALBAYRAK",
+    "id": 8867
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "DEĞİRMENSUYU",
+    "id": 8868
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 8869
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "KELEŞEVLERİ",
+    "id": 8870
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "YAYGINKONAK",
+    "id": 8871
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "YUKARIŞEYHLER",
+    "id": 8872
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "AKTAŞ",
+    "id": 8873
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "OYUKLU",
+    "id": 8874
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "YENİKÖY",
+    "id": 8875
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ÇATALDUT",
+    "id": 8876
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "DEVEBOYNU",
+    "id": 8877
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "İBİKKAYA",
+    "id": 8878
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "SAĞTEPE",
+    "id": 8879
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "AYDINLI",
+    "id": 8880
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "CAMİİ KEBİR",
+    "id": 8881
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "ELMADERE",
+    "id": 8882
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "HİNDİBABA",
+    "id": 8883
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇÜNGÜŞ",
+    "MAHALLE": "POLATUŞAĞI",
+    "id": 8884
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "GÖZEBAŞI",
+    "id": 8885
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "AMBAR",
+    "id": 8886
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "BOZYER",
+    "id": 8887
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ŞEYH ŞERAFETTİN",
+    "id": 8888
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ÇAYTEPE",
+    "id": 8889
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ÇAYIRLI",
+    "id": 8890
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "HACI REŞİT",
+    "id": 8891
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "SUÇIKTI",
+    "id": 8892
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ŞERİFOĞULLARI",
+    "id": 8893
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "GÜNALAN",
+    "id": 8894
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "TEPECİK",
+    "id": 8895
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 8896
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "BOZBAĞLAR",
+    "id": 8897
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ŞAKLAT",
+    "id": 8898
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "KAYA",
+    "id": 8899
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "YAZIKÖY",
+    "id": 8900
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ÇAKMAKLI",
+    "id": 8901
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "GÖKÇEN",
+    "id": 8902
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "BOYUNLU",
+    "id": 8903
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "KOKULUPINAR",
+    "id": 8904
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "ARKBAŞI",
+    "id": 8905
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KOCAKÖY",
+    "MAHALLE": "EYÜPLER",
+    "id": 8906
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BULUNDU",
+    "id": 8907
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ALAKOÇ",
+    "id": 8908
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AŞAĞIŞEYHLER",
+    "id": 8909
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAYIRBAĞI",
+    "id": 8910
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ESKİBAĞ",
+    "id": 8911
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÜZEL",
+    "id": 8912
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KARATAŞ",
+    "id": 8913
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KÖMÜRCÜLER",
+    "id": 8914
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YAYIKLI",
+    "id": 8915
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ARABÜK",
+    "id": 8916
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAYRAK",
+    "id": 8917
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "İNCİLİ",
+    "id": 8918
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KÖKSAL",
+    "id": 8919
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "RECEP",
+    "id": 8920
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AKÇÖRTEN",
+    "id": 8921
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AYNALI",
+    "id": 8922
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAYAT",
+    "id": 8923
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÜNAŞAN",
+    "id": 8924
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YAYLACIK",
+    "id": 8925
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÖKTEPE",
+    "id": 8926
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KAYAGEDİĞİ",
+    "id": 8927
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BALIKSIRTI",
+    "id": 8928
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAYKAL",
+    "id": 8929
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KORUDAĞ",
+    "id": 8930
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 8931
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "DİKYOL",
+    "id": 8932
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÜRÜZ",
+    "id": 8933
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "HABURMAN",
+    "id": 8934
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KARACAVİRAN",
+    "id": 8935
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "SALTEPE",
+    "id": 8936
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AKKOYUNLU",
+    "id": 8937
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ALABUĞDAY",
+    "id": 8938
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ARMAĞANTAŞI",
+    "id": 8939
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AŞAĞITAŞMALI",
+    "id": 8940
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BADEMLİ",
+    "id": 8941
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 8942
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ELİFUŞAĞI",
+    "id": 8943
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KARAMUSA",
+    "id": 8944
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "TEPE",
+    "id": 8945
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ÇUKURELMA",
+    "id": 8946
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KALAÇ",
+    "id": 8947
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KALECİK",
+    "id": 8948
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ÖRENKUYU",
+    "id": 8949
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "SİNEK",
+    "id": 8950
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ŞEYHANDEDE",
+    "id": 8951
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BİNTAŞ",
+    "id": 8952
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ÇALITEPE",
+    "id": 8953
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ÇUKUR",
+    "id": 8954
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AĞAÇHAN",
+    "id": 8955
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ARTUK",
+    "id": 8956
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "CEYLAN",
+    "id": 8957
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÖZEREK",
+    "id": 8958
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KALA",
+    "id": 8959
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KONUKSEVER",
+    "id": 8960
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KUYU",
+    "id": 8961
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "PAMUKLU",
+    "id": 8962
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "PETEKKAYA",
+    "id": 8963
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "SARICA",
+    "id": 8964
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YİĞİTLER",
+    "id": 8965
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YOĞUN",
+    "id": 8966
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "İKİÇELTİK",
+    "id": 8967
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KEKLİK",
+    "id": 8968
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KIRMATEPE",
+    "id": 8969
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "SARIBALTA",
+    "id": 8970
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ARMUTLU",
+    "id": 8971
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAHÇE",
+    "id": 8972
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BAŞARI",
+    "id": 8973
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GÜÇLÜTAŞ",
+    "id": 8974
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KARTALTAŞI",
+    "id": 8975
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KUŞLUKÇAYIRI",
+    "id": 8976
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "AKPINAR",
+    "id": 8977
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "BİRCEMAL",
+    "id": 8978
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "GENCELİ",
+    "id": 8979
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KONAKLI",
+    "id": 8980
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "ASMALI",
+    "id": 8981
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "PINARLI",
+    "id": 8982
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "TOPLU",
+    "id": 8983
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "DİLEKPINAR",
+    "id": 8984
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "KARAKAYA",
+    "id": 8985
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "SARAY",
+    "id": 8986
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇERMİK",
+    "MAHALLE": "YABANARDI",
+    "id": 8987
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KARAHANKÖY",
+    "id": 8988
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "EKİNCE",
+    "id": 8989
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "FATİH",
+    "id": 8990
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "AĞAÇGEÇİT",
+    "id": 8991
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "DEVELİ",
+    "id": 8992
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ÇİÇEKLİYURT",
+    "id": 8993
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KAMIŞPINAR",
+    "id": 8994
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ALİPINAR",
+    "id": 8995
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "BAĞCILAR",
+    "id": 8996
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "BUÇUKTEPE",
+    "id": 8997
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "5 NİSAN",
+    "id": 8998
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "BUYURANSU",
+    "id": 8999
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "BATIÇANAKÇI",
+    "id": 9000
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 9001
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "BATIKARAKOÇ",
+    "id": 9002
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KAYNARTEPE",
+    "id": 9003
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KABAHIDIR",
+    "id": 9004
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KARACADAĞ",
+    "id": 9005
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "GÖMMETAŞ",
+    "id": 9006
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KIRKINCIK",
+    "id": 9007
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KIRKKOYUN",
+    "id": 9008
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ŞEYH ŞAMİL",
+    "id": 9009
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YENİKÖY",
+    "id": 9010
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "SAKALLI",
+    "id": 9011
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "UZUNBAHÇE",
+    "id": 9012
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KÖRTEPE",
+    "id": 9013
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "MEVLANA HALİT",
+    "id": 9014
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ÖVÜNDÜLER",
+    "id": 9015
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YUKARI MOLLAALİ",
+    "id": 9016
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YUKARIAKDİBEK",
+    "id": 9017
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "OĞLAKLI",
+    "id": 9018
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YALANKOZ",
+    "id": 9019
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YİĞİTYOLU",
+    "id": 9020
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 9021
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ORTAÖREN",
+    "id": 9022
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "SELAHATTİN EYYUBİ",
+    "id": 9023
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "TOPRAKTAŞ",
+    "id": 9024
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KOLLUDERE",
+    "id": 9025
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "TOKLUCA",
+    "id": 9026
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "MURADİYE",
+    "id": 9027
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "ÖZDEMİR",
+    "id": 9028
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "PINAROĞLU",
+    "id": 9029
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "YEŞİLDALLI",
+    "id": 9030
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "SARIDALLI",
+    "id": 9031
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "TELLİKAYA",
+    "id": 9032
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "TOPYOLU",
+    "id": 9033
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "KÖRHAT",
+    "id": 9034
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BAĞLAR",
+    "MAHALLE": "TAVŞANTEPE",
+    "id": 9035
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ARAFAT",
+    "id": 9036
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BİRA MEHMET AĞA",
+    "id": 9037
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇATALTARLA",
+    "id": 9038
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "GAZİ",
+    "id": 9039
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ALANCIK",
+    "id": 9040
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇINARKÖY",
+    "id": 9041
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BİLMECE",
+    "id": 9042
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "DEMİRÖLÇEK",
+    "id": 9043
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "DİKMENCİK",
+    "id": 9044
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "FATİH",
+    "id": 9045
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AKTEPE",
+    "id": 9046
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KARABABA",
+    "id": 9047
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "OVABAĞ",
+    "id": 9048
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SÜRENDAL",
+    "id": 9049
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "GÜMÜŞTAŞ",
+    "id": 9050
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KUYULUHÖYÜK",
+    "id": 9051
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "PEMBEVİRAN",
+    "id": 9052
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SELYAZI",
+    "id": 9053
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YEŞİLTAŞ",
+    "id": 9054
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "GÜRSES",
+    "id": 9055
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KARASUNGUR",
+    "id": 9056
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KAZIKTEPE",
+    "id": 9057
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÖZYAR",
+    "id": 9058
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ŞEYHÇOBAN",
+    "id": 9059
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "GÖKTEPE",
+    "id": 9060
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "HASKÖY",
+    "id": 9061
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AKÇOMAK",
+    "id": 9062
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ALTINAKAR",
+    "id": 9063
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BEŞPINAR",
+    "id": 9064
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9065
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KARABUDAK",
+    "id": 9066
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ORTAŞAR",
+    "id": 9067
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BELLİTAŞ",
+    "id": 9068
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇAKIRKAYA",
+    "id": 9069
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇUKURBAŞI",
+    "id": 9070
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KILIÇKAYA",
+    "id": 9071
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KUTLUK",
+    "id": 9072
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BAŞAKLI",
+    "id": 9073
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BOĞAZÖREN",
+    "id": 9074
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇÖMÇELİ",
+    "id": 9075
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "HALKAPINAR",
+    "id": 9076
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KUBACIK",
+    "id": 9077
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "MURATCIK",
+    "id": 9078
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SIRIMKESER",
+    "id": 9079
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SOLMAZ",
+    "id": 9080
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "TAŞHELVASI",
+    "id": 9081
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YAZÇİÇEĞİ",
+    "id": 9082
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YARIMKAŞ",
+    "id": 9083
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AŞAĞI MOLLAALİ",
+    "id": 9084
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AŞAĞIKONAK",
+    "id": 9085
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AVDALI",
+    "id": 9086
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BAŞALAN",
+    "id": 9087
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇELTİKALTI",
+    "id": 9088
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "İNANÖZ",
+    "id": 9089
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KURUYAZI",
+    "id": 9090
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BAĞACIK",
+    "id": 9091
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "DÜĞRÜK",
+    "id": 9092
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "EKİNVEREN",
+    "id": 9093
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "HALIÖREN",
+    "id": 9094
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KIRKAĞAÇ",
+    "id": 9095
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YENİ",
+    "id": 9096
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BAYIRKONAĞI",
+    "id": 9097
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "DİŞLİBAŞAK",
+    "id": 9098
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "DÜZOVA",
+    "id": 9099
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "MEYDANKÖY",
+    "id": 9100
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ŞEKERÖREN",
+    "id": 9101
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ALABAŞ",
+    "id": 9102
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BENEKLİTAŞ",
+    "id": 9103
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BOZÇALI",
+    "id": 9104
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "FİLİZÖREN",
+    "id": 9105
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "GÖRECE",
+    "id": 9106
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KARAÇEVRE",
+    "id": 9107
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "TEKKAYNAK",
+    "id": 9108
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YEŞİLBAĞ",
+    "id": 9109
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AYVERİ",
+    "id": 9110
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KARALAR",
+    "id": 9111
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SEVİNDİK",
+    "id": 9112
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "TORAMAN",
+    "id": 9113
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YILLARCA",
+    "id": 9114
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YUKARIORTAÖREN",
+    "id": 9115
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BULUTÇEKER",
+    "id": 9116
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "SOĞANSUYU",
+    "id": 9117
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "TİLVER",
+    "id": 9118
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YEŞİL",
+    "id": 9119
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BALLIBABA",
+    "id": 9120
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "BELENLİ",
+    "id": 9121
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÇAKIRTUTMAZ",
+    "id": 9122
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "HÖYÜKDİBİ",
+    "id": 9123
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KÖKSALAN",
+    "id": 9124
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÖNCÜLÜ",
+    "id": 9125
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ŞÜKÜRLÜ",
+    "id": 9126
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YAPRAKBAŞI",
+    "id": 9127
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "YUVACIK",
+    "id": 9128
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "AĞAÇSEVER",
+    "id": 9129
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ESKİ",
+    "id": 9130
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "HARABE",
+    "id": 9131
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "İNCİRTEPE",
+    "id": 9132
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "KÜREKLİ",
+    "id": 9133
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "LEBLEBİTAŞ",
+    "id": 9134
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ÇINAR",
+    "MAHALLE": "ÖZGİDER",
+    "id": 9135
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇOBANTEPE",
+    "id": 9136
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "EŞME",
+    "id": 9137
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÜRPINAR",
+    "id": 9138
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KONAK",
+    "id": 9139
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AKDERE",
+    "id": 9140
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BABAKAYA",
+    "id": 9141
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DEMİRKUYU",
+    "id": 9142
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ALTINKUM",
+    "id": 9143
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAYRAMBAŞI",
+    "id": 9144
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BOYUNLU",
+    "id": 9145
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇEVRİKSU",
+    "id": 9146
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ESKİKÖY",
+    "id": 9147
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÜNDÜZ",
+    "id": 9148
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KASIMLI",
+    "id": 9149
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "NOHUTTEPE",
+    "id": 9150
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "TAŞPINAR",
+    "id": 9151
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "TEKEL",
+    "id": 9152
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YOLAÇ",
+    "id": 9153
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YUKARIVEYSİ",
+    "id": 9154
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AKYOL",
+    "id": 9155
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AŞAĞIVEYSİ",
+    "id": 9156
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAĞDERE",
+    "id": 9157
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAŞIBÜYÜK",
+    "id": 9158
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BEYPINAR",
+    "id": 9159
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DOLAPLIDERE",
+    "id": 9160
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DURU",
+    "id": 9161
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KIZLAR",
+    "id": 9162
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AKÇAYIR",
+    "id": 9163
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÖKÇETEVEK",
+    "id": 9164
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SELAHATTİN",
+    "id": 9165
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BEREKETLİ",
+    "id": 9166
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇARDAK",
+    "id": 9167
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KARAMUS",
+    "id": 9168
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KUTLUALAN",
+    "id": 9169
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "MESCİT",
+    "id": 9170
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ONBAŞILAR",
+    "id": 9171
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AKÇELTİK",
+    "id": 9172
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DOLUÇANAK",
+    "id": 9173
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÜZDERESİ",
+    "id": 9174
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KAZANDAĞI",
+    "id": 9175
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SULUBAĞ",
+    "id": 9176
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ARI",
+    "id": 9177
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇİĞİL",
+    "id": 9178
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 9179
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YEŞİLBAHÇE",
+    "id": 9180
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇAKILTAŞI",
+    "id": 9181
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇİĞDEMLİ",
+    "id": 9182
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "FERİDUN",
+    "id": 9183
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÜÇLÜ",
+    "id": 9184
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "MALABADİ",
+    "id": 9185
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ŞANLI",
+    "id": 9186
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 9187
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "AŞAĞIKAYA",
+    "id": 9188
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ERİKYAZI",
+    "id": 9189
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KIRAÇTEPE",
+    "id": 9190
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KUMLUK",
+    "id": 9191
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ALİBEY",
+    "id": 9192
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAHÇE",
+    "id": 9193
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAŞDEĞİRMEN",
+    "id": 9194
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "HEYBELİKONUK",
+    "id": 9195
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 9196
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 9197
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ESKİOCAK",
+    "id": 9198
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "İNCESU",
+    "id": 9199
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KALE",
+    "id": 9200
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SUSUZ",
+    "id": 9201
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 9202
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BELLİBAHÇE",
+    "id": 9203
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "CAMİİ",
+    "id": 9204
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇALDERE",
+    "id": 9205
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ORMANDIŞI",
+    "id": 9206
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SAĞLIK",
+    "id": 9207
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "TOKLUCA",
+    "id": 9208
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "BAĞLAR",
+    "id": 9209
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÖRENTEPE",
+    "id": 9210
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KUMGÖLÜ",
+    "id": 9211
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YEŞERDİ",
+    "id": 9212
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YOLARASI",
+    "id": 9213
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KARACALAR",
+    "id": 9214
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KAYADERE",
+    "id": 9215
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "OTLUK",
+    "id": 9216
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SARIBUĞDAY",
+    "id": 9217
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "SULAK",
+    "id": 9218
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "UMUR",
+    "id": 9219
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÜÇBASAMAK",
+    "id": 9220
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YUVA",
+    "id": 9221
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "YÜKSEK",
+    "id": 9222
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "ÇİFTLİDERE",
+    "id": 9223
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DAĞCILAR",
+    "id": 9224
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DARKÖPRÜ",
+    "id": 9225
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "DÜZALAN",
+    "id": 9226
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "GÖRMEZ",
+    "id": 9227
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KARAHACI",
+    "id": 9228
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "SİLVAN",
+    "MAHALLE": "KEKLİKDERE",
+    "id": 9229
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "GÜRBÜZ",
+    "id": 9230
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "YAYVAN",
+    "id": 9231
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ÇUKURKÖY",
+    "id": 9232
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "SERENKÖY",
+    "id": 9233
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ZİRVE",
+    "id": 9234
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "KIRIM",
+    "id": 9235
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "BELEN",
+    "id": 9236
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "UZUNLAR",
+    "id": 9237
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "VEZİRİ",
+    "id": 9238
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "DERELİ",
+    "id": 9239
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "SERGEN",
+    "id": 9240
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ANIL",
+    "id": 9241
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "AKÇAYURT",
+    "id": 9242
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "OKURKÖY",
+    "id": 9243
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ÇARŞI",
+    "id": 9244
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "KALEDİBİ",
+    "id": 9245
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "SOYLU",
+    "id": 9246
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 9247
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "MERKEZ",
+    "id": 9248
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "GÖMEÇ",
+    "id": 9249
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "KALABA",
+    "id": 9250
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "SÜSLÜ",
+    "id": 9251
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "ABACILAR",
+    "id": 9252
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "KUYULAR",
+    "id": 9253
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "TOPÇULAR",
+    "id": 9254
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HANİ",
+    "MAHALLE": "YUKARITURALI",
+    "id": 9255
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BOZEK",
+    "id": 9256
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AZİZİYE",
+    "id": 9257
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AL",
+    "id": 9258
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9259
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ALPU",
+    "id": 9260
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇELİKEVLER",
+    "id": 9261
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇİMENLER",
+    "id": 9262
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DİCLE",
+    "id": 9263
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ALANGÖR",
+    "id": 9264
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BAŞİL",
+    "id": 9265
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 9266
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇAKMAK",
+    "id": 9267
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DİKENTEPE",
+    "id": 9268
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SARIYATAK",
+    "id": 9269
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÜÇKUYU",
+    "id": 9270
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 9271
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 9272
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "İLBAŞ",
+    "id": 9273
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ŞEHİTLİK",
+    "id": 9274
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KESİKAĞAÇ",
+    "id": 9275
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SEYRANTEPE SANAYİ",
+    "id": 9276
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜVENDERE",
+    "id": 9277
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YUKARI NASIRLAR",
+    "id": 9278
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TANIŞIK",
+    "id": 9279
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 9280
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DÖNÜMLÜ",
+    "id": 9281
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ELİDOLU",
+    "id": 9282
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ESER",
+    "id": 9283
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KOOPERATİFLER",
+    "id": 9284
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YÜKSEK",
+    "id": 9285
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "FABRİKA",
+    "id": 9286
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜRDOĞAN",
+    "id": 9287
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SANCAR",
+    "id": 9288
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DÖKMETAŞ",
+    "id": 9289
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GEYİKTEPE",
+    "id": 9290
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "HANTEPE",
+    "id": 9291
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YAYTAŞ",
+    "id": 9292
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "EKİNCİLER",
+    "id": 9293
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "SİVRİTEPE",
+    "id": 9294
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "YOLALTI",
+    "id": 9295
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DOKUZÇELTİK",
+    "id": 9296
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "FERİT KÖŞK",
+    "id": 9297
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "OYALI OSB",
+    "id": 9298
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "BABALAR",
+    "id": 9299
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "BALABAN",
+    "id": 9300
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "AKALAN",
+    "id": 9301
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "TEPECİK",
+    "id": 9302
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "SARICA",
+    "id": 9303
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "DÖŞEMELER",
+    "id": 9304
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "BAYSU",
+    "id": 9305
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "GÜRÜNLÜ",
+    "id": 9306
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KALECİK",
+    "id": 9307
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "BALIM",
+    "id": 9308
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "SAĞLAM",
+    "id": 9309
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "SARMAŞIK",
+    "id": 9310
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "GÜNDOĞURAN",
+    "id": 9311
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "OYALI",
+    "id": 9312
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "YUKARIHAYDAN",
+    "id": 9313
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KAYA",
+    "id": 9314
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "BAHŞİLAR",
+    "id": 9315
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KIRKKUYU",
+    "id": 9316
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 9317
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "DERE",
+    "id": 9318
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KAZANLI",
+    "id": 9319
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "SELMAN",
+    "id": 9320
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "TAŞDAM",
+    "id": 9321
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "YATIR",
+    "id": 9322
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "DÜZLÜK",
+    "id": 9323
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "ILGIN",
+    "id": 9324
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KALE",
+    "id": 9325
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KALKAN",
+    "id": 9326
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "KONAK",
+    "id": 9327
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "EĞİL",
+    "MAHALLE": "MEŞELER",
+    "id": 9328
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "BAHÇE",
+    "id": 9329
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "VARINCA",
+    "id": 9330
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "BAYIRDÜZÜ",
+    "id": 9331
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "İNCEKAVAK",
+    "id": 9332
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "TERDÖKEN",
+    "id": 9333
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "MEŞEBAĞLARI",
+    "id": 9334
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "YAZGI",
+    "id": 9335
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "HÜRRİYET",
+    "id": 9336
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "İŞKAR",
+    "id": 9337
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "MUTLUCA",
+    "id": 9338
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "ÇİTLİBAHÇE",
+    "id": 9339
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "ÇÖKEKSU",
+    "id": 9340
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "GÖZLÜ",
+    "id": 9341
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "SARIÇANAK",
+    "id": 9342
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "DADAŞ",
+    "id": 9343
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "KAVAKLIBOĞAZ",
+    "id": 9344
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "AĞARTI",
+    "id": 9345
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "GEDİKALAN",
+    "id": 9346
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "SARIERİK",
+    "id": 9347
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "ÜLGEN",
+    "id": 9348
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "BAĞYURDU",
+    "id": 9349
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "CAMİ",
+    "id": 9350
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "UZUNARGIT",
+    "id": 9351
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "ELHUVAN",
+    "id": 9352
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "KIRKKAŞIK",
+    "id": 9353
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "TOPALAN",
+    "id": 9354
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "KULAÇTEPE",
+    "id": 9355
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "KOÇBABA",
+    "id": 9356
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "ORMANKAYA",
+    "id": 9357
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "REŞİK",
+    "id": 9358
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "HAZRO",
+    "MAHALLE": "KIRMATAŞ",
+    "id": 9359
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ERGİN",
+    "id": 9360
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KIRALAN",
+    "id": 9361
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "UÇARLI",
+    "id": 9362
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YALIMLI",
+    "id": 9363
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "AKÇABUDAK",
+    "id": 9364
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "BAHARLAR",
+    "id": 9365
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÇAĞDAŞ",
+    "id": 9366
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÇARŞI",
+    "id": 9367
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "HEDİK",
+    "id": 9368
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "TÜRELİ",
+    "id": 9369
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 9370
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DAMAR",
+    "id": 9371
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÜÇDAMLAR",
+    "id": 9372
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ZİYARET",
+    "id": 9373
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DARALAN",
+    "id": 9374
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ECEMİŞ",
+    "id": 9375
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YALAZA",
+    "id": 9376
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÇEPER",
+    "id": 9377
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DELVAN",
+    "id": 9378
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DERNEK",
+    "id": 9379
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "GÖKÇE",
+    "id": 9380
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "GÜÇLÜ",
+    "id": 9381
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KARAHASAN",
+    "id": 9382
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "SERİN",
+    "id": 9383
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "SIĞINAK",
+    "id": 9384
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ABALI",
+    "id": 9385
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "BAĞLAN",
+    "id": 9386
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "BAYIRLI",
+    "id": 9387
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DİBEK",
+    "id": 9388
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ESENLER",
+    "id": 9389
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 9390
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KILIÇLI",
+    "id": 9391
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KIPÇAK",
+    "id": 9392
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KIYI",
+    "id": 9393
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ŞENLİK",
+    "id": 9394
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "TUZLA",
+    "id": 9395
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YOLÇATI",
+    "id": 9396
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YORULMAZ",
+    "id": 9397
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ARIKLI",
+    "id": 9398
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "MULLA",
+    "id": 9399
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "SAVAT",
+    "id": 9400
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "SAYDAMLI",
+    "id": 9401
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "BİRLİK",
+    "id": 9402
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "GÜRBEYLİ",
+    "id": 9403
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KABAKAYA",
+    "id": 9404
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KÖRTÜK",
+    "id": 9405
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÖRTÜLÜ",
+    "id": 9406
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ŞAAR",
+    "id": 9407
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "TEPE",
+    "id": 9408
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "BUDAK",
+    "id": 9409
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "OYUKLU",
+    "id": 9410
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÇAVUNDUR",
+    "id": 9411
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DOLUNAY",
+    "id": 9412
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ULUCAK",
+    "id": 9413
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YAPRAK",
+    "id": 9414
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ÇIRALI",
+    "id": 9415
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "MÜMİNAĞA",
+    "id": 9416
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YÜNLÜCE",
+    "id": 9417
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 9418
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "GÜLDİKEN",
+    "id": 9419
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KALİ",
+    "id": 9420
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KUTLU",
+    "id": 9421
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YAMAÇLI",
+    "id": 9422
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KELVAN",
+    "id": 9423
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "MURADİYE",
+    "id": 9424
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DALLICA",
+    "id": 9425
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "DURU",
+    "id": 9426
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "KUMLUCA",
+    "id": 9427
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "ORTAÇ",
+    "id": 9428
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "LİCE",
+    "MAHALLE": "YEŞİLBURÇ",
+    "id": 9429
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ALTAYKÖY",
+    "id": 9430
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ULUBAŞ",
+    "id": 9431
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BAŞKÖY",
+    "id": 9432
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BOZOBA",
+    "id": 9433
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 9434
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KIRKPINAR",
+    "id": 9435
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KORUKÖY",
+    "id": 9436
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KURUDERE",
+    "id": 9437
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 9438
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BAHÇEDERE",
+    "id": 9439
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "MEYDAN",
+    "id": 9440
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "YEŞİLSIRT",
+    "id": 9441
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "SÜSÜMLÜ",
+    "id": 9442
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "TAŞAĞIL",
+    "id": 9443
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BALTACI",
+    "id": 9444
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ÇAVLI",
+    "id": 9445
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "TEPE",
+    "id": 9446
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "YOKUŞLU",
+    "id": 9447
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "DEDEKÖY",
+    "id": 9448
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ULUÇEŞME",
+    "id": 9449
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 9450
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ARIKÖY",
+    "id": 9451
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "DÖĞER",
+    "id": 9452
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "PEKMEZCİLER",
+    "id": 9453
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "UĞRAK",
+    "id": 9454
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 9455
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 9456
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ACAR",
+    "id": 9457
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BOĞAZ",
+    "id": 9458
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "DEĞİRMENLİ",
+    "id": 9459
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "GELİNCİK",
+    "id": 9460
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BİÇER",
+    "id": 9461
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "GÖLBAŞI",
+    "id": 9462
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KURŞUNLU",
+    "id": 9463
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "SERGENLİ",
+    "id": 9464
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BAHÇEKÖY",
+    "id": 9465
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BOĞAZKÖY",
+    "id": 9466
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KAYGISIZ",
+    "id": 9467
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KOCAALAN",
+    "id": 9468
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BATURKÖY",
+    "id": 9469
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KELEKÇİ",
+    "id": 9470
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "PINAR",
+    "id": 9471
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 9472
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "ÇELEBİ",
+    "id": 9473
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KAYIKÖY",
+    "id": 9474
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "KIRKLAR",
+    "id": 9475
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "BADEMLİ",
+    "id": 9476
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "DİCLE",
+    "MAHALLE": "DURABEYLİ",
+    "id": 9477
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "GÖZALAN",
+    "id": 9478
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "MEZOPOTAMYA",
+    "id": 9479
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "UYANDIK",
+    "id": 9480
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "HARMANARDI",
+    "id": 9481
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 9482
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "KARAYAKUP",
+    "id": 9483
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "KIRKPINAR",
+    "id": 9484
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "TİŞO",
+    "id": 9485
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "ÇÖLGÜZELİ",
+    "id": 9486
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "HUZUREVLERİ",
+    "id": 9487
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "SULTANTEPE",
+    "id": 9488
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "TOSUNLU",
+    "id": 9489
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "CANKATRAN",
+    "id": 9490
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "FIRAT",
+    "id": 9491
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "GÜLEÇOBA",
+    "id": 9492
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "CÜCÜK",
+    "id": 9493
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "DİCLEKENT",
+    "id": 9494
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "MEDYA",
+    "id": 9495
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "PETEK",
+    "id": 9496
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "YENİÖZERLİ",
+    "id": 9497
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "BAYKARA",
+    "id": 9498
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "SAĞKULAK",
+    "id": 9499
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "TALAYTEPE",
+    "id": 9500
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "BARIŞ",
+    "id": 9501
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "PEYAS",
+    "id": 9502
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "BENEKLİTAŞ",
+    "id": 9503
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "GÖZEGÖL",
+    "id": 9504
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "KEKLİK",
+    "id": 9505
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "HATİPOĞLU",
+    "id": 9506
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "KALDIRIM",
+    "id": 9507
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "AVCISUYU",
+    "id": 9508
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "ESENTEPE",
+    "id": 9509
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "TABAN",
+    "id": 9510
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KAYAPINAR",
+    "MAHALLE": "YOLBOYU PİRİNÇLİK",
+    "id": 9511
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ALINCAK",
+    "id": 9512
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AYGEÇTİ",
+    "id": 9513
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAŞHAN",
+    "id": 9514
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "FIRAT",
+    "id": 9515
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "HARMANLI",
+    "id": 9516
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KÖPRÜKÖY",
+    "id": 9517
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇAKALLI",
+    "id": 9518
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "GÜROLUK",
+    "id": 9519
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "IŞIKLAR",
+    "id": 9520
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TATLIÇAYIR",
+    "id": 9521
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BABAHAKİ",
+    "id": 9522
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAĞITLI",
+    "id": 9523
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARAPINAR",
+    "id": 9524
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KOĞUK",
+    "id": 9525
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SARIKÖY",
+    "id": 9526
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SERÇELER",
+    "id": 9527
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "UĞURLU",
+    "id": 9528
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 9529
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AŞAĞIDOLAY",
+    "id": 9530
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAHARLI",
+    "id": 9531
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 9532
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARAÇÖLYA",
+    "id": 9533
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KORUKÇU",
+    "id": 9534
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "OĞUZLAR",
+    "id": 9535
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AMBAR",
+    "id": 9536
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ARIKGÖL",
+    "id": 9537
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ARALIK",
+    "id": 9538
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAHÇE",
+    "id": 9539
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAŞÖREN",
+    "id": 9540
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAYINDIR",
+    "id": 9541
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BOYACI",
+    "id": 9542
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ASLANOĞLU",
+    "id": 9543
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAŞKÖY",
+    "id": 9544
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BÖLÜMLÜ",
+    "id": 9545
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇELTİKLİ",
+    "id": 9546
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "DİCLE",
+    "id": 9547
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAYIKÖY",
+    "id": 9548
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SEKİ",
+    "id": 9549
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YUKARIDOLAY",
+    "id": 9550
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇÖLAĞAN",
+    "id": 9551
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 9552
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "HASANPINAR",
+    "id": 9553
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAMBERLİ",
+    "id": 9554
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARACIK",
+    "id": 9555
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARAGÖZ",
+    "id": 9556
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KUMRULU",
+    "id": 9557
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KURUDEĞİRMEN",
+    "id": 9558
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "MEYDANLIK",
+    "id": 9559
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "OBALI",
+    "id": 9560
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SAZLI",
+    "id": 9561
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ŞAHİNTEPE",
+    "id": 9562
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YENİCE",
+    "id": 9563
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "İSALI",
+    "id": 9564
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "İSAPINAR",
+    "id": 9565
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KURUDERE",
+    "id": 9566
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "PINARBAŞI",
+    "id": 9567
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AĞILKÖY",
+    "id": 9568
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AŞAĞIOBA",
+    "id": 9569
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "FATİH",
+    "id": 9570
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAVUŞAK",
+    "id": 9571
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AKBAŞ",
+    "id": 9572
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AKÇAY",
+    "id": 9573
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ALİBEY",
+    "id": 9574
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BADEMLİ",
+    "id": 9575
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BAKACAK",
+    "id": 9576
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇAKILLI",
+    "id": 9577
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇÖLTEPE",
+    "id": 9578
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ERLER",
+    "id": 9579
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAMIŞLI",
+    "id": 9580
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BALCILAR",
+    "id": 9581
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇATALKÖY",
+    "id": 9582
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 9583
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "GÖKSU",
+    "id": 9584
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TEPE",
+    "id": 9585
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "UĞRAK",
+    "id": 9586
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YAMAÇKÖY",
+    "id": 9587
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YASİNCE",
+    "id": 9588
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KOYUNLU",
+    "id": 9589
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "OFKÖY",
+    "id": 9590
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 9591
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "MİRZABEY",
+    "id": 9592
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SİNANKÖY",
+    "id": 9593
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KAZANCI",
+    "id": 9594
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KEBERLİ",
+    "id": 9595
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KILAVUZTEPE",
+    "id": 9596
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KÖSELİ",
+    "id": 9597
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KURTULUŞ",
+    "id": 9598
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARABÖRK",
+    "id": 9599
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SANAYİ",
+    "id": 9600
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TOPRAKLI",
+    "id": 9601
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AHMETLİ",
+    "id": 9602
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AKPINAR",
+    "id": 9603
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ATAKÖY",
+    "id": 9604
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BELLİ",
+    "id": 9605
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "GEDİKBAŞI",
+    "id": 9606
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "SARITOPRAK",
+    "id": 9607
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ŞENTEPE",
+    "id": 9608
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TİLKİLİK",
+    "id": 9609
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ULUTÜRK",
+    "id": 9610
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YUKARIHARIM",
+    "id": 9611
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AKKÖY",
+    "id": 9612
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "BOZÇALI",
+    "id": 9613
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "DORUK",
+    "id": 9614
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "GÜNGEÇTİ",
+    "id": 9615
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "MERDAN",
+    "id": 9616
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TEKEL",
+    "id": 9617
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TÜRKMENHACI",
+    "id": 9618
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YAĞMURKÖY",
+    "id": 9619
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "AĞILLI",
+    "id": 9620
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ALTIOK",
+    "id": 9621
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ALUÇ",
+    "id": 9622
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ÇORAPA",
+    "id": 9623
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "DERBENT",
+    "id": 9624
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ELİAÇIK",
+    "id": 9625
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "ESENTEPE",
+    "id": 9626
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARATEPE",
+    "id": 9627
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KARAYİĞİT",
+    "id": 9628
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KOPMAZ",
+    "id": 9629
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "KOPUZLU",
+    "id": 9630
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "TEPECİK",
+    "id": 9631
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "UYANIK",
+    "id": 9632
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "BİSMİL",
+    "MAHALLE": "YUKARISALAT",
+    "id": 9633
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AĞAÇKORUR",
+    "id": 9634
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "İSLAMKÖY",
+    "id": 9635
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "TUZLA",
+    "id": 9636
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ARGÜN",
+    "id": 9637
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "DOLUN",
+    "id": 9638
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "DÜZCE",
+    "id": 9639
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "İNKAYA",
+    "id": 9640
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KURUDERE",
+    "id": 9641
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AKÇESİR",
+    "id": 9642
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KAYNAK",
+    "id": 9643
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "SALKIMLI",
+    "id": 9644
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "GÜLLÜK",
+    "id": 9645
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "YAYIK",
+    "id": 9646
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AKBULAK",
+    "id": 9647
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "DEMİRLİ",
+    "id": 9648
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ELMALI",
+    "id": 9649
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "HAMZALI",
+    "id": 9650
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KAMIŞLI",
+    "id": 9651
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KARABULAK",
+    "id": 9652
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "MERKEZ ESKİ",
+    "id": 9653
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 9654
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AĞILLI",
+    "id": 9655
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "BAĞCILAR",
+    "id": 9656
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AYGÜN",
+    "id": 9657
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KARPUZLU",
+    "id": 9658
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "UYGUR",
+    "id": 9659
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "YUVACIK",
+    "id": 9660
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ZEYREK",
+    "id": 9661
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KAYACIK",
+    "id": 9662
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KONUKLU",
+    "id": 9663
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "MERKEZ YENİ",
+    "id": 9664
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ÜÇKUYU",
+    "id": 9665
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AĞAÇLI",
+    "id": 9666
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ALACA",
+    "id": 9667
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ÖZBEK",
+    "id": 9668
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "TEMRAN",
+    "id": 9669
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "UZUNOVA",
+    "id": 9670
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KOÇKAR",
+    "id": 9671
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "YAKIT",
+    "id": 9672
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "BAŞBUĞ",
+    "id": 9673
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "NARLICA",
+    "id": 9674
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AYHAN",
+    "id": 9675
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "GÜLEÇ",
+    "id": 9676
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 9677
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KARAORMAN",
+    "id": 9678
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "TAŞKÖPRÜ",
+    "id": 9679
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "TEPECİK",
+    "id": 9680
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "BAYIR",
+    "id": 9681
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ÇUKURCA",
+    "id": 9682
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "ÜNAL",
+    "id": 9683
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "AKDORUK",
+    "id": 9684
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "BALOĞLU",
+    "id": 9685
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "BARIN",
+    "id": 9686
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 9687
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 9688
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "KAYAHAN",
+    "id": 9689
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "SALTUK",
+    "id": 9690
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "KULP",
+    "MAHALLE": "YAYLAK",
+    "id": 9691
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BOZYER",
+    "id": 9692
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "CAFERAN",
+    "id": 9693
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DAĞARASI",
+    "id": 9694
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 9695
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DERİNGÖZE",
+    "id": 9696
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÖKİÇİ",
+    "id": 9697
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BEREKETLİ",
+    "id": 9698
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇİMLİHÖYÜK",
+    "id": 9699
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "İSTASYON",
+    "id": 9700
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AKÇOBAN",
+    "id": 9701
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "COŞKUN",
+    "id": 9702
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 9703
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÜNEŞTEPE",
+    "id": 9704
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "HANÇERLİ",
+    "id": 9705
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÜLERCE",
+    "id": 9706
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AZIKLI",
+    "id": 9707
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇAKARTAŞ",
+    "id": 9708
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DEMİRLİ",
+    "id": 9709
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BAHÇEKAŞI",
+    "id": 9710
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DOĞANKÖY",
+    "id": 9711
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GİRAYLAR",
+    "id": 9712
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AKÇAKALE",
+    "id": 9713
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BAGÜR",
+    "id": 9714
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇUKURDERE",
+    "id": 9715
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KIRALAN",
+    "id": 9716
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "OLGUN",
+    "id": 9717
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SAVAŞ",
+    "id": 9718
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ŞÖLEN",
+    "id": 9719
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 9720
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YOLBULAN",
+    "id": 9721
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YUKARIBİTİKÇİ",
+    "id": 9722
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SABIRLI",
+    "id": 9723
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ARMUTOVA",
+    "id": 9724
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DALLIDAĞ",
+    "id": 9725
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "HENDEKKÖY",
+    "id": 9726
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ALİTAŞI",
+    "id": 9727
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AŞAĞIKUYULU",
+    "id": 9728
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ŞİRİNEVLER",
+    "id": 9729
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YAYVANTEPE",
+    "id": 9730
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 9731
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KOCAALİ",
+    "id": 9732
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SALİHLİ",
+    "id": 9733
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YOLKÖPRÜ",
+    "id": 9734
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KAVURMAKÜPÜ",
+    "id": 9735
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KORTAŞ",
+    "id": 9736
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SESVERENPINAR",
+    "id": 9737
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 9738
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AHMETLİ",
+    "id": 9739
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AZİZİYE",
+    "id": 9740
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇAKIRFAKIR",
+    "id": 9741
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÇAYIRDERE",
+    "id": 9742
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DİBEKTAŞ",
+    "id": 9743
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "FATİH",
+    "id": 9744
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÖZEKAYA",
+    "id": 9745
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BADEMLİ",
+    "id": 9746
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "CANVEREN",
+    "id": 9747
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "CÖMERT",
+    "id": 9748
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÖZLÜ",
+    "id": 9749
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "İNCEHIDIR",
+    "id": 9750
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KARPUZLU",
+    "id": 9751
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KEMERTAŞ",
+    "id": 9752
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KOYUNALAN",
+    "id": 9753
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 9754
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YONCALI",
+    "id": 9755
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "MORKOYUN",
+    "id": 9756
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YAMAÇLAR",
+    "id": 9757
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YUKARIKARPUZLU",
+    "id": 9758
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BONCUKLU",
+    "id": 9759
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DEREBOYU",
+    "id": 9760
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DEVLETKUŞU",
+    "id": 9761
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "GÜZELYURT",
+    "id": 9762
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "AŞAĞIBİTİKÇİ",
+    "id": 9763
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "BOĞAZKÖY",
+    "id": 9764
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "DEVELİ",
+    "id": 9765
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 9766
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÖZBİLEK",
+    "id": 9767
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "PINARKAYA",
+    "id": 9768
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SANAYİ",
+    "id": 9769
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SARAY",
+    "id": 9770
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SELMANKÖY",
+    "id": 9771
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SÖKÜNDÜZÜ",
+    "id": 9772
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YAPRAKLI",
+    "id": 9773
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KAVAKLI",
+    "id": 9774
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KUMÇİ",
+    "id": 9775
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 9776
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ÜÇKARDEŞ",
+    "id": 9777
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KARŞIBAĞLAR",
+    "id": 9778
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KAYAN",
+    "id": 9779
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "USLUCA",
+    "id": 9780
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ZİYARET",
+    "id": 9781
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KARABURÇAK",
+    "id": 9782
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KEMALİYE",
+    "id": 9783
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ORTAAĞAÇ",
+    "id": 9784
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "OTLUCA",
+    "id": 9785
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "TEVEKLİ",
+    "id": 9786
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YUKARIKUYULU",
+    "id": 9787
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KESENTAŞ",
+    "id": 9788
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "ORTAYAZI",
+    "id": 9789
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "YAKACIK",
+    "id": 9790
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "KÖMÜRTAŞ",
+    "id": 9791
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SALLAR",
+    "id": 9792
+  },
+  {
+    "İL": "DİYARBAKIR",
+    "İLÇE": "ERGANİ",
+    "MAHALLE": "SALLICA",
+    "id": 9793
+  }
+]

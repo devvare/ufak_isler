@@ -1,0 +1,427 @@
+/* Modal Stilleri */
+
+.service-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.service-modal-content {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    max-width: 600px;
+    width: 90%;
+    max-height: 90vh;
+    overflow-y: auto;
+    animation: slideUp 0.3s ease;
+}
+
+.service-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid #e9ecef;
+    background: linear-gradient(135deg, #2196F3 0%, #0D47A1 100%);
+    color: white;
+    border-radius: 15px 15px 0 0;
+}
+
+.service-modal-header h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.service-modal-close {
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+    line-height: 1;
+}
+
+.service-modal-close:hover {
+    opacity: 1;
+}
+
+.service-modal-body {
+    padding: 2rem;
+}
+
+.service-type-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.service-type-option {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    padding: 2rem 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.service-type-option::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+    transition: left 0.5s ease;
+}
+
+.service-type-option:hover::before {
+    left: 100%;
+}
+
+.service-type-option:hover {
+    border-color: #007bff;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 123, 255, 0.2);
+}
+
+.service-icon {
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.service-type-option h4 {
+    margin: 0 0 0.5rem 0;
+    color: #2c3e50;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.service-type-option p {
+    margin: 0 0 1rem 0;
+    color: #6c757d;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+.service-price {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Location Modal Özel Stilleri */
+.location-modal {
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(8px);
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.location-modal-content {
+    background-color: #1a1f2c;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    margin: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Popüler Şehirler Stilleri */
+.popular-cities-container {
+    margin-top: 20px;
+    border-top: 1px solid #e9ecef;
+    padding-top: 15px;
+}
+
+.popular-cities-container h4 {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #333;
+    text-align: center;
+}
+
+.popular-cities-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.popular-city-btn {
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.2s ease;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    color: #495057;
+}
+
+.popular-city-btn:hover {
+    background-color: #e9ecef;
+    transform: translateY(-2px);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+.popular-city-btn i {
+    color: #25D366;
+}
+
+.location-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%);
+    color: white;
+    border-radius: 20px 20px 0 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.location-modal-header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.location-modal-header h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.location-modal-close {
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.location-modal-close:hover {
+    opacity: 1;
+}
+
+.location-modal-body {
+    padding: 2rem;
+    color: #e1e7ef;
+    background: linear-gradient(180deg, #1a1f2c 0%, #252a37 100%);
+}
+
+.location-step {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    margin: 0 0 0.5rem 0;
+    color: #333333;
+    font-size: 1rem;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.location-select {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    font-size: 14px;
+    background-color: #f5f5f5;
+    color: #333333;
+    transition: all 0.3s ease;
+}
+
+.location-select:focus {
+    outline: none;
+    border-color: #2196F3;
+    box-shadow: 0 0 15px rgba(33, 150, 243, 0.3);
+    background-color: #ffffff;
+}
+
+.location-select:disabled {
+    background-color: #f0f0f0;
+    color: #999999;
+    cursor: not-allowed;
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
+.location-modal-footer {
+    padding: 1.5rem 2rem 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background: #f9f9f9;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.service-modal-footer .btn-primary {
+    margin: 0 auto;
+    min-width: 180px;
+    flex: 0 1 auto;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #2196F3 0%, #0D47A1 100%);
+    color: white;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(33, 150, 243, 0.3);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    display: block;
+}
+
+.service-modal-footer .btn-primary::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 70%);
+    transition: opacity 0.5s ease;
+    opacity: 0;
+}
+
+.service-modal-footer .btn-primary:hover::before {
+    opacity: 1;
+}
+
+.service-modal-footer .btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 25px rgba(33, 150, 243, 0.4);
+}
+
+.service-modal-footer .btn-primary:active {
+    transform: translateY(1px);
+    box-shadow: 0 5px 15px rgba(33, 150, 243, 0.4);
+}
+
+.service-modal-footer .btn-primary:disabled {
+    background: linear-gradient(135deg, rgba(33, 150, 243, 0.5) 0%, rgba(13, 71, 161, 0.5) 100%);
+    cursor: not-allowed;
+    box-shadow: none;
+    opacity: 0.7;
+}
+
+/* Küçük ekranlar için modal footer düzenlemesi */
+@media screen and (max-width: 576px) {
+    .location-modal-footer {
+        flex-direction: column;
+        padding: 1rem;
+    }
+    
+    .location-modal-footer .btn {
+        margin-bottom: 0.5rem;
+        width: 100%;
+        min-width: auto;
+    }
+}
+
+/* Animasyonlar */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { 
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    .service-modal-content,
+    .location-modal-content {
+        width: 95%;
+        margin: 1rem;
+    }
+    
+    .service-modal-header,
+    .location-modal-header {
+        padding: 1rem 1.5rem;
+    }
+    
+    .service-modal-body,
+    .location-modal-body {
+        padding: 1.5rem;
+    }
+    
+    .service-type-options {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .service-type-option {
+        padding: 1.5rem 1rem;
+    }
+    
+    .location-actions {
+        flex-direction: column;
+    }
+    
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+    }
+}

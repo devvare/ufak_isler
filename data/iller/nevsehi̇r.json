@@ -1,0 +1,704 @@
+[
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "AKSALUR AĞCAŞAR",
+    "id": 24410
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "AKSALUR SALUR",
+    "id": 24411
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 24412
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24413
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24414
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "TEMENNİ",
+    "id": 24415
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "EVKA",
+    "id": 24416
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "FATİH",
+    "id": 24417
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "DUAYERİ",
+    "id": 24418
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "ORTAHİSAR, ESKİ",
+    "id": 24419
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "KAVAKLIÖNÜ",
+    "id": 24420
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "ORTAHİSAR, ESENTEPE",
+    "id": 24421
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "ORTAHİSAR, YENİ",
+    "id": 24422
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ÜRGÜP",
+    "MAHALLE": "ORTAHİSAR, BAHÇELİEVLER",
+    "id": 24423
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "AÇIKSARAY",
+    "id": 24424
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "ÇAYIR",
+    "id": 24425
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "KARACAŞAR",
+    "id": 24426
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "KARAVEZİR",
+    "id": 24427
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "FATİH",
+    "id": 24428
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "ÇALIŞANLAR",
+    "id": 24429
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "ORUÇREİS",
+    "id": 24430
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "EROL ÜNLÜSOY",
+    "id": 24431
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "TUZKÖYÜ",
+    "id": 24432
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "GÜLŞEHİR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24433
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24434
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "BAHÇELİ",
+    "id": 24435
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 24436
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "ÇAYIRLIK",
+    "id": 24437
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "KARAPINAR, MUSTAFAPAŞA",
+    "id": 24438
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "TATLARIN, BALLIK",
+    "id": 24439
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "TATLARIN, KALE",
+    "id": 24440
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "KARAPINAR, BAHÇELİ EVLER",
+    "id": 24441
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "ACIGÖL",
+    "MAHALLE": "YUKARI",
+    "id": 24442
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "HACIBEKTAŞ",
+    "MAHALLE": "BALA",
+    "id": 24443
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "HACIBEKTAŞ",
+    "MAHALLE": "ZİR",
+    "id": 24444
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "HACIBEKTAŞ",
+    "MAHALLE": "SAVAT",
+    "id": 24445
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "ALTUNSU",
+    "id": 24446
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "KIZILKOYUNLU",
+    "id": 24447
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24448
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "HAMAMORTA",
+    "id": 24449
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "BAĞLICA",
+    "id": 24450
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "EMEK",
+    "id": 24451
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "YABANLI",
+    "id": 24452
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "HOCA AHMET YESEVİ",
+    "id": 24453
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "BURUNCUK",
+    "id": 24454
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "KOZAKLI",
+    "MAHALLE": "YENİ",
+    "id": 24455
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CAMİCEDİT",
+    "id": 24456
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAT, 15 TEMMUZ",
+    "id": 24457
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "EMEK",
+    "id": 24458
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARASOKU",
+    "id": 24459
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SULUSARAY, YENİ",
+    "id": 24460
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HACIRÜŞTÜ",
+    "id": 24461
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAVAK, AŞAĞI",
+    "id": 24462
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "RAŞİTBEY",
+    "id": 24463
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖRE, AFETEVLERİ",
+    "id": 24464
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAPUCUBAŞI",
+    "id": 24465
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "20 TEMMUZ",
+    "id": 24466
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 24467
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖRE, KASAPOĞLU",
+    "id": 24468
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAVAK, YUKARI",
+    "id": 24469
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIRATLIOĞLU",
+    "id": 24470
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "2000 EVLER",
+    "id": 24471
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SULUSARAY, CUMHURİYET",
+    "id": 24472
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SULUSARAY, SULTAN ALADDİN",
+    "id": 24473
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "UÇHİSAR, TEKELLİ",
+    "id": 24474
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİ",
+    "id": 24475
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖREME, AYDINLI-ORTA",
+    "id": 24476
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İBRAHİMPAŞA",
+    "id": 24477
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "350 EVLER",
+    "id": 24478
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEVHER DUDAYEV",
+    "id": 24479
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HERİKLİ",
+    "id": 24480
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BEKDİK",
+    "id": 24481
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAT, İSTİKLAL",
+    "id": 24482
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖREME, İSALI-GAFERLİ-AVCILAR",
+    "id": 24483
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAYMAKLI, HATİPOĞLU",
+    "id": 24484
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 24485
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAT, CUMHURİYET",
+    "id": 24486
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "M.AKİF ERSOY",
+    "id": 24487
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAR, AŞAĞI",
+    "id": 24488
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAYMAKLI, CAMİKEBİR",
+    "id": 24489
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "UÇHİSAR, AŞAĞI",
+    "id": 24490
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAR, ORTA",
+    "id": 24491
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 24492
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SÜMER",
+    "id": 24493
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24494
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAYMAKLI, BEKİRAĞA",
+    "id": 24495
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "UÇHİSAR, YUKARI",
+    "id": 24496
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜZELYURT",
+    "id": 24497
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAR, BAŞ",
+    "id": 24498
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "NAR, YENİ",
+    "id": 24499
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÖZKONAK, CAMİCEDİT",
+    "id": 24500
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "YENİ",
+    "id": 24501
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "KALABA, KARAYUSUF",
+    "id": 24502
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "KARASEKİ",
+    "id": 24503
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 24504
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÇALIŞ, YUKARI",
+    "id": 24505
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "YUKARI",
+    "id": 24506
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ORTA",
+    "id": 24507
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÇALIŞ, AŞAĞI",
+    "id": 24508
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ALAADDİN",
+    "id": 24509
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÇALIŞ, ORTA",
+    "id": 24510
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÖZKONAK, CAMİ-KEBİR",
+    "id": 24511
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "KALABA, 50.YIL",
+    "id": 24512
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "KALABA, YENİ",
+    "id": 24513
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "KALABA, HÜRRİYET",
+    "id": 24514
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "ÖZKONAK, ORTA",
+    "id": 24515
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "AVANOS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24516
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 24517
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "YENİ",
+    "id": 24518
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "BAŞ",
+    "id": 24519
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "YAZIHÜYÜK, BOZKIR",
+    "id": 24520
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "FATİH",
+    "id": 24521
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 24522
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "DEMİRCİ",
+    "id": 24523
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "BAYRAMLI",
+    "id": 24524
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "ESENTEPE",
+    "id": 24525
+  },
+  {
+    "İL": "NEVŞEHİR",
+    "İLÇE": "DERİNKUYU",
+    "MAHALLE": "YAZIHÜYÜK, POLATKAN",
+    "id": 24526
+  }
+]

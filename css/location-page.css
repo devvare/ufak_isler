@@ -1,0 +1,529 @@
+/* Dinamik Konum Sayfası Stilleri */
+
+/* Breadcrumb */
+.breadcrumb {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    border-bottom: 1px solid #e9ecef;
+    display: none; /* Breadcrumb bantını gizliyoruz ama yapıyı koruyoruz */
+}
+
+.breadcrumb-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    font-size: 0.9rem;
+}
+
+.breadcrumb-list li {
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumb-list li:not(:last-child)::after {
+    content: '>';
+    margin: 0 0.5rem;
+    color: #6c757d;
+}
+
+.breadcrumb-list a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.breadcrumb-list a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb-list .active {
+    color: #6c757d;
+    font-weight: 500;
+}
+
+/* Ana Sayfa Stili */
+.location-page {
+    padding: 2rem 0;
+    min-height: 60vh;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.page-header p {
+    font-size: 1.1rem;
+    color: #e6e6e6;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Personel Var Bölümü */
+.personel-section {
+    margin-bottom: 3rem;
+}
+
+.personel-section h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    color: #ffffff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.personel-listesi {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.personel-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.personel-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+.personel-info {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.personel-detay {
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+}
+
+.personel-card-content h4 {
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 0.5rem;
+}
+
+.personel-services {
+    margin-bottom: 0.8rem;
+    opacity: 0.9;
+}
+
+.personel-experience {
+    margin-bottom: 0.8rem;
+    opacity: 0.9;
+}
+
+.personel-expertise, .personel-skills {
+    opacity: 0.9;
+}
+
+.whatsapp-action {
+    text-align: center;
+}
+
+.whatsapp-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: #25D366;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(37, 211, 102, 0.3);
+}
+
+.whatsapp-btn:hover {
+    background-color: #128C7E;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+    color: white;
+}
+
+.whatsapp-btn i {
+    font-size: 1.3rem;
+}
+
+/* Hizmet Bilgileri */
+.service-info {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.service-info h3 {
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.service-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.service-list-columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.service-list-column {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.service-item {
+    background-color: rgba(255,255,255,0.2);
+    padding: 1.2rem;
+    border-radius: 8px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.service-item h4 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.service-item h4 i {
+    margin-right: 0.5rem;
+    color: #28a745;
+    font-size: 1.1rem;
+}
+
+.service-item ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.service-item li {
+    padding: 0.3rem 0;
+    position: relative;
+    padding-left: 1.5rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.service-item li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: #28a745;
+    font-weight: bold;
+}
+
+/* Personel Yok Bölümü */
+.no-personel-section {
+    margin-bottom: 3rem;
+}
+
+.opportunity-card {
+    background: linear-gradient(135deg, #ff7b7b 0%, #667eea 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.opportunity-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.opportunity-header h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.opportunity-header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+.opportunity-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.work-with-us, .refer-someone {
+    background-color: rgba(255,255,255,0.2);
+    padding: 1.5rem;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.work-with-us h3, .refer-someone h3 {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.work-with-us ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.work-with-us li {
+    padding: 0.3rem 0;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.work-with-us li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: #28a745;
+    font-weight: bold;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    margin-top: 1rem;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+    color: white;
+}
+
+.share-options {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.share-note {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+}
+
+/* Genel Hizmet Bilgileri */
+.general-services {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.general-services h3 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.service-categories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.service-category h4 {
+    font-size: 1.6rem;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+}
+
+.service-subcategories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.service-subcategory {
+    background-color: rgba(255,255,255,0.15);
+    border-radius: 8px;
+    padding: 1.2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    backdrop-filter: blur(5px);
+}
+
+.service-subcategory:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    background-color: rgba(255,255,255,0.2);
+}
+
+.service-subcategory h5 {
+    font-size: 1.1rem;
+    color: #007bff;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.service-subcategory h5 i {
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+    color: #3498db;
+}
+
+.service-subcategory ul {
+    list-style: none;
+    padding-left: 0.5rem;
+    margin-bottom: 0;
+}
+
+.service-subcategory ul li {
+    position: relative;
+    padding-left: 1.2rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+    color: #e0e0e0;
+}
+
+.service-subcategory ul li:before {
+    content: '\2022';
+    position: absolute;
+    left: 0;
+    color: #3498db;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .service-subcategories {
+        grid-template-columns: 1fr;
+    }
+    
+    .service-category {
+        margin-bottom: 2rem;
+    }
+}
+
+.services-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.service-category {
+    background-color: rgba(255,255,255,0.1);
+    padding: 1.5rem;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    margin-bottom: 1.5rem;
+}
+
+.service-category h4 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+}
+
+.service-category ul {
+    list-style: none;
+    padding: 0;
+}
+
+.service-category li {
+    padding: 0.5rem 0;
+    position: relative;
+    padding-left: 1.5rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.service-category li:last-child {
+    border-bottom: none;
+}
+
+.service-category li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    .page-header h1 {
+        font-size: 2rem;
+    }
+    
+    .opportunity-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .service-categories {
+        grid-template-columns: 1fr;
+    }
+    
+    .personel-card, .opportunity-card {
+        padding: 1.5rem;
+    }
+    
+    .breadcrumb-list {
+        font-size: 0.8rem;
+    }
+    
+    .whatsapp-btn {
+        padding: 0.8rem 1.5rem;
+        font-size: 1rem;
+    }
+    
+    .service-list-columns {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .service-item {
+        margin-bottom: 1rem;
+        padding: 1rem;
+    }
+    
+    .work-with-us, .refer-someone {
+        margin-bottom: 1.5rem;
+    }
+    
+    .service-item ul li {
+        font-size: 0.9rem;
+    }
+}

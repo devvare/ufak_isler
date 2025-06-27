@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kendin Yap - Ufak İşler</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile-fixes.css">
+    <link rel="stylesheet" href="css/header-fix.css">
+    <link rel="stylesheet" href="css/dropdown-fix.css">
+    <link rel="stylesheet" href="css/mobile-menu-fix.css">
+    <link rel="stylesheet" href="css/floating-button-fix.css">
+    <link rel="stylesheet" href="css/additional_styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,15 +22,23 @@
     <header>
         <div class="container">
             <div class="logo">
-                <h1>Ufak İşler</h1>
+                <a href="index.html">
+                    <img src="img/logo_light.png" alt="Ufak İşler Logo">
+                    <span class="logo-text">Ufak İşler</span>
+                </a>
             </div>
             <nav>
                 <ul>
                     <li><a href="index.html">Ana Sayfa</a></li>
-                    <li><a href="hizmetler.html">Hizmetlerimiz</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
                     <li><a href="nasil-calisir.html">Nasıl Çalışır?</a></li>
                     <li><a href="diy.html">Kendin Yap</a></li>
-                    <li><a href="hizmet-bolgeleri.html">Hizmet Bölgelerimiz</a></li>
                     <li><a href="hakkimizda.html">Hakkımızda</a></li>
                     <li><a href="iletisim.html">İletişim</a></li>
                 </ul>
@@ -325,117 +339,9 @@
         </div>
     </section>
 
-    <!-- Örnek DIY Rehberi -->
-    <section class="sample-guide">
-        <div class="container">
-            <div class="section-header">
-                <h2>Örnek Rehber: Damlayan Musluk Tamiri</h2>
-                <p>Adım adım damlayan musluk nasıl tamir edilir?</p>
-            </div>
-            <div class="guide-content">
-                <div class="guide-intro">
-                    <p>Damlayan bir musluk sadece sinir bozucu değil, aynı zamanda su israfına ve yüksek su faturalarına neden olabilir. İşte basit adımlarla musluk tamiri:</p>
-                </div>
-                <div class="guide-steps">
-                    <div class="guide-step">
-                        <div class="step-number">1</div>
-                        <div class="step-content">
-                            <h3>Su Vanasını Kapatın</h3>
-                            <p>Musluk altındaki veya ana su vanasını kapatarak su akışını durdurun. Ardından musluğu açarak kalan suyu boşaltın.</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">2</div>
-                        <div class="step-content">
-                            <h3>Musluğu Sökün</h3>
-                            <p>Musluğun üst kısmındaki kapağı çıkarın. Genellikle vida ile sabitlenmiştir. Ardından kolu çıkarın ve iç mekanizmaya ulaşın.</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">3</div>
-                        <div class="step-content">
-                            <h3>Contaları Kontrol Edin</h3>
-                            <p>Damlamanın en yaygın nedeni aşınmış contalardır. Eski contaları çıkarın ve aynı boyutta yenileriyle değiştirin.</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">4</div>
-                        <div class="step-content">
-                            <h3>Musluğu Yeniden Monte Edin</h3>
-                            <p>Tüm parçaları ters sırayla yeniden monte edin. Parçaları sıkarken aşırı güç kullanmamaya dikkat edin.</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">5</div>
-                        <div class="step-content">
-                            <h3>Test Edin</h3>
-                            <p>Su vanasını açın ve musluğu test edin. Hala damlama varsa, vana yuvasında aşınma olabilir ve profesyonel yardım gerekebilir.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="guide-cta">
-                    <p>Bu rehberi faydalı buldunuz mu? Daha detaylı bilgi için tam rehberi inceleyin veya yardıma ihtiyacınız varsa bize ulaşın.</p>
-                    <div class="guide-buttons">
-                        <a href="diy-musluk-tamiri.html" class="btn btn-secondary">Tam Rehberi Görüntüle</a>
-                        <a href="https://wa.me/+905XXXXXXXXX" class="btn btn-primary whatsapp-btn">
-                            <i class="fab fa-whatsapp"></i> Yardım İsteyin
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- DIY Video Bölümü -->
-    <section class="diy-videos">
-        <div class="container">
-            <div class="section-header">
-                <h2>Video Rehberler</h2>
-                <p>Görsel olarak takip edebileceğiniz DIY videoları</p>
-            </div>
-            <div class="video-grid">
-                <div class="video-card">
-                    <div class="video-placeholder">
-                        <img src="img/video-1.jpg" alt="Musluk tamiri videosu">
-                        <div class="play-button">
-                            <i class="fas fa-play"></i>
-                        </div>
-                    </div>
-                    <div class="video-content">
-                        <h3>Damlayan Musluk Tamiri</h3>
-                        <p>5 dakikada musluk tamiri nasıl yapılır?</p>
-                    </div>
-                </div>
-                <div class="video-card">
-                    <div class="video-placeholder">
-                        <img src="img/video-2.jpg" alt="Duvar deliği tamiri videosu">
-                        <div class="play-button">
-                            <i class="fas fa-play"></i>
-                        </div>
-                    </div>
-                    <div class="video-content">
-                        <h3>Duvar Deliği Tamiri</h3>
-                        <p>Duvardaki delikleri kolayca kapatma yöntemleri</p>
-                    </div>
-                </div>
-                <div class="video-card">
-                    <div class="video-placeholder">
-                        <img src="img/video-3.jpg" alt="Raf montajı videosu">
-                        <div class="play-button">
-                            <i class="fas fa-play"></i>
-                        </div>
-                    </div>
-                    <div class="video-content">
-                        <h3>Duvar Rafı Montajı</h3>
-                        <p>Sağlam duvar rafları nasıl monte edilir?</p>
-                    </div>
-                </div>
-            </div>
-            <div class="video-cta">
-                <a href="#" class="btn btn-secondary">Tüm Videoları Görüntüle</a>
-            </div>
-        </div>
-    </section>
+
+
 
     <!-- İletişim CTA Bölümü -->
     <section class="contact-cta">
@@ -443,8 +349,8 @@
             <div class="cta-content">
                 <h2>Kendiniz Yapamıyor Musunuz?</h2>
                 <p>Endişelenmeyin, biz yardıma hazırız! Hemen iletişime geçin.</p>
-                <a href="https://wa.me/+905XXXXXXXXX" class="btn btn-primary whatsapp-btn">
-                    <i class="fab fa-whatsapp"></i> WhatsApp'tan Yazın
+                <a href="iletisim.html" class="btn btn-primary">
+                    <i class="fas fa-envelope"></i> İletişim
                 </a>
             </div>
         </div>
@@ -462,7 +368,13 @@
                     <h3>Hızlı Bağlantılar</h3>
                     <ul>
                         <li><a href="index.html">Ana Sayfa</a></li>
-                        <li><a href="hizmetler.html">Hizmetlerimiz</a></li>
+                        <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
                         <li><a href="nasil-calisir.html">Nasıl Çalışır?</a></li>
                         <li><a href="diy.html">Kendin Yap</a></li>
                         <li><a href="hakkimizda.html">Hakkımızda</a></li>
@@ -471,7 +383,7 @@
                 </div>
                 <div class="footer-contact">
                     <h3>İletişim</h3>
-                    <p><i class="fab fa-whatsapp"></i> WhatsApp: +905XXXXXXXXX</p>
+                    <p><i class="fab fa-whatsapp"></i> WhatsApp: +90545 864 6613</p>
                     <p><i class="far fa-envelope"></i> E-posta: info@ufakisler.com</p>
                     <div class="social-media">
                         <a href="#"><i class="fab fa-facebook"></i></a>
@@ -486,13 +398,8 @@
         </div>
     </footer>
 
-    <!-- Floating WhatsApp Button -->
-    <div class="floating-whatsapp">
-        <a href="https://wa.me/+905XXXXXXXXX" class="floating-whatsapp-btn">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-    </div>
+
 
     <script src="js/main.js"></script>
-</body>
+    <!-- Floating Bizimle Çalışın Butonu -->    <a href="bizimle-calisin.html" class="floating-btn">       <i class="fas fa-handshake"></i> Bizimle Çalışın    </a></body>
 </html>

@@ -1,0 +1,407 @@
+[
+  {
+    "ad": "ADANA",
+    "slug": "adana",
+    "mahalleCount": 832
+  },
+  {
+    "ad": "ADIYAMAN",
+    "slug": "adiyaman",
+    "mahalleCount": 176
+  },
+  {
+    "ad": "AFYONKARAHİSAR",
+    "slug": "afyonkarahi̇sar",
+    "mahalleCount": 448
+  },
+  {
+    "ad": "AĞRI",
+    "slug": "agri",
+    "mahalleCount": 97
+  },
+  {
+    "ad": "AKSARAY",
+    "slug": "aksaray",
+    "mahalleCount": 158
+  },
+  {
+    "ad": "AMASYA",
+    "slug": "amasya",
+    "mahalleCount": 108
+  },
+  {
+    "ad": "ANKARA",
+    "slug": "ankara",
+    "mahalleCount": 1432
+  },
+  {
+    "ad": "ANTALYA",
+    "slug": "antalya",
+    "mahalleCount": 917
+  },
+  {
+    "ad": "ARDAHAN",
+    "slug": "ardahan",
+    "mahalleCount": 41
+  },
+  {
+    "ad": "ARTVİN",
+    "slug": "artvi̇n",
+    "mahalleCount": 38
+  },
+  {
+    "ad": "AYDIN",
+    "slug": "aydin",
+    "mahalleCount": 674
+  },
+  {
+    "ad": "BALIKESİR",
+    "slug": "balikesi̇r",
+    "mahalleCount": 1132
+  },
+  {
+    "ad": "BARTIN",
+    "slug": "bartin",
+    "mahalleCount": 50
+  },
+  {
+    "ad": "BATMAN",
+    "slug": "batman",
+    "mahalleCount": 136
+  },
+  {
+    "ad": "BAYBURT",
+    "slug": "bayburt",
+    "mahalleCount": 29
+  },
+  {
+    "ad": "BİLECİK",
+    "slug": "bi̇leci̇k",
+    "mahalleCount": 65
+  },
+  {
+    "ad": "BİNGÖL",
+    "slug": "bi̇ngol",
+    "mahalleCount": 68
+  },
+  {
+    "ad": "BİTLİS",
+    "slug": "bi̇tli̇s",
+    "mahalleCount": 123
+  },
+  {
+    "ad": "BOLU",
+    "slug": "bolu",
+    "mahalleCount": 94
+  },
+  {
+    "ad": "BURDUR",
+    "slug": "burdur",
+    "mahalleCount": 128
+  },
+  {
+    "ad": "BURSA",
+    "slug": "bursa",
+    "mahalleCount": 1072
+  },
+  {
+    "ad": "ÇANAKKALE",
+    "slug": "canakkale",
+    "mahalleCount": 81
+  },
+  {
+    "ad": "ÇANKIRI",
+    "slug": "cankiri",
+    "mahalleCount": 98
+  },
+  {
+    "ad": "ÇORUM",
+    "slug": "corum",
+    "mahalleCount": 127
+  },
+  {
+    "ad": "DENİZLİ",
+    "slug": "deni̇zli̇",
+    "mahalleCount": 620
+  },
+  {
+    "ad": "DİYARBAKIR",
+    "slug": "di̇yarbakir",
+    "mahalleCount": 1049
+  },
+  {
+    "ad": "DÜZCE",
+    "slug": "duzce",
+    "mahalleCount": 117
+  },
+  {
+    "ad": "EDİRNE",
+    "slug": "edi̇rne",
+    "mahalleCount": 96
+  },
+  {
+    "ad": "ELAZIĞ",
+    "slug": "elazig",
+    "mahalleCount": 154
+  },
+  {
+    "ad": "ERZİNCAN",
+    "slug": "erzi̇ncan",
+    "mahalleCount": 158
+  },
+  {
+    "ad": "ERZURUM",
+    "slug": "erzurum",
+    "mahalleCount": 1187
+  },
+  {
+    "ad": "ESKİŞEHİR",
+    "slug": "eski̇sehi̇r",
+    "mahalleCount": 541
+  },
+  {
+    "ad": "GAZİANTEP",
+    "slug": "gazi̇antep",
+    "mahalleCount": 784
+  },
+  {
+    "ad": "GİRESUN",
+    "slug": "gi̇resun",
+    "mahalleCount": 200
+  },
+  {
+    "ad": "GÜMÜŞHANE",
+    "slug": "gumushane",
+    "mahalleCount": 76
+  },
+  {
+    "ad": "HAKKARİ",
+    "slug": "hakkari̇",
+    "mahalleCount": 47
+  },
+  {
+    "ad": "HATAY",
+    "slug": "hatay",
+    "mahalleCount": 595
+  },
+  {
+    "ad": "IĞDIR",
+    "slug": "igdir",
+    "mahalleCount": 36
+  },
+  {
+    "ad": "ISPARTA",
+    "slug": "isparta",
+    "mahalleCount": 217
+  },
+  {
+    "ad": "İSTANBUL",
+    "slug": "i̇stanbul",
+    "mahalleCount": 974
+  },
+  {
+    "ad": "İZMİR",
+    "slug": "i̇zmi̇r",
+    "mahalleCount": 1308
+  },
+  {
+    "ad": "KAHRAMANMARAŞ",
+    "slug": "kahramanmaras",
+    "mahalleCount": 713
+  },
+  {
+    "ad": "KARABÜK",
+    "slug": "karabuk",
+    "mahalleCount": 80
+  },
+  {
+    "ad": "KARAMAN",
+    "slug": "karaman",
+    "mahalleCount": 133
+  },
+  {
+    "ad": "KARS",
+    "slug": "kars",
+    "mahalleCount": 59
+  },
+  {
+    "ad": "KASTAMONU",
+    "slug": "kastamonu",
+    "mahalleCount": 174
+  },
+  {
+    "ad": "KAYSERİ",
+    "slug": "kayseri̇",
+    "mahalleCount": 718
+  },
+  {
+    "ad": "KIRIKKALE",
+    "slug": "kirikkale",
+    "mahalleCount": 88
+  },
+  {
+    "ad": "KIRKLARELİ",
+    "slug": "kirklareli̇",
+    "mahalleCount": 108
+  },
+  {
+    "ad": "KIRŞEHİR",
+    "slug": "kirsehi̇r",
+    "mahalleCount": 68
+  },
+  {
+    "ad": "KİLİS",
+    "slug": "ki̇li̇s",
+    "mahalleCount": 89
+  },
+  {
+    "ad": "KOCAELİ",
+    "slug": "kocaeli̇",
+    "mahalleCount": 488
+  },
+  {
+    "ad": "KONYA",
+    "slug": "konya",
+    "mahalleCount": 1161
+  },
+  {
+    "ad": "KÜTAHYA",
+    "slug": "kutahya",
+    "mahalleCount": 226
+  },
+  {
+    "ad": "MALATYA",
+    "slug": "malatya",
+    "mahalleCount": 721
+  },
+  {
+    "ad": "MANİSA",
+    "slug": "mani̇sa",
+    "mahalleCount": 1092
+  },
+  {
+    "ad": "MARDİN",
+    "slug": "mardi̇n",
+    "mahalleCount": 707
+  },
+  {
+    "ad": "MERSİN",
+    "slug": "mersi̇n",
+    "mahalleCount": 810
+  },
+  {
+    "ad": "MUĞLA",
+    "slug": "mugla",
+    "mahalleCount": 569
+  },
+  {
+    "ad": "MUŞ",
+    "slug": "mus",
+    "mahalleCount": 122
+  },
+  {
+    "ad": "NEVŞEHİR",
+    "slug": "nevsehi̇r",
+    "mahalleCount": 117
+  },
+  {
+    "ad": "NİĞDE",
+    "slug": "ni̇gde",
+    "mahalleCount": 140
+  },
+  {
+    "ad": "ORDU",
+    "slug": "ordu",
+    "mahalleCount": 773
+  },
+  {
+    "ad": "OSMANİYE",
+    "slug": "osmani̇ye",
+    "mahalleCount": 133
+  },
+  {
+    "ad": "RİZE",
+    "slug": "ri̇ze",
+    "mahalleCount": 210
+  },
+  {
+    "ad": "SAKARYA",
+    "slug": "sakarya",
+    "mahalleCount": 673
+  },
+  {
+    "ad": "SAMSUN",
+    "slug": "samsun",
+    "mahalleCount": 1258
+  },
+  {
+    "ad": "SİİRT",
+    "slug": "si̇i̇rt",
+    "mahalleCount": 63
+  },
+  {
+    "ad": "SİNOP",
+    "slug": "si̇nop",
+    "mahalleCount": 50
+  },
+  {
+    "ad": "SİVAS",
+    "slug": "si̇vas",
+    "mahalleCount": 256
+  },
+  {
+    "ad": "ŞANLIURFA",
+    "slug": "sanliurfa",
+    "mahalleCount": 1437
+  },
+  {
+    "ad": "ŞIRNAK",
+    "slug": "sirnak",
+    "mahalleCount": 92
+  },
+  {
+    "ad": "TEKİRDAĞ",
+    "slug": "teki̇rdag",
+    "mahalleCount": 376
+  },
+  {
+    "ad": "TOKAT",
+    "slug": "tokat",
+    "mahalleCount": 319
+  },
+  {
+    "ad": "TRABZON",
+    "slug": "trabzon",
+    "mahalleCount": 709
+  },
+  {
+    "ad": "TUNCELİ",
+    "slug": "tunceli̇",
+    "mahalleCount": 44
+  },
+  {
+    "ad": "UŞAK",
+    "slug": "usak",
+    "mahalleCount": 75
+  },
+  {
+    "ad": "VAN",
+    "slug": "van",
+    "mahalleCount": 692
+  },
+  {
+    "ad": "YALOVA",
+    "slug": "yalova",
+    "mahalleCount": 51
+  },
+  {
+    "ad": "YOZGAT",
+    "slug": "yozgat",
+    "mahalleCount": 234
+  },
+  {
+    "ad": "ZONGULDAK",
+    "slug": "zonguldak",
+    "mahalleCount": 179
+  }
+]

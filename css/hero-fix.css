@@ -1,0 +1,28 @@
+/* Hero bölümünün header'ın hemen altından başlaması için düzeltmeler */
+.hero {
+    margin-top: 0px; /* Header yüksekliği kadar boşluk */
+    padding-top: 0;
+    overflow: hidden;
+}
+
+/* Hero arka planını header'ın hemen altına yerleştir */
+.hero-bg {
+    position: absolute;
+    top: -20px !important; /* Yukarı doğru kaydır */
+    left: 0;
+    width: 100%;
+    height: calc(100% + 40px) !important; /* Yüksekliği artır */
+    z-index: -1;
+    margin-top: 0 !important;
+}
+
+/* Hero içeriğini aşağıya kaydır */
+.hero-content {
+    padding-top: 40px !important;
+    margin-top: 0 !important;
+}
+
+/* Başlığı aşağıya kaydır */
+.hero-content h2.hero-title {
+    margin-top: 20px;
+}

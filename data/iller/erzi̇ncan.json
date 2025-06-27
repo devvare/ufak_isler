@@ -1,0 +1,950 @@
+[
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "ÇADIRKAYA, GÖZELER",
+    "id": 10161
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "ÇADIRKAYA, YENİ",
+    "id": 10162
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "AHMET YESEVİ",
+    "id": 10163
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KARGIN, ŞEHİT AHMET AYTEKİN",
+    "id": 10164
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KARGIN, SUCUALİ",
+    "id": 10165
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "FATİH",
+    "id": 10166
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KARGIN, YOLLARÜSTÜ",
+    "id": 10167
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 10168
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "MAMAHATUN",
+    "id": 10169
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "MERCAN, AKŞEMSETTİN",
+    "id": 10170
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "MERCAN, FATİH",
+    "id": 10171
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "ÇADIRKAYA, CAMİİ KEBİR",
+    "id": 10172
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KARGIN, CAMİİ ŞERİF",
+    "id": 10173
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "MERCAN, ATATÜRK",
+    "id": 10174
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "ATATÜRK",
+    "id": 10175
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "KARGIN, İSTASYON",
+    "id": 10176
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "TERCAN",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 10177
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÇAYIRLI",
+    "MAHALLE": "BARBAROS",
+    "id": 10178
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÇAYIRLI",
+    "MAHALLE": "ATATÜRK",
+    "id": 10179
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÇAYIRLI",
+    "MAHALLE": "FATİH",
+    "id": 10180
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "İLİÇ",
+    "MAHALLE": "FATİH",
+    "id": 10181
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "İLİÇ",
+    "MAHALLE": "İBRAHİM ÇEÇEN",
+    "id": 10182
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "İLİÇ",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 10183
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "İLİÇ",
+    "MAHALLE": "ABDULLAH PAŞA",
+    "id": 10184
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "BABACAN",
+    "id": 10185
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, FIRAT",
+    "id": 10186
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 10187
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, SÜLEYMANLI",
+    "id": 10188
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, PINARBAŞI",
+    "id": 10189
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "FATİH",
+    "id": 10190
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 10191
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 10192
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, İSTASYON",
+    "id": 10193
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "TERZİBABA",
+    "id": 10194
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ÜÇLER",
+    "id": 10195
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 10196
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "MUHSİN YAZICIOĞLU",
+    "id": 10197
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, BÜYÜK KADAĞAN",
+    "id": 10198
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ALTINBAŞAK, KÜÇÜKKADAĞAN",
+    "id": 10199
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "GEYİKLİ",
+    "id": 10200
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ORUÇLU",
+    "id": 10201
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "PİRİ SAMİ",
+    "id": 10202
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "CİMİNLİ BABA",
+    "id": 10203
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "BAHÇEŞEHİR",
+    "id": 10204
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "ÜZÜMLÜ",
+    "MAHALLE": "ÇAY",
+    "id": 10205
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "ARİKİ",
+    "id": 10206
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "BAHÇE",
+    "id": 10207
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "ESERTEPE",
+    "id": 10208
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "HACI YUSUF",
+    "id": 10209
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "HALİLAĞA",
+    "id": 10210
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "DÖRTYOLAĞZI",
+    "id": 10211
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "NAİP",
+    "id": 10212
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "GENÇAĞA",
+    "id": 10213
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "İSHAKPAŞA",
+    "id": 10214
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "SANDIKBAĞI",
+    "id": 10215
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMALİYE",
+    "MAHALLE": "TAŞDİBİ",
+    "id": 10216
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "OTLUKBELİ",
+    "MAHALLE": "ŞEHİTLER",
+    "id": 10217
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "OTLUKBELİ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 10218
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "OTLUKBELİ",
+    "MAHALLE": "FATİH",
+    "id": 10219
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "GÖĞÜSBAĞI",
+    "id": 10220
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "AŞAĞIGEDİK",
+    "id": 10221
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "ÇARŞI",
+    "id": 10222
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "KARŞIBAĞ",
+    "id": 10223
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "BEKLİMÇAY",
+    "id": 10224
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "CİRGİŞİN",
+    "id": 10225
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "ORTAGEDİK",
+    "id": 10226
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "PÖRHENKBAŞI",
+    "id": 10227
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "YUKARI",
+    "id": 10228
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "KEMAH",
+    "MAHALLE": "MEKTEPÖNÜ",
+    "id": 10229
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "REFAHİYE",
+    "MAHALLE": "HAKOĞLU",
+    "id": 10230
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "REFAHİYE",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 10231
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "REFAHİYE",
+    "MAHALLE": "CAMİİŞERİF",
+    "id": 10232
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "REFAHİYE",
+    "MAHALLE": "KEMALİYE",
+    "id": 10233
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 10234
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, ŞELALE",
+    "id": 10235
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, DEREBAĞ",
+    "id": 10236
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, MERTEKLİ",
+    "id": 10237
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BARBAROS",
+    "id": 10238
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "CEMAL GÜRSEL",
+    "id": 10239
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, CUMHURİYET",
+    "id": 10240
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAŞPINAR",
+    "id": 10241
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BULUTLU",
+    "id": 10242
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 10243
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAYRAK",
+    "id": 10244
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 10245
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BARIŞ",
+    "id": 10246
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BOZYAZI",
+    "id": 10247
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKTOPRAK",
+    "id": 10248
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AKYAZI",
+    "id": 10249
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BÜYÜKÇAKIRMAN",
+    "id": 10250
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, ERDENE",
+    "id": 10251
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, YAMAÇLI",
+    "id": 10252
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ALSANCAK",
+    "id": 10253
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ARSLANLI",
+    "id": 10254
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "AZİZ BABA",
+    "id": 10255
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BUĞDAYLI",
+    "id": 10256
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ATATÜRK",
+    "id": 10257
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇAĞLAYAN, ATATÜRK",
+    "id": 10258
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "BAŞBAĞLAR",
+    "id": 10259
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇARŞI",
+    "id": 10260
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "FATİH",
+    "id": 10261
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÖLCÜK",
+    "id": 10262
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUNZUR",
+    "id": 10263
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT SERHAT YURTBAŞI",
+    "id": 10264
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MENGÜCELİ",
+    "id": 10265
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 10266
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 10267
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HOCA AHMET YESEVİ",
+    "id": 10268
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KEKLİKKAYASI",
+    "id": 10269
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MUSTAFA KEMAL PAŞA",
+    "id": 10270
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMAN GAZİ",
+    "id": 10271
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÜÇKONAK",
+    "id": 10272
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEREYURT",
+    "id": 10273
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HOCABEY",
+    "id": 10274
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 10275
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KIZILAY",
+    "id": 10276
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKÖY, TEPECİK",
+    "id": 10277
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "PAŞA",
+    "id": 10278
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ERSEVENLER",
+    "id": 10279
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YALNIZBAĞ",
+    "id": 10280
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 10281
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEMETEVLER",
+    "id": 10282
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HALİTPAŞA",
+    "id": 10283
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MENDERES",
+    "id": 10284
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SARIGÖL",
+    "id": 10285
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 10286
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KURUTİLEK",
+    "id": 10287
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKÖY, CUMHURİYET",
+    "id": 10288
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YENİMAHALLE",
+    "id": 10289
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DEMİRKENT",
+    "id": 10290
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İNÖNÜ",
+    "id": 10291
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAVAKYOLU",
+    "id": 10292
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİT CENGİZ TOPEL",
+    "id": 10293
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TAKSİM",
+    "id": 10294
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ERGENEKON",
+    "id": 10295
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HÜRREMPALANGASI",
+    "id": 10296
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKÖY, ATATÜRK",
+    "id": 10297
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SANCAK",
+    "id": 10298
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "OSMANLI",
+    "id": 10299
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "TERZİBABA",
+    "id": 10300
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÇUKURKUYU",
+    "id": 10301
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "HANCI",
+    "id": 10302
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "IŞIKPINAR",
+    "id": 10303
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 10304
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ŞEHİTSERHAT",
+    "id": 10305
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ULALAR",
+    "id": 10306
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 10307
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "DAVARLI",
+    "id": 10308
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GAZİ",
+    "id": 10309
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "GÜLABİBEY",
+    "id": 10310
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ERTUĞRUL GAZİ",
+    "id": 10311
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 10312
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKÖY, YEŞİLYURT",
+    "id": 10313
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "YUNUS",
+    "id": 10314
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ESENTEPE",
+    "id": 10315
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "İZZETPAŞA",
+    "id": 10316
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "MOLLAKÖY, MAHMUTLU",
+    "id": 10317
+  },
+  {
+    "İL": "ERZİNCAN",
+    "İLÇE": "MERKEZ",
+    "MAHALLE": "ÖZGÜRLÜK",
+    "id": 10318
+  }
+]

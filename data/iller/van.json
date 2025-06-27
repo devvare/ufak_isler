@@ -1,0 +1,4154 @@
+[
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DEREKENT",
+    "id": 31135
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "HASANABDAL",
+    "id": 31136
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KARDOĞAN",
+    "id": 31137
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ALKANAT",
+    "id": 31138
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇINARLI",
+    "id": 31139
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AKSAKAL",
+    "id": 31140
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 31141
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AŞAĞIGÖZE",
+    "id": 31142
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AŞAĞIKOZLUCA",
+    "id": 31143
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇAKIRBEY",
+    "id": 31144
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GEDİKDİBİ",
+    "id": 31145
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AĞIRKAYA",
+    "id": 31146
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "İKİZÇALI",
+    "id": 31147
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇETİNTAŞ",
+    "id": 31148
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DOĞANCI",
+    "id": 31149
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "EVBEYLİ",
+    "id": 31150
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "HAYDARBEY",
+    "id": 31151
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇOBANDÜZÜ",
+    "id": 31152
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DELİÇAY",
+    "id": 31153
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÖRÜŞLÜ",
+    "id": 31154
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DÜVENCİ",
+    "id": 31155
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "İŞBAŞI",
+    "id": 31156
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KADİRASKER",
+    "id": 31157
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DERİMEVİ",
+    "id": 31158
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DOLUCA",
+    "id": 31159
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 31160
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "HACIKAŞ",
+    "id": 31161
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "BUCAKÖNÜ",
+    "id": 31162
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇATAKDİBİ",
+    "id": 31163
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÖKOĞLAN",
+    "id": 31164
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÖZÜTOK",
+    "id": 31165
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AKÇAYUVA",
+    "id": 31166
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇELEBİBAĞI",
+    "id": 31167
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ERGÜCÜ",
+    "id": 31168
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 31169
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AŞAĞIIŞIKLI",
+    "id": 31170
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "BAYRAMLI",
+    "id": 31171
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇATALTEPE",
+    "id": 31172
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÇİMEN",
+    "id": 31173
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DİNLENCE",
+    "id": 31174
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "DURACAK",
+    "id": 31175
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÖLAĞZI",
+    "id": 31176
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "BEYAZIT",
+    "id": 31177
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 31178
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "EKİCİLER",
+    "id": 31179
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "HOCAALİ",
+    "id": 31180
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KIRKDEĞİRMEN",
+    "id": 31181
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ŞEHİRPAZAR",
+    "id": 31182
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YILANLI",
+    "id": 31183
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ABDALMEZRASI",
+    "id": 31184
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AŞAĞIÇÖKEK",
+    "id": 31185
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "BOZYAKA",
+    "id": 31186
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GERGİLİ",
+    "id": 31187
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "GÜMÜŞOLUK",
+    "id": 31188
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KARATAVUK",
+    "id": 31189
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KARLIYAYLA",
+    "id": 31190
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KEKİKSIRTI",
+    "id": 31191
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ÖRENE",
+    "id": 31192
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TEKEVLER",
+    "id": 31193
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AĞAÇÖREN",
+    "id": 31194
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AKBAŞ",
+    "id": 31195
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KAYABOYUN",
+    "id": 31196
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KIRKPINAR",
+    "id": 31197
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "AŞAĞIAKÇAGEDİK",
+    "id": 31198
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "LATİFİYE",
+    "id": 31199
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YANKITEPE",
+    "id": 31200
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "SALİHİYE",
+    "id": 31201
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YÜNÖREN",
+    "id": 31202
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KOÇKÖPRÜ",
+    "id": 31203
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ŞEREFLİ",
+    "id": 31204
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TAŞEVLER",
+    "id": 31205
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "UNCULAR",
+    "id": 31206
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "VANYOLU",
+    "id": 31207
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KIZILÖREN",
+    "id": 31208
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 31209
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KIŞLA",
+    "id": 31210
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "SAHİL KENT",
+    "id": 31211
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "PAYKÖY",
+    "id": 31212
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "PINARLI",
+    "id": 31213
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "SABANBÜKEN",
+    "id": 31214
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YÖRELİ",
+    "id": 31215
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YUKARIAKÇAGEDİK",
+    "id": 31216
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KASIMBAĞI",
+    "id": 31217
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KOCAPINAR",
+    "id": 31218
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KÖYCÜK",
+    "id": 31219
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "NİŞANCI",
+    "id": 31220
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TAŞKAPI",
+    "id": 31221
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TEKLER",
+    "id": 31222
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YALINDAM",
+    "id": 31223
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YUKARIIŞIKLI",
+    "id": 31224
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "MAĞARA",
+    "id": 31225
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TAŞLIÇAY",
+    "id": 31226
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ULUPAMİR",
+    "id": 31227
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YETİŞEN",
+    "id": 31228
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "OYALI",
+    "id": 31229
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "KEKLİKOVA",
+    "id": 31230
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "ORTAYAYLA",
+    "id": 31231
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 31232
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "TOPRAKLI",
+    "id": 31233
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "YOLDERE",
+    "id": 31234
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ERCİŞ",
+    "MAHALLE": "SALMANAĞA",
+    "id": 31235
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BÜKLÜMDERE",
+    "id": 31236
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "DEREİÇİ",
+    "id": 31237
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AŞALAN",
+    "id": 31238
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BARIŞ",
+    "id": 31239
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "EREK",
+    "id": 31240
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "DERİNGEÇİT",
+    "id": 31241
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "HAFİZİYE",
+    "id": 31242
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "IŞIKLI",
+    "id": 31243
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KIZILCA",
+    "id": 31244
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "SAÇAN",
+    "id": 31245
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 31246
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YOLMAÇAYIR",
+    "id": 31247
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖRMETAŞ",
+    "id": 31248
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YUKARIDİKMEN",
+    "id": 31249
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ERKONAĞI",
+    "id": 31250
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AZIKLI",
+    "id": 31251
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BEŞOCAK",
+    "id": 31252
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BÖLEKLİ",
+    "id": 31253
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ALBAYRAK",
+    "id": 31254
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BİLGEÇ",
+    "id": 31255
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ATLILAR",
+    "id": 31256
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AYDEMİR",
+    "id": 31257
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÇALDIRAN",
+    "id": 31258
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AŞAĞIKÜME",
+    "id": 31259
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ESENYAMAÇ",
+    "id": 31260
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "GEDİKBAŞI",
+    "id": 31261
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "GELENLER",
+    "id": 31262
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "SALLIDERE",
+    "id": 31263
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YANAL",
+    "id": 31264
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YUKARIDARICA",
+    "id": 31265
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "GÜROLUK",
+    "id": 31266
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ILICAK",
+    "id": 31267
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KAŞKOL",
+    "id": 31268
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "MAHMUTABAT",
+    "id": 31269
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖMERDAĞI",
+    "id": 31270
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖNCÜLER",
+    "id": 31271
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖZPINAR",
+    "id": 31272
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YAVUZLAR",
+    "id": 31273
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BELENCİK",
+    "id": 31274
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÇAKIRDOĞAN",
+    "id": 31275
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "GÜLEÇLER",
+    "id": 31276
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖRENCİK",
+    "id": 31277
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AÇIKAĞIL",
+    "id": 31278
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "EKECEK",
+    "id": 31279
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "AKÇALI",
+    "id": 31280
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "EVBAKAN",
+    "id": 31281
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KOCAKÖY",
+    "id": 31282
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KONUKSAYAR",
+    "id": 31283
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KOVALIPINAR",
+    "id": 31284
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "OĞULVEREN",
+    "id": 31285
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "TAHIL",
+    "id": 31286
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YURTTEPE",
+    "id": 31287
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "EŞMEPINAR",
+    "id": 31288
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "GÜVENDİK",
+    "id": 31289
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KEÇİLİOBA",
+    "id": 31290
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KÖPRÜAĞZI",
+    "id": 31291
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ORTAYAZI",
+    "id": 31292
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "UĞURLU",
+    "id": 31293
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YUKARIDALLI",
+    "id": 31294
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "BÖĞRÜPEK",
+    "id": 31295
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "HASANBEY",
+    "id": 31296
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KAVURGALI",
+    "id": 31297
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "KOÇDAĞI",
+    "id": 31298
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ÖRENKALE",
+    "id": 31299
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "ORTAYOL",
+    "id": 31300
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "YENİ",
+    "id": 31301
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "SAVAŞKÖY",
+    "id": 31302
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAŞKALE",
+    "MAHALLE": "TINAZLI",
+    "id": 31303
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "AYAZPINAR",
+    "id": 31304
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ERDEMKENT",
+    "id": 31305
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "DOĞANLAR",
+    "id": 31306
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "SELAHATTİN EYYUBİ",
+    "id": 31307
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "DÖNEMEÇ",
+    "id": 31308
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ERENKENT",
+    "id": 31309
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "GÖLKAŞI",
+    "id": 31310
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KIYICAK",
+    "id": 31311
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KÖŞKKÖY",
+    "id": 31312
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KURUBAŞ",
+    "id": 31313
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "DİLKAYA",
+    "id": 31314
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ŞABANİYE",
+    "id": 31315
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ELMALIK",
+    "id": 31316
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KAVURMA",
+    "id": 31317
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "BAKACIK",
+    "id": 31318
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "BAKIMLI",
+    "id": 31319
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "MÜLK",
+    "id": 31320
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "TAŞKONAK",
+    "id": 31321
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KÖPRÜLER",
+    "id": 31322
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ANDAÇ",
+    "id": 31323
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ÇAYIRBAŞI",
+    "id": 31324
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ENGİNSU",
+    "id": 31325
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "KÖKLÜ",
+    "id": 31326
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ESENTEPE",
+    "id": 31327
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "AKIN",
+    "id": 31328
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "EMİNPAŞA",
+    "id": 31329
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "ESKİ CAMİ",
+    "id": 31330
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "YENİ CAMİ",
+    "id": 31331
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "SÜPHAN",
+    "id": 31332
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "EDREMİT",
+    "MAHALLE": "YENİ",
+    "id": 31333
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ALKASNAK",
+    "id": 31334
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "FATİH",
+    "id": 31335
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ÇAKMAK",
+    "id": 31336
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ERİŞEN",
+    "id": 31337
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ESENKOÇ",
+    "id": 31338
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "OTLAKBAŞI",
+    "id": 31339
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "SARIMEMET",
+    "id": 31340
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ADAKLI",
+    "id": 31341
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "BALAKLI",
+    "id": 31342
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KANDAHAR",
+    "id": 31343
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KEÇİKIRAN",
+    "id": 31344
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KÖŞK",
+    "id": 31345
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "OVAPINAR",
+    "id": 31346
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ÜNSELİ",
+    "id": 31347
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "BABACAN",
+    "id": 31348
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "DAĞÖREN",
+    "id": 31349
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "BEŞPARMAK",
+    "id": 31350
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KARAHAN",
+    "id": 31351
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YUMAKLI",
+    "id": 31352
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "GÖRECEK",
+    "id": 31353
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YUKARIARGIT",
+    "id": 31354
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KEMERKÖPRÜ",
+    "id": 31355
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YALINDÜZ",
+    "id": 31356
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "BEYDAĞI",
+    "id": 31357
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "DÜRÜKKAŞ",
+    "id": 31358
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "GÜLLÜÇİMEN",
+    "id": 31359
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "AKBULAK",
+    "id": 31360
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "DEVETAŞ",
+    "id": 31361
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "GÜLTEPE",
+    "id": 31362
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KOCASABAN",
+    "id": 31363
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "TANSU",
+    "id": 31364
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "AÇIKYOL",
+    "id": 31365
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "AKÇAÇAY",
+    "id": 31366
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "DOĞANGÜN",
+    "id": 31367
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "GÜMÜŞTEPE",
+    "id": 31368
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "SÜRÜYOLU",
+    "id": 31369
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YAKINCAK",
+    "id": 31370
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 31371
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ŞEHİTMEHMETBEY",
+    "id": 31372
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "TOPUZARPA",
+    "id": 31373
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 31374
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "AŞAĞIARGIT",
+    "id": 31375
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 31376
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "GÖNDERME",
+    "id": 31377
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KARAOĞLAN",
+    "id": 31378
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "KUŞÇU",
+    "id": 31379
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "ULUŞAR",
+    "id": 31380
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "MURADİYE",
+    "MAHALLE": "YAVUZSELİM",
+    "id": 31381
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ÇAYBAĞI",
+    "id": 31382
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KAPIKÖY",
+    "id": 31383
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KURUCAN",
+    "id": 31384
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "BEYARSLAN",
+    "id": 31385
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "DOLUTAŞ",
+    "id": 31386
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KARGALI",
+    "id": 31387
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "BALTEPE",
+    "id": 31388
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "FERİTMELEN",
+    "id": 31389
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ÖRENBURÇ",
+    "id": 31390
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ATATÜRK",
+    "id": 31391
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KARAHİSAR",
+    "id": 31392
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "BAKIŞIK",
+    "id": 31393
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "DEĞİRMİGÖL",
+    "id": 31394
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KEKİKDÜZÜ",
+    "id": 31395
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "TURANKÖY",
+    "id": 31396
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KAZIMPAŞA",
+    "id": 31397
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KEPİR",
+    "id": 31398
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "YAMANYURT",
+    "id": 31399
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ÇAKMAKKÖY",
+    "id": 31400
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ÇARTAK",
+    "id": 31401
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "YEŞİLAĞAÇ",
+    "id": 31402
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "ZİNCİRKIRAN",
+    "id": 31403
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KAZLIGÖL",
+    "id": 31404
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "SIRIMLI",
+    "id": 31405
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KEÇİKAYASI",
+    "id": 31406
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "KOÇBAŞI",
+    "id": 31407
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "SARAY",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 31408
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "KONALGA",
+    "id": 31409
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "HACIOSMAN",
+    "id": 31410
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "BOYUNPINAR",
+    "id": 31411
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ÇILGA",
+    "id": 31412
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ONAĞIL",
+    "id": 31413
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "YUKARINARLICA",
+    "id": 31414
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 31415
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "GÖRENTAŞ",
+    "id": 31416
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "SIRMALI",
+    "id": 31417
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ALACAYAR",
+    "id": 31418
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ATLIHAN",
+    "id": 31419
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 31420
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "NARLI",
+    "id": 31421
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "SÖZVEREN",
+    "id": 31422
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "UZUNTEKNE",
+    "id": 31423
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "DEREBAŞI",
+    "id": 31424
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "IŞINLI",
+    "id": 31425
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "TEKNECİK",
+    "id": 31426
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "AKÇABÜK",
+    "id": 31427
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "AŞAĞINARLICA",
+    "id": 31428
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "SUGELDİ",
+    "id": 31429
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "DOKUZDAM",
+    "id": 31430
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "KAÇIT",
+    "id": 31431
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31432
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "AĞAÇLIK",
+    "id": 31433
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "BİLGİ",
+    "id": 31434
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "SELÇUKLU",
+    "id": 31435
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ELİAÇIK",
+    "id": 31436
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ÖVECEK",
+    "id": 31437
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "TOYGA",
+    "id": 31438
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 31439
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "DALBASTI",
+    "id": 31440
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇATAK",
+    "MAHALLE": "KORULU",
+    "id": 31441
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "BAĞLAMA",
+    "id": 31442
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DAĞYÖRE",
+    "id": 31443
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KAZANÇ",
+    "id": 31444
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DİLMETAŞ",
+    "id": 31445
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 31446
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ANAKÖY",
+    "id": 31447
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "HASBEY",
+    "id": 31448
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "İKİZLER",
+    "id": 31449
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "YUVA",
+    "id": 31450
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ALADÜZ",
+    "id": 31451
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "AYDINOCAK",
+    "id": 31452
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 31453
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DALDERE",
+    "id": 31454
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KOÇAK",
+    "id": 31455
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "UĞURVEREN",
+    "id": 31456
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "YEMİŞLİK",
+    "id": 31457
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ATALAN",
+    "id": 31458
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "GÖRÜNDÜ",
+    "id": 31459
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "GÜNDOĞAN",
+    "id": 31460
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "GÜZELKONAK",
+    "id": 31461
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KURULTU",
+    "id": 31462
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ABALI",
+    "id": 31463
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DEĞİRMİTAŞ",
+    "id": 31464
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ELMALI",
+    "id": 31465
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 31466
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KIZILTAŞ",
+    "id": 31467
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "TİMAR",
+    "id": 31468
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "YOLDÖNDÜ",
+    "id": 31469
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "HİŞET",
+    "id": 31470
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "İNKÖY",
+    "id": 31471
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KUŞLUK",
+    "id": 31472
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "TÖRELİ",
+    "id": 31473
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "YANIKÇAY",
+    "id": 31474
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "SELİMİYE",
+    "id": 31475
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "UYSAL",
+    "id": 31476
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DEREAĞZI",
+    "id": 31477
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "KAYALAR",
+    "id": 31478
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ORTA",
+    "id": 31479
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "ALTINSAÇ",
+    "id": 31480
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GEVAŞ",
+    "MAHALLE": "DOKUZAĞAÇ",
+    "id": 31481
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞIKOÇKIRAN",
+    "id": 31482
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ÇAVUŞLAR",
+    "id": 31483
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "İSTASYON",
+    "id": 31484
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "KALECİK",
+    "id": 31485
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 31486
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞIBALÇIKLI",
+    "id": 31487
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞIYORGANLI",
+    "id": 31488
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "BOYALDI",
+    "id": 31489
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ŞEHİTTEPE",
+    "id": 31490
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARITULGALI",
+    "id": 31491
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARIYORGANLI",
+    "id": 31492
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞIAKÇAGÜL",
+    "id": 31493
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "BODURAĞAÇ",
+    "id": 31494
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ÇAMURLU",
+    "id": 31495
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "DÖNERDERE",
+    "id": 31496
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "KARGALI",
+    "id": 31497
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "GÜLTEPE",
+    "id": 31498
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "SEYDİBEY",
+    "id": 31499
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "DAĞDEVİREN",
+    "id": 31500
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "DORUTAY",
+    "id": 31501
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AKSORGUÇ",
+    "id": 31502
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "OYMAKLI",
+    "id": 31503
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "SAVATLI",
+    "id": 31504
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "HACIALİ",
+    "id": 31505
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YAVUZLAR",
+    "id": 31506
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARIÇAVDARLIK",
+    "id": 31507
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ALTINBOĞA",
+    "id": 31508
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31509
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "SARIKÖY",
+    "id": 31510
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "DAMLACIK",
+    "id": 31511
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ESKİ EMEK",
+    "id": 31512
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "GÜNYÜZLÜ",
+    "id": 31513
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YÜNKUŞAK",
+    "id": 31514
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞITULGALI",
+    "id": 31515
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ÇIRAKKÖY",
+    "id": 31516
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "HACIKIŞLAK",
+    "id": 31517
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "AŞAĞIMOLLAHASAN",
+    "id": 31518
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "SAĞMALI",
+    "id": 31519
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "EĞRİBELEN",
+    "id": 31520
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "EMEK",
+    "id": 31521
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "GÖZDEĞMEZ",
+    "id": 31522
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "KARLIYAMAÇ",
+    "id": 31523
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "KIRKÇALI",
+    "id": 31524
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "MOLLATOPUZ",
+    "id": 31525
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "SUGEÇER",
+    "id": 31526
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "BAĞRIAÇIK",
+    "id": 31527
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "BOĞAZKESEN",
+    "id": 31528
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 31529
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "HAZİNE",
+    "id": 31530
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "KAŞIKARA",
+    "id": 31531
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "MEHMETALAN",
+    "id": 31532
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "ŞEMSETTİN",
+    "id": 31533
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YARIMKAYA",
+    "id": 31534
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARIAYAZCA",
+    "id": 31535
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "TEPEDAM",
+    "id": 31536
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARIBALÇIKLI",
+    "id": 31537
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUKARIMOLLAHASAN",
+    "id": 31538
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÖZALP",
+    "MAHALLE": "YUMRUKLU",
+    "id": 31539
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KAVUNCU",
+    "id": 31540
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ALİPAŞA",
+    "id": 31541
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BAKLATEPE",
+    "id": 31542
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "AŞAĞIGÖLALAN",
+    "id": 31543
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KARAGÜNDÜZ",
+    "id": 31544
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KARAKOÇ",
+    "id": 31545
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KAYMAKLI",
+    "id": 31546
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "GÖVELEK",
+    "id": 31547
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "IRGAT",
+    "id": 31548
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KÖŞEBAŞI",
+    "id": 31549
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "DEĞİRMENKÖY",
+    "id": 31550
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "DEREÜSTÜ",
+    "id": 31551
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "DİBEKLİ",
+    "id": 31552
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "HAFİZİYE",
+    "id": 31553
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ILIKAYNAK",
+    "id": 31554
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "SELİMBEY",
+    "id": 31555
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "VALİ MİTHAT BEY",
+    "id": 31556
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 31557
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ERÇEK",
+    "id": 31558
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "HATUNİYE",
+    "id": 31559
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "AŞAĞIÇİTLİ",
+    "id": 31560
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BEŞÇATAK",
+    "id": 31561
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BUZHANE",
+    "id": 31562
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YALI",
+    "id": 31563
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YATIKSIRT",
+    "id": 31564
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BOSTANİÇİ",
+    "id": 31565
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31566
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "HACIBEKİR",
+    "id": 31567
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BAKRAÇLI",
+    "id": 31568
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 31569
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "AKTAŞ",
+    "id": 31570
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "HALİLAĞA",
+    "id": 31571
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "SERHAT",
+    "id": 31572
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "AĞZIKARA",
+    "id": 31573
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "CEVDET PAŞA",
+    "id": 31574
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KIRATLI",
+    "id": 31575
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ORTANCA",
+    "id": 31576
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YUKARIGÜNEYCE",
+    "id": 31577
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ÇALIMLI",
+    "id": 31578
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YENİ",
+    "id": 31579
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YUKARIGÖLALAN",
+    "id": 31580
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ARITOPRAK",
+    "id": 31581
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "BAHÇIVAN",
+    "id": 31582
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "SARMAÇ",
+    "id": 31583
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "YALINAĞAÇ",
+    "id": 31584
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "DEĞİRMENARKI",
+    "id": 31585
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KARPUZALANI",
+    "id": 31586
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "KEVENLİ",
+    "id": 31587
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "SEYİT FEHİM ARSAVİ",
+    "id": 31588
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "İPEKYOLU",
+    "MAHALLE": "ESENLER",
+    "id": 31589
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "PAŞAKÖY",
+    "id": 31590
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "YAŞLIKAVAK",
+    "id": 31591
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "YAYLAKONAK",
+    "id": 31592
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "İSLAM",
+    "id": 31593
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ŞİŞLİ",
+    "id": 31594
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 31595
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ALTINTAS",
+    "id": 31596
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "KAŞIKÇILAR",
+    "id": 31597
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ÇATBAYIR",
+    "id": 31598
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "KARTAL",
+    "id": 31599
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "AKYAYLA",
+    "id": 31600
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "DOĞANYAYLA",
+    "id": 31601
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "BAĞCILAR",
+    "id": 31602
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 31603
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ELMAYAKA",
+    "id": 31604
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ÜNLÜCE",
+    "id": 31605
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ALTINDERE",
+    "id": 31606
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "CEVİZLİBELEN",
+    "id": 31607
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "ULUBEYLİ",
+    "id": 31608
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "BAHÇESARAY",
+    "MAHALLE": "GÜNEYYAMAÇ",
+    "id": 31609
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "AĞARTI",
+    "id": 31610
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "BEYÜZÜMÜ",
+    "id": 31611
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ESENPINAR",
+    "id": 31612
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GÖLLÜ",
+    "id": 31613
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ABDURRAHMAN GAZİ",
+    "id": 31614
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KASIMOĞLU",
+    "id": 31615
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KELLE",
+    "id": 31616
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YENİKÖŞK",
+    "id": 31617
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "BAĞDAŞAN",
+    "id": 31618
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "MOLLAKASIM",
+    "id": 31619
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "TABANLI",
+    "id": 31620
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "TEVEKLİ",
+    "id": 31621
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÇAKIRBEY",
+    "id": 31622
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "İSKELE",
+    "id": 31623
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "SATIBEY",
+    "id": 31624
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "TOPAKTAŞ",
+    "id": 31625
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YALNIZAĞAÇ",
+    "id": 31626
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YAYLIYAKA",
+    "id": 31627
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YUMRUTEPE",
+    "id": 31628
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ALABAYIR",
+    "id": 31629
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÇİTÖREN",
+    "id": 31630
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "DİBEKDÜZÜ",
+    "id": 31631
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "OCAKLI",
+    "id": 31632
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ALTINTEPE",
+    "id": 31633
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ATMACA",
+    "id": 31634
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GÖLYAZI",
+    "id": 31635
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÖZYURT",
+    "id": 31636
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GEDELOVA",
+    "id": 31637
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GÜLSÜNLER",
+    "id": 31638
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 31639
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ŞEMSİBEY",
+    "id": 31640
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 31641
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YEŞİLSU",
+    "id": 31642
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GEDİKBULAK",
+    "id": 31643
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÇOMAKLI",
+    "id": 31644
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "DEĞİRMENÖZÜ",
+    "id": 31645
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KOÇKÖY",
+    "id": 31646
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "AKÇAÖREN",
+    "id": 31647
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÇOBANOĞLU",
+    "id": 31648
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÇOLPAN",
+    "id": 31649
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "HALKALI",
+    "id": 31650
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "HIDIRKÖY",
+    "id": 31651
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ŞAHGELDİ",
+    "id": 31652
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ERMİŞLER",
+    "id": 31653
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "OTLUCA",
+    "id": 31654
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ÖZKAYNAK",
+    "id": 31655
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "YEMLİCE",
+    "id": 31656
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ARISU",
+    "id": 31657
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "BARDAKÇI",
+    "id": 31658
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "GÜVENÇLİ",
+    "id": 31659
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KALECİK",
+    "id": 31660
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KOLSATAN",
+    "id": 31661
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "MEYDANCIK",
+    "id": 31662
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "PİRGARİP",
+    "id": 31663
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "AKKÖPRÜ",
+    "id": 31664
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ALAKÖY",
+    "id": 31665
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "AŞIT",
+    "id": 31666
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "DAĞÖNÜ",
+    "id": 31667
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KOZLUCA",
+    "id": 31668
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "KUMLUCA",
+    "id": 31669
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ADIGÜZEL",
+    "id": 31670
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "DİLİMLİ",
+    "id": 31671
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "ŞEMSİBEYOSB",
+    "id": 31672
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "AKÇİFT",
+    "id": 31673
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "DEREBEY",
+    "id": 31674
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "İSTASYON",
+    "id": 31675
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "SAĞLAMTAŞ",
+    "id": 31676
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "TUŞBA",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 31677
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ALTIYOL",
+    "id": 31678
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31679
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SALAHANE",
+    "id": 31680
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YAĞIBASAN",
+    "id": 31681
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 31682
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ERGİNLER",
+    "id": 31683
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KARADULDA",
+    "id": 31684
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KURTOĞLAN",
+    "id": 31685
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BAŞEĞMEZ",
+    "id": 31686
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "HANKÖY",
+    "id": 31687
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "TEMRENLİ",
+    "id": 31688
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AYRANCILAR",
+    "id": 31689
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "EVCİLER",
+    "id": 31690
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KOÇOVASI",
+    "id": 31691
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KUSKUNKIRAN",
+    "id": 31692
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "UMUTTEPE",
+    "id": 31693
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ALİKELLE",
+    "id": 31694
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIKUYUCAK",
+    "id": 31695
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KALKANDELEN",
+    "id": 31696
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SARIÇİMEN",
+    "id": 31697
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "TOPRAKSEVEN",
+    "id": 31698
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YASSITEPE",
+    "id": 31699
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YAYKILIÇ",
+    "id": 31700
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUVACIK",
+    "id": 31701
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIÇANAK",
+    "id": 31702
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIÇANAK",
+    "id": 31703
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ZÜLFİBULAK",
+    "id": 31704
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AKBAŞAK",
+    "id": 31705
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KILAVUZ",
+    "id": 31706
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "OSMANLI",
+    "id": 31707
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIYANIKTAŞ",
+    "id": 31708
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIGÜLDEREN",
+    "id": 31709
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIYANIKTAŞ",
+    "id": 31710
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BEZİRHANE",
+    "id": 31711
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 31712
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "İNCEALAN",
+    "id": 31713
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIMUTLU",
+    "id": 31714
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "DEMİRCİK",
+    "id": 31715
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KİLİMLİ",
+    "id": 31716
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARISAĞMALLI",
+    "id": 31717
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AVCIBAŞI",
+    "id": 31718
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BEYDOĞAN",
+    "id": 31719
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BUĞULUKAYNAK",
+    "id": 31720
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SELLİK",
+    "id": 31721
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ŞEHİT JANDARMA BİNBAŞI KIVANÇ CESUR",
+    "id": 31722
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIGÜLDEREN",
+    "id": 31723
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "İSMAİLBABA",
+    "id": 31724
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 31725
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "FATİH SULTAN MEHMET",
+    "id": 31726
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "GÜLYOLU",
+    "id": 31727
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "HANGEDİĞİ",
+    "id": 31728
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SARIHARMAN",
+    "id": 31729
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SOĞUKSU",
+    "id": 31730
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIMUTLU",
+    "id": 31731
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "DİREKLİ",
+    "id": 31732
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "KAŞIM",
+    "id": 31733
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YENİYAKA",
+    "id": 31734
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ALAKAYA",
+    "id": 31735
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "AŞAĞIDİKME",
+    "id": 31736
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "ÇAYIRKÖY",
+    "id": 31737
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIKUYUCAK",
+    "id": 31738
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "DOYUMALAN",
+    "id": 31739
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SERPMETAŞ",
+    "id": 31740
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "SUNGUR",
+    "id": 31741
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BEYAZIT",
+    "id": 31742
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "BURÇAKALAN",
+    "id": 31743
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "RECEP TAYYİP ERDOĞAN",
+    "id": 31744
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "TEKİNDERE",
+    "id": 31745
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YUKARIDİKME",
+    "id": 31746
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "ÇALDIRAN",
+    "MAHALLE": "YÜCELEN",
+    "id": 31747
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "AKPINAR",
+    "id": 31748
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ALNIAK",
+    "id": 31749
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÇAKINLI",
+    "id": 31750
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÇEPKENLİ",
+    "id": 31751
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "DOLAYLI",
+    "id": 31752
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "HACIKÖY",
+    "id": 31753
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÖRMELİ",
+    "id": 31754
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SAKALAR",
+    "id": 31755
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SICAKSU",
+    "id": 31756
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TUTAK",
+    "id": 31757
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YUKARIKAYMAZ",
+    "id": 31758
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GİYİMLİ",
+    "id": 31759
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KIRKGEÇİT",
+    "id": 31760
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KUŞDAĞI",
+    "id": 31761
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ONGUN",
+    "id": 31762
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÖVEÇLİ",
+    "id": 31763
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ARINDI",
+    "id": 31764
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "BÖLMEÇALI",
+    "id": 31765
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÇATAKDİBİ",
+    "id": 31766
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "DİKBIYIK",
+    "id": 31767
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ELAÇMAZ",
+    "id": 31768
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KAPÇIK",
+    "id": 31769
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KILIÇTUTAN",
+    "id": 31770
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "OTBİÇER",
+    "id": 31771
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "PARMAKKAPI",
+    "id": 31772
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SEVİNDİK",
+    "id": 31773
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GÜLEÇLER",
+    "id": 31774
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "MOLLAHÜSEYİN",
+    "id": 31775
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 31776
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TAŞDÖNDÜREN",
+    "id": 31777
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "BOZYİĞİT",
+    "id": 31778
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "CEVİZALAN",
+    "id": 31779
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "UZUNGEDİK",
+    "id": 31780
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "AKDOĞU",
+    "id": 31781
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "BEŞBUDAK",
+    "id": 31782
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "DAĞSEVEN",
+    "id": 31783
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "DOLUÇIKIN",
+    "id": 31784
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GÖLARDI",
+    "id": 31785
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÇAVUŞTEPE",
+    "id": 31786
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "AŞAĞIKAYMAZ",
+    "id": 31787
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GÜZELSU",
+    "id": 31788
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YEDİSALKIM",
+    "id": 31789
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "BAĞRIYANIK",
+    "id": 31790
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ERKALDI",
+    "id": 31791
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KALKANLI",
+    "id": 31792
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KOYUNYATAĞI",
+    "id": 31793
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TOPÇUDEĞİRMENİ",
+    "id": 31794
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YARAMIŞ",
+    "id": 31795
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YURTBAŞI",
+    "id": 31796
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "DEĞİRMENDÜZÜ",
+    "id": 31797
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TEPEGÖREN",
+    "id": 31798
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "MURATALDI",
+    "id": 31799
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TAŞLIYAZI",
+    "id": 31800
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TOPSAKAL",
+    "id": 31801
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TUTMAÇ",
+    "id": 31802
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YATAĞAN",
+    "id": 31803
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 31804
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÇÖREKLİ",
+    "id": 31805
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SAPAKONAK",
+    "id": 31806
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "UMUT",
+    "id": 31807
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÜÇGEN",
+    "id": 31808
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KARAKOÇ",
+    "id": 31809
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "OĞULDAMI",
+    "id": 31810
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GEÇERLİ",
+    "id": 31811
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GÜNBAŞI",
+    "id": 31812
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "IŞIKPINAR",
+    "id": 31813
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ORTAKÖY",
+    "id": 31814
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 31815
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "KOÇGÜDEN",
+    "id": 31816
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "SAVACIK",
+    "id": 31817
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "TOPYILDIZ",
+    "id": 31818
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YALINCA",
+    "id": 31819
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YOLAŞAN",
+    "id": 31820
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "AKBULUT",
+    "id": 31821
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "BÜKEÇ",
+    "id": 31822
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "GEZİYURT",
+    "id": 31823
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "HAMURKESEN",
+    "id": 31824
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "ÜÇDOĞAN",
+    "id": 31825
+  },
+  {
+    "İL": "VAN",
+    "İLÇE": "GÜRPINAR",
+    "MAHALLE": "YOLDÜŞTÜ",
+    "id": 31826
+  }
+]

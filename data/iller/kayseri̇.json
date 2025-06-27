@@ -1,0 +1,4310 @@
+[
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ALTIKESEK",
+    "id": 17443
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ARTMAK",
+    "id": 17444
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKGÜRLEĞEN",
+    "id": 17445
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ARSLANBEYLİ",
+    "id": 17446
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AŞAĞIKIZILÇEVLİK",
+    "id": 17447
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAFTANGİYEN",
+    "id": 17448
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HASSA",
+    "id": 17449
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "İNÖNÜ",
+    "id": 17450
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAMAN",
+    "id": 17451
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAVLAKLAR",
+    "id": 17452
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KERİMOĞLU",
+    "id": 17453
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KIZILHAN",
+    "id": 17454
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KÖŞKERLİ",
+    "id": 17455
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KÜÇÜKPOTUKLU",
+    "id": 17456
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AVŞARPOTUKLU",
+    "id": 17457
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "EMEĞİL",
+    "id": 17458
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "GEBELEK",
+    "id": 17459
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HASIRCI",
+    "id": 17460
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AŞAĞIBORANDERE",
+    "id": 17461
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKKABAKTEPE",
+    "id": 17462
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKKARAMUKLU",
+    "id": 17463
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ESENKÖY",
+    "id": 17464
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "GÜLTEPE",
+    "id": 17465
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KARAHACILI",
+    "id": 17466
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KIRKGEÇİT",
+    "id": 17467
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AŞAĞIBEYÇAYIRI",
+    "id": 17468
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AYGÖRMEZ",
+    "id": 17469
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "GÖLCÜK",
+    "id": 17470
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HALİTBEYÖREN",
+    "id": 17471
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KARAHALKA",
+    "id": 17472
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KURBAĞALIK",
+    "id": 17473
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KIRKPINAR",
+    "id": 17474
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ESKİTEKKE",
+    "id": 17475
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ALAMESCİT",
+    "id": 17476
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKPOTUKLU",
+    "id": 17477
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAVAKKÖY",
+    "id": 17478
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KIZILÖREN",
+    "id": 17479
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KUŞÇULAR",
+    "id": 17480
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "SAÇAYAĞI",
+    "id": 17481
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "SOLAKLAR",
+    "id": 17482
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "UZUNPINAR",
+    "id": 17483
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "PAZARSU",
+    "id": 17484
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ŞEREFİYE",
+    "id": 17485
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YUKARIBORANDERE",
+    "id": 17486
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YUSUFLAR",
+    "id": 17487
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KÜÇÜKKÖMARMUT",
+    "id": 17488
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "PAŞALI",
+    "id": 17489
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ORUÇOĞLU",
+    "id": 17490
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "MELİKGAZİ",
+    "id": 17491
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TAŞLIGEÇİT",
+    "id": 17492
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TAŞLIOĞLU",
+    "id": 17493
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YUKARIBEYÇAYIRI",
+    "id": 17494
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AŞAĞIKARAGÖZ",
+    "id": 17495
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BESEREK",
+    "id": 17496
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "CABE",
+    "id": 17497
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ELMALI",
+    "id": 17498
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ESKİYASSIPINAR",
+    "id": 17499
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ALAGAZİLİ",
+    "id": 17500
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÇAKILKAYA",
+    "id": 17501
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "DEMİRCİÖREN",
+    "id": 17502
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "GÜNEY",
+    "id": 17503
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HAYRİYE",
+    "id": 17504
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAZANCIK",
+    "id": 17505
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKGÜMÜŞGÜN",
+    "id": 17506
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "DEMİRCİLİ",
+    "id": 17507
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KARABOĞAZ",
+    "id": 17508
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAYNAR",
+    "id": 17509
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BAHÇECİK",
+    "id": 17510
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "CİNLİÖREN",
+    "id": 17511
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "DEVEDERESİ",
+    "id": 17512
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HAN",
+    "id": 17513
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KILIÇKIŞLA",
+    "id": 17514
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KILIÇMEHMET",
+    "id": 17515
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KURTTEPE",
+    "id": 17516
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "SERİNYURT",
+    "id": 17517
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YUKARIKIZILÇEVLİK",
+    "id": 17518
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TAHTAKÖPRÜ",
+    "id": 17519
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KIZILDERE",
+    "id": 17520
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TERSAKAN",
+    "id": 17521
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YAHYABEY",
+    "id": 17522
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YARIMTEPE",
+    "id": 17523
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YENİCAMİ",
+    "id": 17524
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YENİOCAK",
+    "id": 17525
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÖRENŞEHİR, MERKEZ",
+    "id": 17526
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 17527
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ŞABANLI",
+    "id": 17528
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 17529
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAYABAŞI",
+    "id": 17530
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "METHİYE",
+    "id": 17531
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "PANLI",
+    "id": 17532
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "PULPINAR",
+    "id": 17533
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AKÖREN",
+    "id": 17534
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKKÖMARMUT",
+    "id": 17535
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÇÖRDÜKLÜ",
+    "id": 17536
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÇUKURYURT",
+    "id": 17537
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "GÜMÜŞGÜN",
+    "id": 17538
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HÜRRİYET",
+    "id": 17539
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "İNLİÖREN",
+    "id": 17540
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KADILI",
+    "id": 17541
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAYAALTI",
+    "id": 17542
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "SAÇLI",
+    "id": 17543
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YUKARIKARAGÖZ",
+    "id": 17544
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "CİNAHMET",
+    "id": 17545
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 17546
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "FAKIEKİNCİLİĞİ",
+    "id": 17547
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "İĞDELİPAYASLI",
+    "id": 17548
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KARAKUYU",
+    "id": 17549
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "KAYAÖNÜ",
+    "id": 17550
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YAĞLIPINAR",
+    "id": 17551
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "YEREGEÇEN",
+    "id": 17552
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "AKPINAR",
+    "id": 17553
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "BÜYÜKKARAMANLI",
+    "id": 17554
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 17555
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "DİLCİLER",
+    "id": 17556
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "EĞRİSÖĞÜT",
+    "id": 17557
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "HİLMİYE",
+    "id": 17558
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "MALAKKÖY",
+    "id": 17559
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "OLUKKAYA",
+    "id": 17560
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "PAZARÖREN",
+    "id": 17561
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TAŞOLUK",
+    "id": 17562
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "TÖZGÜN",
+    "id": 17563
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "PINARBAŞI",
+    "MAHALLE": "UZUNYOL",
+    "id": 17564
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "MELİKÖREN",
+    "id": 17565
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "YENİ",
+    "id": 17566
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KEVENAĞIL",
+    "id": 17567
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KIZILÖREN",
+    "id": 17568
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KURTULUŞ",
+    "id": 17569
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 17570
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ŞIHBARAK",
+    "id": 17571
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "BÖKE",
+    "id": 17572
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "CÜCÜN",
+    "id": 17573
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "IŞIKLAR",
+    "id": 17574
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "TATAR",
+    "id": 17575
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "BEKTAŞ",
+    "id": 17576
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KUŞCAĞIZ",
+    "id": 17577
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "SÜVEGENLER",
+    "id": 17578
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "TURANLI",
+    "id": 17579
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "YAVUZSELİM",
+    "id": 17580
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ARSLANTAŞ",
+    "id": 17581
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "BOSTANLIK",
+    "id": 17582
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 17583
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KÜÇÜKCANLI",
+    "id": 17584
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "AKDERE",
+    "id": 17585
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ÇANAKPINAR",
+    "id": 17586
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "DADALOĞLU",
+    "id": 17587
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "GÜLVEREN",
+    "id": 17588
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "İMAMKULLU",
+    "id": 17589
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KALE",
+    "id": 17590
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KESİR",
+    "id": 17591
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "SARIMEHMETLİ",
+    "id": 17592
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "CULHA",
+    "id": 17593
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "DAĞYURDU",
+    "id": 17594
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "GÜZELSU",
+    "id": 17595
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "AKMEZAR",
+    "id": 17596
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "EKİNLİ",
+    "id": 17597
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KARAMUKLU",
+    "id": 17598
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KARAÖREN",
+    "id": 17599
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ÜÇKONAK",
+    "id": 17600
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "AVŞARSÖĞÜTLÜ",
+    "id": 17601
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "BÜYÜKCANLI",
+    "id": 17602
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "EMİRUŞAĞI",
+    "id": 17603
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "TAHTAKEMER",
+    "id": 17604
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "HACIPAŞA",
+    "id": 17605
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "TOKLAR",
+    "id": 17606
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "İNCİLİ",
+    "id": 17607
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ÇAYİNLİ",
+    "id": 17608
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ÇUKURAĞAÇ",
+    "id": 17609
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "GÜZELCE",
+    "id": 17610
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "PUSATLI",
+    "id": 17611
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "GÖKTEPE",
+    "id": 17612
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "ŞİRAZ",
+    "id": 17613
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17614
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "İCADİYE",
+    "id": 17615
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KAPUKAYA",
+    "id": 17616
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "KÖMÜR",
+    "id": 17617
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TOMARZA",
+    "MAHALLE": "YEŞİLBAĞ",
+    "id": 17618
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "75.YIL",
+    "id": 17619
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "100.YIL",
+    "id": 17620
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ÇAMLICA",
+    "id": 17621
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "BALCIÇAKIRI",
+    "id": 17622
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "BURHANİYE",
+    "id": 17623
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "AVLAĞA",
+    "id": 17624
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "AĞCAŞAR",
+    "id": 17625
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 17626
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "BÜYÜKÇAKIR",
+    "id": 17627
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ÇAVDARUŞAĞI",
+    "id": 17628
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "İSMET",
+    "id": 17629
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ÇİĞİLLİ",
+    "id": 17630
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ÇUBUKLU",
+    "id": 17631
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "GAZİBEYLİ",
+    "id": 17632
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KAVACIK",
+    "id": 17633
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "TAŞHAN",
+    "id": 17634
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "FEVZİÇAKMAK",
+    "id": 17635
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "SÜLEYMANFAKILI",
+    "id": 17636
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "SAZAK",
+    "id": 17637
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ÇUBUKHARMANI",
+    "id": 17638
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "DENİZOVASI",
+    "id": 17639
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "MUSTAFABEYLİ",
+    "id": 17640
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "DİKME",
+    "id": 17641
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "FETULLAH",
+    "id": 17642
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KAPUZBAŞI",
+    "id": 17643
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "DELİALİUŞAĞI",
+    "id": 17644
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KİRAZLI",
+    "id": 17645
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "ULUPINAR",
+    "id": 17646
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "İLYASLI",
+    "id": 17647
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "SENİRKÖY",
+    "id": 17648
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 17649
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "YULARI",
+    "id": 17650
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "YERKÖY",
+    "id": 17651
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KOPÇU",
+    "id": 17652
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "MADAZI",
+    "id": 17653
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "YENİCE",
+    "id": 17654
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "DEREBAĞ",
+    "id": 17655
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KUZOLUK",
+    "id": 17656
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KARAKÖY",
+    "id": 17657
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "KOCAHACILI",
+    "id": 17658
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YAHYALI",
+    "MAHALLE": "SEYDİLİ",
+    "id": 17659
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "GÜZELÖZ",
+    "id": 17660
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KALE",
+    "id": 17661
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "SOĞANLI",
+    "id": 17662
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 17663
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "AKKÖY",
+    "id": 17664
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "BAŞKÖY",
+    "id": 17665
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "İÇMECE",
+    "id": 17666
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KAYADİBİ",
+    "id": 17667
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KÖŞK",
+    "id": 17668
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "OVAÇİFTLİK",
+    "id": 17669
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "DOĞANLI",
+    "id": 17670
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KEŞLİK",
+    "id": 17671
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KUŞÇU",
+    "id": 17672
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "FEVZİOĞLU",
+    "id": 17673
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "BEYLERYUKARI",
+    "id": 17674
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 17675
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KELER",
+    "id": 17676
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "MUSAHACILI",
+    "id": 17677
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "BÜGET",
+    "id": 17678
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "ÇADIRKAYA",
+    "id": 17679
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "GÜNEY",
+    "id": 17680
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 17681
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "DERBENTBAŞI",
+    "id": 17682
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KOVALI",
+    "id": 17683
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 17684
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KAVAK",
+    "id": 17685
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KUZEY",
+    "id": 17686
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "ARAPLI",
+    "id": 17687
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17688
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "FATİH",
+    "id": 17689
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "GÜLBAYIR",
+    "id": 17690
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "İDRİS",
+    "id": 17691
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "KARACABEY",
+    "id": 17692
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 17693
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "YEŞİLHİSAR",
+    "MAHALLE": "ERDEMLİ",
+    "id": 17694
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "GÜNEYYUKARI",
+    "id": 17695
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "HAVADAN",
+    "id": 17696
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "HÜSEYİNLİ",
+    "id": 17697
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KULPAK",
+    "id": 17698
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SARAYCIK",
+    "id": 17699
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YENİ",
+    "id": 17700
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YENİCE",
+    "id": 17701
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "AŞIK SEYRANİ",
+    "id": 17702
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇADIRYERİ",
+    "id": 17703
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KALEKÖY",
+    "id": 17704
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÖKSÜT",
+    "id": 17705
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ALPASLAN",
+    "id": 17706
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "CAMİİCEDİT",
+    "id": 17707
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "TAŞCI, MERKEZ",
+    "id": 17708
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YENİHAYAT",
+    "id": 17709
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 17710
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "BÜYÜKKÜNYE",
+    "id": 17711
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KARACAÖREN",
+    "id": 17712
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KIZIK",
+    "id": 17713
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SİNDELHÖYÜK CAMİKEBİR",
+    "id": 17714
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "AŞAĞIEVEREK",
+    "id": 17715
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇAYLICA",
+    "id": 17716
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "DEVELİ CAMİKEBİR",
+    "id": 17717
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "FATİH",
+    "id": 17718
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "İZMİRLİ",
+    "id": 17719
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "MEHMET AKİF ERSOY",
+    "id": 17720
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SOYSALLI",
+    "id": 17721
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ŞIHLI",
+    "id": 17722
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "BAHÇEBAŞI",
+    "id": 17723
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "GÜNEYAŞAĞI",
+    "id": 17724
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KÜÇÜKKÜNYE",
+    "id": 17725
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "REŞADİYE",
+    "id": 17726
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SİNDELHÖYÜK YENİCE",
+    "id": 17727
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YAYLACIK",
+    "id": 17728
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "E.CAMİİKEBİR",
+    "id": 17729
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "FENESEYUKARI",
+    "id": 17730
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇÖTEN",
+    "id": 17731
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "HARMAN",
+    "id": 17732
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KOPÇULLU",
+    "id": 17733
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "AYVAZHACI",
+    "id": 17734
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "HOŞÇA",
+    "id": 17735
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SARIKAYA",
+    "id": 17736
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YEDEK",
+    "id": 17737
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "EPÇE",
+    "id": 17738
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "EŞELİK",
+    "id": 17739
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "FENESEAŞAĞI",
+    "id": 17740
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ŞAHMELİK",
+    "id": 17741
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17742
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇAYIRÖZÜ",
+    "id": 17743
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇUKURYURT",
+    "id": 17744
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇOMAKLI",
+    "id": 17745
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "DEREŞİMLİ",
+    "id": 17746
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "GAZİ",
+    "id": 17747
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "İBRAHİMAĞA",
+    "id": 17748
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KOZLUCA",
+    "id": 17749
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "MİLLİDERE",
+    "id": 17750
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KABAKLI",
+    "id": 17751
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KILIÇKAYA",
+    "id": 17752
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SİNDELHÖYÜK FATİH",
+    "id": 17753
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "AYŞEPINAR",
+    "id": 17754
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ÇATALOLUK",
+    "id": 17755
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "GÜMÜŞÖREN",
+    "id": 17756
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "KÖSELER",
+    "id": 17757
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "MUSTAFA ASIM KÖKSAL",
+    "id": 17758
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ZİLE",
+    "id": 17759
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ABDULBAKİ",
+    "id": 17760
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "İNCESU",
+    "id": 17761
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "TOMBAK",
+    "id": 17762
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YAZIBAŞI",
+    "id": 17763
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 17764
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 17765
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "DEREBAŞI",
+    "id": 17766
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "GÖMEDİ",
+    "id": 17767
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SARICA",
+    "id": 17768
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "SATI",
+    "id": 17769
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "ŞHT.ÜSTĞM.HASAN ŞAHAN",
+    "id": 17770
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "DEVELİ",
+    "MAHALLE": "YÜZEVLER",
+    "id": 17771
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KALEKÖY",
+    "id": 17772
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KARAÖZÜ",
+    "id": 17773
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KIZILPINAR",
+    "id": 17774
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "EBÜLHAYIR",
+    "id": 17775
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "YILDIRIM",
+    "id": 17776
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "SOFUMAHMUT",
+    "id": 17777
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "BURUNÖREN",
+    "id": 17778
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "DÜZENCİK",
+    "id": 17779
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KADILI",
+    "id": 17780
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "MURATBEYLİ",
+    "id": 17781
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ÜZERLİK",
+    "id": 17782
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "TATILI",
+    "id": 17783
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ALAMETTİN",
+    "id": 17784
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "BAKARCAK",
+    "id": 17785
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "PALAS",
+    "id": 17786
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 17787
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "GÜZELYAZI",
+    "id": 17788
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KEKLİKOĞLU",
+    "id": 17789
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "GAZİLER",
+    "id": 17790
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "KARPINAR",
+    "id": 17791
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ÖMÜRLÜ",
+    "id": 17792
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "YAHYALI",
+    "id": 17793
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ILICA",
+    "id": 17794
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ŞENYURT",
+    "id": 17795
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "ÖMERHACILI",
+    "id": 17796
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "YERLİKUYU",
+    "id": 17797
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIOĞLAN",
+    "MAHALLE": "İĞDELİ",
+    "id": 17798
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "GÜNEY",
+    "id": 17799
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "KÜPELİ",
+    "id": 17800
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "ALPARSLAN",
+    "id": 17801
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "TUĞLAŞAH",
+    "id": 17802
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "YENİ",
+    "id": 17803
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17804
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "AŞAĞI BOĞAZİÇİ",
+    "id": 17805
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "KERMELİK",
+    "id": 17806
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "BAHÇELİ EVLER",
+    "id": 17807
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "YUKARI BOĞAZİÇİ",
+    "id": 17808
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "KAVAKLI",
+    "id": 17809
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "TAŞLIK",
+    "id": 17810
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "ÖZVATAN",
+    "MAHALLE": "KALE",
+    "id": 17811
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "YEDİAĞAÇ",
+    "id": 17812
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "AKDAM",
+    "id": 17813
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "ORTA",
+    "id": 17814
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "YUKARI",
+    "id": 17815
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "AKYAZI",
+    "id": 17816
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "AŞAĞI",
+    "id": 17817
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "BEĞENDİK",
+    "id": 17818
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "SAKARÇİFTLİĞİ",
+    "id": 17819
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "YENİ",
+    "id": 17820
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "ERCİYES",
+    "id": 17821
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "HÜRMETCİ",
+    "id": 17822
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "HACILAR",
+    "MAHALLE": "KARPUZSEKİSİ",
+    "id": 17823
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "GİRİNCİ",
+    "id": 17824
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "YUKARI",
+    "id": 17825
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "GANİŞEYH",
+    "id": 17826
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "AKİN",
+    "id": 17827
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "GÜMÜŞSU",
+    "id": 17828
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "GÖMÜRGEN",
+    "id": 17829
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "YEŞİL",
+    "id": 17830
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "ALEVKIŞLA",
+    "id": 17831
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "ŞEN",
+    "id": 17832
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "UĞURLU",
+    "id": 17833
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "YENİ",
+    "id": 17834
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "KULULU",
+    "id": 17835
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "GÖMÜRGEN YENİ",
+    "id": 17836
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "MANAVUZ",
+    "id": 17837
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "AKKIŞLA",
+    "MAHALLE": "ORTAKÖY",
+    "id": 17838
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17839
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "DANİŞMENTGAZİ",
+    "id": 17840
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "TACETTİNVELİ",
+    "id": 17841
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ANBAR",
+    "id": 17842
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GÜRPINAR",
+    "id": 17843
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 17844
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KEYKUBAT",
+    "id": 17845
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KÖŞK",
+    "id": 17846
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KIRANARDI",
+    "id": 17847
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ANBAR SB",
+    "id": 17848
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ERENKÖY",
+    "id": 17849
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 17850
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GESİ FATİH",
+    "id": 17851
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KAYABAĞ",
+    "id": 17852
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KAYSERİOSB",
+    "id": 17853
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 17854
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "MİMARSİNAN OSB",
+    "id": 17855
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "OSMANLI",
+    "id": 17856
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "TURAN",
+    "id": 17857
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ALPASLAN",
+    "id": 17858
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 17859
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GÜLTEPE",
+    "id": 17860
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "AĞIRNAS",
+    "id": 17861
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "BÜYÜK BÜRÜNGÜZ",
+    "id": 17862
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 17863
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 17864
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "OSMAN KAVUNCU",
+    "id": 17865
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "SAKARYA",
+    "id": 17866
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 17867
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "BAĞPINAR",
+    "id": 17868
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GESİ",
+    "id": 17869
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "İLDEM CUMHURİYET",
+    "id": 17870
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 17871
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "HİSARCIK",
+    "id": 17872
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "SARIMSAKLI",
+    "id": 17873
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "VEKSE",
+    "id": 17874
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GÜLÜK",
+    "id": 17875
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "HUNAT",
+    "id": 17876
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "TAVLUSUN",
+    "id": 17877
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KOCATEPE",
+    "id": 17878
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "19 MAYIS",
+    "id": 17879
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ANAFARTALAR",
+    "id": 17880
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 17881
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "DEMOKRASİ",
+    "id": 17882
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "EĞRİBUCAK",
+    "id": 17883
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KÜÇÜK BÜRÜNGÜZ",
+    "id": 17884
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ALTINOLUK",
+    "id": 17885
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ESENYURT",
+    "id": 17886
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GERMİR",
+    "id": 17887
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "GÖKKENT",
+    "id": 17888
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 17889
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "SUBAŞI",
+    "id": 17890
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ŞİRİNTEPE",
+    "id": 17891
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "TINAZTEPE",
+    "id": 17892
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "30 AĞUSTOS",
+    "id": 17893
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "FATİH",
+    "id": 17894
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KAZIMKARABEKİR",
+    "id": 17895
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "KILIÇASLAN",
+    "id": 17896
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "SELİMİYE",
+    "id": 17897
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "BECEN",
+    "id": 17898
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "MELİKGAZİ",
+    "MAHALLE": "ESENTEPE",
+    "id": 17899
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "AĞCALI",
+    "id": 17900
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "DERVİŞAĞA",
+    "id": 17901
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "SULTANHANI",
+    "id": 17902
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "BAYRAMLI",
+    "id": 17903
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 17904
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "EKİNCİLER",
+    "id": 17905
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "ELBAŞI",
+    "id": 17906
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YENİ SÜKSÜN",
+    "id": 17907
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "DOĞANLAR",
+    "id": 17908
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "BURHANİYE",
+    "id": 17909
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "İBRAHİMBEY",
+    "id": 17910
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YENİCE",
+    "id": 17911
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KARAHIDIR",
+    "id": 17912
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "MUSAŞEYH",
+    "id": 17913
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KARDEŞLER",
+    "id": 17914
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KOYUNABDAL",
+    "id": 17915
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KÖSEHACILI",
+    "id": 17916
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "AKMESCİT",
+    "id": 17917
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "GÜLLÜCE",
+    "id": 17918
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "BÜYÜKTUZHİSAR",
+    "id": 17919
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "DAĞARDI",
+    "id": 17920
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "GİRVELİ",
+    "id": 17921
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KARATAY",
+    "id": 17922
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "SAMAĞIR",
+    "id": 17923
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "GERGEME",
+    "id": 17924
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "CAMİİCEDİT",
+    "id": 17925
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "HAZARŞAH",
+    "id": 17926
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KARACAÖREN",
+    "id": 17927
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "TOPSÖĞÜT",
+    "id": 17928
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YAKUTİYE",
+    "id": 17929
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "AKÇATI",
+    "id": 17930
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "SIVGIN",
+    "id": 17931
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "FATİH",
+    "id": 17932
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KAHVECİ",
+    "id": 17933
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 17934
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "ASMAKAYA",
+    "id": 17935
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "KARAKAYA",
+    "id": 17936
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "PİRAHMET",
+    "id": 17937
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "SAĞLIK",
+    "id": 17938
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "SÜMER",
+    "id": 17939
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 17940
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 17941
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "EMİRÖREN",
+    "id": 17942
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YAĞMURBEY",
+    "id": 17943
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "İĞDECİK",
+    "id": 17944
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "BÜNYAN",
+    "MAHALLE": "YÜNÖREN",
+    "id": 17945
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ALSANCAK",
+    "id": 17946
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BEYDEĞİRMENİ",
+    "id": 17947
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "DORUKLU",
+    "id": 17948
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ELMALI",
+    "id": 17949
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "GENERAL EMİR",
+    "id": 17950
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HASAN ARPA",
+    "id": 17951
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KEMER",
+    "id": 17952
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "GÖMEÇ",
+    "id": 17953
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "OYMAAĞAÇ",
+    "id": 17954
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ARGINCIK",
+    "id": 17955
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "DADAĞI",
+    "id": 17956
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "GEVHER NESİBE",
+    "id": 17957
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HİMMETDEDE",
+    "id": 17958
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "EYİM",
+    "id": 17959
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SÜMER",
+    "id": 17960
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SARAYCIK",
+    "id": 17961
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ŞEKER",
+    "id": 17962
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 17963
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ZÜMRÜT",
+    "id": 17964
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "AKİN",
+    "id": 17965
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "DERE",
+    "id": 17966
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KAYABAŞI",
+    "id": 17967
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MEVLANA",
+    "id": 17968
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MOLLAHACI",
+    "id": 17969
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SEYRANİ",
+    "id": 17970
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HASANCI",
+    "id": 17971
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "UĞUREVLER",
+    "id": 17972
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KALKANCIK",
+    "id": 17973
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KAŞKÖY",
+    "id": 17974
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ERKİLET",
+    "id": 17975
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "FEVZİOĞLU",
+    "id": 17976
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HOCA AHMET YESEVİ",
+    "id": 17977
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MİMARSİNAN",
+    "id": 17978
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MOLU",
+    "id": 17979
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BAYRAMHACI",
+    "id": 17980
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "TALATPAŞA",
+    "id": 17981
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 17982
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KARAKİMSE",
+    "id": 17983
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YUKARIHASİNLİ",
+    "id": 17984
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KUŞCAĞIZ",
+    "id": 17985
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "TURGUT REİS",
+    "id": 17986
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YEŞİL",
+    "id": 17987
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ZİYAGÖKALP",
+    "id": 17988
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "DÜVER",
+    "id": 17989
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HÖBEK",
+    "id": 17990
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MAHZEMİN",
+    "id": 17991
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 17992
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YAVUZLAR",
+    "id": 17993
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YAZIR",
+    "id": 17994
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BOĞAZKÖPRÜ",
+    "id": 17995
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 17996
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HACI SAKİ",
+    "id": 17997
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YAKUT",
+    "id": 17998
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BEYAZŞEHİR",
+    "id": 17999
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BOYACI",
+    "id": 18000
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "CAMİKEBİR",
+    "id": 18001
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "EMMİLER",
+    "id": 18002
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BOZTEPE",
+    "id": 18003
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ÇEVRİL",
+    "id": 18004
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "EBİÇ",
+    "id": 18005
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ESKİÖMERLER",
+    "id": 18006
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KIZIK",
+    "id": 18007
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "AHİ EVRAN",
+    "id": 18008
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BARBAROS",
+    "id": 18009
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BUĞDAYLI",
+    "id": 18010
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "CIRGALAN",
+    "id": 18011
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ELAGÖZ",
+    "id": 18012
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KOCASİNAN",
+    "id": 18013
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YEMLİHA",
+    "id": 18014
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "AMARAT",
+    "id": 18015
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "BARSAMA",
+    "id": 18016
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KARAHÖYÜK",
+    "id": 18017
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YENİŞEHİR",
+    "id": 18018
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 18019
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "KUŞÇU",
+    "id": 18020
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YENİ",
+    "id": 18021
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "AKCATEPE",
+    "id": 18022
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ERCİYESEVLER",
+    "id": 18023
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 18024
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "HIRKAKÖY",
+    "id": 18025
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "ORUÇREİS",
+    "id": 18026
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SALUR",
+    "id": 18027
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SARAY BOSNA",
+    "id": 18028
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YUVALI",
+    "id": 18029
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SAHABİYE",
+    "id": 18030
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SANAYİ",
+    "id": 18031
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "SANCAKTEPE",
+    "id": 18032
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "TAŞHAN",
+    "id": 18033
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YILDIZEVLER",
+    "id": 18034
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "OBRUK",
+    "id": 18035
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "OSMANGAZİ",
+    "id": 18036
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "VATAN",
+    "id": 18037
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "KOCASİNAN",
+    "MAHALLE": "YÜREĞİL",
+    "id": 18038
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "ÇARDAKLI",
+    "id": 18039
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 18040
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KARAMUSTAFAPAŞA",
+    "id": 18041
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "HAMURCU",
+    "id": 18042
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KIZILÖREN AŞAĞI",
+    "id": 18043
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "BAHÇESARAY",
+    "id": 18044
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SEMERKENT",
+    "id": 18045
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SÜKSÜN ZAFER",
+    "id": 18046
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "FIRINÖNÜ",
+    "id": 18047
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KIZILÖREN ÖTEBATAN",
+    "id": 18048
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SÜKSÜN HÜRRİYET",
+    "id": 18049
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SÜKSÜN CUMHURİYET",
+    "id": 18050
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SUBAŞI",
+    "id": 18051
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "GARİPÇE",
+    "id": 18052
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "GÖNENKENT",
+    "id": 18053
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KIZILÖREN TABAKLI",
+    "id": 18054
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "ÖRENŞEHİR",
+    "id": 18055
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "YENİ CAMİİ",
+    "id": 18056
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KÜLLÜ",
+    "id": 18057
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "DOKUZPINAR",
+    "id": 18058
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "ÜÇKUYU",
+    "id": 18059
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "BULGURCU",
+    "id": 18060
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "KARAKOYUNLU",
+    "id": 18061
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "ŞEYHŞABAN",
+    "id": 18062
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SARIKÜRKLÜ",
+    "id": 18063
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SULTANSAZI OSB",
+    "id": 18064
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "VALİ İHSAN ARAS",
+    "id": 18065
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 18066
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "SARAYCIK",
+    "id": 18067
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "TAHİRİNLİ",
+    "id": 18068
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "İNCESU",
+    "MAHALLE": "YARIM",
+    "id": 18069
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KEMER",
+    "id": 18070
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ÇAĞŞAK",
+    "id": 18071
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ALTISÖĞÜT",
+    "id": 18072
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "YENİ",
+    "id": 18073
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "AYRANLIK",
+    "id": 18074
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "DEĞİRMENTAŞ",
+    "id": 18075
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KURUDERE",
+    "id": 18076
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "AKOLUK",
+    "id": 18077
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ÇAVDAR",
+    "id": 18078
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "FETTAHDERE",
+    "id": 18079
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "İMİRZAAĞA",
+    "id": 18080
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KÜÇÜK KABAKTEPE",
+    "id": 18081
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "BÜYÜK ÖRTÜLÜ",
+    "id": 18082
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "DAYOLUK",
+    "id": 18083
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "GÜNESEN",
+    "id": 18084
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KISKAÇLI",
+    "id": 18085
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ÖRDEKLİ",
+    "id": 18086
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "OĞLAKKAYA",
+    "id": 18087
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "TEKNELİ",
+    "id": 18088
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "AVŞAROBASI",
+    "id": 18089
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "BÜYÜK SÖBEÇİMEN",
+    "id": 18090
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ÇÖREKDERE",
+    "id": 18091
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "İNCEDERE",
+    "id": 18092
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "GÜMÜŞALİ",
+    "id": 18093
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KARAYURT",
+    "id": 18094
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KURDİNİ",
+    "id": 18095
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "TAVLA",
+    "id": 18096
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "DAMIZLIK",
+    "id": 18097
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KIRKISRAK",
+    "id": 18098
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "SANCAKAĞIL",
+    "id": 18099
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "ÇATALPINAR",
+    "id": 18100
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KUŞÇU",
+    "id": 18101
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "YEDİOLUK",
+    "id": 18102
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KIZILPINAR",
+    "id": 18103
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KÜÇÜK ÖRTÜLÜ",
+    "id": 18104
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KÜÇÜK SÖBEÇİMEN",
+    "id": 18105
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 18106
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "BAHÇELİ",
+    "id": 18107
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "DALLIKAVAK",
+    "id": 18108
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "İNCEMAĞARA",
+    "id": 18109
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "DARIDERE",
+    "id": 18110
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "KARAPINAR",
+    "id": 18111
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "MOLLAHÜSEYİNLER",
+    "id": 18112
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "SARIZ",
+    "MAHALLE": "YAYLACI",
+    "id": 18113
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "BÜYÜKTORAMAN İSTİKLAL",
+    "id": 18114
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "CUMHURİYET",
+    "id": 18115
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KARAŞEYH",
+    "id": 18116
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KAYAPINAR CUMHURİYET",
+    "id": 18117
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "DARILI",
+    "id": 18118
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KEPİÇ",
+    "id": 18119
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "ALPARSLAN",
+    "id": 18120
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "BEYLER",
+    "id": 18121
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "İSABEY",
+    "id": 18122
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KALE",
+    "id": 18123
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KAYAPINAR FATİH SULTAN MEHMET",
+    "id": 18124
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "ACIRLI",
+    "id": 18125
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "BÜYÜKTORAMAN HÜRRİYET",
+    "id": 18126
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "KURUHÜYÜK",
+    "id": 18127
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "SİLAHTAR",
+    "id": 18128
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "YENİ",
+    "id": 18129
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "FELAHİYE",
+    "MAHALLE": "MENTEŞE",
+    "id": 18130
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "AKÇAKAYA",
+    "id": 18131
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ALAYBEYLİ",
+    "id": 18132
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "CEBİR",
+    "id": 18133
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "KAMBER",
+    "id": 18134
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 18135
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ÇATAKDERE",
+    "id": 18136
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "BAŞAKPINAR",
+    "id": 18137
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "KURUKÖPRÜ",
+    "id": 18138
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "HAN",
+    "id": 18139
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "HARMAN",
+    "id": 18140
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "MENGÜCEK",
+    "id": 18141
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "YUKARI",
+    "id": 18142
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ZİNCİDERE",
+    "id": 18143
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ÇEVLİK",
+    "id": 18144
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ENDÜRLÜK",
+    "id": 18145
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "KİÇİKÖY",
+    "id": 18146
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "REŞADİYE",
+    "id": 18147
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "TABLAKAYA",
+    "id": 18148
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ARDIÇ",
+    "id": 18149
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "MEVLANA",
+    "id": 18150
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "SÜLEYMANLI",
+    "id": 18151
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "YAZYURDU",
+    "id": 18152
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "KEPEZ",
+    "id": 18153
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "KOÇCAĞIZ",
+    "id": 18154
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ÖRENCİK",
+    "id": 18155
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "SAKALTUTAN",
+    "id": 18156
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "YAMAÇLI",
+    "id": 18157
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "ÇÖMLEKÇİ",
+    "id": 18158
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "SOSUN",
+    "id": 18159
+  },
+  {
+    "İL": "KAYSERİ",
+    "İLÇE": "TALAS",
+    "MAHALLE": "YENİDOĞAN",
+    "id": 18160
+  }
+]

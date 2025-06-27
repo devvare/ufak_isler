@@ -1,0 +1,4280 @@
+[
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ARMUTLU",
+    "id": 16284
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "AŞAĞIMÜLK",
+    "id": 16285
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "AKÇALAR",
+    "id": 16286
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "EĞLEN",
+    "id": 16287
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SALLIUŞAĞI",
+    "id": 16288
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SALMANLI",
+    "id": 16289
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SULTANLAR",
+    "id": 16290
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ULUBAHÇE",
+    "id": 16291
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "DAMLATAŞ",
+    "id": 16292
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "EVRİ TAŞBİÇME",
+    "id": 16293
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "TETİRLİK",
+    "id": 16294
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KADINCIK",
+    "id": 16295
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KARAGÖL",
+    "id": 16296
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MENDERES",
+    "id": 16297
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YEŞİLKENT",
+    "id": 16298
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BÜYÜKNACAR KOCADERE",
+    "id": 16299
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "HASANKOCA",
+    "id": 16300
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 16301
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KİZİRLİ",
+    "id": 16302
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MUSOLAR",
+    "id": 16303
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "NARLI CUMHURİYET",
+    "id": 16304
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SAKARKAYA",
+    "id": 16305
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YOLBOYU",
+    "id": 16306
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BEŞÇEŞME",
+    "id": 16307
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇİÇEKALANI",
+    "id": 16308
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "GANİDAĞIKETİLER",
+    "id": 16309
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "CİMİKANLI",
+    "id": 16310
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇİĞDEMTEPE",
+    "id": 16311
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "CENGİZ TOPEL",
+    "id": 16312
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "EVRİ PINARBAŞI",
+    "id": 16313
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SARIERİK",
+    "id": 16314
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SARIL",
+    "id": 16315
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "NEFSİDOĞANLI",
+    "id": 16316
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YUMAKLICERİT CUMHURİYET",
+    "id": 16317
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 16318
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ŞEHİT NURETTİN ADEMOĞLU",
+    "id": 16319
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YİĞİTLER",
+    "id": 16320
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MEMİŞKAHYA",
+    "id": 16321
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "OSMANDEDE",
+    "id": 16322
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "TURUNÇLU",
+    "id": 16323
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YUKARIMÜLK",
+    "id": 16324
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BAĞDINISAĞIR",
+    "id": 16325
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BÜYÜKNACAR FATİH",
+    "id": 16326
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "EMİROĞLU",
+    "id": 16327
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "HÜRRİYET",
+    "id": 16328
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KARABIYIKLI",
+    "id": 16329
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MEMİŞ ÖZDAL",
+    "id": 16330
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "HANOBASI",
+    "id": 16331
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "FATİH",
+    "id": 16332
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "GÖÇER",
+    "id": 16333
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "GÖYNÜK",
+    "id": 16334
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KIZKAPANLI",
+    "id": 16335
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "AKDEMİR",
+    "id": 16336
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇAMLITEPE",
+    "id": 16337
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "DEDEPAŞA",
+    "id": 16338
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "EĞRİCE",
+    "id": 16339
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "NARLI İSMETPAŞA",
+    "id": 16340
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SALMANIPAK",
+    "id": 16341
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "TAŞDEMİR",
+    "id": 16342
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YARBAŞI",
+    "id": 16343
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "NARLI BAHÇELİEVLER",
+    "id": 16344
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "UFACIKLI",
+    "id": 16345
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "AHMET BOZDAĞ",
+    "id": 16346
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KARAÇAY",
+    "id": 16347
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MEZERE",
+    "id": 16348
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SOKU",
+    "id": 16349
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YUMAKLICERİT BAĞLAR",
+    "id": 16350
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "15 TEMMUZ",
+    "id": 16351
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "AKCAKOYUNLU",
+    "id": 16352
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇAMLICA",
+    "id": 16353
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇİÇEK",
+    "id": 16354
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÇÖÇELLİ",
+    "id": 16355
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "HARMANCIK",
+    "id": 16356
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KELEŞ",
+    "id": 16357
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "KUZEYKENT",
+    "id": 16358
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "MEHMET EMİN ARIKOĞLU",
+    "id": 16359
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ÖRDEKDEDE",
+    "id": 16360
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "ŞAHİNTEPE",
+    "id": 16361
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "TİLKİLER",
+    "id": 16362
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BÜYÜKNACAR MERKEZ",
+    "id": 16363
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "SADAKALAR",
+    "id": 16364
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "YUKARIHÖCÜKLÜ",
+    "id": 16365
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "BÖLÜKÇAM",
+    "id": 16366
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "PAZARCIK",
+    "MAHALLE": "İNCİRLİ",
+    "id": 16367
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ALANLI",
+    "id": 16368
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ALINOLUK",
+    "id": 16369
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BEKTAŞLI",
+    "id": 16370
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ÇİĞŞAR",
+    "id": 16371
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "TUFAN PAŞA",
+    "id": 16372
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 16373
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KALEBOYNU",
+    "id": 16374
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ALAMEŞE",
+    "id": 16375
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ALTINBOĞA",
+    "id": 16376
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ARIKLAR",
+    "id": 16377
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "GÖKAHMETLİ",
+    "id": 16378
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "TORUN",
+    "id": 16379
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BEŞBUCAK",
+    "id": 16380
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BOĞAZÖREN",
+    "id": 16381
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16382
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "AKÇAKOYUNLU",
+    "id": 16383
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BOSTANLI",
+    "id": 16384
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BULGURKAYA",
+    "id": 16385
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "EFİRAĞIZLI",
+    "id": 16386
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KABAKLAR",
+    "id": 16387
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ORHANİYE",
+    "id": 16388
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "OSMANCIK",
+    "id": 16389
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 16390
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "AKGÜMÜŞ",
+    "id": 16391
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "AKİFİYE",
+    "id": 16392
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ALTINYAYLA",
+    "id": 16393
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "GÖKÇELİ",
+    "id": 16394
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KARGAÇAYIRI",
+    "id": 16395
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BOYNUYOĞUNLU",
+    "id": 16396
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ÇOKAK",
+    "id": 16397
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "GÖKGEDİK",
+    "id": 16398
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "RİFATİYE",
+    "id": 16399
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "CAMBAZ",
+    "id": 16400
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ERENLER",
+    "id": 16401
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KARAPINAR",
+    "id": 16402
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KÖLELİ",
+    "id": 16403
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KUMARLI",
+    "id": 16404
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "DARIOVASI",
+    "id": 16405
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "HACIVELİUŞAĞI",
+    "id": 16406
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "SUMAKLI",
+    "id": 16407
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "YENİKÖY",
+    "id": 16408
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "GEBEN",
+    "id": 16409
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KABAAĞAÇ",
+    "id": 16410
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ÇUHADARLI",
+    "id": 16411
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "EMİRLER",
+    "id": 16412
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "TATARLI",
+    "id": 16413
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "YENİ",
+    "id": 16414
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ANACIK",
+    "id": 16415
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BAŞDOĞAN",
+    "id": 16416
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KIZIK",
+    "id": 16417
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KÖKLÜ",
+    "id": 16418
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 16419
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "CAMUZLUK",
+    "id": 16420
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "BOZTOPRAKLI",
+    "id": 16421
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 16422
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KIYIKÇI",
+    "id": 16423
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ANDIRIN",
+    "MAHALLE": "KUZGUN",
+    "id": 16424
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 16425
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "FINDIK",
+    "id": 16426
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "HACIKODAL",
+    "id": 16427
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "HACIMİRZA",
+    "id": 16428
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KARATUT",
+    "id": 16429
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ÇAMDERE",
+    "id": 16430
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "GÖYNÜK",
+    "id": 16431
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "GÜLDAĞI",
+    "id": 16432
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "MÜRSEL",
+    "id": 16433
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YAĞMURLU",
+    "id": 16434
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "APIKLAR",
+    "id": 16435
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ESENKÖY",
+    "id": 16436
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "FINDIKLIKOYAK",
+    "id": 16437
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 16438
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "MEHMETBEY",
+    "id": 16439
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KAZANDERE",
+    "id": 16440
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KIZILÖZ",
+    "id": 16441
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "MAHMUTBEY",
+    "id": 16442
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "PAYAMBURNU",
+    "id": 16443
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16444
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 16445
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ACIELMA",
+    "id": 16446
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ALIÇLIBUCAK",
+    "id": 16447
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "DOĞANKONAK",
+    "id": 16448
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KALE",
+    "id": 16449
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YANTEPE",
+    "id": 16450
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YİRİCEK",
+    "id": 16451
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "GÖLPINAR",
+    "id": 16452
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "HUĞTAŞ",
+    "id": 16453
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KARAAHMET",
+    "id": 16454
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KAYABAŞI",
+    "id": 16455
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "BÜYÜKKIZILCIK",
+    "id": 16456
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KINIKKOZ",
+    "id": 16457
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KÜÇÜKÇAMURLU",
+    "id": 16458
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "TAŞOLUK",
+    "id": 16459
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "AHMETCİK",
+    "id": 16460
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ASLANBEYÇİFTLİĞİ",
+    "id": 16461
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 16462
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ALTINOBA",
+    "id": 16463
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "BOZHÜYÜK",
+    "id": 16464
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "BÜYÜKÇAMURLU",
+    "id": 16465
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "HARBİYE",
+    "id": 16466
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "GÜLLER",
+    "id": 16467
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KANLIKAVAK",
+    "id": 16468
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KORKMAZ",
+    "id": 16469
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ÇARDAK",
+    "id": 16470
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KALEBOYNU",
+    "id": 16471
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KARAÖMER",
+    "id": 16472
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 16473
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ELMALI",
+    "id": 16474
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ERİCEK",
+    "id": 16475
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KURTULUŞ",
+    "id": 16476
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "SIRMALI",
+    "id": 16477
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "TEMÜRAĞA",
+    "id": 16478
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "HACIÖMER",
+    "id": 16479
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 16480
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KAVŞUT",
+    "id": 16481
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KİREÇ",
+    "id": 16482
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "GÜCÜKSU",
+    "id": 16483
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KAMIŞCIK",
+    "id": 16484
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KEKLİKOLUK",
+    "id": 16485
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 16486
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "KÖMÜR",
+    "id": 16487
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "ORTATEPE",
+    "id": 16488
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "TAHİRBEY",
+    "id": 16489
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "TOMBAK",
+    "id": 16490
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YENİ",
+    "id": 16491
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 16492
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YOĞUNOLUK",
+    "id": 16493
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "SARAYCIK",
+    "id": 16494
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 16495
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "GÖKSUN",
+    "MAHALLE": "YENİYAPAN",
+    "id": 16496
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "FATİH",
+    "id": 16497
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "AKSU",
+    "id": 16498
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "KÜÇÜKCERİT",
+    "id": 16499
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "BÖLÜKDAMLAR",
+    "id": 16500
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "EMİRUŞAĞI",
+    "id": 16501
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "BOYLU",
+    "id": 16502
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "ENGİZEK",
+    "id": 16503
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "İSTİKLAL",
+    "id": 16504
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "ORUÇPINAR",
+    "id": 16505
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "HELETE",
+    "id": 16506
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "BOZLAR",
+    "id": 16507
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 16508
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "AKDERE",
+    "id": 16509
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "BAYIRLI",
+    "id": 16510
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "KÜÇÜKÜNGÜT",
+    "id": 16511
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "KALE",
+    "id": 16512
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ÇAĞLAYANCERİT",
+    "MAHALLE": "ZEYNEPUŞAĞI",
+    "id": 16513
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "KIYILAR",
+    "id": 16514
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "TATLAR",
+    "id": 16515
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "UMUTLU",
+    "id": 16516
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "YENİ",
+    "id": 16517
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "HÜYÜK",
+    "id": 16518
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "SEYİTALİLER",
+    "id": 16519
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "ESKİKÖY",
+    "id": 16520
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "GÜRSEL",
+    "id": 16521
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "BİÇİN",
+    "id": 16522
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "KARAÇAR",
+    "id": 16523
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16524
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "AĞCAŞAR",
+    "id": 16525
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "KULLAR",
+    "id": 16526
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 16527
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "ALÇİÇEK DEĞİRMENKAYA",
+    "id": 16528
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "NURHAK",
+    "MAHALLE": "BARIŞ",
+    "id": 16529
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAHÇELİ",
+    "id": 16530
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAYDEMİRLİ",
+    "id": 16531
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GAFFARLI",
+    "id": 16532
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "PEYNİRDERE",
+    "id": 16533
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SÜMER",
+    "id": 16534
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 16535
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ALİBEYUŞAĞI",
+    "id": 16536
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DOĞU KENT",
+    "id": 16537
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "EKBEROĞLU",
+    "id": 16538
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARTAL",
+    "id": 16539
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KÜPELİKIZ",
+    "id": 16540
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SAKARYA",
+    "id": 16541
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SARIKAYA",
+    "id": 16542
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAŞDEVRİŞLİ",
+    "id": 16543
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "FEVZİ PAŞA",
+    "id": 16544
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "HALKAÇAYIRI",
+    "id": 16545
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KAPIÇAM",
+    "id": 16546
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARACASU KARŞIYAKA",
+    "id": 16547
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARACASU MAMARAŞ",
+    "id": 16548
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "NAVRUZLU",
+    "id": 16549
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "TEVEKKELLİ",
+    "id": 16550
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YENİYURT",
+    "id": 16551
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "AKYAR",
+    "id": 16552
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "AYAKLICAOLUK",
+    "id": 16553
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 16554
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DEREKÖY",
+    "id": 16555
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ERKENEZ",
+    "id": 16556
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KAZANLIPINAR",
+    "id": 16557
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SENEM AYŞE",
+    "id": 16558
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 16559
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YENİ ŞEHİR",
+    "id": 16560
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BULANIK",
+    "id": 16561
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÇATMAYAYLA",
+    "id": 16562
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÇINARLI",
+    "id": 16563
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GÖLLÜ",
+    "id": 16564
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BEŞENLİ",
+    "id": 16565
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GENÇ OSMAN",
+    "id": 16566
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "AKSU",
+    "id": 16567
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAYAZITLI",
+    "id": 16568
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DERELİ",
+    "id": 16569
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "EGEMENLİK",
+    "id": 16570
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KEMALLI",
+    "id": 16571
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SİVRİCEHÜYÜK",
+    "id": 16572
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YENİPINAR",
+    "id": 16573
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "EKMEKÇİ",
+    "id": 16574
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARACASU KIRIM",
+    "id": 16575
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KILAĞLI",
+    "id": 16576
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÖKSÜZLÜ",
+    "id": 16577
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YAHYA KEMAL",
+    "id": 16578
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 16579
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KANUNİ",
+    "id": 16580
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KOCOLAR",
+    "id": 16581
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "NAMIK KEMAL",
+    "id": 16582
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÇOBANLI",
+    "id": 16583
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GAZİ PAŞA",
+    "id": 16584
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GÜZELYURT",
+    "id": 16585
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KAYABAŞI",
+    "id": 16586
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "MENDERES",
+    "id": 16587
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ŞEYH ADİL",
+    "id": 16588
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ARSLANBEY ÇİFTLİĞİ",
+    "id": 16589
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BAHÇELİ EVLER",
+    "id": 16590
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BALLICA",
+    "id": 16591
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BOYALI",
+    "id": 16592
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DİVANLI",
+    "id": 16593
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "İSA DİVANLI",
+    "id": 16594
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARACASU FERHUŞ",
+    "id": 16595
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARATAŞ",
+    "id": 16596
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16597
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ABBASLAR",
+    "id": 16598
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DURAKLI",
+    "id": 16599
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "HACIEYÜPLÜ",
+    "id": 16600
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "İSTASYON",
+    "id": 16601
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "MEHMET AKİF",
+    "id": 16602
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "OSMANBEY",
+    "id": 16603
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SÜTÇÜ İMAM",
+    "id": 16604
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "TURAN",
+    "id": 16605
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "YUSUFHACILI",
+    "id": 16606
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ELMALAR",
+    "id": 16607
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARACASU KARAZİYARET",
+    "id": 16608
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KOZLUDERE",
+    "id": 16609
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KUZUCAK",
+    "id": 16610
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KÜÇÜKNACAR",
+    "id": 16611
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ULUTAŞ",
+    "id": 16612
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "AĞABEYLİ",
+    "id": 16613
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DOĞANLIKARAHASAN",
+    "id": 16614
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DULKADİROĞLU",
+    "id": 16615
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KURTULUŞ",
+    "id": 16616
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "MAKSUTUŞAĞI",
+    "id": 16617
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ŞEREFOĞLU",
+    "id": 16618
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ŞEYH ŞAMİL",
+    "id": 16619
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÇOKYAŞAR",
+    "id": 16620
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "EYÜP SULTAN",
+    "id": 16621
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "GÜNEŞEVLER",
+    "id": 16622
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KABASAKAL",
+    "id": 16623
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "SEYRANTEPE",
+    "id": 16624
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ASLAN BEY",
+    "id": 16625
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "BUDAKLI",
+    "id": 16626
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ÇİĞLİ",
+    "id": 16627
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 16628
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "DENİZLİ",
+    "id": 16629
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "ESKİNARLI",
+    "id": 16630
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "İSMET PAŞA",
+    "id": 16631
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "DULKADİROĞLU",
+    "MAHALLE": "KARAMANLI",
+    "id": 16632
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 16633
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "GAZİLER",
+    "id": 16634
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ÖZTÜRK",
+    "id": 16635
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "AKPINAR",
+    "id": 16636
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ATAKÖY",
+    "id": 16637
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ORTAÖREN",
+    "id": 16638
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "İÇMELER",
+    "id": 16639
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "KANDİL",
+    "id": 16640
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "YENİKÖY",
+    "id": 16641
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "KABAKTEPE",
+    "id": 16642
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ALİŞAR",
+    "id": 16643
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ALTUNYAPRAK",
+    "id": 16644
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "SOYSALLI",
+    "id": 16645
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "KÜRTÜL",
+    "id": 16646
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "TÜRKMENLER",
+    "id": 16647
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "DEMİRLİK",
+    "id": 16648
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "GÖZPINAR",
+    "id": 16649
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "TÜRKELİ",
+    "id": 16650
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ÇİFTLİKKALE",
+    "id": 16651
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "MAARİF",
+    "id": 16652
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "EKİNÖZÜ",
+    "MAHALLE": "ANBAR",
+    "id": 16653
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "AFŞİNBEY",
+    "id": 16654
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÇUKURPINAR",
+    "id": 16655
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "İNCİRLİ",
+    "id": 16656
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KAŞANLI",
+    "id": 16657
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BAKRAÇ",
+    "id": 16658
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÇAĞILHAN",
+    "id": 16659
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÇOĞULHAN",
+    "id": 16660
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "GERGER",
+    "id": 16661
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "İNCİ",
+    "id": 16662
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "TATLAR",
+    "id": 16663
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÖRENDERESİ",
+    "id": 16664
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "TOPAKTAŞ",
+    "id": 16665
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "SÖĞÜTDERESİ",
+    "id": 16666
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "SOĞUCAK",
+    "id": 16667
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ALTINELMA",
+    "id": 16668
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ANZOREY",
+    "id": 16669
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ARITAŞ",
+    "id": 16670
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KOÇOVASI",
+    "id": 16671
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16672
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "TANIR",
+    "id": 16673
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ALTAŞ",
+    "id": 16674
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ARMUTALAN",
+    "id": 16675
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BİNBOĞA",
+    "id": 16676
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "DEDEBABA",
+    "id": 16677
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "YAZIDERE",
+    "id": 16678
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ALEMDAR",
+    "id": 16679
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BERÇENEK",
+    "id": 16680
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BÜYÜKTATLI",
+    "id": 16681
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÇOMUDÜZ",
+    "id": 16682
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "HURMAN",
+    "id": 16683
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KUŞKAYASI",
+    "id": 16684
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "AĞCAŞAR",
+    "id": 16685
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "EFSUS TURAN",
+    "id": 16686
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "HÜYÜKLÜ",
+    "id": 16687
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BÜYÜKSEVİN",
+    "id": 16688
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "GÖZPINARI",
+    "id": 16689
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "HATİCEPINARI",
+    "id": 16690
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KARAGÖZ",
+    "id": 16691
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "OĞLAKKAYASI",
+    "id": 16692
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "TÜRKSEVİN",
+    "id": 16693
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ALPASLAN",
+    "id": 16694
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BEYCEĞİZ",
+    "id": 16695
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "DAĞLICA",
+    "id": 16696
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KANGAL",
+    "id": 16697
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 16698
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "DEVEBOYNU",
+    "id": 16699
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ORTAKLI",
+    "id": 16700
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "TÜRKÇAYIRI",
+    "id": 16701
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "YAZIKÖY",
+    "id": 16702
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "DOKUZTAY",
+    "id": 16703
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "EMİRİLYAS",
+    "id": 16704
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "GAZİOSMANPAŞA",
+    "id": 16705
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÖRENLİ",
+    "id": 16706
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ERÇENE",
+    "id": 16707
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "İĞDEMLİK",
+    "id": 16708
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ALİMPINAR",
+    "id": 16709
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BÜGET",
+    "id": 16710
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ESENCE",
+    "id": 16711
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KABAAĞAÇ",
+    "id": 16712
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÖRDEK",
+    "id": 16713
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "EMİRLİ",
+    "id": 16714
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "BAŞÜSTÜ",
+    "id": 16715
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "ÇOBANBEYLİ",
+    "id": 16716
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KALE",
+    "id": 16717
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "KÖTÜRE",
+    "id": 16718
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "AFŞİN",
+    "MAHALLE": "NADIR",
+    "id": 16719
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ALTINOVA",
+    "id": 16720
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AVCILAR",
+    "id": 16721
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 16722
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAMLIK",
+    "id": 16723
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACI BAYRAM VELİ",
+    "id": 16724
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACILAR",
+    "id": 16725
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "İSMAİLLİ",
+    "id": 16726
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "NECİP FAZIL",
+    "id": 16727
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SELÇUKLU",
+    "id": 16728
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ŞEHİT ABDULLAH ÇAVUŞ",
+    "id": 16729
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BARBAROS",
+    "id": 16730
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "FATMALI",
+    "id": 16731
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HAYDAR BEY",
+    "id": 16732
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÖNSEN",
+    "id": 16733
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇUKURHİSAR",
+    "id": 16734
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "GÖLPINAR",
+    "id": 16735
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KOZCAĞIZ",
+    "id": 16736
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÜNGÜT",
+    "id": 16737
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AYŞEPINARI",
+    "id": 16738
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAĞIRKAN",
+    "id": 16739
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KAPIKAYA",
+    "id": 16740
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KÖŞÜRGE",
+    "id": 16741
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KUMAŞIR",
+    "id": 16742
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MAĞRALI",
+    "id": 16743
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MOLLA GÜRANİ",
+    "id": 16744
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ORUÇ REİS",
+    "id": 16745
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÖŞLÜ",
+    "id": 16746
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "PİRİ REİS",
+    "id": 16747
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SELİMİYE",
+    "id": 16748
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SERİNTEPE",
+    "id": 16749
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "5 NİSAN",
+    "id": 16750
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AKÇAKOYUNLU",
+    "id": 16751
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAKIRDERE",
+    "id": 16752
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DÖNGELE",
+    "id": 16753
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ILICA",
+    "id": 16754
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KAYNAR",
+    "id": 16755
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KÖSELİ",
+    "id": 16756
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KÜMPERLİ",
+    "id": 16757
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SAYGILI",
+    "id": 16758
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "TEKEREK",
+    "id": 16759
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YAMAÇTEPE",
+    "id": 16760
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 16761
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HÜRRİYET",
+    "id": 16762
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KAZIM KARABEKİR",
+    "id": 16763
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KUMARLI",
+    "id": 16764
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MAKSUTLU",
+    "id": 16765
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SARIÇUKUR",
+    "id": 16766
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SÜLEYMANLI",
+    "id": 16767
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ŞAHİNKAYASI",
+    "id": 16768
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AVŞAR",
+    "id": 16769
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BİN EVLER",
+    "id": 16770
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "CÜCELİ",
+    "id": 16771
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 16772
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KIZILDAMLAR",
+    "id": 16773
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KIZILSEKİ",
+    "id": 16774
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 16775
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ZEYTİNDERE",
+    "id": 16776
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇEVREPINAR",
+    "id": 16777
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DEREBOĞAZI",
+    "id": 16778
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ERTUĞRUL GAZİ",
+    "id": 16779
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KALAKAYA",
+    "id": 16780
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 16781
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KERTMEN",
+    "id": 16782
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KÜÇÜKSIR",
+    "id": 16783
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ŞEHİT EVLİYA",
+    "id": 16784
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BEŞBAĞLAR",
+    "id": 16785
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 16786
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇOKRAN",
+    "id": 16787
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACIAĞLAR",
+    "id": 16788
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACIİBRAHİMUŞAĞI",
+    "id": 16789
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HAYRULLAH",
+    "id": 16790
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÖZTÜRK",
+    "id": 16791
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AKİF İNAN",
+    "id": 16792
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAKIRLAR",
+    "id": 16793
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KARADERE",
+    "id": 16794
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SARIGÜZEL",
+    "id": 16795
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YENİCEKALE",
+    "id": 16796
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YÜRÜKSELİM",
+    "id": 16797
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ABDÜLHAMİD HAN",
+    "id": 16798
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BÜYÜKSIR",
+    "id": 16799
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DEMREK",
+    "id": 16800
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MEVLANA",
+    "id": 16801
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SADIKLI",
+    "id": 16802
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SUÇATI",
+    "id": 16803
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YENİYAPAN",
+    "id": 16804
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YİRMİİKİGÜN",
+    "id": 16805
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AĞCALI",
+    "id": 16806
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DÖNÜKLÜ",
+    "id": 16807
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "FATİH",
+    "id": 16808
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KÜRTÜL",
+    "id": 16809
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MALİK EJDER",
+    "id": 16810
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MURATLI",
+    "id": 16811
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 16812
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "OSMAN GAZİ",
+    "id": 16813
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "TEKİR",
+    "id": 16814
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "TOPÇALI",
+    "id": 16815
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YENİDEMİR",
+    "id": 16816
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YOLYANI",
+    "id": 16817
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YUSUFLAR",
+    "id": 16818
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "AVGASIR",
+    "id": 16819
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 16820
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "GEDEMEN",
+    "id": 16821
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACIMUSTAFA",
+    "id": 16822
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACININOĞLU",
+    "id": 16823
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HARTLAP",
+    "id": 16824
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "İSTİKLAL",
+    "id": 16825
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KALE",
+    "id": 16826
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KARAMANLI",
+    "id": 16827
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MAARİF",
+    "id": 16828
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "RAHMACILAR",
+    "id": 16829
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "REYHANLI",
+    "id": 16830
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SARIMOLLALI",
+    "id": 16831
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BEŞEN",
+    "id": 16832
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ÇAMLICA",
+    "id": 16833
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DADAĞLI",
+    "id": 16834
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HACIBUDAK",
+    "id": 16835
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KAVLAKLI",
+    "id": 16836
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KISIKLI",
+    "id": 16837
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KURUCAOVA",
+    "id": 16838
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 16839
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "PAYAMLI",
+    "id": 16840
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SAÇAKLIZADE",
+    "id": 16841
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ŞAZİ BEY",
+    "id": 16842
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "DÖNGEL",
+    "id": 16843
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "HASANCIKLI",
+    "id": 16844
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KERİMLİ",
+    "id": 16845
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KURTLAR",
+    "id": 16846
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "MERCİMEKTEPE",
+    "id": 16847
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "ORGANİZE SANAYİ BÖLGESİ",
+    "id": 16848
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SÜLEYMANŞAH",
+    "id": 16849
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "TAVŞAN TEPE",
+    "id": 16850
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "VADİ",
+    "id": 16851
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 16852
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "BULUTOĞLU",
+    "id": 16853
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "CEYHAN",
+    "id": 16854
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "GAYBERLİ",
+    "id": 16855
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "KILAVUZLU",
+    "id": 16856
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ONİKİŞUBAT",
+    "MAHALLE": "SULUYAYLA",
+    "id": 16857
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "AĞLICA",
+    "id": 16858
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "AKÖREN",
+    "id": 16859
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BALIKÇIL",
+    "id": 16860
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "AKARCA",
+    "id": 16861
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "AKBAYIR",
+    "id": 16862
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "HASANALİLİ",
+    "id": 16863
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÇİÇEK",
+    "id": 16864
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÇİÇEK OSB",
+    "id": 16865
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "FAKIOĞLU",
+    "id": 16866
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜNDERE",
+    "id": 16867
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "HACIHASANLI",
+    "id": 16868
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "IZGIN",
+    "id": 16869
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ELMALI",
+    "id": 16870
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜNALTI",
+    "id": 16871
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "DOĞAN",
+    "id": 16872
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ELDELEK",
+    "id": 16873
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 16874
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "DERVİŞÇİMLİ",
+    "id": 16875
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GEÇİT",
+    "id": 16876
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "İNCECİK",
+    "id": 16877
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ARMUTALAN",
+    "id": 16878
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "EVCİHÜYÜK",
+    "id": 16879
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜCÜK",
+    "id": 16880
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜMÜŞDÖVEN",
+    "id": 16881
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ATMALIKAŞANLI",
+    "id": 16882
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BEŞTEPE",
+    "id": 16883
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BEYYURDU",
+    "id": 16884
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "DEMİRCİLİK",
+    "id": 16885
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BAKIŞ",
+    "id": 16886
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BÜYÜKYAPALAK",
+    "id": 16887
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÇATOVA",
+    "id": 16888
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ALEMBEY",
+    "id": 16889
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "CEYHAN",
+    "id": 16890
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÇALIŞ",
+    "id": 16891
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "İKİZPINAR",
+    "id": 16892
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "AKSAKAL",
+    "id": 16893
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 16894
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "PINARBAŞI",
+    "id": 16895
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÖKÇEK",
+    "id": 16896
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜBLÜCE",
+    "id": 16897
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "CUMHURİYET",
+    "id": 16898
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "HASANKENDİ",
+    "id": 16899
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KARAHASANUŞAĞI",
+    "id": 16900
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÖŞK",
+    "id": 16901
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TOPRAKHİSAR",
+    "id": 16902
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ALKAYAOĞLU",
+    "id": 16903
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 16904
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÇITLIK",
+    "id": 16905
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "GÜVERCİNLİK",
+    "id": 16906
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "HORHOR",
+    "id": 16907
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KAVAKTEPE",
+    "id": 16908
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÖRÜCEK",
+    "id": 16909
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "SEVDİLLİ",
+    "id": 16910
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "UNCULAR",
+    "id": 16911
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ESENTEPE",
+    "id": 16912
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KALAYCIK",
+    "id": 16913
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "İĞDE",
+    "id": 16914
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KARAELBİSTAN",
+    "id": 16915
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "SÜNNET",
+    "id": 16916
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TÜRKÖREN",
+    "id": 16917
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "UZUNPINAR",
+    "id": 16918
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YOĞUNSÖĞÜT",
+    "id": 16919
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YALAK",
+    "id": 16920
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YAPILI",
+    "id": 16921
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YAPILIPINAR",
+    "id": 16922
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KIZILCAOBA",
+    "id": 16923
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÜMBET",
+    "id": 16924
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TEPEBAŞI (GÜCÜK)",
+    "id": 16925
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 16926
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KARAMAĞARA",
+    "id": 16927
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KEÇEMAĞARA",
+    "id": 16928
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YALINTAŞ",
+    "id": 16929
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 16930
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TAPKIRANKALE",
+    "id": 16931
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TOPALLI",
+    "id": 16932
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YAPRAKLI",
+    "id": 16933
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 16934
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TAŞBURUN",
+    "id": 16935
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 16936
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÖSEYAHYA",
+    "id": 16937
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KIŞLA",
+    "id": 16938
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ORHANGAZİ",
+    "id": 16939
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KANTARMA",
+    "id": 16940
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KÜÇÜKYAPALAK",
+    "id": 16941
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "OVACIK",
+    "id": 16942
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÖZBEK",
+    "id": 16943
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "ÖZCANLI",
+    "id": 16944
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "SARIYATAK",
+    "id": 16945
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KALEALTI",
+    "id": 16946
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KANGAL",
+    "id": 16947
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TAPKIRAN",
+    "id": 16948
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KAYAGEÇİT",
+    "id": 16949
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 16950
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "ELBİSTAN",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 16951
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "AKÇALI",
+    "id": 16952
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÇAKIROĞLU",
+    "id": 16953
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KUYUMCULAR",
+    "id": 16954
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "DOLUCA",
+    "id": 16955
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KILILI",
+    "id": 16956
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KUMÇATI",
+    "id": 16957
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ŞEKEROBA",
+    "id": 16958
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "TÜRKOĞLU OSB",
+    "id": 16959
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YAVUZLAR",
+    "id": 16960
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YEŞİLYÖRE",
+    "id": 16961
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "AYDINKAVAK",
+    "id": 16962
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "FATİH",
+    "id": 16963
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÖNSENHOPURU",
+    "id": 16964
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "CENNETPINARI",
+    "id": 16965
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KALEDİBİ",
+    "id": 16966
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "CUMHURİYET",
+    "id": 16967
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "GAZİOSMANPAŞA",
+    "id": 16968
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "HOPURLU",
+    "id": 16969
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KIZILENİŞ",
+    "id": 16970
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YENİKÖY",
+    "id": 16971
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YENİPINAR",
+    "id": 16972
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 16973
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "YOLDERESİ",
+    "id": 16974
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "AVŞARLI",
+    "id": 16975
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "BEYOĞLU",
+    "id": 16976
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "HACIBEBEK",
+    "id": 16977
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KÜÇÜKİMALI",
+    "id": 16978
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "BAYRAMGAZİ",
+    "id": 16979
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "CECELİ",
+    "id": 16980
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "TAHTALIDEDELER",
+    "id": 16981
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÇOBANTEPE",
+    "id": 16982
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "İMALI",
+    "id": 16983
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KELİBİŞLER",
+    "id": 16984
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "DEDELER",
+    "id": 16985
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KIRMAKAYA",
+    "id": 16986
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "GAZİLER",
+    "id": 16987
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "GÜLLÜHÜYÜK",
+    "id": 16988
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "MİNEHÜYÜK",
+    "id": 16989
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÖZBEK",
+    "id": 16990
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "UZUNSÖĞÜT",
+    "id": 16991
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÇAKALLIHASANAĞA",
+    "id": 16992
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "PINARHÜYÜK",
+    "id": 16993
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "ÇAKALLIÇULLU",
+    "id": 16994
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "İSTASYON",
+    "id": 16995
+  },
+  {
+    "İL": "KAHRAMANMARAŞ",
+    "İLÇE": "TÜRKOĞLU",
+    "MAHALLE": "KADIOĞLUÇİFTLİĞİ",
+    "id": 16996
+  }
+]

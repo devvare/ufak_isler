@@ -1,0 +1,4862 @@
+[
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİ",
+    "id": 22909
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "HACIBAHATTİN",
+    "id": 22910
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "KARADERE",
+    "id": 22911
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "KARASEKİ",
+    "id": 22912
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİYÜRÜKKAŞ",
+    "id": 22913
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "MERKEZ",
+    "id": 22914
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİYÜRÜK",
+    "id": 22915
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "HÜRRİYET",
+    "id": 22916
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "TEKNECİK",
+    "id": 22917
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "DURUHAN",
+    "id": 22918
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "PEMBECİK",
+    "id": 22919
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22920
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "YENİKAŞ",
+    "id": 22921
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "ESKİYÜRÜK",
+    "id": 22922
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AYDINCIK",
+    "MAHALLE": "ATATÜRK",
+    "id": 22923
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BAĞLAR",
+    "id": 22924
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAVDARLI",
+    "id": 22925
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "İBRİŞİM",
+    "id": 22926
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARADİKEN",
+    "id": 22927
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "REŞADİYE",
+    "id": 22928
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SANDAL",
+    "id": 22929
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ARIKLI",
+    "id": 22930
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BAHARLI",
+    "id": 22931
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇEVRELİ",
+    "id": 22932
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "DEDELER",
+    "id": 22933
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ESKİŞEHİR",
+    "id": 22934
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GÜNYURDU",
+    "id": 22935
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HACIBOZAN",
+    "id": 22936
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "İNCİRLİKUYU",
+    "id": 22937
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KONAKLAR",
+    "id": 22938
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÖZBEK",
+    "id": 22939
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÖZLÜCE",
+    "id": 22940
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BAHÇE",
+    "id": 22941
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAKIRLI",
+    "id": 22942
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ESKİ ÖMERLİ",
+    "id": 22943
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "FERAHİMŞALVUZ",
+    "id": 22944
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GAZİLER",
+    "id": 22945
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HELEKE",
+    "id": 22946
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KADELLİ",
+    "id": 22947
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KEMALPAŞA",
+    "id": 22948
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KIZILÇUKUR",
+    "id": 22949
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KÖSEBALCI",
+    "id": 22950
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KUMDERE",
+    "id": 22951
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SAYKÖY",
+    "id": 22952
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SIRAKÖY",
+    "id": 22953
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GÖZLÜKULE",
+    "id": 22954
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KAKLIKTAŞI",
+    "id": 22955
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "MURATLI",
+    "id": 22956
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "OLUKKOYAĞI",
+    "id": 22957
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SANLICA",
+    "id": 22958
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SARIVELİ",
+    "id": 22959
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YAZLIK",
+    "id": 22960
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ULAŞ",
+    "id": 22961
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YEŞİLEVLER",
+    "id": 22962
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YEŞİLTEPE",
+    "id": 22963
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ŞEHİTMUSTAFA",
+    "id": 22964
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TAŞOBASI",
+    "id": 22965
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TEKELİÖREN",
+    "id": 22966
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TEKKE",
+    "id": 22967
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YARBAY ŞEMSETTİN",
+    "id": 22968
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YENİKÖY",
+    "id": 22969
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AKGEDİK",
+    "id": 22970
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BOZTEPE",
+    "id": 22971
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "CUMHURİYET",
+    "id": 22972
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "EMİNLİK",
+    "id": 22973
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HÜRRİYET",
+    "id": 22974
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KEŞLİ",
+    "id": 22975
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ŞAHİN",
+    "id": 22976
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TAKBAŞ",
+    "id": 22977
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AKŞEMSETTİN",
+    "id": 22978
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAĞBAŞI",
+    "id": 22979
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 22980
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇİRİŞTEPE",
+    "id": 22981
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "FATİH",
+    "id": 22982
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "MEŞELİK",
+    "id": 22983
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALİAĞA",
+    "id": 22984
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALİBEYLİ",
+    "id": 22985
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BOĞAZPINAR",
+    "id": 22986
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇATALCA",
+    "id": 22987
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "EGEMEN",
+    "id": 22988
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARSAVRAN",
+    "id": 22989
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KEFELİ",
+    "id": 22990
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "MANTAŞ",
+    "id": 22991
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALTAYLILAR",
+    "id": 22992
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BALTALI",
+    "id": 22993
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇOKAK",
+    "id": 22994
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "İNCİRGEDİĞİ",
+    "id": 22995
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 22996
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARAÇERÇİLİ",
+    "id": 22997
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARAYAYLA",
+    "id": 22998
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KAYADİBİ",
+    "id": 22999
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KIRIT",
+    "id": 23000
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "MAHMUTAĞA",
+    "id": 23001
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TEPETAŞPINAR",
+    "id": 23002
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YARAMIŞ",
+    "id": 23003
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TOPAKLI",
+    "id": 23004
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YANIKKIŞLA",
+    "id": 23005
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YENİCE",
+    "id": 23006
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TOZKOPARAN ZAHİT",
+    "id": 23007
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YENİ ÖMERLİ",
+    "id": 23008
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YÜKSEK",
+    "id": 23009
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BOLATLI",
+    "id": 23010
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "CAMİLİMANDA",
+    "id": 23011
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAMALAN B.M",
+    "id": 23012
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇUKURBAĞ",
+    "id": 23013
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "DUATEPE",
+    "id": 23014
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "EMİRLER",
+    "id": 23015
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GİRNE",
+    "id": 23016
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GÖÇÜK",
+    "id": 23017
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KÜTÜKLÜ",
+    "id": 23018
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SAĞLIKLI",
+    "id": 23019
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AKARSU",
+    "id": 23020
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AKÇAKOCALI",
+    "id": 23021
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALADAĞ",
+    "id": 23022
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ATALAR",
+    "id": 23023
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "CAMİNUR",
+    "id": 23024
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "CIRBIKLAR",
+    "id": 23025
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAMTEPE",
+    "id": 23026
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇİÇEKLİ",
+    "id": 23027
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GAZİPAŞA",
+    "id": 23028
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HACIHAMZALI",
+    "id": 23029
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HASANAĞA",
+    "id": 23030
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KAVAKLI",
+    "id": 23031
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KELAHMET",
+    "id": 23032
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KOZOLUK",
+    "id": 23033
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ŞEHİTİSHAK",
+    "id": 23034
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YUNUS EMRE",
+    "id": 23035
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALİFAKI",
+    "id": 23036
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BAHŞİŞ",
+    "id": 23037
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇÖPLÜ",
+    "id": 23038
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "DORAK",
+    "id": 23039
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "FAHRETTİN PAŞA",
+    "id": 23040
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "İNKÖY",
+    "id": 23041
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KURBANLI",
+    "id": 23042
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KURTÇUKURU",
+    "id": 23043
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 23044
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TOPÇU",
+    "id": 23045
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YALAMIK",
+    "id": 23046
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YENİÇAY",
+    "id": 23047
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "82EVLER",
+    "id": 23048
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BALLICA",
+    "id": 23049
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BEYLİCE",
+    "id": 23050
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BÖĞRÜEĞRİ",
+    "id": 23051
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "CİN",
+    "id": 23052
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 23053
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "FEVZİ ÇAKMAK",
+    "id": 23054
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KABURGEDİĞİ",
+    "id": 23055
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KÖRLÜ BEYİ",
+    "id": 23056
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KÖSELERLİ",
+    "id": 23057
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SİMİTHACILI",
+    "id": 23058
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TAŞÇILI",
+    "id": 23059
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TAŞKUYU",
+    "id": 23060
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ARDIÇLI",
+    "id": 23061
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ERGENEKON",
+    "id": 23062
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KIZILMURAT",
+    "id": 23063
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TEPEKÖY",
+    "id": 23064
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YENİ",
+    "id": 23065
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YEŞİL",
+    "id": 23066
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 23067
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "YUNUSOĞLU",
+    "id": 23068
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BEYDEĞİRMENİ",
+    "id": 23069
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ESENLER",
+    "id": 23070
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GÖMMECE",
+    "id": 23071
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "GÜLEK",
+    "id": 23072
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "HALİTAĞA",
+    "id": 23073
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KIRKLARSIRTI",
+    "id": 23074
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "SUCULAR",
+    "id": 23075
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ŞEHİTKERİM",
+    "id": 23076
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ALİEFENDİOĞLU",
+    "id": 23077
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ANIT",
+    "id": 23078
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BARBAROS",
+    "id": 23079
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BÜYÜKKÖSEBALCI",
+    "id": 23080
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÇAĞLAYAN",
+    "id": 23081
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "DADALI",
+    "id": 23082
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "DAMLAMA",
+    "id": 23083
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KANBERHÜYÜĞÜ",
+    "id": 23084
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KOCAKÖY",
+    "id": 23085
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KUŞÇULAR",
+    "id": 23086
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "NEMİROĞLU",
+    "id": 23087
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "PİRÖMERLİ",
+    "id": 23088
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ŞEHİTLER TEPESİ",
+    "id": 23089
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "TEPEÇAYLAK",
+    "id": 23090
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "VERİMLİ",
+    "id": 23091
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AĞZIDELİK",
+    "id": 23092
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "AVADAN",
+    "id": 23093
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "BELEN",
+    "id": 23094
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KALEBURCU",
+    "id": 23095
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARADİRLİK",
+    "id": 23096
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARAKÜTÜK",
+    "id": 23097
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KARGILI",
+    "id": 23098
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KERİMLER",
+    "id": 23099
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KOÇMARLI",
+    "id": 23100
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "KULAK",
+    "id": 23101
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TARSUS",
+    "MAHALLE": "ÖĞRETMENLER",
+    "id": 23102
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇAVAK",
+    "id": 23103
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23104
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DENİZ",
+    "id": 23105
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GAZİ",
+    "id": 23106
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 23107
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇİFTLİKKÖY",
+    "id": 23108
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "EĞRİÇAM",
+    "id": 23109
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÜVENEVLER",
+    "id": 23110
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "İNÖNÜ",
+    "id": 23111
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KOCAVİLAYET",
+    "id": 23112
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AKKENT",
+    "id": 23113
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BARBAROS",
+    "id": 23114
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "BATIKENT",
+    "id": 23115
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DEĞİRMENÇAY",
+    "id": 23116
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "EMİRLER",
+    "id": 23117
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "LİMONLUK",
+    "id": 23118
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KUZEYKENT",
+    "id": 23119
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "DUMLUPINAR",
+    "id": 23120
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KARAHACILI",
+    "id": 23121
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "PİRİREİS",
+    "id": 23122
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "GÖKÇEBELEN",
+    "id": 23123
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "50. YIL",
+    "id": 23124
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "ÇUKURKEŞLİ",
+    "id": 23125
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "MENTEŞ",
+    "id": 23126
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "İNSU",
+    "id": 23127
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "PALMİYE",
+    "id": 23128
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "UZUNKAŞ",
+    "id": 23129
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "AYDINLIKEVLER",
+    "id": 23130
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "KOCAHAMZALI",
+    "id": 23131
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "TURUNÇLU",
+    "id": 23132
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "FUATMOREL",
+    "id": 23133
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "YENİŞEHİR",
+    "MAHALLE": "HÜRRİYET",
+    "id": 23134
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÇEŞMELİ",
+    "id": 23135
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ALİBEYLİ",
+    "id": 23136
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "AYDINLAR",
+    "id": 23137
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÇAMLI",
+    "id": 23138
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÇİRİŞ",
+    "id": 23139
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "SORGUN",
+    "id": 23140
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "SARIYER",
+    "id": 23141
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÜÇTEPE",
+    "id": 23142
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "YENİYURT",
+    "id": 23143
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "BATISANDAL",
+    "id": 23144
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "DOĞUSANDAL",
+    "id": 23145
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ALATA",
+    "id": 23146
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KOYUNCU",
+    "id": 23147
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KÖSBUCAĞI",
+    "id": 23148
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "FATİH",
+    "id": 23149
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "FAKILI",
+    "id": 23150
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "GÜNEYLİ",
+    "id": 23151
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "PINARBAŞI",
+    "id": 23152
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TOROS",
+    "id": 23153
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "YARENLER",
+    "id": 23154
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "GÜCÜŞ",
+    "id": 23155
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "HÜSAMETLİ",
+    "id": 23156
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ŞAHNA",
+    "id": 23157
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TABİYE",
+    "id": 23158
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TAPURELİ",
+    "id": 23159
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TOZLU",
+    "id": 23160
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ELVANLI",
+    "id": 23161
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KORAMŞALI",
+    "id": 23162
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KUŞLUCA",
+    "id": 23163
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARAHIDIRLI",
+    "id": 23164
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "AYAŞ",
+    "id": 23165
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARAKEŞLİ",
+    "id": 23166
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KIZILEN",
+    "id": 23167
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "BARBAROS",
+    "id": 23168
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "HACIALANI",
+    "id": 23169
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARAAHMETLİ",
+    "id": 23170
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KÖSERELİ",
+    "id": 23171
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "LİMONLU",
+    "id": 23172
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "AKPINAR",
+    "id": 23173
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÇERÇİLİ",
+    "id": 23174
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "DAĞLI",
+    "id": 23175
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ELBEYLİ",
+    "id": 23176
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "İLEMİN",
+    "id": 23177
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARGICAK",
+    "id": 23178
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "AKDENİZ",
+    "id": 23179
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ESENPINAR",
+    "id": 23180
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "GÜZELOLUK",
+    "id": 23181
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARAYAKUP",
+    "id": 23182
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "MERKEZ",
+    "id": 23183
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "SİNAP",
+    "id": 23184
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "VEYSELLİ",
+    "id": 23185
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ARPAÇBAHŞİŞ",
+    "id": 23186
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KARGIPINARI",
+    "id": 23187
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KÜSTÜLÜ",
+    "id": 23188
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "YÜKSEK",
+    "id": 23189
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÇİFTEPINAR",
+    "id": 23190
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "SARIKAYA",
+    "id": 23191
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "SIRAÇ",
+    "id": 23192
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "YAĞDA",
+    "id": 23193
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KIZKALESİ",
+    "id": 23194
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KOCAHASANLI",
+    "id": 23195
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KUMKUYU",
+    "id": 23196
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 23197
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 23198
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "ARSLANLI",
+    "id": 23199
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "EVDİLEK",
+    "id": 23200
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "HACIHALİLARPAÇ",
+    "id": 23201
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "HARFİLLİ",
+    "id": 23202
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TÖMÜK",
+    "id": 23203
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "TÜRBE",
+    "id": 23204
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ERDEMLİ",
+    "MAHALLE": "KAYACI",
+    "id": 23205
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "İMAMLI",
+    "id": 23206
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KARAKAYA",
+    "id": 23207
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "NASRULLAH",
+    "id": 23208
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ŞAHMURLU",
+    "id": 23209
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "TAŞUCU",
+    "id": 23210
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "YENİ",
+    "id": 23211
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BOLACALIKOYUNCU",
+    "id": 23212
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "CANBAZLI",
+    "id": 23213
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GAZİ",
+    "id": 23214
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GÖKSU",
+    "id": 23215
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KABASAKALLI",
+    "id": 23216
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KEBEN",
+    "id": 23217
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÖREN",
+    "id": 23218
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SARIAYDIN",
+    "id": 23219
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ULUGÖZ",
+    "id": 23220
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ATAKENT",
+    "id": 23221
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BAHÇE",
+    "id": 23222
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "CAMİİKEBİR",
+    "id": 23223
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "HIRMANLI",
+    "id": 23224
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "TOSMURLU",
+    "id": 23225
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KIRTIL",
+    "id": 23226
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "MUKADDEM",
+    "id": 23227
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ORTAÖREN",
+    "id": 23228
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "OVACIK",
+    "id": 23229
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SEYRANLIK",
+    "id": 23230
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KEPEZ",
+    "id": 23231
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KICA",
+    "id": 23232
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SAY",
+    "id": 23233
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇAMLICA",
+    "id": 23234
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KARAHACILI",
+    "id": 23235
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "NURU",
+    "id": 23236
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÖZBOYNUİNCELİ",
+    "id": 23237
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SARICALAR",
+    "id": 23238
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ARKUM",
+    "id": 23239
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ATAYURT",
+    "id": 23240
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "AYAŞTÜRKMENLİ",
+    "id": 23241
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 23242
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GÜNDÜZLER",
+    "id": 23243
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "İMAMBEKİRLİ",
+    "id": 23244
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "YENİSU",
+    "id": 23245
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇALTIBOZKIR",
+    "id": 23246
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KURTULUŞ",
+    "id": 23247
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "TÜRKMENUŞAĞI",
+    "id": 23248
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "UŞAKPINARI",
+    "id": 23249
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BUCAKLI",
+    "id": 23250
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "AKDERE",
+    "id": 23251
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BALANDIZ",
+    "id": 23252
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BAYINDIR",
+    "id": 23253
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BURUNUCU",
+    "id": 23254
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "EVKAFÇİFTLİĞİ",
+    "id": 23255
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KEŞLİTÜRKMENLİ",
+    "id": 23256
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÖZTÜRKMENLİ",
+    "id": 23257
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SABAK",
+    "id": 23258
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SAYAĞZI",
+    "id": 23259
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "YEĞENLİ",
+    "id": 23260
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GÜLÜMPAŞALI",
+    "id": 23261
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BÜKDEĞİRMENİ",
+    "id": 23262
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GÖKBELEN",
+    "id": 23263
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SEYDİLİ",
+    "id": 23264
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SÖKÜN",
+    "id": 23265
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "TOROS",
+    "id": 23266
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "YENİBAHÇE",
+    "id": 23267
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ATİK",
+    "id": 23268
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇADIRLI",
+    "id": 23269
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "HÜSEYİNLER",
+    "id": 23270
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "IŞIKLI",
+    "id": 23271
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KOCAOLUK",
+    "id": 23272
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KOCAPINAR",
+    "id": 23273
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "YEŞİLOVACIK",
+    "id": 23274
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇAMLIBEL",
+    "id": 23275
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "EKŞİLER",
+    "id": 23276
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KARGICAK",
+    "id": 23277
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "MAĞARA",
+    "id": 23278
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SENİR",
+    "id": 23279
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SÖMEK",
+    "id": 23280
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "ÇATAK",
+    "id": 23281
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "GEDİKPINARI",
+    "id": 23282
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KIZILGEÇİT",
+    "id": 23283
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "NARLIKUYU",
+    "id": 23284
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "PELİTPINARI",
+    "id": 23285
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "SARAY",
+    "id": 23286
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "TOSMURLU OSB",
+    "id": 23287
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "UZUNCABURÇ",
+    "id": 23288
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "DEMİRCİLİ",
+    "id": 23289
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "BAHÇEDERESİ",
+    "id": 23290
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "CILBAYIR",
+    "id": 23291
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "İMAMUŞAĞI",
+    "id": 23292
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "KAVAK",
+    "id": 23293
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "SİLİFKE",
+    "MAHALLE": "PAZARKAŞI",
+    "id": 23294
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "KESECİK",
+    "id": 23295
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "BAĞÇATAĞI",
+    "id": 23296
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "KORUCAK",
+    "id": 23297
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "CUMAYAKASI",
+    "id": 23298
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "GİDEN",
+    "id": 23299
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "KALE",
+    "id": 23300
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "SARIKAVAK",
+    "id": 23301
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "BELÇINAR",
+    "id": 23302
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "SARIKOYAK",
+    "id": 23303
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "DARIPINARI",
+    "id": 23304
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "SEBİL",
+    "id": 23305
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "FAKILAR",
+    "id": 23306
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "ÇAYIREKİNLİĞİ",
+    "id": 23307
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ÇAMLIYAYLA",
+    "MAHALLE": "KÖRMENLİK",
+    "id": 23308
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "BARABANLI",
+    "id": 23309
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "BURUNKÖY",
+    "id": 23310
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇAMLICA",
+    "id": 23311
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DERİNÇAY",
+    "id": 23312
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÜME",
+    "id": 23313
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "IŞIKLAR",
+    "id": 23314
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23315
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇORTAK",
+    "id": 23316
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DEREKÖY",
+    "id": 23317
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DOĞANCI",
+    "id": 23318
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ELBEYLİ",
+    "id": 23319
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HOCALI",
+    "id": 23320
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "BAĞCAĞIZ",
+    "id": 23321
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇAĞLAYANGEDİK",
+    "id": 23322
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HACIİLYASLI",
+    "id": 23323
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇUKURBAĞ",
+    "id": 23324
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "EVREN",
+    "id": 23325
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "IRMAKLI",
+    "id": 23326
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KADIKÖY",
+    "id": 23327
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KAVAKLI",
+    "id": 23328
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇAMPINAR",
+    "id": 23329
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇİVİ",
+    "id": 23330
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇÖMELEK",
+    "id": 23331
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÖKSU",
+    "id": 23332
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÜZELYURT",
+    "id": 23333
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HAMAM",
+    "id": 23334
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KELCEKÖY",
+    "id": 23335
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KUMAÇUKURU",
+    "id": 23336
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KURTULUŞ",
+    "id": 23337
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "MİRAHOR",
+    "id": 23338
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "PAMUKLU",
+    "id": 23339
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KURTSUYU",
+    "id": 23340
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ORTAKÖY",
+    "id": 23341
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KIRKKAVAK",
+    "id": 23342
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ALAÇAM",
+    "id": 23343
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇALTILI",
+    "id": 23344
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DEMİRKAPI",
+    "id": 23345
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KARACAOĞLAN",
+    "id": 23346
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 23347
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "MEYDAN",
+    "id": 23348
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KAVAKÖZÜ",
+    "id": 23349
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KÖSELERLİ",
+    "id": 23350
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "NARLI",
+    "id": 23351
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "AŞAĞIKÖSELERLİ",
+    "id": 23352
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HACISAİT",
+    "id": 23353
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KAYAÖNÜ",
+    "id": 23354
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KEMENLİ",
+    "id": 23355
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÖZKÖY",
+    "id": 23356
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "SUÇATI",
+    "id": 23357
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "BALLI",
+    "id": 23358
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇATAKBAĞ",
+    "id": 23359
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HACIAHMETLİ",
+    "id": 23360
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HACINUHLU",
+    "id": 23361
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "BOZDOĞAN",
+    "id": 23362
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "İBRAHİMLİ",
+    "id": 23363
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "SELAMLI",
+    "id": 23364
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DAĞPAZARI",
+    "id": 23365
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HAYDARKÖY",
+    "id": 23366
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ILICA",
+    "id": 23367
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KALE",
+    "id": 23368
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "SARIVELİLER",
+    "id": 23369
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DİŞTAŞ",
+    "id": 23370
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ESENÇAY",
+    "id": 23371
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GENÇALİ",
+    "id": 23372
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KIŞLAKÖY",
+    "id": 23373
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KÜLTÜR",
+    "id": 23374
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "NARLIDERE",
+    "id": 23375
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "CERİTLER",
+    "id": 23376
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇATALHARMAN",
+    "id": 23377
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ELMAPINAR",
+    "id": 23378
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "FAKIRCA",
+    "id": 23379
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÖCEKLER",
+    "id": 23380
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "HİSARKÖY",
+    "id": 23381
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÖZLÜ",
+    "id": 23382
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "SAKIZ",
+    "id": 23383
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "AYDINOĞLU",
+    "id": 23384
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 23385
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KAYABAŞI",
+    "id": 23386
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KÜRKÇÜ",
+    "id": 23387
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "MUCUK",
+    "id": 23388
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "PALANTEPE",
+    "id": 23389
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "PINARBAŞI",
+    "id": 23390
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ÇINARLI",
+    "id": 23391
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "DEVECİ",
+    "id": 23392
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GEÇİMLİ",
+    "id": 23393
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÖKÇETAŞ",
+    "id": 23394
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "GÜLLÜK",
+    "id": 23395
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KARADİKEN",
+    "id": 23396
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "KIZILALAN",
+    "id": 23397
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "TEKELİ",
+    "id": 23398
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "TOPKAYA",
+    "id": 23399
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YAPINTI",
+    "id": 23400
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "ZEYTİNÇUKURU",
+    "id": 23401
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "TUĞRUL",
+    "id": 23402
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YALNIZCABAĞ",
+    "id": 23403
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 23404
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 23405
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YILDIZKÖY",
+    "id": 23406
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YAZALANI",
+    "id": 23407
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "TOPLUCA",
+    "id": 23408
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YATIRTAŞ",
+    "id": 23409
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MUT",
+    "MAHALLE": "YUKARIKÖSELERLİ",
+    "id": 23410
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BURHANOSB",
+    "id": 23411
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "CAMİLİ",
+    "id": 23412
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "HAL",
+    "id": 23413
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 23414
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KÖSELERLİ",
+    "id": 23415
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KULAK",
+    "id": 23416
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "MÜFİDE İLHAN",
+    "id": 23417
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ŞEVKETSÜMER",
+    "id": 23418
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "DEMİRHİSAR",
+    "id": 23419
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "DİKİLİTAŞ",
+    "id": 23420
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "HEBİLLİ",
+    "id": 23421
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ÖZGÜRLÜK",
+    "id": 23422
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ADANALIOĞLU",
+    "id": 23423
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "AKDENİZ",
+    "id": 23424
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ESENLİ",
+    "id": 23425
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "GÜNDOĞDU",
+    "id": 23426
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ŞAKİRGÜLMEN",
+    "id": 23427
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 23428
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 23429
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "GAZİ",
+    "id": 23430
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ADANALIOĞLU LİMONLU",
+    "id": 23431
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ANADOLU",
+    "id": 23432
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAHÇELİ YUKARIBURHAN",
+    "id": 23433
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23434
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KARACAİLYAS",
+    "id": 23435
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "NUSRATİYE",
+    "id": 23436
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "PARMAKKURDU",
+    "id": 23437
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "SARIİBRAHİMLİ",
+    "id": 23438
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ÜÇOCAK",
+    "id": 23439
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BARIŞ",
+    "id": 23440
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KARACAİLYAS EMEK",
+    "id": 23441
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "NACARLI",
+    "id": 23442
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "SİTELER",
+    "id": 23443
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BEKİRDE",
+    "id": 23444
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "GÜNEŞ",
+    "id": 23445
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAHŞİŞ",
+    "id": 23446
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KARADUVAR SB",
+    "id": 23447
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ADNAN MENDERES",
+    "id": 23448
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "MAHMUDİYE",
+    "id": 23449
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAĞCILAR-İHSANİYE",
+    "id": 23450
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "MİTHATPAŞA",
+    "id": 23451
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "YEŞİLOVA",
+    "id": 23452
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "CAMİ ŞERİF",
+    "id": 23453
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "EVCİOSB",
+    "id": 23454
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KİREMİTHANE",
+    "id": 23455
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KARACAİLYAS EVREN",
+    "id": 23456
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAHÇELİ AŞAĞIBURHAN",
+    "id": 23457
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ÇANKAYA",
+    "id": 23458
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ÇİLEK",
+    "id": 23459
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KARADUVAR",
+    "id": 23460
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "NACARLIOSB",
+    "id": 23461
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "YANPAR",
+    "id": 23462
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "YENİ",
+    "id": 23463
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "PUĞKARACADAĞ",
+    "id": 23464
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "TOROSLAR",
+    "id": 23465
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "YEŞİLÇİMEN",
+    "id": 23466
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAĞLARBAŞI",
+    "id": 23467
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAHÇE",
+    "id": 23468
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ÇAY",
+    "id": 23469
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "EVCİ",
+    "id": 23470
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "İHSANİYE",
+    "id": 23471
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "KAZANLI",
+    "id": 23472
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "TURGUTREİS",
+    "id": 23473
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "ABDULLAH ŞAHUTOĞLU",
+    "id": 23474
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "AKDAM",
+    "id": 23475
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "BAHÇELİ KÜRKÇÜ",
+    "id": 23476
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "CİVANYAYLAĞI",
+    "id": 23477
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "IĞDIR",
+    "id": 23478
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "AKDENİZ",
+    "MAHALLE": "MESUDİYE",
+    "id": 23479
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "BOLYARAN",
+    "id": 23480
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KONUR",
+    "id": 23481
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ŞEYHÖMER",
+    "id": 23482
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ARIKUYUSU",
+    "id": 23483
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "HALİFELER",
+    "id": 23484
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ILISU",
+    "id": 23485
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KOÇAŞLI",
+    "id": 23486
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "YARMASU",
+    "id": 23487
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "HACIPINAR",
+    "id": 23488
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "SİPAHİLİ",
+    "id": 23489
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "BÜYÜKECELİ",
+    "id": 23490
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "GEZENDE",
+    "id": 23491
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "TEPE",
+    "id": 23492
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "YASSIBAĞ",
+    "id": 23493
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "YENİCE",
+    "id": 23494
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "BOZAĞAÇ",
+    "id": 23495
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "DEMİRÖZÜ",
+    "id": 23496
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "TIRNAK",
+    "id": 23497
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÇUKURKONAK",
+    "id": 23498
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "SARAY",
+    "id": 23499
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KURBAĞA",
+    "id": 23500
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KUSKAN",
+    "id": 23501
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÖRTÜLÜ",
+    "id": 23502
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "SARIKAVAK",
+    "id": 23503
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÜÇOLUK",
+    "id": 23504
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ARDIÇPINARI",
+    "id": 23505
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "BEREKET",
+    "id": 23506
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "DELİKKAYA",
+    "id": 23507
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KAVAKOLUĞU",
+    "id": 23508
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KORUCUK",
+    "id": 23509
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "AKOVA",
+    "id": 23510
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ULUPINAR",
+    "id": 23511
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "GÖKTÜRK",
+    "id": 23512
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "MOLLAÖMERLİ",
+    "id": 23513
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "TOZKOVAN",
+    "id": 23514
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "AKDENİZ",
+    "id": 23515
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "BEYDİLİ",
+    "id": 23516
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÇUKURASMA",
+    "id": 23517
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÖRENPINAR",
+    "id": 23518
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "DEDELER",
+    "id": 23519
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "İSHAKLAR",
+    "id": 23520
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KÖSEÇOBANLI",
+    "id": 23521
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "TAŞOLUK",
+    "id": 23522
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "KAYRAK",
+    "id": 23523
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ÇAVUŞLAR",
+    "id": 23524
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "EMİRHACI",
+    "id": 23525
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "YANIŞLI",
+    "id": 23526
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "AYVALI",
+    "id": 23527
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "DAYICIK",
+    "id": 23528
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "GÜLNAR",
+    "MAHALLE": "ZEYNE",
+    "id": 23529
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "BOĞUNTU",
+    "id": 23530
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "BOZDOĞAN",
+    "id": 23531
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇAMLIPINAR",
+    "id": 23532
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇAMLIPINARALANI",
+    "id": 23533
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GERCEBAHŞİŞ",
+    "id": 23534
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GÜZELYURT",
+    "id": 23535
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KÖPRÜBAŞI",
+    "id": 23536
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÖREN",
+    "id": 23537
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SUGÖZÜ",
+    "id": 23538
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "YUKARI KÜKÜR",
+    "id": 23539
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "AKİNE",
+    "id": 23540
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ALATAŞ",
+    "id": 23541
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ANITLI",
+    "id": 23542
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "AŞAĞIKÜKÜR",
+    "id": 23543
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇATALOLUK",
+    "id": 23544
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "EVCİLER",
+    "id": 23545
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 23546
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KARALARBAHŞİŞ",
+    "id": 23547
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KILIÇ",
+    "id": 23548
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KIZILALİLER",
+    "id": 23549
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SULTAN ALAADDİN",
+    "id": 23550
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "YALIEVLERİ",
+    "id": 23551
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KAŞDİŞLEN",
+    "id": 23552
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "MALAKLAR",
+    "id": 23553
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇUKURABANOZ",
+    "id": 23554
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KALINÖREN",
+    "id": 23555
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KARAÇUKUR",
+    "id": 23556
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ORMANCIK",
+    "id": 23557
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "TOROSLAR",
+    "id": 23558
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 23559
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "UÇARI",
+    "id": 23560
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇALTIBÜKÜ",
+    "id": 23561
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "FATİH",
+    "id": 23562
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "AKARCA",
+    "id": 23563
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ESENTEPE",
+    "id": 23564
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "BAHÇE",
+    "id": 23565
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇARIKLAR",
+    "id": 23566
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "OVABAŞI",
+    "id": 23567
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SARIAĞAÇ",
+    "id": 23568
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "AKDENİZ",
+    "id": 23569
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GÜLEÇ",
+    "id": 23570
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "YILDIRIM BEYAZIT",
+    "id": 23571
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "EMİRŞAH",
+    "id": 23572
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SAĞLIK",
+    "id": 23573
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SARAY",
+    "id": 23574
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GÜNEYBAHŞİŞ",
+    "id": 23575
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KARAAĞA",
+    "id": 23576
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KARADERE",
+    "id": 23577
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "YEŞİLYURT",
+    "id": 23578
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "GÖKTAŞ",
+    "id": 23579
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "KORUCUK",
+    "id": 23580
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "LALE",
+    "id": 23581
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "ÇELTİKÇİ",
+    "id": 23582
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "İSKELE",
+    "id": 23583
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "SARIDANA",
+    "id": 23584
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "ANAMUR",
+    "MAHALLE": "DEMİRÖREN",
+    "id": 23585
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ÇAMLICA",
+    "id": 23586
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ŞAHİN TEPESİ",
+    "id": 23587
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "AKDENİZ",
+    "id": 23588
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "TAKANLI",
+    "id": 23589
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ANAYURT",
+    "id": 23590
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "FINDIKPINARI",
+    "id": 23591
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "MERKEZ",
+    "id": 23592
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "SARILAR",
+    "id": 23593
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ZEYBEKLER",
+    "id": 23594
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "TECE",
+    "id": 23595
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "VİRANŞEHİR",
+    "id": 23596
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "AKARCA",
+    "id": 23597
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "KOCAYER",
+    "id": 23598
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "TEPEKÖY",
+    "id": 23599
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "HÜRRİYET",
+    "id": 23600
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "KUYULUK",
+    "id": 23601
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "PELİTKOYAĞI",
+    "id": 23602
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "DAVULTEPE",
+    "id": 23603
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "DOĞANÇAY",
+    "id": 23604
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "TOL",
+    "id": 23605
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "BOZÖN",
+    "id": 23606
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ÇANKAYA",
+    "id": 23607
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ESKİ MEZİTLİ",
+    "id": 23608
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "75.YIL",
+    "id": 23609
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 23610
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "KUZUCU",
+    "id": 23611
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "CUMHURİYET",
+    "id": 23612
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "MENDERES",
+    "id": 23613
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "SEYMENLİ",
+    "id": 23614
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ATATÜRK",
+    "id": 23615
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "CEMİLLİ",
+    "id": 23616
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "DENİZ",
+    "id": 23617
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "KALEKÖY",
+    "id": 23618
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "DEMİRIŞIK",
+    "id": 23619
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "DOĞLU",
+    "id": 23620
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "KUZUCUBELEN",
+    "id": 23621
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ESENBAĞLAR",
+    "id": 23622
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "ÇEVLİK",
+    "id": 23623
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "FATİH",
+    "id": 23624
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "MEZİTLİ",
+    "MAHALLE": "YENİ",
+    "id": 23625
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "AYVAGEDİĞİ",
+    "id": 23626
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇOPURLU",
+    "id": 23627
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇUKUROVA",
+    "id": 23628
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DALAKDERE",
+    "id": 23629
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "GÜNEYKENT",
+    "id": 23630
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "TURUNÇLU",
+    "id": 23631
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ALADAĞ",
+    "id": 23632
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ARSLANKÖY",
+    "id": 23633
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DEMİRTAŞ",
+    "id": 23634
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "HOROZLU",
+    "id": 23635
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KAŞLI",
+    "id": 23636
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "SAĞLIK",
+    "id": 23637
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 23638
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "HÜSEYİN OKAN MERZECİ",
+    "id": 23639
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "MİTHAT TOROĞLU",
+    "id": 23640
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "YALINAYAK",
+    "id": 23641
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "AKBELEN",
+    "id": 23642
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ARPAÇSAKARLAR",
+    "id": 23643
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "BULUKLU",
+    "id": 23644
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "TOROSLAR",
+    "id": 23645
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "TOZKOPARAN",
+    "id": 23646
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ZEKİ AYAN",
+    "id": 23647
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "EVRENLİ",
+    "id": 23648
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KAYRAKKEŞLİ",
+    "id": 23649
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KIZILKAYA",
+    "id": 23650
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "MUSALI",
+    "id": 23651
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "MUSTAFA KEMAL",
+    "id": 23652
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DÜĞDÜÖREN",
+    "id": 23653
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "YUSUF KILIÇ",
+    "id": 23654
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇANDIR",
+    "id": 23655
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DORUKLU",
+    "id": 23656
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "OSMANİYE",
+    "id": 23657
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ALANYALI",
+    "id": 23658
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "SOĞUCAK",
+    "id": 23659
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ALSANCAK",
+    "id": 23660
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DARISEKİSİ",
+    "id": 23661
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "GÖZNE",
+    "id": 23662
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KARAİSALI",
+    "id": 23663
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KEPİRLİ",
+    "id": 23664
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇAĞLARCA",
+    "id": 23665
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇELEBİLİ",
+    "id": 23666
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DEĞİRMENDERE",
+    "id": 23667
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "DEĞNEK",
+    "id": 23668
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ATLILAR",
+    "id": 23669
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇAĞDAŞKENT",
+    "id": 23670
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KURUDERE",
+    "id": 23671
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "YENİKÖY",
+    "id": 23672
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "BEKİRALANI",
+    "id": 23673
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KAVAKLIPINAR",
+    "id": 23674
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "PORTAKAL",
+    "id": 23675
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ÇAMLIDERE",
+    "id": 23676
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "HALKKENT",
+    "id": 23677
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KORUCULAR",
+    "id": 23678
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "IŞIKTEPE",
+    "id": 23679
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KORUKENT",
+    "id": 23680
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KURDALİ",
+    "id": 23681
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "SELÇUKLAR",
+    "id": 23682
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "TIRTAR",
+    "id": 23683
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "ŞAHİNPINARI",
+    "id": 23684
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "TURGUT TÜRKALP",
+    "id": 23685
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "HAMZABEYLİ",
+    "id": 23686
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "KERİMLER",
+    "id": 23687
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "RESULKÖY",
+    "id": 23688
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "YAVCA",
+    "id": 23689
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "YÜKSEKOLUK",
+    "id": 23690
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 23691
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "TOROSLAR",
+    "MAHALLE": "MEVLANA",
+    "id": 23692
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "BAHÇEKOYAĞI",
+    "id": 23693
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "DEREKÖY",
+    "id": 23694
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "KIZILCA",
+    "id": 23695
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "LENGER",
+    "id": 23696
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "AKCAMİ",
+    "id": 23697
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "ARDIÇLITAŞ",
+    "id": 23698
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "GÖZCE",
+    "id": 23699
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "KALEDİBİ",
+    "id": 23700
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "GÜRLEVİK",
+    "id": 23701
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "KARAİSALI",
+    "id": 23702
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "ÇUBUKKOYAĞI",
+    "id": 23703
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "TEKELİ",
+    "id": 23704
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "GÖZSÜZCE",
+    "id": 23705
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "MERKEZ",
+    "id": 23706
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "TEKMEN",
+    "id": 23707
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "USTALAR",
+    "id": 23708
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "ÇOPURLU",
+    "id": 23709
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "DENİZCİLER",
+    "id": 23710
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "ELMAKUZU",
+    "id": 23711
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "KÖMÜRLÜ",
+    "id": 23712
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "TEKEDÜZÜ",
+    "id": 23713
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "DEREBAŞI",
+    "id": 23714
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "SICAKYURT",
+    "id": 23715
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "KÖTEKLER",
+    "id": 23716
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "BEYRELİ",
+    "id": 23717
+  },
+  {
+    "İL": "MERSİN",
+    "İLÇE": "BOZYAZI",
+    "MAHALLE": "NARİNCE",
+    "id": 23718
+  }
+]

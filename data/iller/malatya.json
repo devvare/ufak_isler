@@ -1,0 +1,4328 @@
+[
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BEYBAĞI",
+    "id": 20389
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KAYNAK",
+    "id": 20390
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ŞENDERE",
+    "id": 20391
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YENİPINAR",
+    "id": 20392
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HEYİKETEĞİ",
+    "id": 20393
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "IRMAKLI",
+    "id": 20394
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KARABACAK",
+    "id": 20395
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KERİMLİ",
+    "id": 20396
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KURUDERE",
+    "id": 20397
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "SAYFİYE",
+    "id": 20398
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ŞUĞUL",
+    "id": 20399
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AYVALI",
+    "id": 20400
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÜNPINAR",
+    "id": 20401
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "MEHMET PAŞA",
+    "id": 20402
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "SUNGUR",
+    "id": 20403
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YENİCE",
+    "id": 20404
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BALABAN",
+    "id": 20405
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÖKÇEÖREN",
+    "id": 20406
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÖKYAR",
+    "id": 20407
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "İBRAHİMPAŞA",
+    "id": 20408
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KÖLÜKLER",
+    "id": 20409
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YAVUZLAR",
+    "id": 20410
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YUKARIULUPINAR",
+    "id": 20411
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 20412
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ÜÇPINAR",
+    "id": 20413
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YARIMCA",
+    "id": 20414
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YAZIKÖY",
+    "id": 20415
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AĞILYAZI",
+    "id": 20416
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AKBABA",
+    "id": 20417
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ÇUKURKAYA",
+    "id": 20418
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KARAOĞUZ",
+    "id": 20419
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KUZPINAR",
+    "id": 20420
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HACILAR ŞEYHLİ",
+    "id": 20421
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HACOLAR",
+    "id": 20422
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AKOVA",
+    "id": 20423
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BAYTARBAĞI",
+    "id": 20424
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HİSARKALE",
+    "id": 20425
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KARABAYIR",
+    "id": 20426
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "MEDİŞEYH",
+    "id": 20427
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HACIDERVİŞ",
+    "id": 20428
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÖLLÜCE",
+    "id": 20429
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÜDÜL",
+    "id": 20430
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HACILAR SIRAGÖZ",
+    "id": 20431
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "MOLLAUŞAĞI",
+    "id": 20432
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "UZUNHASAN",
+    "id": 20433
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BAŞDİREK",
+    "id": 20434
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GAZİKÖY",
+    "id": 20435
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KALDIRIM",
+    "id": 20436
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YEŞİLTAŞ",
+    "id": 20437
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BAŞKAYA",
+    "id": 20438
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "GÜNERLİ",
+    "id": 20439
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KAVAK",
+    "id": 20440
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "NURKUYUSU",
+    "id": 20441
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "YENİKÖY",
+    "id": 20442
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ZAVİYE",
+    "id": 20443
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ÇAYBAŞI OSB",
+    "id": 20444
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ÇINAR",
+    "id": 20445
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "HİSARCIK",
+    "id": 20446
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "OZAN",
+    "id": 20447
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "SANDIKKAYA",
+    "id": 20448
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AKÇATOPRAK",
+    "id": 20449
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "NADİR",
+    "id": 20450
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "SAKARYA",
+    "id": 20451
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AŞAĞIULUPINAR",
+    "id": 20452
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "ILICA",
+    "id": 20453
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "KILIÇBAĞI",
+    "id": 20454
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "AĞILBAŞI",
+    "id": 20455
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DARENDE",
+    "MAHALLE": "BARINDIR",
+    "id": 20456
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ALİÇERİ",
+    "id": 20457
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÇAMLIDERE",
+    "id": 20458
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "PAZARCIK",
+    "id": 20459
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "SÖĞÜTLÜ",
+    "id": 20460
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TAŞMIŞ",
+    "id": 20461
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÜÇYAKA",
+    "id": 20462
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ARSLANKENT",
+    "id": 20463
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KAVAKLIDERE",
+    "id": 20464
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BALPINARI",
+    "id": 20465
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 20466
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "GERTAN",
+    "id": 20467
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "HATİP",
+    "id": 20468
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KOÇKÖY",
+    "id": 20469
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "YAMAÇ",
+    "id": 20470
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÇIĞIRLI",
+    "id": 20471
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "UZUNTAŞ",
+    "id": 20472
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "YANDERE",
+    "id": 20473
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "YEŞİLDERE",
+    "id": 20474
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "GÜNDÜZ",
+    "id": 20475
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KAYADERE",
+    "id": 20476
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "MEŞEDİBİ",
+    "id": 20477
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "NOHUTLU",
+    "id": 20478
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 20479
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "AKTARLA",
+    "id": 20480
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ALİHAN",
+    "id": 20481
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BAKIMLI",
+    "id": 20482
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "DEREDÜZÜ",
+    "id": 20483
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "SAHİLKÖY",
+    "id": 20484
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "YAZICA",
+    "id": 20485
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "AĞALAR",
+    "id": 20486
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BÖLÜKKAYA",
+    "id": 20487
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BÖLÜNMEZ",
+    "id": 20488
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÖRNEKKÖY",
+    "id": 20489
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ŞİRO TARAKSU",
+    "id": 20490
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BAYIRKÖY",
+    "id": 20491
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ERDEMLER",
+    "id": 20492
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TELUŞAĞI",
+    "id": 20493
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ESENLİK",
+    "id": 20494
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÖRMELİ",
+    "id": 20495
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BELENKÖY",
+    "id": 20496
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "GÜNDEĞER",
+    "id": 20497
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KÖKLÜKAYA",
+    "id": 20498
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KÖYLÜ",
+    "id": 20499
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TEKEDERESİ",
+    "id": 20500
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "UZUNKORU",
+    "id": 20501
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÇENGELLİ",
+    "id": 20502
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÇUKUROYMAĞI",
+    "id": 20503
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KARAKAYA",
+    "id": 20504
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KÖRME",
+    "id": 20505
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "POSKIRAN",
+    "id": 20506
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ŞÜKAN",
+    "id": 20507
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TEPEHAN",
+    "id": 20508
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "YEDİYOL",
+    "id": 20509
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ERSELE",
+    "id": 20510
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KORUCAK",
+    "id": 20511
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ARINLI",
+    "id": 20512
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BAŞMEZRA",
+    "id": 20513
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "BÜYÜKÖZ",
+    "id": 20514
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TAŞTEPE",
+    "id": 20515
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ESENCİK",
+    "id": 20516
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "GÖZLÜCE",
+    "id": 20517
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "TATLICAK",
+    "id": 20518
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ULUTAŞ",
+    "id": 20519
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ORMANİÇİ",
+    "id": 20520
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ARITOPRAK",
+    "id": 20521
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 20522
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "KOZLUK",
+    "id": 20523
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "PÜTÜRGE",
+    "MAHALLE": "ÖRENCİK",
+    "id": 20524
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "ULUTAŞ",
+    "id": 20525
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 20526
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "ÇOLAK",
+    "id": 20527
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "BURÇKÖY",
+    "id": 20528
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "GEVHERUŞAĞI",
+    "id": 20529
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "DAMLI",
+    "id": 20530
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "GÜMÜŞSU",
+    "id": 20531
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "KOLDERE",
+    "id": 20532
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "GÖKÇE",
+    "id": 20533
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "KONURTAY",
+    "id": 20534
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "MEZRAA",
+    "id": 20535
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "YALINCA",
+    "id": 20536
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "BEHRAMLI",
+    "id": 20537
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "AKKENT",
+    "id": 20538
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "İSAK",
+    "id": 20539
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANYOL",
+    "MAHALLE": "POYRAZ",
+    "id": 20540
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20541
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BOYACA",
+    "id": 20542
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BOZTEPE",
+    "id": 20543
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "DURUCASU",
+    "id": 20544
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "EĞRİBÜK",
+    "id": 20545
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "EPREME",
+    "id": 20546
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "KOŞAR",
+    "id": 20547
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "DOĞUŞ",
+    "id": 20548
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "SÜRÜR",
+    "id": 20549
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BÖĞÜRTLEN",
+    "id": 20550
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "GÖVÜK",
+    "id": 20551
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "MISIRDERE",
+    "id": 20552
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "AKYAZI",
+    "id": 20553
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "DEDEKARGIN",
+    "id": 20554
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "TAHTALI",
+    "id": 20555
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "GAYRET",
+    "id": 20556
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "HAMİDİYE",
+    "id": 20557
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "KÖMÜŞHAN",
+    "id": 20558
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BALABAN",
+    "id": 20559
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "SADIKLI",
+    "id": 20560
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BEREKETLİ",
+    "id": 20561
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "İRİAĞAÇ",
+    "id": 20562
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "SİNANLI",
+    "id": 20563
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "ÇİVRİL",
+    "id": 20564
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "FETHİYE",
+    "id": 20565
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "YENİ",
+    "id": 20566
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "ÇAVUŞ",
+    "id": 20567
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "ERECEK",
+    "id": 20568
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "ALİCAN",
+    "id": 20569
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "KARACA",
+    "id": 20570
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "BUZLUK",
+    "id": 20571
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "TECİRLİ",
+    "id": 20572
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YAZIHAN",
+    "MAHALLE": "AMBARCIK",
+    "id": 20573
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "CEMALGÜRSEL",
+    "id": 20574
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "CUMHURİYET",
+    "id": 20575
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GÖKTARLA",
+    "id": 20576
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GÖZENE",
+    "id": 20577
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "1.OSB",
+    "id": 20578
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "BİNDAL",
+    "id": 20579
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÇAYIRKÖY",
+    "id": 20580
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GEDİK",
+    "id": 20581
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KİLTEPE",
+    "id": 20582
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÇAVUŞOĞLU",
+    "id": 20583
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KADİRUŞAĞI",
+    "id": 20584
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KIRLANGIÇ",
+    "id": 20585
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "MERKEZ FATİH",
+    "id": 20586
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TOPSÖĞÜT",
+    "id": 20587
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KUŞDOĞAN",
+    "id": 20588
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SÜTLÜCE",
+    "id": 20589
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ŞEYH BAYRAM",
+    "id": 20590
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TECDE",
+    "id": 20591
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YAKINCA",
+    "id": 20592
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ABDULGAFFAR",
+    "id": 20593
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "AŞAĞI BAĞLAR",
+    "id": 20594
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "BOSTANBAŞI",
+    "id": 20595
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "CEVATPAŞA",
+    "id": 20596
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "DURULDU",
+    "id": 20597
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KIRKPINAR",
+    "id": 20598
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "OLUKLU",
+    "id": 20599
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SEYİTUŞAĞI",
+    "id": 20600
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SU",
+    "id": 20601
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SULUKÖY",
+    "id": 20602
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KOŞU",
+    "id": 20603
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KUYULU",
+    "id": 20604
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÖZALPER",
+    "id": 20605
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SALKÖPRÜ",
+    "id": 20606
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "DİLEK",
+    "id": 20607
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "DURANLAR",
+    "id": 20608
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GÖRGÜ",
+    "id": 20609
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GÜNDÜZBEY",
+    "id": 20610
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "İKİZCE",
+    "id": 20611
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "İLYAS",
+    "id": 20612
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KOYUNOĞLU",
+    "id": 20613
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "MELEKBABA",
+    "id": 20614
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TEPEKÖY",
+    "id": 20615
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TOHMA",
+    "id": 20616
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "2.OSB",
+    "id": 20617
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÇARMUZU",
+    "id": 20618
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "HIROĞLU",
+    "id": 20619
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÖNCÜ",
+    "id": 20620
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YALINKAYA",
+    "id": 20621
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YENİ",
+    "id": 20622
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÜÇGÖZE",
+    "id": 20623
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "BENTBAŞI",
+    "id": 20624
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "HOCA AHMET YESEVİ",
+    "id": 20625
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "IŞIKLI",
+    "id": 20626
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KENDİRLİ",
+    "id": 20627
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "MAHMUTLU",
+    "id": 20628
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SALKONAK",
+    "id": 20629
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ATALAR",
+    "id": 20630
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "FATİH",
+    "id": 20631
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KAYNARCA",
+    "id": 20632
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ORTAKÖY",
+    "id": 20633
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 20634
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "MULLAKASIM",
+    "id": 20635
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SEYRAN",
+    "id": 20636
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "GAZİ",
+    "id": 20637
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "İNÖNÜ",
+    "id": 20638
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SAMANKÖY",
+    "id": 20639
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "BAHÇEBAŞI",
+    "id": 20640
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÇUKURDERE",
+    "id": 20641
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "HAMİDİYE",
+    "id": 20642
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YAKA",
+    "id": 20643
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "AŞAĞIKÖY",
+    "id": 20644
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÇİLESİZ",
+    "id": 20645
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ÖZAL",
+    "id": 20646
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "SAMANLI",
+    "id": 20647
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "TOPRAKTEPE",
+    "id": 20648
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ZAVİYE",
+    "id": 20649
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ATATÜRK",
+    "id": 20650
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YAVUZ SELİM",
+    "id": 20651
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "CUMHURİYET (YEŞİLYURT)",
+    "id": 20652
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KARAHAN",
+    "id": 20653
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KARAKAVAK",
+    "id": 20654
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "KOZLUK",
+    "id": 20655
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "ŞAHNAHAN",
+    "id": 20656
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "YEŞİLYURT",
+    "MAHALLE": "YEŞİLKAYNAK",
+    "id": 20657
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "AŞAĞISELİMLİ",
+    "id": 20658
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "ÇAYKÖY",
+    "id": 20659
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KAYNARCA",
+    "id": 20660
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "SOFULAR",
+    "id": 20661
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "TEMÜKLÜ",
+    "id": 20662
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "BIYIKBOĞAZI",
+    "id": 20663
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "SULTANLI",
+    "id": 20664
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KARABÜK",
+    "id": 20665
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20666
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "BOĞAZİÇİ",
+    "id": 20667
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "CİRİTBELEN",
+    "id": 20668
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "İLİSULUK",
+    "id": 20669
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "BİCİR",
+    "id": 20670
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KARLIK",
+    "id": 20671
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KIZILHİSAR",
+    "id": 20672
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KONAKTEPE",
+    "id": 20673
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KÖMÜKLÜ",
+    "id": 20674
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KIZILMAĞARA",
+    "id": 20675
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "ORTAPINAR",
+    "id": 20676
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KARINCALIK",
+    "id": 20677
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "BAŞÖREN",
+    "id": 20678
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "YENİ",
+    "id": 20679
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "GÖĞEBAKAN",
+    "id": 20680
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "İSTİKLAL",
+    "id": 20681
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "KARAÇAYIR",
+    "id": 20682
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "ÇÖRMÜ",
+    "id": 20683
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "ALVAR",
+    "id": 20684
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KULUNCAK",
+    "MAHALLE": "İSMETPAŞA",
+    "id": 20685
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ALIÇLI",
+    "id": 20686
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KILIÇLI",
+    "id": 20687
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ŞAĞILUŞAĞI",
+    "id": 20688
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YUKARIÇÖRENGE",
+    "id": 20689
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "AKTAŞ",
+    "id": 20690
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "AŞAĞIYENİCE",
+    "id": 20691
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "BERENGE",
+    "id": 20692
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "DÜZCE",
+    "id": 20693
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "CÖMERTLİ",
+    "id": 20694
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇİMEN",
+    "id": 20695
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SEKİZSU",
+    "id": 20696
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "TARHAN",
+    "id": 20697
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ZÖHRAP",
+    "id": 20698
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇAKIRSU",
+    "id": 20699
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "HOCAALİ",
+    "id": 20700
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SUCEYİN",
+    "id": 20701
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YAZILI",
+    "id": 20702
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YEŞİLYAYLA",
+    "id": 20703
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇOBANLI",
+    "id": 20704
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ESKİARAPGİR",
+    "id": 20705
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KAYAKESEN",
+    "id": 20706
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SELAMLI",
+    "id": 20707
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SERGE",
+    "id": 20708
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SİNİKLİ",
+    "id": 20709
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SİPAHİUŞAĞI",
+    "id": 20710
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ESİKLİ",
+    "id": 20711
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "GÖZELİ",
+    "id": 20712
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "BOĞAZLI",
+    "id": 20713
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "BUDAK",
+    "id": 20714
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "DEREGEZEN",
+    "id": 20715
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "EĞNİR",
+    "id": 20716
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "GEBELİ",
+    "id": 20717
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "GÖZ",
+    "id": 20718
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KONDUCAK",
+    "id": 20719
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KÖSEOĞLU",
+    "id": 20720
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "MEŞELİ",
+    "id": 20721
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "PİRALİ",
+    "id": 20722
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "TAŞDELEN",
+    "id": 20723
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YAYLACIK",
+    "id": 20724
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YUKARIYABANLI",
+    "id": 20725
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YUKARIYENİCE",
+    "id": 20726
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "HEZENEK",
+    "id": 20727
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KORU",
+    "id": 20728
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "TAŞDİBEK",
+    "id": 20729
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇARŞI",
+    "id": 20730
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "GÜNYÜZÜ",
+    "id": 20731
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "OSMANPAŞA",
+    "id": 20732
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ULAÇLI",
+    "id": 20733
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "AŞAĞIULUPINAR",
+    "id": 20734
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KAYNAK",
+    "id": 20735
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ONAR",
+    "id": 20736
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ŞIHLAR",
+    "id": 20737
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YENİ",
+    "id": 20738
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "KAZANÇ",
+    "id": 20739
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "YUKARIULUPINAR",
+    "id": 20740
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "AŞAĞIÇÖRENGE",
+    "id": 20741
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "BOSTANCIK",
+    "id": 20742
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇAYBAŞI",
+    "id": 20743
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "MEHMETAKİF",
+    "id": 20744
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "PACALI",
+    "id": 20745
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "SUGEÇTİ",
+    "id": 20746
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ÇİĞNİR",
+    "id": 20747
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARAPGİR",
+    "MAHALLE": "ORMANSIRTI",
+    "id": 20748
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ALİÇERİ",
+    "id": 20749
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DOĞANTEPE",
+    "id": 20750
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "FATİH",
+    "id": 20751
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BÜYÜKÇİMİŞ",
+    "id": 20752
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DEMİRCİLER",
+    "id": 20753
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "TAŞOLAR",
+    "id": 20754
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "EĞİN",
+    "id": 20755
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "GÜRKAYNAK",
+    "id": 20756
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "LEVENT",
+    "id": 20757
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "SAHİLKÖY",
+    "id": 20758
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "AKSARAY",
+    "id": 20759
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BÖLÜKLÜ",
+    "id": 20760
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DOĞU",
+    "id": 20761
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KELLER",
+    "id": 20762
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KOLKÖY",
+    "id": 20763
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "TATARUŞAĞI",
+    "id": 20764
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "YUKARIÖRÜKÇÜ",
+    "id": 20765
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BÜYÜKKÖY",
+    "id": 20766
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "SAKALIUZUN",
+    "id": 20767
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "YALINKAYA",
+    "id": 20768
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DEDEKÖY",
+    "id": 20769
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "MEZRA",
+    "id": 20770
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "AŞAĞIÖRÜKÇÜ",
+    "id": 20771
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DURULOVA",
+    "id": 20772
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DUTLU",
+    "id": 20773
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ILICAK",
+    "id": 20774
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KEPEZ",
+    "id": 20775
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KURTUŞAĞI",
+    "id": 20776
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ÖREN",
+    "id": 20777
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ŞEYHLER",
+    "id": 20778
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "HANÇERLİ",
+    "id": 20779
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KADIİBRAHİM",
+    "id": 20780
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KARAPINAR",
+    "id": 20781
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KAYADİBİ",
+    "id": 20782
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "YAĞMURLU",
+    "id": 20783
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "AYDINLAR",
+    "id": 20784
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BAĞKÖY",
+    "id": 20785
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BAYRAMUŞAĞI",
+    "id": 20786
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DEVELİ",
+    "id": 20787
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KÜÇÜKKÜRNE",
+    "id": 20788
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ALTUNLU",
+    "id": 20789
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BAŞPINAR",
+    "id": 20790
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BEKİRUŞAĞI",
+    "id": 20791
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DOĞANLAR",
+    "id": 20792
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DÜMÜKLÜ",
+    "id": 20793
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "GÜNEŞLİ",
+    "id": 20794
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ORTAKÖY",
+    "id": 20795
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "TAŞEVLER",
+    "id": 20796
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "AKSÜT",
+    "id": 20797
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "DARICA",
+    "id": 20798
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "İKİNCİLER",
+    "id": 20799
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KARAMAĞARA",
+    "id": 20800
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KEKLİKPINARI",
+    "id": 20801
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KÖMEKAVAK",
+    "id": 20802
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "MURATLI",
+    "id": 20803
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "SARIHACI",
+    "id": 20804
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ÇATALBAHÇE",
+    "id": 20805
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ÇOBANUŞAĞI",
+    "id": 20806
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "HARUNUŞAĞI",
+    "id": 20807
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KOTANGÖLÜ",
+    "id": 20808
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "RESULUŞAĞI",
+    "id": 20809
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "YAYLIMLI",
+    "id": 20810
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ESENLİ",
+    "id": 20811
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KOZLUCA",
+    "id": 20812
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ANCAR",
+    "id": 20813
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ÇAKILLIPINAR",
+    "id": 20814
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ÇEVİRME",
+    "id": 20815
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "HARTUT",
+    "id": 20816
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KAHYALI",
+    "id": 20817
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KASIMUŞAĞI",
+    "id": 20818
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "YALINBUDAK",
+    "id": 20819
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "AKTEPE",
+    "id": 20820
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "KÜLTÜR",
+    "id": 20821
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "BAHRİ",
+    "id": 20822
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "ESENBEY",
+    "id": 20823
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "GÖLPINAR",
+    "id": 20824
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "AKÇADAĞ",
+    "MAHALLE": "MİHMANLI",
+    "id": 20825
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "ABUŞOĞLU",
+    "id": 20826
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KARAAĞAÇ",
+    "id": 20827
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KOZLUK",
+    "id": 20828
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "MAHMUT DURSUN",
+    "id": 20829
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "SALKIMLI",
+    "id": 20830
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "BENTKÖY",
+    "id": 20831
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "SOĞUKPINAR",
+    "id": 20832
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "AKUŞAĞI",
+    "id": 20833
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "BAĞLICA",
+    "id": 20834
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "DARIPINAR",
+    "id": 20835
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "ÜÇDEĞİRMEN",
+    "id": 20836
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "AKÇA",
+    "id": 20837
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "GÜLENKÖY",
+    "id": 20838
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "YENİDAMLAR",
+    "id": 20839
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "İKİZPINAR",
+    "id": 20840
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "UZUNHÜSEYİN",
+    "id": 20841
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "ERDEMLİ",
+    "id": 20842
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KALEKÖY",
+    "id": 20843
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KUMLUYAZI",
+    "id": 20844
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "ÇANAKÇI",
+    "id": 20845
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "DÜZTARLA",
+    "id": 20846
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KIYICAK",
+    "id": 20847
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "UYANIK",
+    "id": 20848
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "KARAHÜSEYİN",
+    "id": 20849
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "SARIOT",
+    "id": 20850
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "TEPEBAŞI",
+    "id": 20851
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "DEDEKÖY",
+    "id": 20852
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "KALE",
+    "MAHALLE": "GÜNEYCE",
+    "id": 20853
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "BOZAN",
+    "id": 20854
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "EYMİR",
+    "id": 20855
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ÇAVUŞKÖY",
+    "id": 20856
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ERMİŞLİ",
+    "id": 20857
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "MORHAMAM",
+    "id": 20858
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KUYUDERE",
+    "id": 20859
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YONCALI",
+    "id": 20860
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YAMAÇ",
+    "id": 20861
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "AKÖREN",
+    "id": 20862
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ALHASUŞAĞI",
+    "id": 20863
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ÇAYIRLI",
+    "id": 20864
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "DOLAYLI",
+    "id": 20865
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÖÇERUŞAĞI",
+    "id": 20866
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÖKAĞAÇ",
+    "id": 20867
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "HAKVERDİ",
+    "id": 20868
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "PARÇİKAN",
+    "id": 20869
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ARMUTLU",
+    "id": 20870
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÜNGÖREN",
+    "id": 20871
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "NARMİKAN",
+    "id": 20872
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "TATKINIK",
+    "id": 20873
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YUKARISÜLMENLİ",
+    "id": 20874
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÜRGE",
+    "id": 20875
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ÇAKMAK",
+    "id": 20876
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YENİKÖY",
+    "id": 20877
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ÇEVRELİ",
+    "id": 20878
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "İÇMECE",
+    "id": 20879
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ŞOTİK",
+    "id": 20880
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ÇİFTLİK",
+    "id": 20881
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÜMÜŞLÜ",
+    "id": 20882
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "İSAKÖY",
+    "id": 20883
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ASAR",
+    "id": 20884
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "AŞAĞISÜLMENLİ",
+    "id": 20885
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "BAHÇELİ",
+    "id": 20886
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "ASMACA",
+    "id": 20887
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20888
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "GÜVEÇLİ",
+    "id": 20889
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KARAHÜYÜK",
+    "id": 20890
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KIZIK",
+    "id": 20891
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KONAKBAŞI",
+    "id": 20892
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YÜREKTAŞI",
+    "id": 20893
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KARABABA",
+    "id": 20894
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KIZILUŞAĞI",
+    "id": 20895
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "TARLACIK",
+    "id": 20896
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "TEPEBAĞ",
+    "id": 20897
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "YENİ",
+    "id": 20898
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "DOYDUM",
+    "id": 20899
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KOÇAK",
+    "id": 20900
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KÖMÜRLÜK",
+    "id": 20901
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "ARGUVAN",
+    "MAHALLE": "KURUTTAŞ",
+    "id": 20902
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ADAGÖREN",
+    "id": 20903
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BAHRİ",
+    "id": 20904
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BULGURLU",
+    "id": 20905
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ALHANUŞAĞI",
+    "id": 20906
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BORAN",
+    "id": 20907
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "İSKENDER",
+    "id": 20908
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARAKAŞÇİFTLİĞİKÖYÜ",
+    "id": 20909
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BATTALGAZİ",
+    "id": 20910
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "CİRİKPINAR",
+    "id": 20911
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "İSMETİYE",
+    "id": 20912
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARABAĞLAR",
+    "id": 20913
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "MEYDANBAŞI",
+    "id": 20914
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SARAY",
+    "id": 20915
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TOKLUCA",
+    "id": 20916
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TOPTAŞ",
+    "id": 20917
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SANCAKTAR",
+    "id": 20918
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YAMAÇ",
+    "id": 20919
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YENİHAMAM",
+    "id": 20920
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "PELİTLİ",
+    "id": 20921
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SARICIOĞLU",
+    "id": 20922
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TANIŞIK",
+    "id": 20923
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "DÜZYOL",
+    "id": 20924
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "FIRINCI",
+    "id": 20925
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BULUTLU",
+    "id": 20926
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "FIRAT",
+    "id": 20927
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BAĞTEPE",
+    "id": 20928
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BEYDAĞI",
+    "id": 20929
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "CEVHERİZADE",
+    "id": 20930
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "AKPINAR",
+    "id": 20931
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ALACAKAPI",
+    "id": 20932
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ALİŞAR",
+    "id": 20933
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÇAMURLU",
+    "id": 20934
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "GÖZTEPE",
+    "id": 20935
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "GÜLÜMUŞAĞI",
+    "id": 20936
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KERNEK",
+    "id": 20937
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YAYGIN",
+    "id": 20938
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HATUNSUYU",
+    "id": 20939
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "B.MUSTAFA PAŞA",
+    "id": 20940
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HACI ABDİ",
+    "id": 20941
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HALFETTİN",
+    "id": 20942
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KAMIŞTAŞ",
+    "id": 20943
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARAHAN",
+    "id": 20944
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SERİNTEPE",
+    "id": 20945
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "DOLAMANTEPE",
+    "id": 20946
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "FERHADİYE",
+    "id": 20947
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "K.HÜSEYİNBEY",
+    "id": 20948
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ŞİFA",
+    "id": 20949
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ŞİŞMAN",
+    "id": 20950
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ZAFER",
+    "id": 20951
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BEYLERBAŞI",
+    "id": 20952
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÇOLAKLI",
+    "id": 20953
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HACIYUSUFLAR",
+    "id": 20954
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HASAN VAROL",
+    "id": 20955
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "MERDİVENLER",
+    "id": 20956
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARATEPE",
+    "id": 20957
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARAKÖY",
+    "id": 20958
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HİSARTEPE",
+    "id": 20959
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "NURİYE",
+    "id": 20960
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TAŞTEPE",
+    "id": 20961
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ULUKÖY",
+    "id": 20962
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YENİKÖY",
+    "id": 20963
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "MEYDANCIK",
+    "id": 20964
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SEVİLDAĞ",
+    "id": 20965
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "İZZETİYE",
+    "id": 20966
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KAVAKLIBAĞ",
+    "id": 20967
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KEMERKÖPRÜ",
+    "id": 20968
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ORDUZU",
+    "id": 20969
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "PAŞAKÖŞKÜ",
+    "id": 20970
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÜNİVERSİTE",
+    "id": 20971
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YARIMCAHAN",
+    "id": 20972
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 20973
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÇOLAKOĞLU",
+    "id": 20974
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "BAŞHARIK",
+    "id": 20975
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÇÖŞNÜK",
+    "id": 20976
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "AĞILYAZI",
+    "id": 20977
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ASLANBEY",
+    "id": 20978
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "DABAKHANE",
+    "id": 20979
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HANIMINÇİFTLİĞİ",
+    "id": 20980
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ATAKÖY",
+    "id": 20981
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "B.HÜSEYİNBEY",
+    "id": 20982
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "GÖLLER",
+    "id": 20983
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HACIHALİLOĞLUÇİFTLİĞİ",
+    "id": 20984
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HAMİDİYE",
+    "id": 20985
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "İSTİKLAL",
+    "id": 20986
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KARAGÖZ",
+    "id": 20987
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KULUŞAĞI",
+    "id": 20988
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TOYGAR",
+    "id": 20989
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YENİCE",
+    "id": 20990
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "YILDIZTEPE",
+    "id": 20991
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KIRÇUVAL",
+    "id": 20992
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÜZÜMLÜ",
+    "id": 20993
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HİDAYET",
+    "id": 20994
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "K.MUSTAFA PAŞA",
+    "id": 20995
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KAPIKAYA",
+    "id": 20996
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "MERKEZ BEYDAĞI",
+    "id": 20997
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ŞEHİTFEVZİ",
+    "id": 20998
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ŞIKŞIK",
+    "id": 20999
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "TANDOĞAN",
+    "id": 21000
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "HASIRCILAR",
+    "id": 21001
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "KADIÇAYIRI",
+    "id": 21002
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "NİYAZİ",
+    "id": 21003
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "SELÇUKLU",
+    "id": 21004
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "BATTALGAZİ",
+    "MAHALLE": "ÜÇBAĞLAR",
+    "id": 21005
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BAHÇELİEVLER",
+    "id": 21006
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BAŞKAVAK",
+    "id": 21007
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BOĞAZGÖREN",
+    "id": 21008
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DELİHASANYURDU",
+    "id": 21009
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "GÜZELYAYLA",
+    "id": 21010
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "AKMAĞARA",
+    "id": 21011
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "AKSÜTLÜ",
+    "id": 21012
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BAHÇEDAMI",
+    "id": 21013
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BAŞKINIK",
+    "id": 21014
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DEREKÖY",
+    "id": 21015
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DEVECİ",
+    "id": 21016
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DUMLU",
+    "id": 21017
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BEYKENT",
+    "id": 21018
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "FATİH",
+    "id": 21019
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "IŞIKLI",
+    "id": 21020
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BALLIKAYA",
+    "id": 21021
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "ÇANAKPINAR",
+    "id": 21022
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DİKENLİ",
+    "id": 21023
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "İĞDİR",
+    "id": 21024
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BAĞYOLU",
+    "id": 21025
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "GİRMANA",
+    "id": 21026
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "HASANÇELEBİ",
+    "id": 21027
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DURSUNLU",
+    "id": 21028
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "GÜVENÇ",
+    "id": 21029
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "GÜZELYURT",
+    "id": 21030
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "HAYDAROĞLU",
+    "id": 21031
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KARADERE",
+    "id": 21032
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KARAKÖÇEK",
+    "id": 21033
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "ÇİMENLİK",
+    "id": 21034
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DİKİLİ",
+    "id": 21035
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "GÜÇLÜ",
+    "id": 21036
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KARAPINAR",
+    "id": 21037
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "SÖĞÜT",
+    "id": 21038
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "UĞURLU",
+    "id": 21039
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "AŞAĞISAZLICA",
+    "id": 21040
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "ÇULHALI",
+    "id": 21041
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "HACILAR",
+    "id": 21042
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BASAK",
+    "id": 21043
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "DAVULGU",
+    "id": 21044
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KARSLILAR",
+    "id": 21045
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KURŞUNLU",
+    "id": 21046
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "BUDAKLI",
+    "id": 21047
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KOZDERE",
+    "id": 21048
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YEŞİLKÖY",
+    "id": 21049
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "SARAYLI",
+    "id": 21050
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YUKARISELİMLİ",
+    "id": 21051
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 21052
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "MİMAR SİNAN",
+    "id": 21053
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "ŞEHİT MEHMET FETHİ AKYÜZ",
+    "id": 21054
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "MOLLAİBRAHİM",
+    "id": 21055
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "TAŞBAŞI",
+    "id": 21056
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "SAZLICA",
+    "id": 21057
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YENİ",
+    "id": 21058
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YAYLADAM",
+    "id": 21059
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KÖPRÜLÜ MEHMET PAŞA",
+    "id": 21060
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KÖYLÜKÖYÜ",
+    "id": 21061
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "SALICIK",
+    "id": 21062
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YEŞİLPINAR",
+    "id": 21063
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YAĞCA",
+    "id": 21064
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "TAŞOLUK",
+    "id": 21065
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KAVACIK",
+    "id": 21066
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "SARIKIZ",
+    "id": 21067
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "YEŞİLKALE",
+    "id": 21068
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "KOCAÖZÜ",
+    "id": 21069
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "HEKİMHAN",
+    "MAHALLE": "TURGUT ÖZAL",
+    "id": 21070
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "GÜNEDOĞRU",
+    "id": 21071
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KADILI",
+    "id": 21072
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ŞATIROBA",
+    "id": 21073
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "YUVALI",
+    "id": 21074
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ESKİKÖY",
+    "id": 21075
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "TOPRAKTEPE",
+    "id": 21076
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "YENİ",
+    "id": 21077
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KELHALİL",
+    "id": 21078
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ÖRENCİK",
+    "id": 21079
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "SÖĞÜT",
+    "id": 21080
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ELMALI",
+    "id": 21081
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KARANLIKDERE",
+    "id": 21082
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KURUCAOVA",
+    "id": 21083
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "SÜRGÜ",
+    "id": 21084
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ÇÖMLEKOBA",
+    "id": 21085
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ERKENEK",
+    "id": 21086
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KARATERZİ",
+    "id": 21087
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "FINDIK",
+    "id": 21088
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "GÜROBASI",
+    "id": 21089
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KÜÇÜKLÜ",
+    "id": 21090
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "YOLKORU",
+    "id": 21091
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "GÜZELKÖY",
+    "id": 21092
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ALTINTOP",
+    "id": 21093
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "BEĞRE",
+    "id": 21094
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ÇAVUŞLU",
+    "id": 21095
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ÇIĞLIK",
+    "id": 21096
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "ESENTEPE",
+    "id": 21097
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "GÖVDELİ",
+    "id": 21098
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "HUDUT",
+    "id": 21099
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "POLAT",
+    "id": 21100
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KARŞIYAKA",
+    "id": 21101
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "BIÇAKÇI",
+    "id": 21102
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "DEDEYAZI",
+    "id": 21103
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "SAVAKLI",
+    "id": 21104
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "DOĞU",
+    "id": 21105
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "POLATDERE",
+    "id": 21106
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "REŞADİYE",
+    "id": 21107
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "SUÇATI",
+    "id": 21108
+  },
+  {
+    "İL": "MALATYA",
+    "İLÇE": "DOĞANŞEHİR",
+    "MAHALLE": "KAPIDERE",
+    "id": 21109
+  }
+]
