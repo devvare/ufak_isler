@@ -8,7 +8,7 @@ const personelData = [
         telefon: "5458646613",
         hizmetTipi: ["gunluk", "onarim"],
         bolgeler: ["1", "2", "3"], // Armutalan, Beldibi, Siteler
-        aktif: true,
+        aktif: false,
         yas: 32,
         beceriler: ["elektrik", "tesisat", "boyama"]
     },
@@ -19,7 +19,7 @@ const personelData = [
         telefon: "5458888888",
         hizmetTipi: ["onarim"],
         bolgeler: ["1"], // Armutalan
-        aktif: true,
+        aktif: false,
         yas: 28,
         beceriler: ["marangozluk", "boyama"]
     },
@@ -30,7 +30,7 @@ const personelData = [
         telefon: "5458646613",
         hizmetTipi: ["gunluk"],
         bolgeler: ["1"], // Armutalan
-        aktif: true,
+        aktif: false,
         deneyim: "3 yıl",
         beceriler: ["temizlik", "yemek", "bakım"]
     },
@@ -41,7 +41,7 @@ const personelData = [
         telefon: "5458646613",
         hizmetTipi: ["onarim", "gunluk"],
         bolgeler: ["1", "2"], // İçmeler, Turunç
-        aktif: true,
+        aktif: false,
         deneyim: "5 yıl",
         beceriler: ["elektrik", "tesisat", "boyama"]
     },
@@ -52,7 +52,7 @@ const personelData = [
         telefon: "5053893604",
         hizmetTipi: ["gunluk"],
         bolgeler: ["48006", "48007"], // Merkez, Hisarönü
-        aktif: true,
+        aktif: false,
         deneyim: "3 yıl",
         beceriler: ["temizlik", "yemek", "bakım"]
     },
@@ -63,7 +63,7 @@ const personelData = [
         telefon: "5458646613",
         hizmetTipi: ["onarim"],
         bolgeler: ["48008"], // Orhaniye
-        aktif: true,
+        aktif: false,
         deneyim: "6 yıl",
         beceriler: ["marangozluk", "boyama"]
     },
@@ -76,7 +76,7 @@ const personelData = [
         telefon: "5321234567",
         hizmetTipi: ["onarim", "gunluk"],
         bolgeler: ["34710", "34711", "34712"], // Kadıköy merkez mahalleleri
-        aktif: true,
+        aktif: false,
         deneyim: "7 yıl",
         beceriler: ["elektrik", "tesisat", "klima"]
     },
@@ -87,7 +87,7 @@ const personelData = [
         telefon: "5439876543",
         hizmetTipi: ["gunluk"],
         bolgeler: ["34713", "34714"], // Kadıköy
-        aktif: true,
+        aktif: false,
         deneyim: "4 yıl",
         beceriler: ["temizlik", "organizasyon"]
     },
@@ -100,7 +100,7 @@ const personelData = [
         telefon: "5551234567",
         hizmetTipi: ["onarim"],
         bolgeler: ["06550", "06551"], // Çankaya
-        aktif: true,
+        aktif: false,
         deneyim: "10 yıl",
         beceriler: ["elektrik", "elektronik", "tesisat"]
     },
@@ -113,7 +113,7 @@ const personelData = [
         telefon: "5327654321",
         hizmetTipi: ["gunluk", "onarim"],
         bolgeler: ["35220", "35221"], // Konak
-        aktif: true,
+        aktif: false,
         deneyim: "6 yıl",
         beceriler: ["temizlik", "elektrik"]
     },
@@ -126,7 +126,7 @@ const personelData = [
         telefon: "5421234567",
         hizmetTipi: ["onarim"],
         bolgeler: ["07070", "07071"], // Muratpaşa
-        aktif: true,
+        aktif: false,
         deneyim: "8 yıl",
         beceriler: ["boyama", "marangozluk", "tesisat"]
     },
@@ -139,7 +139,7 @@ const personelData = [
         telefon: "5341234567",
         hizmetTipi: ["gunluk"],
         bolgeler: ["16110", "16111"], // Nilüfer
-        aktif: true,
+        aktif: false,
         deneyim: "3 yıl",
         beceriler: ["temizlik", "çocuk bakımı"]
     }
