@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/hizmet/onarim-tadilat/([^/]+)/([^/]+)/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=onarim&il=$1&ilce=$2&mahalle=$3"
+    },
+    {
+      "src": "/hizmet/gunluk-yardim/([^/]+)/([^/]+)/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=gunluk&il=$1&ilce=$2&mahalle=$3"
+    },
+    {
+      "src": "/hizmet/onarim-tadilat/([^/]+)/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=onarim&il=$1&ilce=$2"
+    },
+    {
+      "src": "/hizmet/gunluk-yardim/([^/]+)/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=gunluk&il=$1&ilce=$2"
+    },
+    {
+      "src": "/hizmet/onarim-tadilat/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=onarim&il=$1"
+    },
+    {
+      "src": "/hizmet/gunluk-yardim/([^/]+)/?",
+      "dest": "/hizmet-bolgesi.html?tip=gunluk&il=$1"
+    },
+    {
+      "src": "/hizmet/onarim-tadilat/?",
+      "dest": "/hizmet-bolgesi.html?tip=onarim"
+    },
+    {
+      "src": "/hizmet/gunluk-yardim/?",
+      "dest": "/hizmet-bolgesi.html?tip=gunluk"
+    }
+  ]
+}

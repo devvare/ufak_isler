@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sayfa Bulunamadı - Ufak İşler</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/additional_styles.css">
+    <link rel="stylesheet" href="/css/mobile-fixes.css">
+    <link rel="stylesheet" href="/css/header-fix.css">
+    <link rel="stylesheet" href="/css/dropdown-fix.css">
+    <link rel="stylesheet" href="/css/mobile-menu-fix.css">
+    <link rel="stylesheet" href="/css/hero-fix.css">
+    <link rel="stylesheet" href="/css/floating-button-fix.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+    <script src="/url-handler.js"></script>
+    <style>
+        .error-container {
+            text-align: center;
+            padding: 100px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .error-container h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            color: #0056b3;
+        }
+        .error-container p {
+            font-size: 18px;
+            margin-bottom: 30px;
+            color: #555;
+        }
+        .loading {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(0,86,179,.3);
+            border-radius: 50%;
+            border-top-color: #0056b3;
+            animation: spin 1s ease-in-out infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Bölümü -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="/index.html">
+                    <img src="/img/logo_light.png" alt="Ufak İşler Logo">
+                    <span class="logo-text">Ufak İşler</span>
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="/index.html">Ana Sayfa</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Hizmetlerimiz</a>
+                        <div class="dropdown-content">
+                            <a href="/onarim-tadilat.html">Onarım ve Tadilat</a>
+                            <a href="/gunluk-yardim.html">Günlük Yardım</a>
+                        </div>
+                    </li>
+                    <li><a href="/nasil-calisir.html">Nasıl Çalışır?</a></li>
+                    <li><a href="/diy.html">Kendin Yap</a></li>
+                    <li><a href="/hakkimizda.html">Hakkımızda</a></li>
+                    <li><a href="/iletisim.html">İletişim</a></li>
+                </ul>
+                <div class="mobile-menu-btn">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Ana İçerik -->
+    <main>
+        <div class="error-container">
+            <h1>Yönlendiriliyor...</h1>
+            <div class="loading"></div>
+            <p>Doğru sayfaya yönlendiriliyorsunuz. Lütfen bekleyin...</p>
+            <p id="redirect-message">Otomatik yönlendirme gerçekleşmezse, <a href="/index.html">ana sayfaya dönün</a>.</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="/img/logo_dark.png" alt="Ufak İşler Logo">
+                    <span class="logo-text">Ufak İşler</span>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h3>Hizmetlerimiz</h3>
+                        <ul>
+                            <li><a href="/onarim-tadilat.html">Onarım ve Tadilat</a></li>
+                            <li><a href="/gunluk-yardim.html">Günlük Yardım</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h3>Hakkımızda</h3>
+                        <ul>
+                            <li><a href="/hakkimizda.html">Biz Kimiz</a></li>
+                            <li><a href="/nasil-calisir.html">Nasıl Çalışır?</a></li>
+                            <li><a href="/bizimle-calisin.html">Bizimle Çalışın</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h3>İletişim</h3>
+                        <ul>
+                            <li><a href="/iletisim.html">İletişim Formu</a></li>
+                            <li><a href="tel:+905001234567">0500 123 45 67</a></li>
+                            <li><a href="mailto:info@ufakisler.com">info@ufakisler.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 Ufak İşler. Tüm hakları saklıdır.</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // 5 saniye sonra ana sayfaya yönlendir (eğer url-handler.js çalışmazsa)
+        setTimeout(function() {
+            document.getElementById('redirect-message').innerHTML = 'Yönlendirme başarısız oldu. <a href="/index.html">Ana sayfaya dönmek için tıklayın</a>.';
+        }, 5000);
+    </script>
+</body>
+</html>

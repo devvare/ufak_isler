@@ -1,0 +1,17 @@
+# Netlify yönlendirme kuralları
+# SEO dostu URL'leri hizmet-bolgesi.html sayfasına yönlendirir
+
+# Onarım ve tadilat hizmetleri için yönlendirmeler
+/hizmet/onarim-tadilat/:il/:ilce/:mahalle    /hizmet-bolgesi.html?tip=onarim&il=:il&ilce=:ilce&mahalle=:mahalle    200
+/hizmet/onarim-tadilat/:il/:ilce             /hizmet-bolgesi.html?tip=onarim&il=:il&ilce=:ilce                    200
+/hizmet/onarim-tadilat/:il                   /hizmet-bolgesi.html?tip=onarim&il=:il                               200
+/hizmet/onarim-tadilat                       /hizmet-bolgesi.html?tip=onarim                                      200
+
+# Günlük yardım hizmetleri için yönlendirmeler
+/hizmet/gunluk-yardim/:il/:ilce/:mahalle     /hizmet-bolgesi.html?tip=gunluk&il=:il&ilce=:ilce&mahalle=:mahalle   200
+/hizmet/gunluk-yardim/:il/:ilce              /hizmet-bolgesi.html?tip=gunluk&il=:il&ilce=:ilce                   200
+/hizmet/gunluk-yardim/:il                    /hizmet-bolgesi.html?tip=gunluk&il=:il                              200
+/hizmet/gunluk-yardim                        /hizmet-bolgesi.html?tip=gunluk                                     200
+
+# Genel hizmet yönlendirmesi
+/hizmet/*                                    /hizmet-bolgesi.html                                                200

@@ -27,32 +27,134 @@ class LocationSelector {
         try {
             // İl listesini yükle
             const ilResponse = await fetch('data/il-listesi.json');
+            if (!ilResponse.ok) {
+                throw new Error(`HTTP error! status: ${ilResponse.status}`);
+            }
             this.locationData.iller = await ilResponse.json();
 
             console.log('İl verileri yüklendi:', {
                 ilSayisi: this.locationData.iller.length
             });
+            
+            // Eğer Muğla'yı özellikle vurgulamak istiyorsak
+            if (this.locationData.iller.length > 0) {
+                // Muğla'yı bul
+                const muglaIndex = this.locationData.iller.findIndex(il => 
+                    il.slug.toLowerCase() === 'mugla' || il.ad.toLowerCase() === 'muğla');
+                
+                // Eğer Muğla varsa, onu listenin başına taşı
+                if (muglaIndex > -1) {
+                    const mugla = this.locationData.iller.splice(muglaIndex, 1)[0];
+                    this.locationData.iller.unshift(mugla);
+                }
+            }
         } catch (error) {
             console.error('İl verileri yüklenirken hata:', error);
             // Varsayılan verilerle devam et
             this.locationData.iller = [
-                { ad: 'Muğla', slug: 'mugla', mahalleCount: 10 }
+                { ad: 'MUĞLA', slug: 'mugla', mahalleCount: 10 }
             ];
+            
+            // Yerel geliştirme ortamında test için daha fazla il ekle
+            if (window.location.protocol === 'file:' || window.location.hostname === 'localhost') {
+                this.locationData.iller.push(
+                    { ad: 'İSTANBUL', slug: 'istanbul', mahalleCount: 100 },
+                    { ad: 'ANKARA', slug: 'ankara', mahalleCount: 50 },
+                    { ad: 'İZMİR', slug: 'izmir', mahalleCount: 30 }
+                );
+            }
         }
     }
 
+    // URL-encoded Türkçe karakterleri düzeltme fonksiyonu
+    fixUrlEncodedTurkishChars(text) {
+        if (!text) return '';
+        
+        // URL-encoded Türkçe karakterleri düzelt
+        return text
+            .replace(/%C3%BC/g, 'ü') // ü
+            .replace(/%C3%BC/g, 'ü') // ü
+            .replace(/%C3%9C/g, 'Ü') // Ü
+            .replace(/%C4%9F/g, 'ğ') // ğ
+            .replace(/%C4%9E/g, 'Ğ') // Ğ
+            .replace(/%C3%B6/g, 'ö') // ö
+            .replace(/%C3%96/g, 'Ö') // Ö
+            .replace(/%C3%A7/g, 'ç') // ç
+            .replace(/%C3%87/g, 'Ç') // Ç
+            .replace(/%C4%B1/g, 'ı') // ı
+            .replace(/%C4%B0/g, 'İ') // İ
+            .replace(/%C5%9F/g, 'ş') // ş
+            .replace(/%C5%9E/g, 'Ş') // Ş
+            .replace(/%20/g, ' ');      // boşluk
+    }
+    
     async loadMahalleData() {
         if (this.locationData.mahalleler.length === 0) {
             try {
                 console.log('Mahalle verileri yükleniyor...');
                 const mahalleResponse = await fetch('data/mahalle.json');
-                this.locationData.mahalleler = await mahalleResponse.json();
+                
+                if (!mahalleResponse.ok) {
+                    throw new Error(`HTTP error! status: ${mahalleResponse.status}`);
+                }
+                
+                let mahalleler = await mahalleResponse.json();
+                
+                // Türkçe karakter düzeltmesi yap
+                mahalleler = mahalleler.map(mahalle => {
+                    return {
+                        ...mahalle,
+                        İL: this.fixUrlEncodedTurkishChars(mahalle.İL),
+                        İLÇE: this.fixUrlEncodedTurkishChars(mahalle.İLÇE),
+                        MAHALLE: this.fixUrlEncodedTurkishChars(mahalle.MAHALLE)
+                    };
+                });
+                
+                this.locationData.mahalleler = mahalleler;
                 console.log('Mahalle verileri yüklendi:', {
                     mahalleSayisi: this.locationData.mahalleler.length
                 });
             } catch (error) {
                 console.error('Mahalle verileri yüklenirken hata:', error);
-                this.locationData.mahalleler = [];
+                
+                // Yerel geliştirme ortamında test için daha küçük bir veri seti kullan
+                if (window.location.protocol === 'file:' || window.location.hostname === 'localhost') {
+                    try {
+                        // Daha küçük test veri setini yüklemeyi dene
+                        const testResponse = await fetch('data/marmaris-mahalleler.json');
+                        if (testResponse.ok) {
+                            let mahalleler = await testResponse.json();
+                            
+                            // Türkçe karakter düzeltmesi yap
+                            mahalleler = mahalleler.map(mahalle => {
+                                return {
+                                    ...mahalle,
+                                    İL: this.fixUrlEncodedTurkishChars(mahalle.İL),
+                                    İLÇE: this.fixUrlEncodedTurkishChars(mahalle.İLÇE),
+                                    MAHALLE: this.fixUrlEncodedTurkishChars(mahalle.MAHALLE)
+                                };
+                            });
+                            
+                            this.locationData.mahalleler = mahalleler;
+                            console.log('Test mahalle verileri yüklendi');
+                        } else {
+                            throw new Error('Test veri seti de yüklenemedi');
+                        }
+                    } catch (testError) {
+                        console.error('Test mahalle verileri yüklenirken hata:', testError);
+                        // Varsayılan test verileri
+                        this.locationData.mahalleler = [
+                            { id: '48001', İL: 'MUĞLA', İLÇE: 'MARMARİS', MAHALLE: 'ARMUTALAN' },
+                            { id: '48002', İL: 'MUĞLA', İLÇE: 'MARMARİS', MAHALLE: 'SİTELER' },
+                            { id: '48003', İL: 'MUĞLA', İLÇE: 'MARMARİS', MAHALLE: 'TEPE' },
+                            { id: '48004', İL: 'MUĞLA', İLÇE: 'MARMARİS', MAHALLE: 'MERKEZ' },
+                            { id: '48005', İL: 'MUĞLA', İLÇE: 'BODRUM', MAHALLE: 'MERKEZ' },
+                            { id: '48006', İL: 'MUĞLA', İLÇE: 'BODRUM', MAHALLE: 'GÜMBET' }
+                        ];
+                    }
+                } else {
+                    this.locationData.mahalleler = [];
+                }
             }
         }
         return this.locationData.mahalleler;

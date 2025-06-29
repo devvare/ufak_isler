@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yönlendiriliyor - Ufak İşler</title>
+    <script>
+        // Yönlendirme fonksiyonu
+        function redirectToService() {
+            // URL'den konum bilgilerini al
+            const path = window.location.pathname;
+            const pathParts = path.split('/').filter(part => part);
+            
+            // Parametreleri oluştur
+            const params = new URLSearchParams();
+            params.set('tip', 'onarim');
+            
+            // İl, ilçe ve mahalle bilgilerini URL'den çıkar
+            if (pathParts.length >= 3) {
+                params.set('il', decodeURIComponent(pathParts[2]));
+            }
+            
+            if (pathParts.length >= 4) {
+                params.set('ilce', decodeURIComponent(pathParts[3]));
+            }
+            
+            if (pathParts.length >= 5) {
+                params.set('mahalle', decodeURIComponent(pathParts[4]));
+            }
+            
+            // URL'deki diğer parametreleri de ekle
+            const urlParams = new URLSearchParams(window.location.search);
+            for (const [key, value] of urlParams.entries()) {
+                params.set(key, value);
+            }
+            
+            // Yönlendir
+            window.location.href = '/hizmet-bolgesi.html?' + params.toString();
+        }
+        
+        // Sayfa yüklendiğinde yönlendirme yap
+        window.onload = redirectToService;
+    </script>
+</head>
+<body>
+    <p>Yönlendiriliyor...</p>
+</body>
+</html>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ufak İşler - Hizmet Bölgesi</title>
+    <title>Ufak İşler - Günlük Yardım Hizmetleri</title>
     <script>
         // Türkçe karakterleri düzeltme fonksiyonu
         function fixUrlEncodedTurkishChars(text) {
@@ -29,24 +29,13 @@
             const path = window.location.pathname;
             const urlParams = new URLSearchParams(window.location.search);
             
-            // URL formatı: /hizmet/[hizmet-tipi]/[il]/[ilce]/[mahalle]/[personel-durumu]/
+            // URL formatı: /hizmet/gunluk-yardim/[il]/[ilce]/[mahalle]/[personel-durumu]/
             const pathParts = path.split('/').filter(part => part);
             
             if (pathParts.length >= 2) {
-                // Yeni URL formatı: /hizmet/[hizmet-tipi]/[il]/[ilce]/[mahalle]/
-                let redirectUrl = '/hizmet-bolgesi.html?';
+                // Yeni URL formatı
+                let redirectUrl = '/hizmet-bolgesi.html?tip=gunluk&';
                 let params = [];
-                
-                // Hizmet tipi
-                let serviceType = 'gunluk';
-                if (pathParts.length >= 2 && pathParts[1]) {
-                    if (pathParts[1] === 'onarim-tadilat') {
-                        serviceType = 'onarim';
-                    } else if (pathParts[1] === 'gunluk-yardim') {
-                        serviceType = 'gunluk';
-                    }
-                    params.push(`tip=${serviceType}`);
-                }
                 
                 // İl
                 if (pathParts.length >= 3 && pathParts[2]) {

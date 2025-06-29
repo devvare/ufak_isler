@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artvin Yusufeli Ahalt Mahallesi Onarım ve Tadilat Hizmetleri - Ufak İşler</title>
+    <meta name="description" content="Artvin Yusufeli Ahalt mahallesi onarım ve tadilat hizmetleri. Elektrik, su tesisatı, mobilya, boya ve daha fazlası.">
+    <script>
+        // Yönlendirme fonksiyonu
+        function redirectToService() {
+            // Parametreleri oluştur
+            const params = new URLSearchParams();
+            params.set('tip', 'onarim');
+            params.set('il', 'artvin');
+            params.set('ilce', 'yusufeli');
+            params.set('mahalle', 'ahalt');
+            
+            // URL'deki diğer parametreleri de ekle
+            const urlParams = new URLSearchParams(window.location.search);
+            for (const [key, value] of urlParams.entries()) {
+                params.set(key, value);
+            }
+            
+            // Yönlendir
+            window.location.href = '/hizmet-bolgesi.html?' + params.toString();
+        }
+        
+        // Sayfa yüklendiğinde yönlendirme yap
+        window.onload = redirectToService;
+    </script>
+</head>
+<body>
+    <p>Artvin Yusufeli Ahalt mahallesi onarım ve tadilat hizmetlerine yönlendiriliyorsunuz...</p>
+</body>
+</html>

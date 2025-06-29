@@ -1,0 +1,55 @@
+/* Hemen Başvur Butonu İyileştirmeleri */
+.category-card .btn.btn-primary.service-select-btn {
+    margin-top: 20px; /* Detaylı Bilgi butonundan daha fazla aralık */
+    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%); /* WhatsApp yeşili renk geçişi */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 30px; /* Daha yuvarlak butonlar */
+    font-weight: 600;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.3);
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-card .btn.btn-primary.service-select-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(37, 211, 102, 0.5);
+    background: linear-gradient(135deg, #1da851 0%, #0e7a6d 100%);
+}
+
+.category-card .btn.btn-primary.service-select-btn i {
+    margin-right: 8px;
+    font-size: 1.1em;
+}
+
+/* Fiyatlandırma Bilgisi Bölümü için Başvuru Butonu */
+.pricing-info .apply-now-btn {
+    display: block;
+    width: fit-content;
+    margin: 30px auto 0;
+    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+    color: white;
+    padding: 14px 28px;
+    border-radius: 30px;
+    font-weight: 600;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.3);
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+}
+
+.pricing-info .apply-now-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(37, 211, 102, 0.5);
+    background: linear-gradient(135deg, #1da851 0%, #0e7a6d 100%);
+}
+
+.pricing-info .apply-now-btn i {
+    margin-right: 10px;
+}
